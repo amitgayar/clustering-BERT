@@ -58,11 +58,19 @@ tfidf_wordSet = [dict.fromkeys(wordSet, 0)]*len(doc)
 # for i in range(len(doc)):
 # 	tfidf_wordSet[i].update(**tfidf[i])
 
+
+
 # for i in range(len(doc)):
 # 	temp = tfidf[i]
 # 	tfidf_wordSet[i].update(**temp)
 # ------------------------------
 # the solution is below :  (look for ?)
+# 
+# for i in range(len(doc)):
+# 	temp = tfidf[i]
+# 	tfidf_wordSet[i] = dict(tfidf_wordSet[i],**temp)
+
+
 
 
 i=0 

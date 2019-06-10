@@ -9,27 +9,35 @@ news_text_file = [join(mypath, f) for f in listdir(mypath) if isfile(join(mypath
 
 # ---remove punctuations; code from : https://towardsdatascience.com/working-with-text-data-from-quality-to-quantity-1e9d8aa773dd
 
-ps = PorterStemmer()
-def str_clean(text):
-    punct = '():[]?.,|_^-&><;!"/%'  
-    table = str.maketrans(punct, ' '*len(punct), "0123456789$#'=")
-    cleaned_comment = []
-    # re.findall(r"[\w']+", text)
-    for word in text.split():
-        cleaned_comment.extend(word.translate(table).split())
-        cleaned_comment = [x.lower() for x in cleaned_comment]
-        cleaned_comment = [ps.stem(word) for word in cleaned_comment]
-    return cleaned_comment                                                                                                                                                                       
+# ps = PorterStemmer()
+# def str_clean(text):
+#     punct = '():[]?.,|_^-&><;!"/%'  
+#     table = str.maketrans(punct, ' '*len(punct), "0123456789$#'=")
+#     cleaned_comment = []
+#     # re.findall(r"[\w']+", text)
+#     for word in text.split():
+#         cleaned_comment.extend(word.translate(table).split())
+#         cleaned_comment = [x.lower() for x in cleaned_comment]
+#         cleaned_comment = [ps.stem(word) for word in cleaned_comment]
+#     return cleaned_comment                                                                                                                                                                       
 
 # ------spacy cleaning
 
 import spacy #load spacy
-nlp = spacy.load("en", disable=['parser', 'tagger', 'ner'])
+# nlp = spacy.load("en", disable=['parser', 'tagger', 'ner'])
 from spacy.lang.en.stop_words import STOP_WORDS as stopwords
 # stopwords = STOP_WORDS
 # stops = stopwords.words("english")
 stops = sorted(stopwords)
 
+import spacy
+
+nlp = spacy.load('en_core_web_sm')
+# doc = nlp(u'Apple is looking at buying U.K. startup for $1 billion')
+
+# for token in doc:
+#     print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
+#             token.shape_, token.is_alpha, token.is_stop)
 
 
 
@@ -56,13 +64,13 @@ bow = []
 for f in news_text_file:
     
     text_article = pickle.load(open(f, 'rb')) 
-    text_article['content'] = " ".join(str_clean(text_article['content']))
+    # text_article['content'] = " ".join(str_clean(text_article['content']))
     text_article['Text_After_Clean'] = normalize(text_article['content'], lowercase=True, remove_stopwords=True)
     bow.append(text_article['Text_After_Clean'])
     # print (type(text_article['Text_After_Clean']))
     print ('article no : ',news_text_file.index(f), sorted(text_article['Text_After_Clean']),'\n')
     # bow.append(str_clean(text_article['content'])) 
-print ('\n','type of variable : ',type(bow))
+
 store_file = {}
 wordSet = sorted(set().union(*bow))
 print (wordSet,'\n',len(wordSet))
