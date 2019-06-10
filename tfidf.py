@@ -1,6 +1,5 @@
 import pickle 
 
-# processed_doc = pickle.load(open('load_words_all_docs_spacy.pkl','rb'))
 processed_doc = pickle.load(open('load_words_all_docs_spacy.pkl','rb'))
 wordSet = processed_doc['wordset']
 doc = processed_doc['clean_text_doclist']
@@ -13,7 +12,7 @@ for docc in doc:
 		doc_dict[word] += 1 
 	doc_set_all.append(doc_dict.copy())
 
-print ("wordSet  :   "," ".join(sorted(wordSet)))
+# print ("wordSet  :   "," ".join(sorted(wordSet)))
 
 def computeTF(tfDict,doc):
     doc_count = len(doc)
@@ -55,20 +54,19 @@ for t in tfdoc:
 tfidf_wordSet = [dict.fromkeys(wordSet, 0)]*len(doc)
 
 # these two for loops aren't working the way they are supposed to:
-# for i in range(len(doc)):
-# 	tfidf_wordSet[i].update(**tfidf[i])
-
-
-
-# for i in range(len(doc)):
-# 	temp = tfidf[i]
-# 	tfidf_wordSet[i].update(**temp)
-# ------------------------------
-# the solution is below :  (look for ?)
+# 1)
+#         for i in range(len(doc)):
+# 	          tfidf_wordSet[i].update(**tfidf[i])
+# 2)
+#         for i in range(len(doc)):
+# 	          temp = tfidf[i]
+# 	          tfidf_wordSet[i].update(**temp)
 # 
-# for i in range(len(doc)):
-# 	temp = tfidf[i]
-# 	tfidf_wordSet[i] = dict(tfidf_wordSet[i],**temp)
+# ------------ the solution ------------------
+#  
+#         for i in range(len(doc)):
+# 	          temp = tfidf[i]
+# 	          tfidf_wordSet[i] = dict(tfidf_wordSet[i],**temp)
 
 
 
@@ -86,12 +84,4 @@ import pandas as pd
 from pandas import ExcelWriter
 df = pd.DataFrame(tfidf_final_struc)
 
-
-df.to_csv('sample_tfidf.csv', sep='\t') # -----------working
-
-# writer = pd.ExcelWriter('sample_tfidf2.xlsx', engine='xlsxwriter')
-# df.to_excel(writer,sheet_name='Sheet1',headers=wordSet)
-# writer.save()
-# export_excel = df.to_excel (r'sample_tfidf.xlsx', index = None, header=True)
-
-
+df.to_csv('sample_tfidf.csv', sep='\t') 
