@@ -1,7 +1,7 @@
 import pickle 
 
 processed_doc = pickle.load(open('load_words_all_docs_spacy.pkl','rb'))
-wordSet = processed_doc['wordset']
+wordSet = processed_doc['wordSet']
 doc = processed_doc['clean_text_doclist']
 
 doc_set_all = []
@@ -81,7 +81,7 @@ for wrdF in tfidf_wordSet:
 
 
 import pandas as pd
-from pandas import ExcelWriter
+# from pandas import ExcelWriter
 df = pd.DataFrame(tfidf_final_struc)
 
-df.to_csv('sample_tfidf.csv', sep='\t') 
+df.to_csv('tfidf.csv') 

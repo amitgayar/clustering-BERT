@@ -52,7 +52,7 @@ for f in news_text_file:
     text_article = pickle.load(open(f, 'rb')) 
     temp = normalize(text_article['content'], lowercase=True, remove_stopwords=True)
     bow.append(temp)
-    print ('article no : ',news_text_file.index(f), sorted(text_article['Text_After_Clean']),'\n')
+    print ('article no : ',news_text_file.index(f), sorted(temp),'\n')
 
     
 

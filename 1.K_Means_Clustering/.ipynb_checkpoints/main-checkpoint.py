@@ -13,11 +13,11 @@ import random as rd
 from collections import defaultdict
 import matplotlib.cm as cm
 
-dataset=pd.read_csv('Mall_Customers.csv')
+dataset=pd.read_csv('sample_tfidf.csv')
 X = dataset.iloc[:, [3, 4]].values
 
 K=5
-m=200
+m=88
 Centroids=np.array([]).reshape(2,0)
 
 #step 1
@@ -44,6 +44,7 @@ for n in range(num_iter):
         Y[k+1]=np.array([]).reshape(2,0)
     for i in range(m):
         Y[C[i]]=np.c_[Y[C[i]],X[i]]
+     
     for k in range(K):
         Y[k+1]=Y[k+1].T
         
