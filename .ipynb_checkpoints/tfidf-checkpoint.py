@@ -1,6 +1,6 @@
 import pickle 
 
-processed_doc = pickle.load(open('load_words_all_docs_spacy.pkl','rb'))
+processed_doc = pickle.load(open('spacy_cleansing.pkl','rb'))
 wordSet = processed_doc['wordSet']
 doc = processed_doc['clean_text_doclist']
 
