@@ -40,6 +40,9 @@ def art_to_para(article,threshold=50):
     #         article : str
     #         threshold : int, optional, default 50
 	para_list = article.split('\n\n')
+    if len(para_list) == 1 and len(para_list[0]) > 2.7*threshold :
+        temp = para_list[0].split('. ')
+        para_list = [" ".join(temp[:math.floor(len(temp)/2)]), " ".join(temp[math.floor(len(temp)/2):])]
 	l = len(para_list)
     for j in para_list:
         para_text[para_list.index(j)] = j
@@ -53,6 +56,10 @@ def art_to_para(article,threshold=50):
 		clustered_para.append(temp) 
 		# print(clustered_para)
 		if i == l-1:
+            cluster_len = len(clustered_para[-1])
+            if cluster_len < threshold and cluster_len > 1:
+                clustered_para[-2] = clustered_para[-2] + " " + clustered_para[-1]
+                del clustered_para[-1]
 			return clustered_para
 		else:
 			return para_thresholding(i+1,clustered_para)
