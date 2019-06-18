@@ -191,10 +191,9 @@ tfidf_final = main_tfidf()
 def main_clustering():
     # https://www.kaggle.com/andyxie/k-means-clustering-implementation-in-python
     # df=pd.read_csv('tfidf_of_paras.csv')
-    df = tfidf_final[0]
     X = df.iloc[:,1:].values
     X = np.nan_to_num(X)
-    K=5
+    K=20
     m, feat = X.shape
     mean = np.mean(X, axis = 0)
     std = np.std(X, axis = 0)
@@ -221,13 +220,18 @@ def main_clustering():
         error = np.linalg.norm(centers_new - centers_old)
     # centers_new 
     clusters
-    return clusters.tolist()
+    cluster  = []
+    for j in range(K):
+        cluster.append(np.where(clusters == j))
+    return cluster
 
-clusters = main_clustering()
-
-for i in clusters:
-    print (i, '\n', processed_doc['para_list'][i],'\n', tfidf_final[1][i], '\n')
-
+cluster = main_clustering()
+# print (cluster)
+for single in cluster:
+    print('==================================================================================================== \n\n\n')
+    print( '\n\n\n','--------------------CLUSTER NUMBER {} WITH {}-PARA-----------:\n\n\n  '.format(cluster.index(single)+1, len(list(single[0]))))
+    for i in list(single)[0]:
+        print (i, '\n', processed_doc['para_list'][i], '\n\n',tfidf[i], '\n')
 # ---------------------------------------rough work---------------------------------------------------------------------
 
 """
