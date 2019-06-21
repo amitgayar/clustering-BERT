@@ -1,9 +1,5 @@
 # clustering-BERT
-tfidf k-mean clustering...
+tfidf + clustering...
 1. "news-analyzer/core.py" loads the various articles based on input keywords
-2. "spacy_cleansing.py" cleans the content of all articles saved in "news-analyzer/data" directory
-    and saves in "load_words_all_docs_spacy.pkl"
-3. "tfidf.py" computes tfidf of the cleaned content and stores in "sample_tfidf.csv"
-4. K-means clustering to be done ...
-
-note: "temp" directory is for old/obsolete results
+2. "all_in_one.ipynb" does the clustering of the text extracted while accepting tuning parameters like min_tfidf value, para-segmentation.
+3. Clustering is Divisive with successive bipartitions of the text chunk to obtain the desired level of clustering.
