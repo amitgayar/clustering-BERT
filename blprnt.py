@@ -1,3 +1,18 @@
+# ---------------------- pseudo code -----------------------------------------------------
+pictures, tables, 
+meta- description and meta-keywords for every article/paragraph
+    save para > 320 in another array
+cluster articles and para both and check how many of them lie in the same cluster
+find ents of clusters, paras, articles:
+    correlation or proportion b/w :
+        1. article - para
+        2. article - cluster
+        3. article - 
+
+if crpr :
+    cluster further
+
+
 # ----------------------------------------------------------------------------------------
 import pickle   
 from os import listdir
