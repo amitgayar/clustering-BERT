@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VHDFC Asset Management has been directed by the Securities and Exchange Board of India (SEBI) to refund the money collected from distributors and advisers for its pre-IPO share sale.\u000a\u000aThe Economic Times spoke to two independent financial advisers who received HDFC AMC\u2019s shares before the IPO that confirmed the cancellation of the share sale.\u000a\u000aHDFC AMC filed for the approval of its IPO in March. Its draft red herring prospectus mentioned that it may allot close to 7.2 lakh shares to its distributors, a move that SEBI did not allow.\u000a\u000aThe fund house then went for a private placement with the said distributors.\u000a\u000aThrough this route, HDFC AMC sold shares amounting to Rs 150 crore to 140 distributors and advisers at Rs 1,050 per share in April. SEBI has now directed the fund house to return the money collected from investors along with an interest rate of 12 percent.\u000a\u000aThe report also says that officials at competing fund houses view the move by HDFC AMC as a "conflict of interest". Catch Budget 2019 LIVE updates here . Click here for full Budget 2019 coverage
+p2
+sS'meta_description'
+p3
+S'HDFC AMC had sold shares amounting to Rs 150 crore to 140 distributors and advisers at Rs 1,050 per share in April.'
+p4
+sS'datetime'
+p5
+V02-Jul-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneycontrol.com/news/business/sebi-directs-hdfc-amc-to-cancel-pre-ipo-share-sale-return-investors-capital-2658161.html
+p8
+sS'title'
+p9
+VSEBI directs HDFC AMC to cancel pre-IPO share sale, return investors' capital: Report
+p10
+s.

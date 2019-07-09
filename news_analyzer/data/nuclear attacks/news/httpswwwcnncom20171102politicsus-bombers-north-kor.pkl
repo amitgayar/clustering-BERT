@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWashington (CNN) US Air Force B-1 bombers, accompanied by fighter jets from South Korea and Japan, conducted a flyover near the Korean peninsula on Thursday, according to a statement from the US Air Force -- a move that has drawn harsh criticism from North Korea ahead of President Donald Trump's trip to the region.\u000a\u000aTwo B-1B Lancers from Anderson Air Force Base in Guam rendezvoused with the Japanese and South Korean jets as part of the planned "bilateral integration" exercise -- at one point flying over South Korea.\u000a\u000aThe "continuous bomber presence mission" was planned in advance and was "not in response to any current event," according to Air Force spokesperson Capt. Candice Dillitte.\u000a\u000aUS B-1 bombers flying from Guam have been seen regularly over the Korean Peninsula amid escalating tensions with Pyongyang -- running regular training flights with Japanese and South Korean fighter jets that often provoke the ire of the North Korean regime.\u000a\u000aPyongyang again issued a harsh response in the wake of Thursday's flight through its state-run media outlet KCNA claiming the exercise was a trial run for a surprise nuclear attack.\u000a\u000a"The gangster-like US imperialists are ceaselessly resorting to their frantic nuclear threat and blackmail to stifle the DPRK with nukes at any cost," a post from KCNA said.\u000a\u000a"On Thursday they let a formation of B-1B nuclear strategic bombers stationed at the Anderson Air Force Base on Guam stealthily fly into South Korea again to stage a surprise nuclear strike drill targeting the DPRK."\u000a\u000aThe Pentagon said the movement of the carriers and their accompanying strike groups was long planned, as the USS Nimitz heads back to the US West Coast after a deployment in the Middle East and the USS Theodore Roosevelt heads to that area to replace it.\u000a\u000aBut Lt. Gen. Kenneth McKenzie Jr., director of the Joint Chiefs of Staff, told reporters last week the three carrier groups would conduct a joint exercise to demonstrate their "unique and powerful capability," the first time that's happened in the Pacific in a decade.\u000a\u000aThe aircraft carriers will take part in drills on November 13, officials said.\u000a\u000aThe highly versatile, supersonic B-1 is considered the backbone of the US long range bomber fleet and carries the largest conventional payload of any aircraft in the US Air Force.\u000a\u000aBut while it packs a punch, the B-1 remains disarmed of nuclear weapons.\u000a\u000aThe US has maintained a significant military presence near the Korean peninsula ahead of Trump's visit to the region next week.\u000a\u000aOn Monday, US, South Korean and Japanese officials issued a statement urging North Korea to "refrain from irresponsible provocations" and walk away from its "destructive and reckless path" of weapons development.\u000a\u000aThat same day, the first two of 12 US Air Force F-35 Joint Strike Fighter jets arrived in Okinawa where the group of stealth fifth-generation aircraft will begin a six-month deployment in Japan as part of Pacific Command's "theater security" program, a spokesperson for the service confirmed to CNN.\u000a\u000aLast weekend, the US Air Force sent one of its B-2 stealth bombers on a mission to the Pacific, according to a statement from US Strategic Command.\u000a\u000aThe B-2 flew from Whiteman Air Force Base in Missouri, the Air Force said, without revealing where in the vast area of Pacific Command the bat-winged jet went.\u000a\u000aB-2s have operated in the past out of Andersen Air Force Base on Guam and the Indian Ocean island of Diego Garcia. In 2013, B-2 bombers flying from Missouri participated in exercises over South Korea.\u000a\u000a"The last 10 months of vague threats and sporadic military provocations prove Kim Jong Un cannot be frightened into surrendering his nuclear arsenal," he said.\u000a\u000a"If the Trump administration can cease its careless threats, the US and its allies could begin a real conversation about whether new deployments of unambiguously defensive military forces are needed to deter North Korea."
+p2
+sS'meta_description'
+p3
+S'US Air Force B-1 bombers, accompanied by fighter jets from South Korea and Japan, conducted a flyover near the Korean peninsula on Thursday'
+p4
+sS'datetime'
+p5
+V02-Nov-2017
+p6
+sS'link'
+p7
+Vhttps://www.cnn.com/2017/11/02/politics/us-bombers-north-korea/index.html
+p8
+sS'title'
+p9
+VN. Korea accuses US of 'nuclear strike drill'
+p10
+s.

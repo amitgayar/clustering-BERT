@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA second day of drills took place from South Korea today, with 230 aircraft taking part in the operation called Vigilant Ace. The five day exercise, which includes six F-22 Raptor stealth fighters and 19 F-35 stealth fighter jets, was described in North Korea\u2019s state media as pushing the country \u201cto the brink of nuclear war\u201d, as Kim Jong-un attempted to force its cancellation. And Nato Secretary General Jens Stoltenberg said yesterday a conflict "would be catastrophic and it would have global consequences\u201d. In an attempt to reassure the world, he said Nato\u2019s members were \u201cstrong and united.\u201d\u000a\u000aHe said: \u201cNato is able to respond to any attack, including ballistic and nuclear attacks." North Korea would continue to feel \u201cmaximum pressure\u201d from Nato, he added. The Korean Central News Agency said on Sunday the US and South Korea "will pay dearly for their provocations". It added the US is "begging for nuclear war by staging an extremely dangerous nuclear gamble on the Korean peninsula". Pyongyang has placed all blame on US President Donald Trump for tensions continuously rising between the US and North Korea.  US service members consisting of 120,000 including troops from the Marines and Navy are also taking part. B-1B bombers may also take part but this has not yet been confirmed.  According to the US military, the exercise is meant to ensure peace and security on the Korean peninsula.\u000a\u000aThe 230 aircraft will be flying at eight US and South Korean military installations in the South.  The Seventh Air Force made clear in a statement that this years training is not being held in response to recent events surrounding North Korea.  Lindsey Graham, Republican US senator, said he believes it is time for US military families in South Korea leave the country as conflict with North Korea is becoming more likely.  There has been no official declaration for US citizens in South Korea to leave the country.
+p2
+sS'meta_description'
+p3
+VHUNDREDS of US and South Korean aircraft have soared through the skies on North Korea\u2019s doorstep as Nato gave a grave nuclear war warning.
+p4
+sS'datetime'
+p5
+V05-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/world/888385/north-korea-latest-news-USA-drills-South-Korea-donald-trump-nuclear-threat
+p8
+sS'title'
+p9
+VNorth Korea nuclear war would affect \u2018WORLD\u2019, Nato warns as USA drills rattle Kim
+p10
+s.

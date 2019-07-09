@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSome 57 percent of Russians believe that there has never been a manned lunar landing and are convinced that the US government falsified videos, photos and other material evidence regarding the 1969 expedition, a new poll by the Russian Public Opinion Research Center (Russian acronym VCIOM) has revealed.\u000a\u000aThe poll, which involved 2,000 random adult respondents across Russia, found that just 24 percent of those polled believed that American astronauts landed on the moon, with another 19 percent saying it was "difficult to answer."\u000a\u000aThe poll, which focused on citizens' trust in the scientific community, also included other questions on similar themes. For example, 18 percent of respondents said that they believed that aliens have visited Earth, but that the authorities have hidden this information from the public. Twenty-seven percent said aliens have visited Earth, but have remained hidden to humanity. Forty-two percent said that visitors from extraterrestrial civilizations have never visited Earth, or do not exist. Thirteen percent found it difficult to answer the question.\u000a\u000aThe Apollo moon landings have been subjected to a host of conspiracy theories. According to a 2013 Pew survey, some 7 percent of Americans continue to believe the moon landings never took place. In the UK, a 2016 poll showed that some 52 percent of Brits believed the landings were a conspiracy.\u000a\u000aConspiracy proponents have pointed to oddities in photographs and film, mechanical issues, missing data, the presumed technological limitations of the time, as well as the mysterious untimely deaths of a number of astronauts and members of the Apollo program, which they have say is evidence of a cover-up. NASA issued fact sheets in 1977 and 2001 debunking many of these claims.\u000a\u000aOne of the most outlandish assertions made by conspiracy supporters is that the US received the support of Soviet scientists in staging the hoax. The moon race took place at the height of the Cold War as part of a broader space race, and the Soviets had made major investments in their own lunar program, sending an unmanned spacecraft to the lunar surface in 1959 and setting up Earth-based tracking facilities, which would have picked up all NASA activity during the time frame in question. Those saying the landings did take place insist that the USSR would not have allowed the US to stage a series of fake landings and get away with it. Furthermore, official Soviet and Russian textbooks and academic programs have praised the US manned lunar program's achievements, while pointing to the USSR's own achievements in exploring the lunar satellite.
+p2
+sS'meta_description'
+p3
+S"NASA's six manned lunar missions, known as the Apollo program, which was conducted from July 1969 to December 1972, have attracted a great deal of interest among conspiracy theorists who hold that the entire program was a hoax aimed at pulling one over on the Soviets during the Cold War."
+p4
+sS'datetime'
+p5
+V27-Jul-2018
+p6
+sS'link'
+p7
+Vhttps://sputniknews.com/science/201807271066736384-russians-polled-on-moon-landings/
+p8
+sS'title'
+p9
+VPoll: Over Half of Russians Don't Believe America Landed on the Moon
+p10
+s.

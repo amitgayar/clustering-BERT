@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe draft does not explicitly say that a crippling cyberattack against the United States would be among the extreme circumstances. But experts called a cyberattack one of the most efficient ways to paralyze systems like the power grid, cellphone networks and the backbone of the internet without using nuclear weapons.\u000a\u000a\u201cIn 2001, we struggled with how to establish deterrence for terrorism because terrorists don\u2019t have populations or territory to hold at risk. Cyber poses a similar quandary,\u201d said Kori Schake, a senior National Security Council and State Department official during President George W. Bush\u2019s administration, who is now the deputy director general of the International Institute for Strategic Studies in London.\u000a\u000a\u201cSo if cyber can cause physical malfunction of major infrastructure resulting in deaths,\u201d Ms. Schake said, the Pentagon has now found a way \u201cto establish a deterrent dynamic.\u201d\u000a\u000aThe draft review also cites \u201cparticular concern\u201d about \u201cexpanding threats in space and cyberspace\u201d to the command-and-control systems of the American nuclear arsenal that the review identifies as a \u201clegacy of the Cold War.\u201d It was the latest warning in a growing chorus that the nuclear response networks could themselves be disabled or fed false data in a cyberattack.\u000a\u000aSo far, all of the United States\u2019 leading adversaries \u2014 including Russia, China, North Korea and Iran \u2014 have stopped well short of the kind of cyberattacks that could prompt a larger, and more violent response.\u000a\u000aThe Russians have placed malware called \u201cBlack Energy\u201d in American utility systems, but never tried to cause a major blackout. They have sent cable-cutting submarines along the path of undersea fiber optic lines that connect the continents, but not cut them. North Korea has attacked companies like Sony, and used cyberweapons to cause chaos in the British health care system, but never directly taken on the United States.\u000a\u000aStill, the document recognizes that American, Russian and Chinese strategies have all been updated in recent years to reflect the reality that any conflict would begin with a lightning strike on space and communications systems. During the Obama administration, for example, a secret program, code-named \u201cNitro Zeus,\u201d called for a blinding cyberattack on Iran in the event negotiations over its nuclear program failed and Washington found itself going to war with Tehran.
+p2
+sS'meta_description'
+p3
+VPresident Trump has not yet approved a draft strategy that would expand \u201cextreme circumstances\u201d for nuclear retaliation to include a crippling cyberattack.
+p4
+sS'datetime'
+p5
+V16-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2018/01/16/us/politics/pentagon-nuclear-review-cyberattack-trump.html
+p8
+sS'title'
+p9
+VPentagon Suggests Countering Devastating Cyberattacks With Nuclear Arms
+p10
+s.

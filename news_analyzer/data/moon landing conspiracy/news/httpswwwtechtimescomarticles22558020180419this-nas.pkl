@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VAn archived NASA photo provides further proof to the allegations that the moon landing was fake, according to a conspiracy theorist.\u000a\u000aThere is a mountain of evidence that the moon landing really happened, but there remains a group of people who believe that it was all a hoax. After looking at the NASA photo, which side will you be on?\u000a\u000aThe image in question shows John W. Young, the commander of the Apollo 16 lunar landing mission, collecting samples from the moon's surface. The description of the photo says that the Lunar Roving Vehicle was parked among "the field of large boulders in the background."\u000a\u000aHowever, according to a video uploaded on the YouTube channel UFOmania, the boulders shown in the image are not simple rocks but rather "habitat building, spaceship, and extra personnel."\u000a\u000aThere are two suggestions on what really happened with the moon landing. The first suggestion is that the whole thing was staged, with the images and videos taken in a studio that was made to look like the moon. Pursuing this thought, the structure in the background of the image may have been part of the studio where the moon landing was filmed.\u000a\u000aThe second suggestion, meanwhile, is more sinister. Some believe that the Apollo 16 astronauts discovered evidence of alien life on the moon, and the images and videos were mostly edited to remove all instances showing proof of it. The image may then be thought of showing one of these alien structures.\u000a\u000aMost commenters on the YouTube video, however, remain adamant that the things in the background of the image are really just rocks. Conspiracy theorists, however, will keep saying otherwise, and it is up to you to decide what to believe.\u000a\u000aNASA recently released a 4K video showing the surface of the moon taken by the Lunar Reconnaissance Orbiter. The work of the spacecraft will help start plans for manned missions to the moon in the future.\u000a\u000aPresident Vladimir Putin, meanwhile, confirmed that the Russian space program is planning to send astronauts to the moon in a modern space race that also involves the United States and Japan. Russia is planning to first establish a space station on the lunar orbit and then place modules on the moon itself.\u000a\u000aWhether the astronauts will find evidence of alien life on the moon remains unclear. However, something that they will surely find there is space junk, as 400,000 pounds of garbage have been left on the moon by previous missions.\u000a\u000a\u24d2 2018 TECHTIMES.com All rights reserved. Do not reproduce without permission.
+p2
+sS'meta_description'
+p3
+S'An archived NASA photo allegedly shows evidence that the moon landing was fake. According to a conspiracy theorist, the boulders in the background are not simple rocks but are actually something else.'
+p4
+sS'datetime'
+p5
+V19-Apr-2018
+p6
+sS'link'
+p7
+Vhttps://www.techtimes.com/articles/225580/20180419/this-nasa-photo-proves-that-the-moon-landing-was-fake-conspiracy-theorist-says.htm
+p8
+sS'title'
+p9
+VThis NASA Photo Proves That The Moon Landing Was Fake, Conspiracy Theorist Says
+p10
+s.

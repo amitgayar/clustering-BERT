@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn 1987, the U.S. and Russia signed a nuclear-arms treaty banning land-based missiles capable of flying 300 to 3,400 miles. WSJ\u2019s Shelby Holliday explains why the landmark agreement is now on the brink of collapse. Photo Illustration: Laura Kammermann\u000a\u000aMOSCOW\u2014A top Russian state television broadcaster held out the possibility of a nuclear exchange with the U.S., boasting that the Kremlin could retaliate with strikes on the Pentagon and Camp David.\u000a\u000aThe comments by one of Russia\u2019s most influential state television presenters during his Sunday prime-time wrap-up of the week\u2019s news escalated Russia\u2019s saber-rattling following the breakdown of a Cold War-era nuclear treaty with Washington.
+p2
+sS'meta_description'
+p3
+S'A top Russian state television broadcaster held out the possibility of a nuclear exchange with the U.S., boasting that the Kremlin could retaliate with strikes on the Pentagon and Camp David.'
+p4
+sS'datetime'
+p5
+V25-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.wsj.com/articles/russia-names-u-s-targets-of-nuclear-retaliation-11551114598
+p8
+sS'title'
+p9
+VRussia Names U.S. Targets of Nuclear Retaliation
+p10
+s.

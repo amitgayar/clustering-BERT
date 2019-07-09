@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VRBI to set up task force on corporate loans' secondary market\u000a\u000aThe Reserve Bank of India (RBI) on Thursday said it would set up a task force to study the international best practices and develop a "thriving" secondary market for corporate loans.\u000a\u000aIn its statement of developmental and regulatory policies released by the RBI after its first monetary policy meet of financial year 2019-2020, the apex bank said the task force would submit its report by the end of August, 2019.\u000a\u000aThe RBI statement has brought out an 11-point agenda of regulatory policies.\u000a\u000a"Recognising the benefits of an active secondary market in loans, the Reserve Bank will set up a task force to study the relevant aspects including best international practices and propose measures for developing a thriving secondary market for corporate loans in India," the RBI statement said.\u000a\u000a"Presently, the secondary market for corporate loans in India is dominated by transactions of banks in non-performing assets and is constrained by sparse information on pricing and recovery rates," it said.\u000a\u000aThe apex bank said that among other steps, the task force would explore measures on loan contract standards, digital loan contract registry, ease of due diligence and verification by potential loan buyers, online platform for loan sales or auctions, and an accessible archive of historical market data on bids and sale prices for loans.\u000a\u000aIn the secondary market, loans are sold to asset restructuring companies (ARC) and private equity (PE) funds, alternative investment funds (AIF) among others. The secondary market for loans can be an important mechanism for credit intermediaries to manage credit risk and liquidity risk on their balance-sheets, especially for distressed assets.\u000a\u000aLoan sales can facilitate risk transfer across intermediaries that originate credit (such as banks and non-banking financial companies) as well as from credit originators to intermediaries such as Asset Restructuring Companies (ARCs), Private Equity (PE) funds, Alternative Investment Funds (AIFs), RBI said.\u000a\u000aIn the 11-point statement, RBI also said that it would constitute a committee to assess the state of housing finance securitisation markets in India. This committee too would come out with its report by August-end.\u000a\u000aApart from studying the international best practices as well as lessons learnt from the global financial crisis, the committee would propose measures to further develop these markets in India by identifying critical steps required, such as definition of conforming mortgages, mortgage documentation standards, digital registry for ease of due diligence and verification by investors, avenues for trading in securitised assets and so on.\u000a\u000aThe RBI also decided that the non-banking financial companies (NBFCs) which do not take deposits in the category of "Investment and Credit Companies" (ICCs) will be made eligible to apply for grant of Authorised Dealer Category II licence, enabling these NBFCs to carry out forex transactions.\u000a\u000aThe non-deposit taking NBFCs having customer interface and asset size of Rs 100 crore and above would also be covered by April 2019 under the "NBFC Ombudsman Scheme".\u000a\u000aThe scheme, introduced in February last year for handling grievances of customers of NBFCs, was initially implemented for the customers of deposit taking NBFCs registered with the RBI.
+p2
+sS'meta_description'
+p3
+S'The Reserve Bank of India (RBI) said it would set up a task force to study the international best practices and develop a thriving secondary market for corporate loans'
+p4
+sS'datetime'
+p5
+V04-Apr-2019
+p6
+sS'link'
+p7
+Vhttps://www.moneylife.in/article/rbi-to-set-up-task-force-on-corporate-loans-secondary-market/56780.html
+p8
+sS'title'
+p9
+VRBI to set up task force on corporate loans' secondary market
+p10
+s.

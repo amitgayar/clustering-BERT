@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Securities and Exchange Board of India (SEBI) on Thursday allowed the listing of security receipts on stock exchanges by the Asset Reconstruction Company (ARC), a move that could help banks to resolve the Non Performing Assets (NPA) issue.\u000a\u000aSecurity receipts of ARC will be allowed to be listed and traded on the exchanges through a framework drafted by SEBI and the Reserve Bank of India.\u000a\u000aAs of now, security receipts issued by ARCs are not allowed to be listed and SEBI Chairman Ajay Tyagi pointed out that this move will result in more ARCs competing for the stressed assets and that will benefit the NPA resolution of Banks.\u000a\u000a"We had a committee with RBI and in consultation with RBI we have drafted a framework where security receipts could now be listed and also traded on the exchanges, this would actually bring in liquidity in the security receipts market, bring in more money to the asset reconstruction companies and thereby resolving the bank's NPA's," Tyagi said.\u000a\u000aIn a bid to avoid conflict of interest, SEBI has put a 10 percent cross shareholding cap in a Mutual Fund and have decided to amend the regulations for the same.\u000a\u000a"On Mutual Funds it has been approved that anyone having substantial holding in one mutual fund or a sponsor of one mutual fund cannot have substantial holding in other mutual fund and any such existing thing if it is there it should be corrected within a period of one year," Tyagi stated.\u000a\u000aBesides this, SEBI has also eased the norms for the entry of Foreign Portfolio Investors (FPI) as well as called on the credit rating agencies to have a governing structure.
+p2
+sS'meta_description'
+p3
+S'Read more about SEBI allows listing of security receipts by ARC on Business Standard. The Securities and Exchange Board of India (SEBI) on Thursday allowed the listing of security receipts on stock exchanges by the Asset Reconstruction Company (ARC), a move that could help banks to resolve the Non Performing Assets (NPA)'
+p4
+sS'datetime'
+p5
+V28-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/news-ani/sebi-allows-listing-of-security-receipts-by-arc-117122801099_1.html
+p8
+sS'title'
+p9
+VSEBI allows listing of security receipts by ARC
+p10
+s.

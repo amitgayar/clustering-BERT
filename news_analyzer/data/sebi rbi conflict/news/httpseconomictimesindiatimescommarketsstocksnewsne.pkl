@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Securities and Exchange Board of India (Sebi) is working on new data privacy norms for foreign portfolio investors ( FPIs ). The move comes as the regulations are said to be in conflict with the domestic laws of several countries, especially European nations and Canada, which together account for 40 per cent of total FPI flows into India.The concerns of FPIs relate mostly to the compatibility of Sebi\u2019s new know-your-customer (KYC) requirements with data localisation norms applicable in their home countries. Exemptions for publicly pooled funds along with the creation of a high-end encrypted platform for data exchange and storage are some of the key measures under the regulator\u2019s consideration, said two people aware of the development. The process assumes significance as Sebi had set a March 2019 deadline for FPIs to submit KYC documentation as per the revised rules.Sebi had set up a working committee under Ashok Jhunjhunwala , professor at the Indian Institute of Technology (IIT), Madras, to look into the matter, said one of the people. The committee will hold a meeting later this week to gather feedback from FPIs and custodians regarding the proposals.The regulator has already exempted Category I FPIs, comprising sovereign wealth funds, from the ambit of new KYC requirements. The regulator is now contemplating the extension of this provision to Category II FPIs as well if they satisfy a few eligibility conditions.Further, funds which get exemption will be asked to collect all the required data and store it in their systems. They will have to provide an undertaking that they have collected all the required KYC data and will share it with Sebi if needed.The encrypted platform that\u2019s being considered is aimed at ensuring such data is not compromised.Until now, FPIs weren\u2019t required to submit sensitive information about their fund managers to Sebi or any other Indian market intermediaries. However, the regulator revised KYC requirements through an April 2018 circular, as a result of which fund managers and senior officials of several FPIs have to submit personal documentation.\u201cForeign funds have no issues in sharing more information with Sebi. However, there are several areas of concern which have to be resolved at the earliest as the deadline for submission of additional KYC documents is fast approaching,\u201d said one of the persons cited above.The regulator had initially suggested the creation of a centralised database by registrars to store KYC data. Market intermediaries could access this after obtaining the concerned FPI\u2019s consent. However, domestic laws pertaining to data localisation in Canada and Europe explicitly restrict information on their nationals being stored overseas.\u201cUnder extraordinary scenarios where data of these nationals has to be stored abroad, the agency collecting data needs to give a warranty to the country ensuring safety of the data,\u201d said the second person cited above. \u201cIn effect, if Indian law is not amended, Sebi will have to give warranties to foreign governments about the safety of the data even as the database is being maintained by a third-party registrar.\u201dThe Sebi circular asked foreign funds to determine beneficial ownership not just based on economic interest but also based on control. Until then, beneficial owners were the ones who owned majority economic interest in the fund. However, due to the change in the method, several fund managers and senior officials of the fund ended up becoming the beneficial owners.This led to panic among FPIs and forced Sebi to rethink its stance. The interim report submitted by the HR Khanled committee on FPIs recommended that Sebi should use this definition of beneficial ownership only for KYC purposes and not for determining control of the fund. That means the KYC requirements should only be applicable to the fund managers of leading FPIs where there is no significant beneficial owner.
+p2
+sS'meta_description'
+p3
+S'The regulator has already exempted Category I FPIs from the ambit of new KYC requirements.'
+p4
+sS'datetime'
+p5
+V07-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/markets/stocks/news/new-data-privacy-rules-for-fpis-soon/articleshow/67429990.cms
+p8
+sS'title'
+p9
+VNew data privacy rules for FPIs soon
+p10
+s.

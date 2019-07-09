@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn a major security breach, a break-in and theft occurred in the Paris office of the Indian Air Force (IAF) Project Management Team (PMT) overseeing the Rafale fighter deal, and some documents have been taken away, according to multiple defence sources. There was a break-in in two other offices on the premises, another source said.\u000a\u000a\u201cThe incident occurred on Sunday night and some documents have been taken. An investigation is under way,\u201d a defence source told The Hindu on condition of anonymity. \u201cIt is Dassault Aviation\u2019s responsibility as it has been on its premises,\u201d the source added. The PMT consists of four IAF officers and is headed by a Group Captain.\u000a\u000aAt least two sources confirmed that some safes were broken open and the culprits \u201cmanaged to get away with some documents...\u201d But the nature of the documents was not known. Defence Ministry and IAF officials declined to comment.\u000a\u000aHowever, a second source said it looked like a case of burglary. \u201cPMT, one among three offices of Dassault, broken into. Money was stolen from other offices,\u201d the source said. A third source said the burglary looked like a diversion and the matter was of serious concern. \u201cWhat kind of documents have been taken is yet to be ascertained,\u201d the source said.\u000a\u000aThe police have been informed and a case has been registered, another source said. In September 2016, India signed a \u20ac7.87 billion Inter-Governmental Agreement with France for the purchase of 36 Rafale jets in a fly-away condition.\u000a\u000aThe agreement also has a 50% offset clause to be executed by French partners. As per terms of the IGA, deliveries have to begin 36 months after the signing of the contract and should be completed in 67 months. The deal is on schedule and the first aircraft is expected to be delivered this September.\u000a\u000aIAF has a PMT in France to monitor the implementation of the deal which also involves significant modifications to the aircraft to incorporate the 13 India Specific Enhancements (ISE).\u000a\u000aIAF plans to base the Rafales at two locations, at Ambala and Hasimara, and infrastructure is coming up to house the jets.
+p2
+sS'meta_description'
+p3
+V\u201cThe incident occurred on Sunday and an investigation is underway. It is Dassault Aviation's responsibility as it has been on their premises,\u201d a defence source told The Hindu.
+p4
+sS'datetime'
+p5
+V22-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/news/national/break-in-at-iaf-rafale-team-office-in-france/article27207382.ece
+p8
+sS'title'
+p9
+VBreak-in at IAF Rafale team office in France
+p10
+s.

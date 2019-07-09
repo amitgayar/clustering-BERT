@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VFinance Minister Arun Jaitley will chair the 20th meeting of the Financial Stability and Development Council on Tuesday. The FSDC is an apex body which also consists of chiefs and senior officials of all the financial sector regulators in India.\u000a\u000aThe meeting, to be held in the Finance Ministry in New Delhi, is coming in the backdrop of an unprecedented churn in financial markets and sectoral regulations in India. There have been a number of flashpoints between the Centre and the Reserve Bank of India in the past one year, including on Rs 10 trillion worth of stressed assets ...
+p2
+sS'meta_description'
+p3
+S"Read more about Jaitley to chair FSDC meeting today even as RBI, govt lock horns in public on Business Standard. The latest meeting comes amid concerns about the role of the 'super-regulator'"
+p4
+sS'datetime'
+p5
+V29-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/markets/jaitley-to-chair-fsdc-meeting-today-even-as-rbi-govt-lock-horns-in-public-118103000341_1.html
+p8
+sS'title'
+p9
+VJaitley to chair FSDC meeting today even as RBI, govt lock horns in public
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThis is the 34th in an exclusive series of 50 articles, one published each day until July 20, exploring the 50th anniversary of the first-ever Moon landing. You can check out 50 Days to the Moon here every day .\u000a\u000aOn June 2, 1966, a spaceship called Surveyor 1 settled into a crater in an area of the Moon called the Ocean of Storms. Surveyor 1 was the first U.S. probe to make a soft, powered landing on the Moon, swooping to within 40 miles of the Moon\u2019s surface at 5,800 mph, before firing its retrorocket, then using landing thrusters to slow further, until the 640-pound craft coasted the last few feet to drop safely onto the lunar surface.\u000a\u000aSurveyor 1 was a triumph. The spacecraft sent back TV images and 11,237 photographs of the Moon\u2019s surface. It also carried a secret cargo that its own scientists had slipped onboard.\u000a\u000aSurveyor\u2014a series of seven identical robotic spacecraft headed to different places on the Moon\u2014was a mission run by NASA\u2019s Jet Propulsion Lab (JPL) in Pasadena, California. The distinctive, three-legged lunar landers were built by Hughes Aircraft. That June day that Surveyor 1 landed on the Moon and started sending back pictures, Sheldon Shallon, Hughes\u2019 chief scientist, held a press conference and revealed that the ship carried a small, unscheduled item that neither NASA nor Shallon\u2019s bosses knew about: an American flag.\u000a\u000aThe story of how Shallon and his colleagues got the first American flag on the Moon is like something out of a John LeCarre novel.\u000a\u000a On a Saturday afternoon 10 days before Surveyor 1\u2019s launch, Shallon went to a Sav-On discount drugstore on Sepulveda Avenue in Los Angeles and bought an American flag on a wooden stick, the kind you would get for an eight-year-old to wave at a July 4th parade. The flag cost 23 cents.\u000a\u000aIn a memo written months later, during an internal investigation into \u201cthe flag incident,\u201d Shallon detailed with the austere precision of a Cold War spy mission after-action report the subterfuge necessary to get the five-and-dime flag onto the Moon:\u000a\u000aThe staples that held the flag on a wood staff were removed with a pocket knife.\u000a\u000a In the afternoon of 21 May 1966, the flag was placed between the pages of a report that was to be carried [to the spacecraft preparation area the next day].\u000a\u000a In the evening of Sunday, 22 May 1966, the flag was removed from between the pages of the report and given to [Surveyor] personnel.\u000a\u000aA second attached memo details the care with which the wispy flag was then prepared for flight. A Hughes staff member named D. C. Smith took responsibility for cleaning the flag, a two-hour process he described in a one-paragraph memo acknowledging his participation:
+p2
+sS'meta_description'
+p3
+VA rogue flag made it to the Moon\u2019s surface three years before Neil Armstrong and Buzz Aldrin planted Old Glory in lunar dirt.
+p4
+sS'datetime'
+p5
+V04-Jul-2019
+p6
+sS'link'
+p7
+Vhttps://www.fastcompany.com/90372040/the-charming-conspiracy-that-put-the-first-american-flag-on-the-moon
+p8
+sS'title'
+p9
+VThe charming conspiracy that put the first American flag on the Moon
+p10
+s.

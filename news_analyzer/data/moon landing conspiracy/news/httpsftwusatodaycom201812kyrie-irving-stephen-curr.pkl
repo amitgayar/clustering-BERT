@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VLast week, Steph Curry caused a major stir when it was revealed in a podcast appearance that he doubted the moon landing.\u000a\u000aThe comments drew backlash from the science community. NASA spoke out and invited Curry to tour the Johnson Space Center in Houston (he accepted). And Curry spent the following days walking back on his remarks.\u000a\u000aNotably, Curry wasn\u2019t the first NBA player to dabble with conspiracy theories. Kyrie Irving famously stated that he thought the Earth was flat and spent years being mocked for that scientifically false conspiracy. Irving eventually apologized for the comments this year.\u000a\u000aOn Tuesday, Irving was asked about Curry\u2019s comments, and, oh man, Irving had quite the response. The Celtics guard spoke to reporters for two straight minutes about Curry\u2019s conspiracy theory. You could tell the subject was very personal to him.\u000a\u000a\u201cSometimes, I feel like \u2014 even myself \u2014 you can speak ahead of yourself whether or not you believe it or not. And you end up getting caught because you\u2019re on this false platform of a thing where you\u2019re not even a human being anymore. You\u2019re now extrapolated for all the information that you know and think. And now you have to fit a mold of something that you\u2019re clearly not. You\u2019re more than just a basketball player that puts it in the hoop and they subject you to being just that. It\u2019s unfair at times. Obviously, we\u2019re not as educated as \u2014 in terms of schooling, in terms knowledge of going to school to these universities, everyone \u2026 \u2014 I think probably that misjudgment is warranted, it\u2019s natural. Everyone feels like they have a place in this world to question anything or question somebody. \u201cLook at what social media has done nowadays. Anybody could say anything on Twitter, but one thing someone says with a check next to their name is the biggest thing going. Nothing\u2019s really original. It\u2019s just history repeating itself all over again. We\u2019ve had people in history say some things that they believed and they stuck with their whole entire lives whether they be prominent individuals in society or not. So, I try to not pay attention to that mold at all. I try not to pay attention to whether it\u2019s insulting or not. I don\u2019t live my life based on biases or judgements. Nor do I base it on thinking or judging someone else for what they believe in as well. It\u2019s society, though. It\u2019s where we live in America where people say (expletive) all the time about one another. And it\u2019s mean, bad. Kids see it. Like, everyone gets a piece of it, and then it\u2019s the next story. Next thing that\u2019s coming out of someone\u2019s mouth. There\u2019s world hunger going on. Like political things going on. There\u2019s so many higher things on the totem pole of society that matter to human beings. \u201cBut hey, Steph Curry says that he doesn\u2019t believe in the moon (landing). It\u2019s the thing all over. It\u2019s on CNN, and they say we\u2019re just jocks, we\u2019re just athletes. But it\u2019s on your channel. You know what I mean? We\u2019re that but you don\u2019t want us to be that. So and whoever \u2018you\u2019 is then I don\u2019t know what mold you want me to be.\u201d\u000a\u000aSo yeah \u2026 that was worth the wait.
+p2
+sS'meta_description'
+p3
+S'Whoa.'
+p4
+sS'datetime'
+p5
+V18-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://ftw.usatoday.com/2018/12/kyrie-irving-stephen-curry-moon-landing-reaction-conspiracy-comments-earth-flat-nba
+p8
+sS'title'
+p9
+VKyrie Irving finally weighed in on Steph Curry's moon-landing conspiracy
+p10
+s.

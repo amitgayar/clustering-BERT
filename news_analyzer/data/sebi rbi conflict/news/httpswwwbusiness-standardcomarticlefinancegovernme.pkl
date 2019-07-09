@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe government has sent letters to the Reserve Bank of India (RBI) seeking consultations on key regulatory issues under a never-before-used provision in the law, according to sources.\u000a\u000aThe government has written to the RBI hinting it may invoke Section 7 of the Reserve Bank of India Act 1934 \u2013 a provision that has never been used since the inception of the law \u2013 to issue directions on relaxing prompt corrective action (PCA) norms, liquidity to non-banking financial companies (NBFCs), among others, sources said. What does Section 7 of the RBI Act say? According to ...
+p2
+sS'meta_description'
+p3
+S'Read more about Government vs RBI: All you need to know about Section 7 of the RBI Act on Business Standard. The government has written to the RBI hinting it may invoke Section 7 of the Reserve Bank of India Act 1934 - a provision that has never been used since the inception of the law'
+p4
+sS'datetime'
+p5
+V31-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/finance/government-vs-rbi-all-you-need-to-know-about-section-7-of-the-rbi-act-118103100546_1.html
+p8
+sS'title'
+p9
+VGovernment vs RBI: All you need to know about Section 7 of the RBI Act
+p10
+s.

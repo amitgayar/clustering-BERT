@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMumbai: The Reserve Bank of India ( RBI ) rejected the means by which Uday Kotak diluted his promoter stake in Kotak Mahindra Bank . The lender insisted it was compliant with regulations, setting the scene for a possible showdown with the regulator as a December deadline looms.Kotak had sought to lower his stake to 20%, as stipulated, by selling nonconvertible perpetual noncumulative preference shares (PNCPS) to a group of investors earlier this month. The limit has to be met by December.\u201cRBI has today communicated to us that our PNCPS issuance does not meet their promoter holding dilution requirement,\u201d Kotak Mahindra said in a statement to the exchanges on Tuesday evening. \u201cWe continue to believe that we have met the requirement and will engage with the RBI in this behalf.\u201d A Kotak Mahindra spokesperson said the bank does not have anything to add to the stock market notice.\u201cKotak can say that they will engage with the regulator but approving this instrument later after rejecting it now would put the RBI\u2019s credibility under the scanner,\u201d said Manish Ostwal, senior analyst at Nirmal Bang Securities. \u201cThis rejection will have a negative impact on the stock when the market opens on Thursday because Kotak has little time now to comply with RBI regulations.\u201dOn August 2, bank founder Kotak sold 1 billion of the preference shares to domestic institutional investors and companies.At \u20b95 apiece, the sale raised \u20b9500 crore, reducing Kotak\u2019s stake to 19.7% from 30%.Analysts said the sale didn\u2019t meet requirements as the preference shares are classified as AT1 or Tier 1 bonds according to the Basel III classification but are not part of common stock held by a bank, or equity capital, and hence won\u2019t result in dilution of control, which is the intent of the central bank rule.The share ended at \u20b91,291.60, up 0.31%, on Tuesday. Kotak\u2019s statement came after market hours and the market is closed on Wednesday for the Independence Day holiday.The central bank requires promoters to reduce their stakes in banks in phases to ensure that ownership is widely distributed.Kotak last sold shares in May 2017 in the open market, lowering his stake in the private sector lender to below 30% in compliance with the RBI direction to do so.\u201cKotak will probably need to sell shares to multiple investors. But this will create an overhang on the stock because a sale of 10% of the stock will create an overhang of $3 billion to $3.5 billion,\u201d said Suresh Ganapathy, research analyst at Macquarie Securities. \u201cKotak has no choice now but to reduce stake. Going back to the regulator and trying to argue their point will not work because the regulator has taken a decision. Going to court is also not an option because you do not want to take on the regulator whose permission you need for business decisions.\u201d Nirmal Bang\u2019s Ostwal said approving Kotak\u2019s sale would have created a precedent.\u201cPromoters at IndusInd and Yes Bank could have also done the same,\u201d Ostwal said. \u201cRBI has taken the right decision. Kotak may be a credible institution but this was just against the spirit of regulations.\u201d
+p2
+sS'meta_description'
+p3
+S'PNCPS were issued to dilute promoter stake to 20 per cent in Kotak Mahindra Bank.'
+p4
+sS'datetime'
+p5
+V14-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-banks-preference-share-issue-not-as-per-regulations-rbi/articleshow/65403256.cms
+p8
+sS'title'
+p9
+VRBI rejects tool used for Kotak stake dilution
+p10
+s.

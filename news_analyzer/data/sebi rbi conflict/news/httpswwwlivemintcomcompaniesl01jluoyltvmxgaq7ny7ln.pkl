@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VICICI Bank board will next week discuss coordinated efforts with the government and RBI regarding the Videocon loan case, involving Chanda Kochhar's husband Deepak Kochhar and Videocon group promoter Venugopal Dhoot
+p2
+sS'meta_description'
+p3
+S"ICICI Bank board will next week discuss coordinated efforts with the government and RBI regarding the Videocon loan case, involving Chanda Kochhar's husband Deepak Kochhar and Videocon group promoter Venugopal Dhoot"
+p4
+sS'datetime'
+p5
+V09-Sep-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Companies/l01jlUoYLtvMXGaq7NY7LN/Sebi-may-summon-ICICI-Bank-CEO-Chanda-Kochhar-soon.html
+p8
+sS'title'
+p9
+VSebi may summon ICICI Bank CEO Chanda Kochhar soon
+p10
+s.

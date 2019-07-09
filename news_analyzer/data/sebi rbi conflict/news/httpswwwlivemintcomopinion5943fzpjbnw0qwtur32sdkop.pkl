@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWith credit ratings threatening to disrupt markets, the systemic issues with rating agencies must be urgently fixed
+p2
+sS'meta_description'
+p3
+S'With credit ratings threatening to disrupt markets, the systemic issues with rating agencies must be urgently fixed'
+p4
+sS'datetime'
+p5
+V12-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Opinion/5943fzpjbNW0qwtUr32sdK/Opinion--A-muchneeded-revamp-for-rating-agencies.html
+p8
+sS'title'
+p9
+VOpinion | A much-needed revamp for rating agencies
+p10
+s.

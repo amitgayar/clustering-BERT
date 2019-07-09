@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIf North Korea launched a nuclear attack, the death toll would be costly: perhaps as bad as 2.1 million deaths in Tokyo and Seoul alone.\u000a\u000aIn the event of an \u201cunthinkable\u201d escalation, casualties in the East Asian capitals of key American allies would be catastrophic, including as many as 7.7 million injuries, according to a new report from 38 North, a North Korea analysis group based at Johns Hopkins University\u2019s U.S.-Korea Institute.\u000a\u000aSince 2011, North Korea has carried out 98 ballistic missile tests and six underground nuclear tests overall. The most recent, on Sept. 3, clocked in around 120 kilotons and North Korea was quick to claim it had successfully tested a hydrogen bomb. The tests have also revealed the isolated state\u2019s increasing technical sophistication: on July 4 and July 28, North Korean state media said it had tested intercontinental ballistic missiles (ICBMs) capable of reaching the mainland U.S.\u000a\u000aThe report offers hypothetical scenarios based on the assumption that North Korea has a nuclear arsenal of some 20-25 warheads. The warheads are estimated to range from 15 kilotons \u2014 about the size of the \u201cLittle Boy\u201d bomb dropped on Hiroshima in 1945, killing more than 200,000 \u2014 to 250 kilotons \u2014 the estimated strength of a thermonuclear weapon. The report suggests that were North Korea to launch its entire arsenal against Tokyo (population 37.9 million) and Seoul (24.1 million), casualties in each city could reach as high as 3.8 million.\u000a\u000aRead More: How the Japanese Are Preparing for a North Korean Nuclear Attack\u000a\u000aThe report cautions that most nuclear weapons systems don\u2019t have 100% reliability, and America\u2019s allies have defenses \u2014 South Korea has deployed the U.S. Terminal High Altitude Air Defense (THAAD) system despite the initial opposition of new South Korean President Moon Jae-in, while Japan plans to install an Aegis Ashore Ballistic Missile defense system. But Tokyo and Seoul are far more densely populated than they were during World War II or the Korean War (1950-1953), and the latter is in reach of North Korea\u2019s conventional weapons, including artillery, meaning a devastating death toll in any all-out conflict would be certain, according to 38 North.
+p2
+sS'meta_description'
+p3
+S'How many people would be killed in the event of nuclear war with North Korea? For Tokyo and Seoul, the numbers are frightening.'
+p4
+sS'datetime'
+p5
+V05-Oct-2017
+p6
+sS'link'
+p7
+Vhttp://time.com/4971773/north-korea-casualties-nuclear-missile/
+p8
+sS'title'
+p9
+VHow Bad Would War With North Korea Be?
+p10
+s.

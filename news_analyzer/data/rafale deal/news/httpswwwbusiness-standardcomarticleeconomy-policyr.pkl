@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VFrench news website, Mediapart, reported on Wednesday that it had accessed an internal document from aerospace firm Dassault, which stated that partnering Anil Ambani\u2019s defence firm was a quid pro quo to New Delhi for winning a Euro 7.8 billion contract to supply 36 Rafale fighters to the Indian Air Force (IAF).\u000a\u000aThe French website report states: \u201cMediapart has obtained a Dassault company document in which a senior executive is quoted as saying the group accepted to work with Reliance as an \u201cimperative and obligatory\u201d condition for securing the fighter ...
+p2
+sS'meta_description'
+p3
+S"Read more about Row over jets contract: Rafale deal a quid pro quo, says French media on Business Standard. Rafale deal: Joint venture referred to was Dassault Reliance Aerospace (DRAL), which Anil Ambani's Reliance Group had formed with Dassault, with the former holding 51 per cent and the latter 49 per cent of the equity."
+p4
+sS'datetime'
+p5
+V10-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/economy-policy/rafale-deal-a-quid-pro-quo-french-media-118101100017_1.html
+p8
+sS'title'
+p9
+VRow over jets contract: Rafale deal a quid pro quo, says French media
+p10
+s.

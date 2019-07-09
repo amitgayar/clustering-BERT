@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VTo bookmark you need to sign in\u000a\u000aSun Pharma has made some allegations against Moneylife. For clarity and transparency, here is a statement by Moneylife.\u000a\u000aMoneylife has written has three articles on Sun Pharma which are in the public domain.\u000a\u000aThese are based on two voluminous documents that have already been submitted by a whistleblower to the Securities and Exchange Board of India (SEBI). Following the first document, the SEBI chairman has already confirmed that it is investigating the matter.\u000a\u000aFor every article, consistent with journalistic norms, we have asked Sun Pharma for its comments.\u000a\u000aAs journalists, we have naturally published information that would be of interest to readers and to the public at large, especially when we were privileged to have access to it. These had distilled the information available in the whistleblower's report for easy understanding by all\u2014especially small investors.\u000a\u000aHowever, institutional investors naturally wanted more granular information. So, in the best traditions of transparency and public interest, we have decided to allow institutional investors to look at the documents available with us, purely in public interest.\u000a\u000aHowever, we also received requests from brokerage firms and even a human rights NGO (non-government organisation) from Delhi and allowed all those who asked to see the papers to look at them.\u000a\u000aSo the allegation about selective disclosure are completely false.\u000a\u000aCompanies, traditionally, have conference calls and conferences only for institutional investors and analysts. Sun Pharma had a conference call in December as well when this story first broke. So it hardly makes sense for a publicly-listed entity to make such claims.\u000a\u000aIf Sun Pharma believes that these whistleblower documents should be fully in the public space, SEBI should be the body to make them public.\u000a\u000aWe also learnt on November 30, 2018, from a media report that a whistleblower complaint was filed against the company. The said whistleblower documents and other confidential emails are being offered for inspection to institutional investors by one media house as per the above report, which again we are not privy to.\u000a\u000aIn these circumstances, there is a great asymmetry in the information circulating between analysts, investors and media leading to intense speculation. The availability of information contained in the whistleblower documents to a set of selective investors does put other investors including retail investors in a disadvantageous position. We are concerned that certain entities/individuals are adopting unfair trade practices prejudicial to the interest of shareholders and other stakeholders.\u000a\u000aIt is evident from the fact that shareholders value has been drastically eroded within a short span of time due to unsubstantiated complaint/allegation against the company and mala fide campaign launched by certain media houses.\u000a\u000aWe request your office to examine the matter in its entirety, and the role of some media houses and other stakeholders.
+p2
+sS'meta_description'
+p3
+S'Sun Pharma has made some allegations against Moneylife. For clarity and transparency, here is a statement by Moneylife.'
+p4
+sS'datetime'
+p5
+V18-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.moneylife.in/article/statement-by-moneylife-on-sun-pharmas-allegations/56145.html
+p8
+sS'title'
+p9
+VStatement by Moneylife on Sun Pharma\u2019s Allegations
+p10
+s.

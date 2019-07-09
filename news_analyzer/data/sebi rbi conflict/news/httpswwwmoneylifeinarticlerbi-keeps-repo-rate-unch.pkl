@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Reserve Bank of India (RBI) on Friday maintained status quo on repo rate (short-term lending) at 6.5% in its fourth monetary policy review for 2018-19.\u000a\u000a  \u000a\u000a Following the move, the reverse repo rate (short-term borrowing) stands at 6.25%. Subsequently, the marginal standing facility (MSF) and the Bank Rate have also remain unchanged at 6.75%.\u000a\u000a  \u000a\u000a In a statement, the Reserve Bank said, "The decision of the Monetary Policy Committee (MPC) is consistent with the stance of calibrated tightening of monetary policy in consonance with the objective of achieving the medium-term target for consumer price index (CPI) inflation of 4% within a band of 2%, while supporting growth."\u000a\u000a \u000a\u000a The decision of the MPC is consistent with the neutral stance of monetary policy in consonance with the objective of achieving the medium-term target for consumer price index (CPI) inflation of 4% within a band of plus or minus 2%, while supporting growth, the central bank says.\u000a\u000a \u000a\u000a According to the central bank, actual inflation outcomes, especially during August, were below its projections as the expected seasonal increase in food prices did not materialise and inflation excluding food and fuel moderated.\u000a\u000a \u000a\u000a It says, "While the projections of inflation for 2018-19 and first quarter of FY2019-20 have been revised downwards from the August resolution, its trajectory is projected to rise above the August 2018 print. The outlook is clouded with several uncertainties."\u000a\u000a \u000a\u000a "First, the government announced in September measures aimed at ensuring remunerative prices to farmers for their produce, although uncertainty continues about their exact impact on food prices. Secondly, oil prices remain vulnerable to further upside pressures, especially if the response of oil-producing nations to supply disruptions from geopolitical tensions is not adequate. The recent excise duty cuts on petrol and diesel will moderate retail inflation. Thirdly, volatility in global financial markets continues to impart uncertainty to the inflation outlook. Fourthly, a sharp rise in input costs, combined with rising pricing power, poses the risk of higher pass-through to retail prices for both goods and services."\u000a\u000a \u000a\u000a "Firms covered under the Reserve Bank's industrial outlook survey report firming of input costs in second and third quatr of FY2018-19. However, global commodity prices other than oil have moderated, which should mitigate the adverse influence on input costs. Fifthly, should there be fiscal slippage at the centre and/or state levels, it will have a bearing on the inflation outlook, besides heightening market volatility and crowding out private sector investment. Finally, the staggered impact of house rent allowance (HRA) revision by the state governments may push up headline inflation. While the MPC will look through the statistical impact of HRA revisions, there is need to be watchful for any second-round effects on inflation. The inflation outlook calls for a close vigil over the next few months, especially because the output gap has virtually closed and several upside risks persist," RBI added.\u000a\u000a  \u000a\u000a Dr Pami Dua, Dr Ravindra H Dholakia, Dr Michael Debabrata Patra, Dr Viral V Acharya and Dr Urjit R Patel voted in favour of keeping the policy rates unchanged. Dr Chetan Ghate voted in favour of hiking rates by 25 bps.\u000a\u000a  \u000a\u000a The next meeting of the MPC is scheduled between 3rd to 5 December 2018.\u000a\u000aHere are the latest policy rates following MPC review\u2026
+p2
+sS'meta_description'
+p3
+S'The Reserve Bank of India (RBI) on Friday maintained status quo on repo rate (short-term lending) at 6.5% in its fourth monetary policy review for 2018-19.'
+p4
+sS'datetime'
+p5
+V05-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneylife.in/article/rbi-keeps-repo-rate-unchanged-at-65-percentage/55488.html
+p8
+sS'title'
+p9
+VRBI Keeps Repo Rate Unchanged at 6.5%
+p10
+s.

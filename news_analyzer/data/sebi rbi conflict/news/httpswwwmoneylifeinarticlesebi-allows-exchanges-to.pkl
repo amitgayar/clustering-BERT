@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSEBI allows exchanges to trade in stocks and commodities from October 2018\u000a\u000aMarket regulator Securities and Exchange Board of India (SEBI) on Thursday decided to allow all stock exchanges to trade in stocks and commodities from October 2018 in two phases. This will allow BSE and National Stock Exchange (NSE) to offer commodity products on their platform.\u000a\u000aAjay Tyagi, Chairman of SEBI, said, "Phase 1 will cover integration at intermediary level. In Phase 2, necessary steps would be taken to enable a single exchange to operate various segments such as equity, equity derivatives, commodity derivatives, currency derivatives, interest rate futures and debt. To permit trading of commodity derivatives and other segments of securities market on single exchange, the Board approved proposal to remove restrictions by making suitable amendments to Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporation) Regulations 2012, which will be effective from 1 October 2018".\u000a\u000aResponding to a specific query on SEBI not placing Regulations or Amendments before the Parliament, Mr Tyagi admitted an 'oversight' especially while placing the SEBI (Prohibition of Insider Trading) Regulations, 2015. He, however, said that SEBI had already forwarded the Regulations, passed by its Board in 2015, to the Ministry of Finance for placing it before the Parliament. "We have also asked our Legal Department to carry out monthly review on all Regulations and Amendments that have not placed during the Parliamentary session," he said.\u000a\u000aSEBI also tweaked norms on mutual funds to avoid conflict of interest. Accordingly, sponsor of one mutual fund cannot have 10% or more shareholding and representation on the Board of another mutual fund house, the SEBI Chairman said.\u000a\u000aWhile accepting that there is a need to prevent the conflict of interest between advising for investing in financial products and selling of financial products, the SEBI Board decided to have a consultation paper and seek comment from public.  The Consultation Paper will have proposals, one on clear segregation between two activities like providing investment advice and distribution of the investment products/ execution of investment transactions. The second proposal seeks to make mutual fund distributor to explain features of the product and ensure principle of appropriateness of product while distributing MF products to clients.\u000a\u000aThe SEBI Board also approved new norms for credit rating agencies. This includes, increase in minimum net worth to Rs25 crore from Rs5 crore, and mandating 26% minimum stake for promoter of rating agency for three years. SEBI also put restrictions on crossholdings amongst credit rating agencies. Accordingly, no credit rating agency can directly or indirectly hold 10% or more stake or voting rights in another credit rating agency. This also means one credit rating agency cannot have a representation on the Board of other credit rating agency.\u000a\u000aCredit rating agencies are also asked by SEBI to segregate their activities other than rating of financial instruments and economic or financial research to a separate legal entity.\u000a\u000aTalking about Real Estate Investment Trusts (REITs), Mr Tyagi said, SEBI is trying to simplify and rationalise norms for this. As per new changes, REITs would be allowed to invest at least 50% state in holding company or special purpose vehicle (SPV). Similarly, the holding company would be allowed to invest at least 50% stake in SPV, while keeping REITs ultimate holding interest at 26% in the SPV.
+p2
+sS'meta_description'
+p3
+S'This will allow BSE and National Stock Exchange (NSE) to offer commodity products on their platform'
+p4
+sS'datetime'
+p5
+V28-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.moneylife.in/article/sebi-allows-exchanges-to-trade-in-stocks-and-commodities-from-october-2018/52613.html
+p8
+sS'title'
+p9
+VSEBI allows exchanges to trade in stocks and commodities from October 2018
+p10
+s.

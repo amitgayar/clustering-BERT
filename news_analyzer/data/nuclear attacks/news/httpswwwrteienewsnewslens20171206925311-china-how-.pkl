@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA page of "common sense" advice on how people can protect themselves from a nuclear weapons attack or explosion has been published by the official state-run newspaper in northeastern China's Jilin city.\u000a\u000aChina has voiced grave concern over North Korea's nuclear and missiles programme, as well as calling on the United States and South Korea to stop provoking Pyongyang.\u000a\u000aThe full page article in the Jilin Daily explains how nuclear weapons differ from traditional arms and instructs people how to protect themselves in the event of an attack.\u000a\u000aNuclear weapons have five means of causing destruction: light radiation, blast waves, early-stage nuclear radiation, nuclear electro-magnetic pulses and radioactive pollution, the article explained.\u000a\u000aIt said the first four kill instantly.\u000a\u000aPeople who find themselves outside during a nuclear attack should try to lie in a ditch, cover exposed skin in light coloured clothing or dive into a river or lake to try and minimise the possibility of instantaneous death, it said.\u000a\u000aCartoon illustrations of ways to dispel radioactive contamination were also provided, such as using water to wash off shoes and using cotton buds to clean ears, as well as a picture of a vomiting child to show how medical help can be sought to speed the expulsion of radiation through stomach pumping and induced urination.\u000a\u000aThe article does not mention possible attacks by North Korea or any other country.\u000a\u000aThe paper also provided historical context, saying that when the US dropped a nuclear bomb on Hiroshima, Japan, in 1945, light radiation and the blast wave caused fires and storm winds that destroyed 81% of buildings in the city, killing over 70,000 people.\u000a\u000aNorth Korea this year tested what it called its most advanced intercontinental ballistic missile (ICBM) that could reach all of the US.\u000a\u000aPresident Donald Trump has warned he would destroy the North Korean regime if it threatened the US with nuclear weapons.\u000a\u000aChina has rejected military intervention and called for an end to the war of words between Washington and Pyongyang.\u000a\u000aBeijing fears an outbreak of conflict or a chaotic collapse of the North Korean regime, which might see fighting or waves of refugees cross the 1,400km border into China.\u000a\u000aUS bombers will fly over the Korean peninsula today as part of a large-scale joint military drills with South Korea.\u000a\u000aThe North has warned the drills would push the Korean Peninsula to the "brink of war".
+p2
+sS'meta_description'
+p3
+S'A newspaper in a Chinese city near the border with North Korea has published a page of "common sense" advice on how readers can protect themselves from a nuclear weapons attack or explosion.'
+p4
+sS'datetime'
+p5
+V05-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.rte.ie/news/newslens/2017/1206/925311-china-how-to-survive-a-nuclear-attack/
+p8
+sS'title'
+p9
+VHow to survive a nuclear attack
+p10
+s.

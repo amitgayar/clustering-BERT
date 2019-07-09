@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VDid Chinese officials involved with their space program express skepticism that the American Moon landings ever happened because their recently landed lunar rover did not find any evidence for them? No, that's not true: the story was made up by a Canadian entertainment website that makes a living by publishing fictional stories often involving weird crimes, bizarre sex acts or strange accidents. It is not real.\u000a\u000aThe story originated from an article published by World News Daily Report on titled "Chinese lunar rover finds no evidence of American Moon landings" (archived here) which opened:\u000a\u000aBeijing | Top officials of the Chinese Space Program have come out this week and expressed their skepticism that the American Moon landings ever happened, reports the Beijing Daily Express. More than 2,000 high-ranking officials of the Chinese Communist Party have signed a petition this week asking explanations from the American government concerning the American Moon landings after doubts arose that the Apollo Moon landings ever happened. These allegations have come up after recent analysis of pictures taken from the Chinese Chang'e-4 probe allegedly found no traces of the American Moon landings existing on the Moon.\u000a\u000aWe found no trace of any newspaper named "Beijing Daily Express". The story also quotes a "Russian astrophysicist":\u000a\u000aBut the only person by that name we were able to find is an antisemitic political activist with a history of promoting Moon landing conspiracy theories\u000a\u000aIn addition to that: the thing the Chinese lunar probe is most famous for is that it is the first one to land on the side of the Moon that is always facing away from Earth (i.e. the so-called "dark side"):\u000a\u000aAll the American Moon landings happened on the other side of the Moon:\u000a\u000aNo evidence of Moon landings would be exactly what one would expect on the far side of the Moon, because there haven't been any. It would be like landing in the desert and not finding any evidence of penguins, or landing on the North Pole and not finding any evidence of palm trees.\u000a\u000aThe website World News Daily Report is a well known satire website specialized in posting hoaxes and made up stories. The disclaimer on their website is pretty clear about that even though you have to scroll all the way down the page to find it:\u000a\u000aIt is run by Janick Murray-Hall and Olivier Legault, who also run the satirical Journal de Mourréal, a satirical site spoofing the (real) Journal de Montéal. Very often their stories feature an image showing a random crazy mugshot found in a mugshot gallery on the internet or on a stock photo website superimposed over a background of flashing police lights or crime scene tape.\u000a\u000aArticles from the site are frequently copied (sometimes even months or years later) by varous fake news websites that omit the satire disclaimer and present the information as real.
+p2
+sS'meta_description'
+p3
+S'Did Chinese officials involved with their space program express skepticism that the American Moon landings ever happened because their recently landed lunar rover did not find any evidence for them?'
+p4
+sS'datetime'
+p5
+V05-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://hoax-alert.leadstories.com/3470051-fake-news-54.html
+p8
+sS'title'
+p9
+VFake News: Chinese Lunar Rover Finds No Evidence of American Moon Landings (Exactly As Expected...) | Lead Stories
+p10
+s.

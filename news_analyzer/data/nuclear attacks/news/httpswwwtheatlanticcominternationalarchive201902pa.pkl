@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWhat was most revealing about the first day of President Donald Trump\u2019s summit in Vietnam with Kim Jong Un wasn\u2019t the president\u2019s characterization of his private conversation with the North Korean dictator (\u201cBoy, if you could have heard that dialogue, what you would pay for that dialogue\u201d). It wasn\u2019t his refusal to respond to shouted questions about the fact that, back in Washington, D.C., all eyes were on his former lawyer Michael Cohen, who was assailing the president\u2019s character and conduct.\u000a\u000aInstead it was what was left unsaid: As Trump sought to persuade Kim to give up his nuclear weapons, enticing his young \u201cfriend\u201d with visions of a disarmed North Korea as an \u201cEconomic Powerhouse,\u201d India and Pakistan were trading blows in a case study of what conflict looks like when countries successfully obtain nuclear weapons despite international opposition.\u000a\u000aThe two developments were particularly striking because, as former U.S. officials and experts who have negotiated with Pyongyang over the years have recounted, North Korean often cites India and Pakistan as models of what it ideally wants from the United States: an end to punishment and isolation for pursuing nuclear weapons, tacit recognition of its status as a nuclear-weapons state, and better relations with Washington. That rationale has a cold logic, but holds only as long as North Korea isn\u2019t involved in the kind of back-and-forth that India and Pakistan find themselves in.
+p2
+sS'meta_description'
+p3
+VAs President Donald Trump meets with North Korea\u2019s dictator, military escalation in South Asia offers lessons.
+p4
+sS'datetime'
+p5
+V27-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.theatlantic.com/international/archive/2019/02/pakistan-india-nuclear-north-korea-trump/583723/
+p8
+sS'title'
+p9
+VThe Nuclear Game Theory of the India-Pakistan Crisis
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VON July 21, 1969, Neil Armstrong made history by becoming the first person to set foot on the earth\u2019s moon.\u000a\u000aBuzz Aldrin soon followed in Armstrong's footsteps. But the authenticity of Apollo 11 has long been questioned. Here's what we know.\u000a\u000aNeil Armstrong, along with Buzz Aldrin stunned the world when they appeared on TV screens in 1969, bouncing around in zero gravity.\u000a\u000aThe US launched a number of subsequent Apollo missions, landing on the moon a total of six times before the programme ended in the 1972.\u000a\u000aSince then however, the conspiracy theory that the landings were faked has grown in popularity, with over 20 per cent of Americans now believing that the US has never landed on the moon.\u000a\u000aThe Cold War was raging, and the two world superpowers, the United States and Soviet Union, were competing for technological superiority.\u000a\u000aThe USA were desperate to win the space race, to prove to the Russians that they were the world leaders, and they were willing to go to extreme lengths to be first past the post in the race to the moon.\u000a\u000aThe theory is that it was just too expensive and too dangerous to land on the moon.\u000a\u000aInstead, Nasa filmed a series of fake moon landings in a studio, complete with props, costumes and a code of silence.\u000a\u000aIt is the shot of the astronauts waving the American flag on the moon that aroused suspicion.\u000a\u000aCritics say the flag's movement shows the presence of wind, which is impossible in a vacuum.\u000a\u000aThe flag had a rod inserted along the top edge to make it stand out, but you can clearly see creases in the flag indicating a billowing movement.\u000a\u000aThere is no breeze on the moon. There is no air in the atmosphere and therefore no wind to help the flag flutter.\u000a\u000aNasa says Aldrin was twisting the flagpole to get the moon soil, which caused the flag to move.\u000a\u000aSome also questioned the lack of stars in the footage.\u000a\u000aIn pictures of the moon's landscapes there are no stars in the sky\u2014it's just a big black void.\u000a\u000aThere are no clouds on the moon so therefore stars are constantly visible and incredibly bright given the lack of atmosphere they need to shine through.\u000a\u000aNasa's argument that the photos are low quality and therefore the stars are washed out doesn't add up, given that some of the photographs are incredibly high quality and yet still no stars shine.\u000a\u000aThen there's the slow-motion walking.\u000a\u000aLow gravity conditions had to be filmed, which may have proven difficult in a sound studio.\u000a\u000aHowever, all they did was broadcast the footage of the astronauts walking and bouncing around in slow motion.\u000a\u000aIf you take the film and increase the speed x2.5 the "space walkers" are clearly moving in normal earth gravity conditions.\u000a\u000aThe high bounces and jumps could easily have been achieved by wires, some critics claim.
+p2
+sS'meta_description'
+p3
+S"In July 1969 Neil Armstrong made a 'giant leap for mankind' by becoming the first person to set foot on the moon"
+p4
+sS'datetime'
+p5
+V01-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://www.thesun.co.uk/tech/6912943/moon-landings-faked-conspiracy-theories-apollo-hoax/
+p8
+sS'title'
+p9
+VWere the moon landings faked? Conspiracy theories about the Apollo programme and why people still think it's a hoax
+p10
+s.

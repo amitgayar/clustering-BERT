@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWhen it comes to the Apollo 11 moon landings in 1969, there are no shortage of conspiracy theories about whether the whole thing was a big con.\u000a\u000aNow, there's a new one to add to the list. This time, people have noticed something strange about photographs of Neil Armstrong's boots that he supposedly wore to take the first step onto the moon's crust on 20 July, 1969, and the boot print itself.\u000a\u000aCritically minded individuals have done some digging in the Smithsonian National Air and Space Museum archives, and found photographs purporting to show Neil Armstrong's space suit, including the bottom of his shoes.\u000a\u000aImportantly, the bottom of the space boots appear to be smooth, without any grips:\u000a\u000aThe photograph of the first steps on the moon, however, shows something completely at odds with the photograph - a print that has what appear to be strong and deep grips.\u000a\u000aSo, what's going on here then, space sleuths? Have we just stumbled upon conclusive evidence that the entire Apollo 11 moon landings were a hoax?\u000a\u000aWell, we hate to disappoint you, but no, most probably not.\u000a\u000aYes, it's true that the print and the boots don't match - but there are a lot of reasons for this.\u000a\u000aFirst, while Armstrong and the other crew members did wear the Apollo / Skylab A7L spacesuit pictured above, they also had a lot more gear. Specifically overshoes, with deep tread marks on them - that are exactly the same as the ones on the moon.\u000a\u000aThe second, and kind of crucial point, is that the photograph of the print doesn't even belong to Neil Armstrong, it is, in fact, from Buzz Aldrin.\u000a\u000aAnd finally - why weren't the overshoes in the museum, too? Well, we weren't going to let you get away with it that easily.\u000a\u000aNASA report that the team just left them on the moon, abandoned along with TV lenses and some bodily fluids. Nice one, guys.
+p2
+sS'meta_description'
+p3
+VWhen it comes to the Apollo 11 moon landings in 1969, there are no shortage of conspiracy theories about whether the whole thing was a big con.  Now, there's a new one to add to the list. This time, people have noticed something strange about photographs of Neil Armstrong's boots that he supposedly wore to take the first step onto the moon's crust on 20 July, 1969, and the
+p4
+sS'datetime'
+p5
+V06-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.indy100.com/article/neil-armstrong-who-first-man-walked-the-moon-conspiracy-boots-space-8568966
+p8
+sS'title'
+p9
+VConspiracy theorists point out something controversial about Neil Armstrong's first steps on the moon
+p10
+s.

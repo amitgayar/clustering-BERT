@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNorth Korean nukes would cause millions of deaths in Seoul and Tokyo\u000a\u000aThe shocking total was calculated using computer models to determine the impact of Kim Jong-un\u2019s nuclear arsenal on the two densely populated capitals.\u000a\u000aTensions on the Korean Peninsula are running high as the hermit state shows no sign of slowing in its pursuit of more powerful nukes, as well as the long-range missiles needed to deliver them to their targets.\u000a\u000aBecause of the top secret nature of North Korea\u2019s nuclear programme, it is impossible to predict exactly how much damage dictator Kim could cause if he pressed the button.\u000a\u000aBut Michael Zagurek Jr, an expert on the effects of nuclear weapons, has run a series of simulations based on everything from conservative estimates to \u2018worst case scenario\u2019 numbers.
+p2
+sS'meta_description'
+p3
+S'NORTH Korean nuclear strikes on Seoul and Tokyo could kill more than two million people and injure nearly seven million, according to new predictions.'
+p4
+sS'datetime'
+p5
+V05-Oct-2017
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/world/862873/world-war-3-latest-news-north-korea-seoul-tokyo-nuclear-strike
+p8
+sS'title'
+p9
+VWorld War 3: North Korea could kill more than 2 MILLION in a nuclear strike, expert warns
+p10
+s.

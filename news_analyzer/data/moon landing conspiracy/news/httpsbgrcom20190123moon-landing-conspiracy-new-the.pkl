@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNASA\u2019s Apollo 11 mission landed astronauts Neil Armstrong and Buzz Aldrin on the Moon in July of 1969, but that\u2019s not what some would have you believe.\u000a\u000aConspiracy theories about NASA having allegedly faked the Moon landings are not new. They all focus on the idea that NASA shot footage of supposed lunar excursions in a movie studio right here on Earth, but a new theory by a seasoned conspiracy pusher really takes the cake in terms of utter absurdity.\u000a\u000aJay Weidner, an author and filmmaker who has proposed theories that include the Sun awakening higher levels of human consciousness and the government\u2019s alleged use of airborne chemicals to keep us complacent, has now weighed in on the Moon landings, and boy am I glad he did.\u000a\u000aAs Express reports, Weidner made some bold claims on a recent radio show that included NASA faking video footage of the Moon landings to fool the Russians, but then actually landing on the Moon at the same time anyway. Wait\u2026 what?\u000a\u000a\u201cI think they just decided for publicity reasons that it was probably better to have somebody do it here on Earth,\u201d Weidner claimed. \u201c\u201cThen they could go about their business and not reveal their secret equipment to the Soviet Union during the middle of the Cold War.\u201d\u000a\u000aAnd who would have been responsible for ensuring that the faked footage looked realistic? Well our good friend Stanley Kubrick of course! Kubrick, whose name has been attached to fake Moon landing conspiracies for literally decades, gets credit from Weidner as the mastermind behind the \u201cfake\u201d footage of Neil Armstrong setting foot on the lunar surface.\u000a\u000aThis half of the theory is nothing new, but it\u2019s Weidner\u2019s insistence that NASA did indeed land on the Moon is what really makes this claim a special flavor of crazy.\u000a\u000a\u201cI\u2019m not saying we did not go to the Moon,\u201d Weidner said. \u201cI believe we did go to the Moon.\u201d He goes on to insist that NASA went to the Moon but just didn\u2019t want to show the public the actual footage of the event because the Russians might have been watching.\u000a\u000aNASA, for its part, has always insisted that the footage of its several Moon landings and excursions are genuine, and considers any doubts to be an insult to the countless men and women who made the missions possible.
+p2
+sS'meta_description'
+p3
+S"NASA's Apollo 11 mission landed astronauts Neil Armstrong and Buzz Aldrin on the Moon in July of 1969, but that's not what some would have you believe. Conspiracy theories about NASA having allegedly faked the Moon landings are not new."
+p4
+sS'datetime'
+p5
+V23-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://bgr.com/2019/01/23/moon-landing-conspiracy-new-theory/
+p8
+sS'title'
+p9
+VThere\u2019s a new fake Moon landing theory, and it\u2019s dumber than you could possibly imagine
+p10
+s.

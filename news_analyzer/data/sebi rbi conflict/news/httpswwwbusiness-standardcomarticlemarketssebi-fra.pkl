@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMarkets regulator Sebi has announced new rules for re-classification of a promoter as a public investor, wherein an outgoing promoter will have to relinquish special rights as well as control over the affairs of the listed firm and will not be allowed to hold over 10% stake.\u000a\u000aThe promoter would not be allowed to have any representation on the board of directors or act as a key managerial person in the listed entity. The promoter seeking re-classification must not be a wilful defaulter or a fugitive economic offender, the Securities and Exchange Board of India (Sebi) said in a ...
+p2
+sS'meta_description'
+p3
+S"Read more about Sebi frames new rules for re-classification of promoter as public investor on Business Standard. Market regulator's norms will prevent outgoing promoters from continuing to exercise their control on the company directly or indirectly."
+p4
+sS'datetime'
+p5
+V22-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/markets/sebi-frames-new-rules-for-re-classification-of-promoter-as-public-investor-118112201278_1.html
+p8
+sS'title'
+p9
+VSebi frames new rules for re-classification of promoter as public investor
+p10
+s.

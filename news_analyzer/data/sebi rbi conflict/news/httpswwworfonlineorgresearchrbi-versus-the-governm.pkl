@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSet up in 1990, ORF seeks to lead and aid policy thinking towards building a strong and prosperous India in a fair and equitable world. It helps discover and inform India\u2019s choices, and carries Indian voices and ideas to forums shaping global debates. ORF provides non-partisan, independent analyses and inputs on matters of security, strategy, economy, development, energy, resources and global governance to diverse decision-makers (governments, business communities, academia, civil society). ORF\u2019s mandate is to conduct in-depth research, provide inclusive platforms and invest in tomorrow\u2019s thought leaders today.
+p2
+sS'meta_description'
+p3
+S'Conflicts between banks and govts are embedded in evolving discourse of democracy. The discord between RBI & MoF is neither first nor likely to be the last'
+p4
+sS'datetime'
+p5
+V07-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://www.orfonline.org/research/rbi-versus-the-government-independence-and-accountability-in-a-democracy-46085/
+p8
+sS'title'
+p9
+VRBI versus the government: Independence and accountability in a democracy
+p10
+s.

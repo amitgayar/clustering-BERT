@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VBut the Soviet explorers died, with theories suggesting this is why the government covered up the fact it had undertaken the ill-fated mission.\u000a\u000aThe claims have been backed up by a conspiracy theory video which has emerged online purporting to show the cosmonauts walking on the Moon before the Apollo 11 mission.\u000a\u000aAccording to history, Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the moon on July 20, 1969 \u2013 48 years ago.\u000a\u000aBut the USSR was actually the first to reach the moon, landing the first spacecraft, which beamed back pictures, Dailystar.co.uk reports.\u000a\u000aThe Russians also sent the first rovers to drive around the lunar surface.\u000a\u000aYouTube channel The Unknown released the video which also claimed NASA astronauts, who later went to the moon, found and buried evidence revealing cosmonauts beat them to the Moon and may have perished there.\u000a\u000aAccording to The Unknown, a clip of a \u201csecret night rocket launch\u201d was found in the Russian archive and another video shows a Soviet spacecraft landing on the moon and cosmonauts getting out.
+p2
+sS'meta_description'
+p3
+S'RUSSIAN cosmonauts beat Neil Armstrong to be the first man on the moon, according to a shock new theory.'
+p4
+sS'datetime'
+p5
+V25-Jul-2017
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/weird/832865/Russians-first-on-moon-lunar-landings-hoax-NASA
+p8
+sS'title'
+p9
+VNeil Armstrong NOT first man on moon as astronaut beaten by RUSSIA - shock new claims
+p10
+s.

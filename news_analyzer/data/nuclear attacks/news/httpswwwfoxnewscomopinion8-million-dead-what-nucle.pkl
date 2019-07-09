@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+VWhen it comes to North Korea, Americans are having to face the prospect of a rogue nation\u2014a human rights abuser on par with Nazi Germany\u2014that is now armed with nuclear weapons that can strike our homeland.
+p4
+sS'datetime'
+p5
+V15-Aug-2017
+p6
+sS'link'
+p7
+Vhttps://www.foxnews.com/opinion/8-million-dead-what-nuclear-war-with-north-korea-could-look-like
+p8
+sS'title'
+p9
+V8 million dead - what nuclear war with North Korea could look like
+p10
+s.

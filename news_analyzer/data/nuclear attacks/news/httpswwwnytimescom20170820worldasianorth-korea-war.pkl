@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VHe never specified the \u201cbad choice.\u201d But as George F. Kennan, the diplomat and the author of the theories for containing the Soviet Union, told students at the National War College in 1946, \u201cYou have no idea how much it contributes to the general politeness and pleasantness of diplomacy when you have a little quiet armed force in the background.\u201d Mr. Tillerson seems to be adhering to that advice.\u000a\u000aAt the same news conference, Mr. Mattis described a situation in which the United States would act without seeking agreement from the South. If American forces in the Pacific detected a missile launch by North Korea toward American or allied soil, \u201cwe would take immediate, specific actions to take it down,\u201d he said.\u000a\u000aMr. Mattis\u2019s assertion left open the question of whether the United States would, through direct attack or cybersabotage, try to destroy North Korea\u2019s missiles before they left the launchpad. That, in turn, could trigger a bigger operation \u2014 a plan called Kill-Chain that was named in a recent joint statement from the United States and South Korea \u2014 to systematically wipe out North Korea\u2019s launch sites, nuclear facilities and command and control centers.\u000a\u000aIts own authors have doubts about whether Kill-Chain could be executed swiftly enough to work, but the decision to publicly refer to it was deliberate, senior officials say. While the plan itself is classified, its goal is a systematic elimination of the North\u2019s ability to threaten South Korea, Japan and the United States.\u000a\u000aAmong the skeptics of a pre-emptive strike was Stephen K. Bannon, Mr. Trump\u2019s chief strategist, who was fired on Friday. Just days before, he had declared in an interview with The American Prospect, a liberal magazine, that \u201cthere is no military solution here, they got us.\u201d\u000a\u000aThat is the conventional view. But General McMaster took issue with his predecessor in the Obama administration, Susan E. Rice, who argued in a recent Op-Ed in The New York Times that preventive war would be \u201clunacy.\u201d (Preventive war describes a conflict that a stronger power starts to defeat a weaker rival and is widely considered illegal under international legal conventions. A pre-emptive strike involves attacking first when an imminent attack is detected. In American history, the debate over the two goes back 180 years, to an 1837 dust-up with Canada.)\u000a\u000a\u201cHistory shows that we can, if we must, tolerate nuclear weapons in North Korea \u2014 the same way we tolerated the far greater threat of thousands of Soviet nuclear weapons during the Cold War,\u201d she wrote.
+p2
+sS'meta_description'
+p3
+S'In a departure from their predecessors, some in the Trump administration have surmised that Cold War-style containment will not work and that a military option is available.'
+p4
+sS'datetime'
+p5
+V20-Aug-2017
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2017/08/20/world/asia/north-korea-war-trump.html
+p8
+sS'title'
+p9
+VTalk of \u2018Preventive War\u2019 Rises in White House Over North Korea
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA London gallery is hosting a new exhibition focused on the first moon landing in 1969 \u2014 or not.\u000a\u000aNo Moon Landing \u2013 Paintings & Sculpture by Stratford artist Jack Winn is on at Fringe Custom Framing and Gallery until July 30.\u000a\u000aAn opening reception will be held Saturday at 7 p.m. and an artist talk is scheduled for July 27 at 2 p.m.\u000a\u000a\u201cWhether you are skeptical, or firmly landed in your opinions, Jack Winn\u2019s No Moon Landing exhibition challenges you to think; to open your mind to the possibility that man\u2019s greatest feat may be man\u2019s greatest fraud,\u201d said gallery co-owner Nicole Schultz.\u000a\u000a\u201cAnd if so, let\u2019s at least stick some googly eyes on it and have a good laugh.\u000a\u000a\u201cWinn\u2019s mixed media paintings and sculpture come together to show not only his passion for space exploration and cosmology, but also his wary and sometimes heartbreaking distrust in what the past 50 years in science and space discovery has revealed about one of the greatest events in human history. Consuming himself in the science and theories surrounding this monumental event, absorbing new facts and suspicious details, he would love nothing more than to be proven wrong.\u201d\u000a\u000aApollo 11 landed the first two humans on the moon and Commander Neil Armstrong became the first person to step onto the lunar surface on July 21, 1969.\u000a\u000aThere are conspiracy theorists who believe the landing was faked.\u000a\u000aWhat: No Moon Landing \u2013 Paintings & Sculpture by Jack Winn\u000a\u000aWhen: Until July 30; opening reception Saturday, 7 p.m., and artist talk July 27, 2 p.m.
+p2
+sS'meta_description'
+p3
+VA London gallery is hosting a new exhibition focused on the first moon landing in 1969 \u2014 or not.
+p4
+sS'datetime'
+p5
+V10 hours ago
+p6
+sS'link'
+p7
+Vhttps://www.fortmcmurraytoday.com/entertainment/local-arts/stratford-artists-exhibition-focuses-on-1969-lunar-landing/wcm/eb98ced2-715d-4c08-83f5-8e8ca9a0ff4e
+p8
+sS'title'
+p9
+VStratford artist's exhibition focuses on 1969 lunar landing
+p10
+s.

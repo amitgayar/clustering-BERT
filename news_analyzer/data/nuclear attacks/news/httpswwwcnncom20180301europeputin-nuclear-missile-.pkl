@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VPutin boasted about the Kremlin's resurgent military might during his annual address to his nation's Parliament, hyping weaponry that he said would render NATO defenses "completely useless."\u000a\u000aHe drew repeated applause with animation-backed claims of nuclear-capable weapons that elude air-defense systems and "invincible" missiles that travel at hypersonic speed.\u000a\u000a"Any use of nuclear weapons against Russia or its allies, any kind of attack, will be regarded as a nuclear attack against Russia, and in response, we will take action instantaneously no matter what the consequences are," Putin said. "Nobody should have any doubt about that."\u000a\u000a"Russia still has the greatest nuclear potential in the world, but nobody listened to us," he said. "Listen now." To drive home his point, Putin spoke as a video showed multiple nuclear warheads streaking through space before showering down on what appears to be the outline of the state of Florida. "But even this is not the end," Putin said. "We've developed new strategic weapons that don't use ballistic trajectory at all, which means that missile defense will be useless against it." White House press secretary Sarah Sanders told reporters that Putin's remarks confirmed what the United States has long known: "Russia has been developing destabilizing weapons systems for over a decade, in direct violation of its treaty obligations," she said. "President Trump understands the threats facing America and our allies in this century and is determined to protect our homeland and preserve peace through strength," she added. "US defense capabilities are and will remain second to none." US State Department spokeswoman Heather Nauert said department officials watched Putin's speech with interest. "It was certainly unfortunate to have watched the video animation that depicted a nuclear attack on the United States," she said. "That's certainly something that we did not enjoy watching. We don't regard that as the behavior of a responsible international player." CNN national security analyst Samantha Vinograd said Putin's braggadocio was meant to rile up Trump, whose presidency has been marred by investigations into Russian meddling in the 2016 election "I do think Vladimir Putin was speaking to one audience," she said. "It wasn't anyone in Russia. It was Donald Trump." "He was trying to get the President distracted from anything that Trump may be doing to hold Russia accountable for the ongoing attack on the United States," she said. "The President's inaction makes Vladimir Putin think, 'Why wouldn't I say all this? Why wouldn't I show that I can violate treaties and laws and talk about strategic attacks all around the world?' Vladimir Putin has no reason to feel constrained in any way."
+p2
+sS'meta_description'
+p3
+S"Russian President Vladimir Putin on Thursday used a concept video of unlimited range nuclear warheads apparently raining down on Florida -- President Donald Trump's home away from home -- to tout his country's new firepower."
+p4
+sS'datetime'
+p5
+V01-Mar-2018
+p6
+sS'link'
+p7
+Vhttps://www.cnn.com/2018/03/01/europe/putin-nuclear-missile-video-florida/index.html
+p8
+sS'title'
+p9
+VPutin boasts military might with animation of Florida nuke strike
+p10
+s.

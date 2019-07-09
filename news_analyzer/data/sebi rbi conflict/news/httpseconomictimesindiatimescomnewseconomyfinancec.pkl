@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VCredit rating firms came under sharp criticism from the Reserve Bank of India (RBI) for failing to identify financial troubles in various companies, especially in the case of IL&FS.In a meeting with top credit ratings officials on Thursday, central bank governor Shaktikanta Das and the deputy governors expressed concerns over rating agencies\u2019 inability to assess credit risk and take timely rating actions, said people who attended the meeting.\u201cRBI said that ratings are supposed to be forward-looking, but they are always a laggard,\u201d said one of the people quoted above. The central bank is said to have told credit ratings officials that the abrupt ratings downgrades in recent months have hurt investors and banks. RBI declined to comment on an email query by ET on the matter.Credit Rating agencies have been criticised for being late in identifying the stress in the IL&FS Group, which defaulted on its loans from banks, mutual funds and provident funds. Various debt mutual fund schemes saw erosion in their net asset values, or NAVs, because of the defaults. The crisis soon spread to other non-banking finance companies \u2014 mainly housing finance \u2014 which have been struggling to sort out their asset-liability mismatches.\u201cRBI said one third of the total NPAs ( non-performing assets ) in the system stemmed from investment grade ratings,\u201d said one of the persons quoted above.Total stressed assets are about Rs 12 lakh crore in the banking system. Das was concerned over the \u201cconflict of interest\u201d in the country\u2019s credit rating agencies, the person said.Globally, rating agencies limit themselves to ratings and research related to credit ratings. All other businesses like market research, training, risk solutions are carried out under separate entities with no common directors, employees and shareholding from the rating entity.In India, the same rating agency rates and provides valuation opinions to the same set of securities to investors like mutual funds and provides advisory services.\u201cIn many instances, the business origination employees are also common. In RBI\u2019s view, this is conflict of interest and RBI is looking at suitable regulations to address this issue,\u201d said one of the persons quoted above.The central bank governor disapproved of the practice of \u201crating shopping\u201d\u2014 where companies migrate from one rating agency to another for better ratings. \u201cRBI was also concerned about issues such as rating agency CEOs being part of rating committees and rating advisors who promise better ratings to an issuer due to their special relationship with rating agencies,\u201d said the second person quoted above.RBI is examining the matter and along with Sebi, it will bring out regulations to address this, the person said. Though credit rating agencies are registered with the capital market regulator Sebi, they are jointly regulated by both Sebi and RBI as these firms rate bank loans which constitute 70% of their business.On short-term instruments like commercial paper, RBI feels that the ratings do not reflect the pricing these papers command.
+p2
+sS'meta_description'
+p3
+S'Shaktikanta Das is particularly concerned over conflict of interest cases in rating agencies, sources said.'
+p4
+sS'datetime'
+p5
+V07-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/news/economy/finance/credit-rating-firms-came-under-criticism-from-rbi/articleshow/68312205.cms
+p8
+sS'title'
+p9
+VCredit rating firms face criticism from RBI
+p10
+s.

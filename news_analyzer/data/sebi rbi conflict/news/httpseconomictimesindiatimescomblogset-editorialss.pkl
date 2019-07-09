@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VToo much need not be read into a letter from markets regulator Sebi to banking regulator RBI on the latter\u2019s direct instructions to market participants in relation to trading in HDFC Bank shares. Sebi is in the right. The conduct of trade in securities is its business. The RBI, as the regulator for banks, is responsible for maintaining sectoral foreign investment caps.\u000a\u000aWhen the possibility of foreign investment in HDFC Bank breaching the permitted cap became clear, the RBI intervened to ask custodians to not clear trades any further. At first blush, it would seem that the right thing would have been for the RBI to ask Sebi to act. However, that is not the ideal solution.\u000a\u000aThe ideal solution is not for different regulators of the financial sector to cooperate, each minding the other\u2019s turf. The ideal solution is to have unified regulation of the financial sector, eliminating the question of turf transgression or unregulated no-man\u2019s land in financial markets. Financial markets intersect with one another, the more developed they are. Credit default swaps (CDS) insure against the possibility of a bond holder not being paid when the time comes for its redemption.\u000a\u000aAfter the 2008 financial crisis, the effort has been to make credit default swaps guaranteed by a counterparty, as far as possible. That means CDS should come under the purview of the markets regulator, although they are quintessentially insurance products.\u000a\u000aIndia took a significant step forward towards unified regulation when a separate commodities regulator was scrapped and Sebi was given charge of regulating commodity markets. We still have some way to go, to reach the ideal of unified regulation.\u000a\u000aUnified regulation does not mean one node of regulatory authority. A financial conduct authority should supervise all financial markets but should, itself, function informed by the advice of a macroprudential regulator.\u000a\u000aFrom a single bank\u2019s point of view, the sensible thing might be to freeze lending, in a particular situation, but a macroprudential imperative might prod it to lend more, to prevent a systemic crisis.
+p2
+sS'meta_description'
+p3
+VToo much need not be read into a letter from markets regulator Sebi to banking regulator RBI on the latter\u2019s direct instructions to market participants in relation to trading in HDFC Bank shares. Sebi is...
+p4
+sS'datetime'
+p5
+V06-Mar-2017
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/blogs/et-editorials/spat-between-sebi-and-rbi-underlines-the-need-for-unified-regulation/
+p8
+sS'title'
+p9
+VSpat between Sebi and RBI underlines the need for unified regulation
+p10
+s.

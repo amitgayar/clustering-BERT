@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThere are few conspiracy theories more enduring than the ones about the moon \u2013 did we really land on it? Did the astronauts see aliens? Does the moon actually exist?\u000a\u000aWell, a new one has been added to the mix.\u000a\u000aThey believe that they spotted some kind of \u2018Lunar Base\u2019 in the background, or buildings.\u000a\u000aAstronaut John Young can be seen in the original footage collecting lunar samples to send back to Earth.\u000a\u000aThe robot-sounding voiceover says that the lumps on the surface was yet new \u201cevidence as to what\u2019s on the moon\u201d.\u000a\u000aAnd then, they show a montage of the still photographs from the video, zooming in on the shapes that appear to be blurry images of buildings.\u000a\u000aThe video has been viewed almost 50,000 times, and some people in the comment\u2019s section took the opportunity to rehash the old conspiracy line:\u000a\u000aMost of the moon landing pictures were taken in remotes parts of the earth, there was no moon landing, come on!\ufeff\u000a\u000aHowever people were mostly of this sentiment:\u000a\u000aThe European Space Agency recently revealed images of what permanent structures on the moon could look like, in the future.\u000a\u000aBut thus far, the moon is bereft of buildings.
+p2
+sS'meta_description'
+p3
+VThere are few conspiracy theories more enduring than the ones about the moon \u2013 did we really land on it? Did the astronauts see aliens? Does the moon actually exist? Well, a new one has been added to the mix. The YouTube Channel UFOMania recently released a video featuring footage from the Apollo 16 moon landing in 1972. They believe that they spotted some kind of \u2018Lunar Base\u2019
+p4
+sS'datetime'
+p5
+V18-Apr-2018
+p6
+sS'link'
+p7
+Vhttps://www.indy100.com/article/conspiracy-theory-buildings-on-the-moon-apollo-landing-8310641
+p8
+sS'title'
+p9
+VConspiracy theorists have spotted something 'wrong' in this footage of a moon landing
+p10
+s.

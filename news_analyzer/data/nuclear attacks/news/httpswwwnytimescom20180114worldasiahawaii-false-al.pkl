@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMoscow received contradictory reports as to whether its pilots had shot down an airliner or a spy plane, and Soviet leaders were biased toward trusting their own. So when they declared it a legal interception of an American military incursion, American leaders, who knew this to be false, assumed Soviet leaders were lying. Moscow had downed the airliner deliberately, some concluded, in an act of undeclared war.\u000a\u000aAt the same time, Washington made a nearly perfect mirror-image set of mistakes \u2014 suggesting that such misreadings are not just possible, but dangerously likely.\u000a\u000aMr. Reagan, furious at the loss of life, accused Moscow of deliberately targeting the civilian airliner. He denounced Soviet society itself as rotten and in pursuit of world domination.\u000a\u000aIn fact, a C.I.A. assessment, included in the president\u2019s daily briefing that morning, had concluded the incident was likely an error. Mr. Reagan appeared to have simply missed it.\u000a\u000aBut Soviet leaders had never considered this; they assumed Mr. Reagan was lying about their intentions. Some concluded he had somehow lured the Soviet Union into downing the aircraft as cover for a massive pre-emptive attack, which they feared might come at any moment.\u000a\u000aEach read the other\u2019s blundering and dissembling as intentional, deepening suspicions among hard-liners that the other side was laying the groundwork for war. And if war was coming, the logic of nuclear deterrence all but required firing first.\u000a\u000aNuclear-armed missiles had recently achieved a level of speed and capability so that one power could completely disarm another in a matter of minutes. This created something called first-strike instability, in which firing first \u2014 even if you think you might be firing in error \u2014 is the only way to be sure of preventing your own obliteration.
+p2
+sS'meta_description'
+p3
+S'Security experts called it a frightening warning of how a technical error could trigger an unintended conflict with North Korea.'
+p4
+sS'datetime'
+p5
+V14-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2018/01/14/world/asia/hawaii-false-alarm-north-korea-nuclear.html
+p8
+sS'title'
+p9
+VHawaii False Alarm Hints at Thin Line Between Mishap and Nuclear War
+p10
+s.

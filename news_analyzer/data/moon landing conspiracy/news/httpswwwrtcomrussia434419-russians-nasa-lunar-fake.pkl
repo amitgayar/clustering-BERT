@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VOver a half of all Russians believe that US astronauts have never been on the Moon and that the US authorities and NASA covered up this fact by forging proof of moon landings, a new poll shows.\u000a\u000aIn the recent survey titled \u201cScience and society: authority and trust\u201d experts of the Russian state-run public opinion research center VTSIOM wrote that 57 percent of Russians currently think that the US claims of successful manned Moon missions are lies and that the documented proof of these missions was forged. Only 24 percent of respondents said that they believed that the manned Moon missions were real.\u000a\u000aResearchers also specified that 65 percent of those who think that the US authorities are lying about the moon landings have secondary education.\u000a\u000aHowever, Russians are not only suspicious about the NASA moon missions. 59 percent of the poll participants share the opinion that \u201cscientists conceal the truth from common people.\u201d Even among Russians with higher education the proportion was extremely high \u2013 at 45 percent.\u000a\u000aWhen facing the question if the scientists possessed some \u201cobjective knowledge\u201d about the reality the Russian public again split into almost equal parts: 42 percent agreed that this was true while 41 percent said that in their opinion the scientists who claimed this weren\u2019t telling the truth, albeit in good faith.\u000a\u000aIn the same poll, three percent of Russians said that they personally supported the flat Earth theory. 93 percent said that they shared the traditional opinion of Earth being a ball-shaped planet and four percent found it too difficult to answer the question.\u000a\u000aAs far as space aliens are concerned, 45 percent of the poll participants said that they believed in the existence of extraterrestrial civilizations and 42 percent think that aliens either don\u2019t exist or for some reason prefer not to visit Earth and contact humans. 18 percent of respondents said that in their opinion the authorities were hiding proof of alien visits from the general public.\u000a\u000aIf you like this story, share it with a friend!
+p2
+sS'meta_description'
+p3
+S'Over a half of all Russians believe that US astronauts have never been on the Moon and that the US authorities and NASA covered up this fact by forging proof of moon landings, a new poll shows.'
+p4
+sS'datetime'
+p5
+V27-Jul-2018
+p6
+sS'link'
+p7
+Vhttps://www.rt.com/russia/434419-russians-nasa-lunar-fake/
+p8
+sS'title'
+p9
+VMost Russians believe NASA\u2019s lunar missions were fake
+p10
+s.

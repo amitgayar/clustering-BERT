@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'In her answer to Parliament, the Defence Minister claimed that the secrecy pact between the governments of India and France prevented her from divulging the details of the Rafale deal.'
+p4
+sS'datetime'
+p5
+V06-Feb-2018
+p6
+sS'link'
+p7
+Vhttps://www.news18.com/news/politics/rahul-alleges-corruption-in-rafale-deal-urges-media-to-show-spine-in-asking-questions-1652567.html
+p8
+sS'title'
+p9
+VRahul Alleges Corruption in Rafale Deal, Says Modiji Personally Got it Done
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIndian corporates will soon be able to cut through the red tape in raising capital from the bond market. The Securities and Exchange Board of India (SEBI) is working on a blueprint mechanism that would allow \u2018tap issue of bonds\u2019, according to a report in The Economic Times.\u000a\u000aBond tap gives corporates more leeway in obtaining funds at every point in their business cycle. It also gives them the advantage of cutting down on ancillary costs and reducing the paperwork involved in raising money.\u000a\u000aThe tap issue of a bond implies that is not immediately made available to investors. The issuer of the bond authorises it, and is held in reserve, until the cash flow that its sale entails is required for the company\u2019s operations.\u000a\u000aIf market participants get the nod from the Securities and Exchange Board of India, corporates will be able to sell bonds directly to investors multiple times during a financial year on filing a single prospectus. Retail investors will also be able to buy corporate bonds through stock exchanges.\u000a\u000aA single tap bond issue prospectus can be used by corporates to enter the market multiple throughout the financial year depending on their requirement for funds and also market appetite. It also expedites the process of raising capital as a prospectus need not be issued every time.\u000a\u000aTap issues are akin to the secondary sale of a primary bond issues as exchanges are the platform used for inviting investors. The market regulator is reportedly preparing the ground for \u2018on tap public issue\u2019 and is likely to invite feedback from market participants on the draft framework.\u000a\u000aThe shelf-prospectus currently in use comes with a host of formalities including documentary approval from a registrar and merchant banker. For a tap issue, there is no need to make a fresh advertisements and issue new application forms, thus helping firms save time and money.\u000a\u000aThe introduction of tap issue public bonds is being mooted at a time when the bond market in India is roiled by conflicting regulatory decisions. The Reserve Bank of India (RBI) brought in fresh investment restrictions targeting the round-tripping of money held in overseas bank accounts.\u000a\u000aWith investment into the bond market undergoing greater regulatory scrutiny, the listing window will end up getting prolonged. Aside from extraneous factors such as rising bond yields, RBI\u2019s move is believed to have prompted the recent bond sell-off by foreign portfolio investors.\u000a\u000aThe central bank\u2019s policy is at odds with that of market regulator SEBI. It recently halved the listing time for corporate bonds to six days. To safeguard the interests of investors, it introduced the practice of debiting funds from their accounts only on allotment of securities.\u000a\u000aThe concentration and diversification norms laid down by RBI for FPIs has transformed how they invest in corporate debt securities in the country. The central bank\u2019s rule that investment by any single FPI cannot exceed half the corporate bond issue has brought to an end the earlier trend of one FPI being the sole investor in a debt issuance.\u000a\u000aDiversification norms mandate that FPIs bond portfolio cannot have exposure exceeding 20 percent in a single corporate group. This is in contravention with the move to allow special purpose FPIs invest only in the debt issuances of a corporate group.\u000a\u000aMoreover, FPIs are being weaned away from short term bonds. The rules mandate that FPIs cannot hold over 10 percent of their portfolio in bonds which mature in less than a year. The market for on tap corporate bonds will ease the regulatory hurdles in raising capital but it remains to be seen how liquidity will be impacted given that other restrictions continue to be in place. Catch Budget 2019 LIVE updates here . Click here for full Budget 2019 coverage
+p2
+sS'meta_description'
+p3
+S'The introduction of tap issue public bonds is being mooted at a time when the bond market in India is roiled by conflicting regulatory decisions'
+p4
+sS'datetime'
+p5
+V27-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneycontrol.com/news/business/markets/sebi-moots-on-tap-bond-market-for-direct-sale-to-investors-using-stock-exchanges-2887951.html
+p8
+sS'title'
+p9
+VSEBI moots 'on tap' bond market for direct sale to investors using stock exchanges
+p10
+s.

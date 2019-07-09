@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VBandhan Bank on Friday received exemption from the Securities and Exchange Board of India (Sebi) on one-year lock-in period for selling shares by promotors. This will enable the bank to comply with the Reserve Bank of India's (RBI's) licensing guidelines for new private sector banks.\u000a\u000aEffectively, this entails that Bandhan Bank can now sell promoters\u2019 shares before March 2019. Last month, as a penalty for not complying with the norm of bringing down promoters\u2019 shareholding to 40 per cent within three years of operations, the RBI had withdrawn the ...
+p2
+sS'meta_description'
+p3
+S"Read more about Sebi exempts Bandhan Bank from 1-year lock-in period on promoter shares on Business Standard. Bandhan Bank's capital adequacy ratio is in excess of 30%, one of the highest in the industry"
+p4
+sS'datetime'
+p5
+V12-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/finance/sebi-exempts-bandhan-bank-from-1-year-lock-in-period-on-promoter-shares-118101300059_1.html
+p8
+sS'title'
+p9
+VSebi exempts Bandhan Bank from 1-year lock-in period on promoter shares
+p10
+s.

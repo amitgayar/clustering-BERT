@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VCONSPIRACY theorists have bizarrely claimed that NASA astronauts were "killed" to prevent them from revealing the supposed truth about the moon landings.\u000a\u000aApollo astronauts Neil Armstrong, Buzz Aldrin and Michael Collins were part of the Apollo 11 crew that set foot on the Moon\u2019s surface in 1969. The remarkable mission has generated a raft of conspiracy theories, with many truthers claiming the landings were a hoax.  Some theorists have even argued that spacemen were "bumped off" to hide top-secret information on the NASA programmes.  One \u2013 who goes by the username Sound of Science \u2013 said: \u201c10 Apollo personnel have died in freak accidents, including crashes, collisions and fires.  \u201cAll but one of these deaths were directly related to NASA or the US Air Force.\u000a\u000a\u201cDid they know something we didn\u2019t? Were they silenced?\u201d One particularly shocking incident is the deaths of astronauts Virgil Grissom, Ed White, and Roger Chaffee in 1967.  They were killed in a devastating fire on the Apollo launchpad during a simulation.  The Command Module Interior caught fire and each of them was asphyxiated \u2013 with the fire\u2019s source never determined.  Along with the truthers, Grissom\u2019s family were unconvinced by NASA\u2019s explanation.\u000a\u000a\u201cDid they know something we didn\u2019t? Were they silenced?\u201d His son Scott said: \u201cI think it was intentionally sabotaged by someone, it\u2019s been a question in my mind. \u201cWhat was found in the accident investigation and how was that handled, was the CIA involved or whoever. It was done intentionally.\u201d Grissom\u2019s widow Betty added: \u201cI feel like it is up to NASA to come forward and give us a direct answer to what really happened.\u201d  Many have theorised that Grissom was a whistleblower who wanted to reveal that NASA had no intention of landing on the moon.  Truther Thomas Pickering writes: \u201cI have my own take on why Grissom was murdered the way he was.\u000a\u000a\u201cHe was a suspected or actual whistleblower attempting to reveal that the Apollo space program was a fraud that had no intention of ever going to the moon in reality. \u201cFrom 1961 on the Apollo Simulation Program was a type of US Psyop and never an actual programme to go to the moon.  Before the tragic accident, safety inspector Thomas Baron had compiled a report outlining issues with parts, equipment and procedures at NASA.  He was working for North American Aviation, the primary contractor to build the Apollo command module.  Baron was given the sack after leaking the findings to the media. After the fire broke out, he testified to Congress and went through a larger 500-page report on the accident.
+p2
+sS'meta_description'
+p3
+S'CONSPIRACY theorists have bizarrely claimed that NASA astronauts were "killed" to prevent them from revealing the supposed truth about the moon landings.'
+p4
+sS'datetime'
+p5
+V25-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.dailystar.co.uk/news/weird-news/779658/nasa-moon-landing-space-apollo-apollo-11-fake-conspiracy-1969
+p8
+sS'title'
+p9
+VNASA astronauts were 'KILLED to keep faked moon landings covered-up\u2019
+p10
+s.

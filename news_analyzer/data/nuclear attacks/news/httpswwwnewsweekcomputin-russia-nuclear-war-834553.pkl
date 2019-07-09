@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VPresident Vladimir Putin has warned that he would not hesitate to strike back if Russia was hit by a nuclear adversary, even if it led to a \u201cglobal catastrophe.\u201d\u000a\u000aThe Russian leader spoke to one of his country\u2019s most infamous pro-Kremlin TV show hosts, in a tough-talking interview broadcast on national airwaves before Russians go to the polls later this month.\u000a\u000aAlthough no major rivals are permitted on the ballot and Putin is likely to be re-elected, recent votes in Russia have slumped to record low turnouts. The leader has recently made several headline-grabbing statements to present himself as the bulwark against foreign attacks, as he campaigns on the platform of being a \u201cstrong president\u201d who will ensure a \u201cstrong Russia.\u201d\u000a\u000aAsked about nuclear conflict, Putin said he would trigger a launch if Russia\u2019s own defense systems indicated that an enemy had fired nuclear-tipped missiles.\u000a\u000a\u201cThis is called reciprocal strike,\u201d he told host Vladimir Solovyov, in the nearly two-hour TV film World Order 2018, which the media personality posted on his VK social media account Wednesday. \u201cIf there is this decision to destroy Russia then we have a legal right to respond.\u201d\u000a\u000aQuipping about the aftermath of global devastation, Putin mused: \u201cYes, this would be a global catastrophe for humanity but I, as a citizen of Russia and the head of the Russian state would like to ask you this\u2014what do we need a world for if there is no Russia in it?\u201d\u000a\u000aThe film, narrated by Solovyov, aims to show what an arduous job Putin\u2019s presidency is, but broadly revolves around interview segments with the politician himself, along with footage of foreign officials criticizing sanctions on Russia or highlighting the need for Russia to participate in the resolution of global problems. The talking points and Putin\u2019s comments largely overlap with previous glossy documentaries about the president, such as director Oliver Stone\u2019s largely panned series of interviews with the man.\u000a\u000aPutin is standing for re-election on March 18 for a record fourth time, meaning if he were to win and remain in place until the end of the six-year term, he will be Russia\u2019s longest-serving leader since Soviet autocrat Joseph Stalin.\u000a\u000aAbsent a new set of policies after 18 years in charge, Putin has held a stadium rally to stoke public adulation and moved his formal address in front of parliament last week to a modern venue, where he played clips of next-generation Russian arms.
+p2
+sS'meta_description'
+p3
+V"What do we need a world for if there is no Russia in it?" Putin quipped.
+p4
+sS'datetime'
+p5
+V07-Mar-2018
+p6
+sS'link'
+p7
+Vhttps://www.newsweek.com/putin-russia-nuclear-war-834553
+p8
+sS'title'
+p9
+VPutin warns Russia would strike back if hit by a nuclear attack\u2014even if it led to "global catastrophe"
+p10
+s.

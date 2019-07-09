@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Principal Bench of the National Company Law Tribunal (NCLT) has directed market regulator Securities and Exchange Board of India (Sebi) to de-attach the properties of a corporate debtor attached during its execution proceedings.\u000a\u000aThe matter brings into focus the issue of the in-built disagreement between the Sebi Act and the provisions of the Insolvency and Bankruptcy Code (IBC).\u000a\u000aIn an order earlier this week, the tribunal said: "Sebi is directed to de-attach the properties of the corporate debtor and hand over the possession to the Resolution Professional to conduct the Corporate Insolvency Resolution Process (CIRP) expeditiously, in accordance with the timeline in the Code.\u000a\u000aThe tribunal noted that Sebi is bound by the directions issued by the Securities Appellate Tribunal (SAT), and that provisions of IBC would come into conflict with the stand taken by Sebi.\u000a\u000aA corporate debtor, HBN Dairies and Allies Ltd, an investment scheme operating as an unregistered Collective Investment Scheme (CIS), was admitted into CIRP based on an application filed by some investors.\u000a\u000aA Sebi recovery officer had passed an attachment order on the basis of the Adjudicating Officer's order in 2015, a year before HBN went into CIRP. SAT upheld Sebi's decision on HBN, and subsequently ordered the sale of its assets as a part of recovery.\u000a\u000aHBN told the tribunal that the ongoing recovery proceedings by Sebi would amount to conflict with its plea before the tribunal admitting it into CIRP.\u000a\u000aAdmitting HBN's application, the tribunal saw merit in the case made out by the company and observed on the overriding nature of Section 238 of the IBC. The tribunal allowed the Resolution Professional (RP) to take action on the matter.\u000a\u000aAfter examining the issue, the RP requested the tribunal to de-attach the company properties in view of Section 14 of IBC, which imposes a moratorium on the corporate debtor's properties.\u000a\u000a"In view of the provisions of non-obstante clause of Section 238 of the Code, any right under any other law cannot come in the way of the IBC", the tribunal said.\u000a\u000aThe tribunal also observed that in the absence of records and possession of the property belonging to the corporate debtor, the RP would not be able to perform his duties in a time-bound manner and "there would be no possibility of any resolution which is the primary object of the IBC."\u000a\u000aThe tribunal noted that the Income Tax Department had already de-attached the properties belonging to the corporate debtor, and the RP could go ahead with the possession.\u000a\u000aThe tribunal's order establishes the IBC's superiority over other laws which apparently act as an obstruction during the CIRP.
+p2
+sS'meta_description'
+p3
+S"Read more about NCLT asks SEBI to de-attach corporate debtor's properties on Business Standard. The Principal Bench of the National Company Law Tribunal (NCLT) has directed market regulator Securities and Exchange Board of India (Sebi) to de-attach the properties of a corporate debtor attached during its execution proceedings."
+p4
+sS'datetime'
+p5
+V16-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/news-ians/nclt-asks-sebi-to-de-attach-corporate-debtor-s-properties-119051601240_1.html
+p8
+sS'title'
+p9
+VNCLT asks SEBI to de-attach corporate debtor's properties
+p10
+s.

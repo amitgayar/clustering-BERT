@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSebi is examining whether evaluation of resolution plans by credit rating agencies will lead to violation of its rules related to investment advisory
+p2
+sS'meta_description'
+p3
+S'Sebi is examining whether evaluation of resolution plans by credit rating agencies will lead to violation of its rules related to investment advisory'
+p4
+sS'datetime'
+p5
+V13-Mar-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Money/exCidZ0oFAsQaQnTzwcPzO/Sebi-examining-RBI-norms-on-rating-resolution-plans-of-stres.html
+p8
+sS'title'
+p9
+VSebi examining RBI norms on rating resolution plans of stressed assets
+p10
+s.

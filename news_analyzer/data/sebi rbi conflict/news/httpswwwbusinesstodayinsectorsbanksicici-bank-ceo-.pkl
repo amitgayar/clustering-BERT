@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWeeks after the Sebi served a notice to Chanda Kochhar, it has been reported that the ICICI Bank CEO and MD could face a maximum Rs 25 crore penalty if charges are found to be true. The market regulator last month sent a notice to the ICICI Bank and its CEO Chanda Kochhar, seeking their response on matters relating to alleged non-compliance with certain provisions of the erstwhile Listing Agreement and the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.\u000a\u000aMint today reported that under the current notice, the Sebi has no power to ask ICICI Bank top executive to step down but it can impose financial penalty. A maximum penalty of Rs 25 crore or three times the ill-gotten gains can be levied under Sebi rules, but in Chanda Kochhar's case, the quantum of the penalty may be at the discretion of Sebi's adjudicating officer, the report said.\u000a\u000aThe Sebi's last month notice was based on information furnished by the bank or its MD and CEO to diverse queries made by Sebi concerning dealings between the bank and Videocon Group and certain dealings between Videocon Group and Nupower- a company run by Chanda Kochhar's husband Deepak Kochhar.\u000a\u000aThe ICICI Bank CEO is currently facing probe from the CBI and Income Tax for alleged impropriety in restructuring loan to Videocon. Today, a report emerged that the US market regulator SEC, too, has started looking into the case as ICICI Bank is also listed in the US. The SEC has approached Sebi for some clarificatory details which would be shared with the bank and its CEO for further process.\u000a\u000aChanda Kochhar came under scanner after whistleblower Arvind Gupta in a letter to the Prime Minister alleged that the ICICI Bank declared Rs 2,810 crore outstanding loan to Videocon Group as NPA months after Deepak Kochhar amassed huge wealth through some shady transactions with Videocon Chairman Venugopal Dhoot. The loan was issued in 2012 when Chanda Kochhar was heading the bank. The loan was linked to a possible quid pro quo between Venugopal Dhoot and Deepak Kochhar, and Chanda Kochhar was accused of favouritism and conflict of interest.\u000a\u000aLast month, Gupta wrote another letter to the Prime Minister and levelled fresh allegations of quid pro quo on Chanda Kochhar. He has claimed that the ICICI Bank had favoured Ruia brothers of Essar group for 'round-tripping' investments into Deepak Kochhar's NuPower Group - a firm which is at the centre of current Videocon loan probe.\u000a\u000aActing on the second letter, the ICICI Bank constituted an independent enquiry to probe the allegations. The independent enquiry will use forensics, review emails and record the statements of the relevant personnel. "The enquiry would also cover all connected matters in the course of the investigation to bring the matter to a final close," the bank then said.
+p2
+sS'meta_description'
+p3
+S'Weeks after the Sebi served a notice to Chanda Kochhar, it has been reported that the ICICI Bank CEO and MD could face a maximum Rs 25 crore penalty if charges are found to be true.'
+p4
+sS'datetime'
+p5
+V11-Jun-2018
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/sectors/banks/icici-bank-ceo-chanda-kochhar-may-face-rs-25-crore-penalty-sebi-sec/story/278891.html
+p8
+sS'title'
+p9
+VICICI Bank CEO Chanda Kochhar may face Rs 25 crore penalty if found guilty: Report
+p10
+s.

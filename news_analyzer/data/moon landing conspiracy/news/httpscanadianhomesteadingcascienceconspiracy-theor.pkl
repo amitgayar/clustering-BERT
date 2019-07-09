@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VOn July 24, 1969, humanity first set foot on the lunar surface. Apollo 11 was the first ever manned landing on the moon, marked by Neil Armstrong\u2019s famous quote: \u201cThat\u2019s one small step for man, one giant leap for mankind.\u201d Millions of people watched as he and Buzz Aldrin briefly explored the surface of the moon, while a third astronaut remained inside the Command Module. The footage can still be found today, online.\u000a\u000aHowever, conspiracy theories emerged claiming that the footage of the landings was fabricated. According to believers of this theory, humanity has never even been to the moon.\u000a\u000aRoger Launius, NASA\u2019s chief historian from 1990 to 2002, said that, according to a poll, 5% of the American population believes the moon landings were a hoax. He also expressed his concern that this value could raise in the next years. As time passes, the current generation distances itself more from the time of the Apollo missions; therefore fewer people alive today remember witnessing these events. This leads to a larger portion of the new generation believing conspiracy theories.\u000a\u000aWith the online world gaining more power to influence young minds, the theory declaring the moon landings were faked has the possibility to spread even more.\u000a\u000aOf course, conspiracy theorists came up with alleged \u201dproof\u201d to support the theory. One of the most discussed one claims the landing must be fake because no stars can be seen in the photos taken by the astronauts. This false evidence was debunked, as scientists explained that the crew\u2019s cameras were set to have fast exposure times, so stars were not picked up because their light was too faint.\u000a\u000aMore recently, the news that NASA is planning new moon landings has surfaced. It seems that, as instructed by President Donald Trump, the space agency is working to conduct new lunar missions by 2024. To accomplish this, their plan is to build a moon-orbiting station, from which they can launch robotic equipment and crews.
+p2
+sS'meta_description'
+p3
+S''
+p4
+sS'datetime'
+p5
+V30-Apr-2019
+p6
+sS'link'
+p7
+Vhttps://canadianhomesteading.ca/science/conspiracy-theorists-claiming-the-moon-landings-were-fake-might-become-more-numerous-soon/9711
+p8
+sS'title'
+p9
+VConspiracy Theorists Claiming The Moon Landings Were Fake Might Become More Numerous Soon
+p10
+s.

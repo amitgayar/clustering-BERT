@@ -1,0 +1,779 @@
+(lp0
+(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/rafale-deal-sc-rules-out-probe-says-court-is-satisfied-with-the-decision-making-process/articleshow/67087107.cms
+p1
+S'<em>Rafale deal</em>: SC rules out probe, says Court is satisfied with the ...'
+p2
+V14-Dec-2018
+p3
+tp4
+a(Vhttps://www.indiatoday.in/fyi/story/rafale-deal-know-all-about-rafale-deal-controversy-1409339-2018-12-14
+p5
+S'<em>Rafale Deal</em>: Know all about the controversy | 15 points'
+p6
+V13-Dec-2018
+p7
+tp8
+a(Vhttps://www.businesstoday.in/current/economy-politics/rafale-deal-verdict-govt-seeks-correction-in-sc-references-to-pac-examining-cag-report/story/301046.html
+p9
+S'<em>Rafale deal</em> verdict: Govt seeks correction in SC references to PAC ...'
+p10
+V15-Dec-2018
+p11
+tp12
+a(Vhttps://www.greaterkashmir.com/news/india/congress-insists-on-jpc-on-rafale-deal/
+p13
+S'Congress insists on JPC on <em>Rafale deal</em>'
+p14
+V14-Dec-2018
+p15
+tp16
+a(Vhttps://indianexpress.com/article/india/rahul-gandhi-rafale-deal-arun-jaitley-narendra-modi-supreme-court-corruption-5494318/
+p17
+S'JPC probe into <em>Rafale deal</em> will throw up names of Modi, Ambani ...'
+p18
+V14-Dec-2018
+p19
+tp20
+a(Vhttps://www.livemint.com/Politics/cP74euOholpYUppFgmUmkI/Rafale-deal-Supreme-Court-says-no-need-for-courtmonitored.html
+p21
+S'Congress on back foot after SC clean chit on <em>Rafale deal</em>'
+p22
+V13-Dec-2018
+p23
+tp24
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/france-responds-to-rahul-gandhis-charges-on-rafale-deal-backs-govts-claim-on-deal-secrecy/articleshow/65071418.cms
+p25
+S"France responds to Rahul Gandhi's charges on <em>Rafale deal</em>, backs ..."
+p26
+V20-Jul-2018
+p27
+tp28
+a(Vhttps://www.indiatoday.in/india/video/exclusive-what-macron-told-india-today-on-rafale-deal-1291160-2018-07-20
+p29
+S'Exclusive: What Macron told India Today on <em>Rafale deal</em>'
+p30
+V20-Jul-2018
+p31
+tp32
+a(Vhttps://www.deccanherald.com/national/rafale-deal-nirmala-says-682460.html
+p33
+S"<em>Rafale deal</em>: Nirmala says details couldn't be disclosed"
+p34
+V20-Jul-2018
+p35
+tp36
+a(Vhttp://www.newindianexpress.com/explainers/2018/jul/22/rafale-deal-conflict-explained-heres-what-congress-and-bjp-said-over-the-past-three-years-1847011.html
+p37
+S"<em>Rafale deal</em> conflict explained: Here's what Congress and BJP said ..."
+p38
+V22-Jul-2018
+p39
+tp40
+a(Vhttps://www.thehindu.com/news/national/congress-to-bring-privilege-motion-against-nirmala-sitharaman-over-rafale-deal/article24494010.ece
+p41
+S'Congress to bring privilege motion against PM on <em>Rafale deal</em> details'
+p42
+V23-Jul-2018
+p43
+tp44
+a(Vhttps://www.livemint.com/Politics/9niF0KzIXZjbnonAYodRtK/Rafale-deal-Govt-rejects-Congress-demand-for-JPC-probe.html
+p45
+S'<em>Rafale deal</em>: Govt rejects Congress demand for JPC probe'
+p46
+V02-Jan-2019
+p47
+tp48
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/rafale-deal-rahul-gandhi-seeks-probe-against-pm-modi-for-corruption-weakening-national-security/articleshow/67378343.cms
+p49
+S'<em>Rafale deal</em>: Rahul Gandhi seeks probe against PM Modi for ...'
+p50
+V03-Jan-2019
+p51
+tp52
+a(Vhttps://www.thehindubusinessline.com/news/national/rafale-deal-cong-accuses-govt-of-lying-ask-pm-to-respond-in-lok-sabha/article25909374.ece
+p53
+S'<em>Rafale deal</em>: Congress accuses govt of lying, ask PM to respond in Lok ...'
+p54
+V04-Jan-2019
+p55
+tp56
+a(Vhttps://www.businesstoday.in/current/economy-politics/lok-sabha-live-updates-rahul-gandhi-wants-to-play-audio-tape-on-rafale-deal-speaker-denies-permission/story/306084.html
+p57
+S'Rahul Gandhi questions govt on <em>Rafale deal</em>, Arun Jaitley responds ...'
+p58
+V02-Jan-2019
+p59
+tp60
+a(Vhttps://www.ndtv.com/india-news/rafale-deal-full-statement-by-dassault-aviation-after-francois-hollandes-stunner-1920377
+p61
+S'<em>Rafale Deal</em>: Full Statement By Dassault Aviation After Hollande Stunner'
+p62
+V21-Sep-2018
+p63
+tp64
+a(Vhttps://www.indiatoday.in/programme/the-burning-question/video/rafale-deal-francois-hollande-s-trying-to-deflect-blame-1347473-2018-09-24
+p65
+S"<em>Rafale deal</em>: Francois Hollande's trying to deflect blame?"
+p66
+V23-Sep-2018
+p67
+tp68
+a(Vhttps://www.businesstoday.in/current/economy-politics/rafale-deal-french-president-hollande-claims-india-proposed-anil-ambani-reliance/story/282714.html
+p69
+S"India proposed Anil Ambani's Reliance for <em>Rafale deal</em>: Former French ..."
+p70
+V21-Sep-2018
+p71
+tp72
+a(Vhttps://www.thehindu.com/opinion/editorial/the-plane-truth/article25022234.ece
+p73
+S'The plane truth: on <em>Rafale deal</em> row'
+p74
+V23-Sep-2018
+p75
+tp76
+a(Vhttps://www.thehindu.com/news/national/rafale-deal-nirmala-sitharaman-says-manohar-parrikar-had-allayed-fears-on-pmo-role/article26214853.ece
+p77
+S'<em>Rafale deal</em>: Manohar Parrikar downplayed concerns of officials, file ...'
+p78
+V08-Feb-2019
+p79
+tp80
+a(Vhttps://www.telegraphindia.com/india/ex-air-marshal-who-led-indian-team-in-rafale-deal-backs-pmo/cid/1684069
+p81
+S'Ex-air marshal who led Indian team in <em>Rafale deal</em> backs PMO'
+p82
+V08-Feb-2019
+p83
+tp84
+a(Vhttps://www.business-standard.com/article/current-affairs/congress-demands-joint-parliamentary-committee-probe-into-rafale-deal-119020801455_1.html
+p85
+S'Congress demands joint parliamentary committee probe into <em>Rafale deal</em>'
+p86
+V08-Feb-2019
+p87
+tp88
+a(Vhttps://timesofindia.indiatimes.com/blogs/no-free-lunch/the-problem-with-the-congress-and-the-rafale-deal/
+p89
+S'The Problem with the Congress and the <em>Rafale Deal</em>'
+p90
+V09-Feb-2019
+p91
+tp92
+a(Vhttps://economictimes.indiatimes.com/news/elections/lok-sabha/india/rahul-gandhi-files-affidavit-in-sc-expresses-regret-over-his-remarks-on-rafale-verdict/articleshow/68987262.cms
+p93
+S'Rahul Gandhi expresses regret over his remarks on <em>Rafale</em> verdict in SC'
+p94
+V22-Apr-2019
+p95
+tp96
+a(Vhttps://scroll.in/latest/920907/rafale-remark-was-made-in-the-heat-of-political-campaigning-rahul-gandhi-tells-supreme-court
+p97
+S"<em>Rafale</em> remark made 'in heat of campaigning' was misused by political ..."
+p98
+V22-Apr-2019
+p99
+tp100
+a(Vhttps://www.aninews.in/news/national/politics/inquiry-will-be-ordered-in-rafale-deal-soon-after-congress-comes-to-power-rahul-to-pm-modi20190422143558/
+p101
+S'Inquiry will be ordered in <em>Rafale deal</em> soon after Congress comes to ...'
+p102
+V22-Apr-2019
+p103
+tp104
+a(Vhttps://scroll.in/latest/911121/audio-clip-on-rafale-deal-authentic-manohar-parrikar-has-explosive-secrets-alleges-rahul-gandhi
+p105
+S"Audio clip on <em>Rafale deal</em> authentic, Manohar Parrikar has 'explosive ..."
+p106
+V28-Jan-2019
+p107
+tp108
+a(Vhttps://www.thehindu.com/news/national/parrikar-has-denied-role-in-rafale-deal-rahul/article26123414.ece
+p109
+S'Parrikar has denied role in <em>Rafale deal</em>: Rahul'
+p110
+V29-Jan-2019
+p111
+tp112
+a(Vhttps://www.outlookindia.com/website/story/india-news-manohar-parrikar-clearly-denied-involvement-in-new-rafale-deal-orchestrated-by-pm-modi-rahul-gandhi/324546
+p113
+S'Manohar Parrikar Clearly Denied Involvement In New <em>Rafale Deal</em> ...'
+p114
+V29-Jan-2019
+p115
+tp116
+a(Vhttps://www.hindustantimes.com/india-news/on-his-goa-visit-rahul-gandhi-meets-manohar-parrikar-at-his-office/story-OyoElo4hGuSGSrg0cjF9FP.html
+p117
+S'Parrikar said he had no role in new <em>Rafale deal</em>: Rahul Gandhi'
+p118
+V28-Jan-2019
+p119
+tp120
+a(Vhttps://www.thehindu.com/news/national/pms-defence-on-pricing-of-rafale-deal-demolished-rahul-gandhi/article26256174.ece
+p121
+S"PM's defence of better pricing in <em>Rafale deal</em> demolished: Rahul Gandhi"
+p122
+V12-Feb-2019
+p123
+tp124
+a(Vhttps://www.greaterkashmir.com/(X(1)S(mdebgu3hvh2iuiv0ufmqeg55))/news/india/modi-acted-as-anil-ambani-s-middleman-in-rafale-deal-committed-treason-rahul/312710.html
+p125
+S"Modi acted as Anil Ambani's middleman in <em>Rafale deal</em>, committed ..."
+p126
+V12-Feb-2019
+p127
+tp128
+a(Vhttps://www.businesstoday.in/opinion/business-wise/rafale-email-airbus-email-how-rahul-gandhi-got-wrong-in-this-game-of-obfuscation/story/318537.html
+p129
+S"'<em>Rafale</em>' e-mail is an 'Airbus' e-mail: How Rahul Gandhi got it all wrong ..."
+p130
+V12-Feb-2019
+p131
+tp132
+a(Vhttps://www.firstpost.com/india/cag-report-doesnt-acquit-ndas-rafale-deal-but-rahul-gandhis-political-immaturity-has-given-bjp-the-advantage-6086021.html
+p133
+S"CAG report doesn't acquit NDA's <em>Rafale deal</em>, but Rahul Gandhi's ..."
+p134
+V14-Feb-2019
+p135
+tp136
+a(Vhttps://www.thehindu.com/news/national/sc-decision-on-rafale-case-review-pleas-red-letter-day-for-the-press-says-n-ram/article26799071.ece
+p137
+S'SC decision on <em>Rafale</em> case review pleas: Red-letter day for the press ...'
+p138
+V10-Apr-2019
+p139
+tp140
+a(Vhttps://www.businesstoday.in/current/economy-politics/sc-dismiss-rafale-deal-govt-preliminary-objections-leaked-papers/story/335836.html
+p141
+S"<em>Rafale deal</em>: SC dismisses govt's objections on leaked papers; to re ..."
+p142
+V10-Apr-2019
+p143
+tp144
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/rafale-deal-bjp-accuses-rahul-gandhi-of-contempt-of-court/articleshow/68814816.cms
+p145
+S'SC Verdict on <em>Rafale</em>: Congress claims victory, targets PM Modi; BJP ...'
+p146
+V10-Apr-2019
+p147
+tp148
+a(Vhttps://indianexpress.com/article/india/rafale-deal-sc-dismisses-centres-objections-on-stolen-documents-5668164/
+p149
+S"<em>Rafale deal</em>: SC accepts 'stolen' papers as evidence, rejects Centre's ..."
+p150
+V09-Apr-2019
+p151
+tp152
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/rafale-deal-congress-crying-foul-as-robert-vadra-didnt-get-stake-in-offset-says-bjp/articleshow/65943728.cms
+p153
+S"<em>Rafale deal</em>: Congress crying foul as Robert Vadra didn't get stake in ..."
+p154
+V24-Sep-2018
+p155
+tp156
+a(Vhttps://www.trtworld.com/asia/what-makes-modi-s-rafale-deal-so-controversial-20429
+p157
+S"What makes Modi's <em>Rafale deal</em> so controversial?"
+p158
+V24-Sep-2018
+p159
+tp160
+a(Vhttps://www.bbc.co.uk/news/world-asia-india-45636806
+p161
+S'<em>Rafale deal</em>: Why French jets are at the centre of an Indian political storm'
+p162
+V25-Sep-2018
+p163
+tp164
+a(Vhttps://www.firstpost.com/politics/as-assembly-and-2019-lok-sabha-polls-near-congress-sees-rafale-deal-controversy-as-weapon-to-block-bjps-rise-5246131.html
+p165
+S'As Assembly and 2019 Lok Sabha polls near, Congress sees <em>Rafale</em> ...'
+p166
+V23-Sep-2018
+p167
+tp168
+a(Vhttps://www.thenewsminute.com/article/rafale-controversy-explained-10-points-90901
+p169
+S'The <em>Rafale</em> controversy explained in 10 points'
+p170
+V01-Nov-2018
+p171
+tp172
+a(Vhttps://www.indiatoday.in/india/story/supreme-court-asks-centre-for-details-on-rafale-pricing-in-sealed-cover-1379239-2018-10-31
+p173
+S'Supreme Court asks Centre for details on <em>Rafale</em> pricing in sealed cover'
+p174
+V30-Oct-2018
+p175
+tp176
+a(Vhttps://www.livemint.com/Politics/AHQDU026Kud0Z4J7l1HYEL/Rafale-deal-SC-seeks-details-of-pricing-choice-of-offset-p.html
+p177
+S'Give details of <em>Rafale deal</em> in 10 days, Supreme Court tells Govt'
+p178
+V31-Oct-2018
+p179
+tp180
+a(Vhttps://www.thehindu.com/news/national/rafale-deal-sc-asks-centre-to-file-affidavit-within-10-days/article25377492.ece
+p181
+S'<em>Rafale deal</em>: Supreme Court seeks affidavit as Centre objects to ...'
+p182
+V30-Oct-2018
+p183
+tp184
+a(Vhttps://www.hindustantimes.com/india-news/give-rafale-deal-price-details-in-10-days-sc-to-government/story-YhMpYQF9wHC0Jh4IltizjP.html
+p185
+S'Give <em>Rafale deal</em> price details in 10 days: SC to government'
+p186
+V30-Oct-2018
+p187
+tp188
+a(Vhttps://www.indiatoday.in/india/story/why-rahul-gandhi-wants-a-jpc-probe-into-rafale-deal-1327926-2018-08-30
+p189
+S'Why Rahul Gandhi wants a JPC probe into <em>Rafale deal</em>'
+p190
+V30-Aug-2018
+p191
+tp192
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/jpc-probe-needed-to-know-modi-ambani-nexus-rahul-gandhi-on-rafale-deal/videoshow/65610465.cms
+p193
+S'JPC probe needed to know Modi-Ambani nexus: Rahul Gandhi on ...'
+p194
+V30-Aug-2018
+p195
+tp196
+a(Vhttps://www.businesstoday.in/current/economy-politics/rahul-gandhi-launches-fresh-attack-against-rafale-deal/story/281836.html
+p197
+S'Rahul Gandhi launches fresh attack against <em>Rafale deal</em>'
+p198
+V31-Aug-2018
+p199
+tp200
+a(Vhttps://www.moneycontrol.com/news/india/rafale-deal-biggest-scam-in-the-history-of-india-sushmita-dev-2905641.html
+p201
+S'<em>Rafale deal</em> biggest scam in the history of India: Sushmita Dev'
+p202
+V31-Aug-2018
+p203
+tp204
+a(Vhttps://www.hindustantimes.com/india-news/youth-congress-workers-protest-against-pm-modi-government-s-rafale-deal/story-6uhtDgKRPaackbZAuY7PGN.html
+p205
+S"Youth Congress workers protest against PM Modi government's ..."
+p206
+V30-Aug-2018
+p207
+tp208
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-trains-gun-at-government-over-rafale-deal-alleges-a-scam/articleshow/62808820.cms
+p209
+S'Rahul Gandhi trains gun at government over <em>Rafale deal</em>, alleges a ...'
+p210
+V06-Feb-2018
+p211
+tp212
+a(Vhttps://www.news18.com/news/politics/rahul-alleges-corruption-in-rafale-deal-urges-media-to-show-spine-in-asking-questions-1652567.html
+p213
+S'Rahul Alleges Corruption in <em>Rafale Deal</em>, Says Modiji Personally Got it ...'
+p214
+V06-Feb-2018
+p215
+tp216
+a(Vhttps://scroll.in/latest/867691/centre-cannot-disclose-details-of-rafale-deal-as-it-is-classified-says-defence-minister
+p217
+S'Centre cannot disclose details of <em>Rafale deal</em> as it is classified, says ...'
+p218
+V06-Feb-2018
+p219
+tp220
+a(Vhttps://www.indiatoday.in/india/story/rafale-deal-rahul-gandhi-narendra-modi-dassault-francois-hollande-1347930-2018-09-24
+p221
+S"<em>Rafale deal</em> stakeholders neutralise Rahul Gandhi's latest attack on ..."
+p222
+V24-Sep-2018
+p223
+tp224
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/rafale-deal-congress-should-produce-evidence-to-prove-pm-modi-is-corrupt-says-swamy/videoshow/65919581.cms
+p225
+S'<em>Rafale deal</em>: Congress should produce evidence to prove PM Modi is ...'
+p226
+V22-Sep-2018
+p227
+tp228
+a(Vhttps://scroll.in/article/895687/the-daily-fix-bjps-response-to-rafale-should-be-transparency-instead-its-blaming-pakistan
+p229
+S"The Daily Fix: BJP's response to <em>Rafale</em> should be transparency ..."
+p230
+V25-Sep-2018
+p231
+tp232
+a(Vhttps://www.huffingtonpost.in/entry/rafale-controversy-defence-minister-shares-hal-contract-details-on-twitter_in_5c31ecd7e4b0bcb4c25c97c9
+p233
+S'<em>Rafale Deal</em> : Defence Minister Shares HAL Contract Details On Twitter'
+p234
+V06-Jan-2019
+p235
+tp236
+a(Vhttps://www.firstpost.com/politics/rafale-deal-rahul-gandhi-nirmala-sitharaman-demand-each-others-resignation-in-war-of-words-on-twitter-5845591.html
+p237
+S'<em>Rafale deal</em>: Days after showdown in LS, Rahul Gandhi, Nirmala ...'
+p238
+V06-Jan-2019
+p239
+tp240
+a(Vhttps://www.indiatoday.in/india/story/nirmala-sitharaman-rahul-gandhi-rafale-hal-contracts-1424702-2019-01-06
+p241
+S'<em>Rafale deal</em>: Rahul Gandhi, raksha mantri go all guns blazing over ...'
+p242
+V06-Jan-2019
+p243
+tp244
+a(Vhttps://www.thehindu.com/news/national/enough-evidence-to-prosecute-pm-modi-for-corruption-in-rafale-deal-says-rahul-gandhi/article26448702.ece
+p245
+S'Enough evidence to prosecute PM Modi for corruption in <em>Rafale deal</em> ...'
+p246
+V06-Mar-2019
+p247
+tp248
+a(Vhttps://www.businesstoday.in/current/economy-politics/narendra-modi-bypass-surgery-rafale-deal-evidence-probe-rahul-gandhi/story/325294.html
+p249
+S"Narendra Modi did 'bypass surgery' in <em>Rafale deal</em>; his role should ..."
+p250
+V06-Mar-2019
+p251
+tp252
+a(Vhttps://www.ndtv.com/india-news/rahul-gandhi-says-prime-minister-must-also-be-investigated-in-rafale-deal-2003909
+p253
+S'PM "Performed Bypass Surgery" In <em>Rafale Deal</em>, Probe Him Too ...'
+p254
+V06-Mar-2019
+p255
+tp256
+a(Vhttps://economictimes.indiatimes.com/news/defence/rafale-row-alliance-with-reliance-defence-was-mandatory-to-clinch-the-deal-says-dassault-deputy-ceo/articleshow/66157632.cms
+p257
+S'To get <em>Rafale</em> contract, Dassault had to choose Reliance Defence ...'
+p258
+V10-Oct-2018
+p259
+tp260
+a(Vhttps://www.business-standard.com/article/economy-policy/rafale-deal-a-quid-pro-quo-french-media-118101100017_1.html
+p261
+S'Row over jets contract: <em>Rafale deal</em> a quid pro quo, says French media'
+p262
+V10-Oct-2018
+p263
+tp264
+a(Vhttps://www.indiatoday.in/india/story/rafale-deal-india-france-rahul-gandhi-narendra-modi-1366490-2018-10-11
+p265
+S'<em>Rafale</em> ab tak: What India-France fighter jet <em>deal</em> has seen so far'
+p266
+V11-Oct-2018
+p267
+tp268
+a(Vhttps://www.livemint.com/Companies/rXvhbJkuDMVnYyDq8fj4ZM/Rafale-deal-from-Dassault-not-defence-ministry-Reliance-Gr.html
+p269
+S'<em>Rafale deal</em> from Dassault, not defence ministry: Reliance Group'
+p270
+V12-Aug-2018
+p271
+tp272
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/modi-government-catered-to-self-interest-in-rafale-deal-congress/articleshow/65376480.cms
+p273
+S'Modi government catered to self-interest in <em>Rafale deal</em>: Congress'
+p274
+V12-Aug-2018
+p275
+tp276
+a(Vhttps://www.indiatoday.in/fact-check/story/fact-check-rahul-gandhi-changed-price-of-rafale-aircraft-4-times-in-5-months-1314622-2018-08-14
+p277
+S'Fact Check: Rahul Gandhi changed price of <em>Rafale</em> aircraft 4 times in 5 ...'
+p278
+V14-Aug-2018
+p279
+tp280
+a(Vhttps://www.hindustantimes.com/india-news/rahul-gandhi-challenges-pm-modi-to-debate-on-rafale-deal-bjp-hits-back/story-UEJbgtN7g25W1dou4CzCMM.html
+p281
+S'Rahul Gandhi challenges PM Modi to debate on <em>Rafale deal</em>, BJP hits ...'
+p282
+V13-Aug-2018
+p283
+tp284
+a(Vhttps://www.thehindu.com/news/national/rafale-deal-not-on-better-terms-than-upa-era-offer/article26253566.ece
+p285
+S"<em>Rafale deal</em> not on 'better terms' than UPA-era offer"
+p286
+V12-Feb-2019
+p287
+tp288
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/ndas-deal-2-86-cheaper-than-upas-in-2007-cag-report-on-rafale/articleshow/67971488.cms
+p289
+S"<em>Rafale</em> report: CAG says NDA's <em>deal</em> 3% cheaper; gives Opposition ..."
+p290
+V12-Feb-2019
+p291
+tp292
+a(Vhttps://www.businesstoday.in/current/economy-politics/cag-report-on-rafale-live-updates-bjp-govt-deal-286-cheaper-than-upa-era-pact-says-auditor-report/story/318582.html
+p293
+S"CAG report on <em>Rafale deal</em>: Lies of 'Mahajhootbandhan' stand ..."
+p294
+V13-Feb-2019
+p295
+tp296
+a(Vhttps://www.firstpost.com/india/narendra-modis-rafale-deal-not-better-than-manmohan-singhs-claims-newspaper-report-citing-expert-finding-6075571.html
+p297
+S"Narendra Modi's <em>Rafale deal</em> not better than Manmohan Singh's ..."
+p298
+V12-Feb-2019
+p299
+tp300
+a(Vhttps://www.ndtv.com/assembly-chhattisgarh/rahul-gandhi-challenges-prime-minister-narendra-modi-for-debate-over-rafale-deal-1949202
+p301
+S'Rahul Gandhi Challenges PM Modi For Debate On <em>Rafale Deal</em>'
+p302
+V17-Nov-2018
+p303
+tp304
+a(Vhttps://www.business-standard.com/article/politics/modi-s-silence-on-scam-in-rafale-deal-is-precursor-to-massive-storm-cong-118111601463_1.html
+p305
+S"Modi's silence on scam in <em>Rafale deal</em> is precursor to massive storm ..."
+p306
+V16-Nov-2018
+p307
+tp308
+a(Vhttps://www.nationalheraldindia.com/india/icici-bank-notes-the-sixth-proof-implicating-modi-govt-in-rafale-deal-says-congress
+p309
+S"ICICI 'bank notes' the sixth proof implicating Modi govt in <em>Rafale deal</em> ..."
+p310
+V16-Nov-2018
+p311
+tp312
+a(Vhttps://economictimes.indiatimes.com/news/defence/congress-leaders-meet-cag-on-rafale-deal-demand-early-report-on-irregularities/articleshow/65868681.cms
+p313
+S'Congress leaders meet CAG on <em>Rafale deal</em>, demand early report on ...'
+p314
+V19-Sep-2018
+p315
+tp316
+a(Vhttps://www.hindustantimes.com/india-news/how-can-entire-para-be-typo-mallikarjun-kharge-calls-for-jpc-in-rafale-deal/story-MwtdoUqMmGEsLNOi5X4d6J.html
+p317
+S"'How can entire para be typo': Mallikarjun Kharge seeks JPC in <em>Rafale</em> ..."
+p318
+V19-Dec-2018
+p319
+tp320
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/full-interview-arun-jaitley-clears-air-on-rafale-deal-controversy/videoshow/65595086.cms
+p321
+S'Full interview: Arun Jaitley clears air on <em>Rafale deal</em> controversy'
+p322
+V29-Aug-2018
+p323
+tp324
+a(Vhttps://www.businesstoday.in/current/economy-politics/arun-jaitley-says-rafale-deal-is-9-percent-cheaper-than-what-congress-negotiated/story/281755.html
+p325
+S'Arun Jaitley says <em>Rafale deal</em> is 9% cheaper than what Congress ...'
+p326
+V29-Aug-2018
+p327
+tp328
+a(Vhttps://www.business-standard.com/article/current-affairs/rafale-deal-govt-to-govt-cheaper-compared-to-what-upa-negotiated-jaitley-118082900497_1.html
+p329
+S'Our <em>Rafale deal</em> 20% cheaper than what UPA govt negotiated: Arun ...'
+p330
+V29-Aug-2018
+p331
+tp332
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/cag-report-on-rafale-how-congress-made-a-u-turn/articleshow/67953533.cms
+p333
+S'CAG report on <em>Rafale</em>: How Congress made a U-turn'
+p334
+V11-Feb-2019
+p335
+tp336
+a(Vhttps://www.indiatoday.in/india/story/rafale-deal-row-supreme-court-to-hear-review-petition-today-1477614-2019-03-14
+p337
+S'<em>Rafale deal</em> row: Supreme Court to hear review petition today'
+p338
+V13-Mar-2019
+p339
+tp340
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/government-urges-supreme-court-to-scrap-rafale-review-plea/articleshow/68401329.cms
+p341
+S'Government urges Supreme Court to scrap <em>Rafale</em> review plea'
+p342
+V13-Mar-2019
+p343
+tp344
+a(Vhttps://www.deccanherald.com/national/rafale-will-decide-on-objection-raised-by-centresays-sc-723185.html
+p345
+S'<em>Rafale</em>: SC cites RTI revolution to counter Centre'
+p346
+V14-Mar-2019
+p347
+tp348
+a(Vhttps://www.business-standard.com/article/companies/rcom-arm-got-huge-tax-waiver-from-france-after-rafale-deal-report-119041400009_1.html
+p349
+S'RCom arm got huge tax waiver from France after <em>Rafale deal</em>: Report'
+p350
+V13-Apr-2019
+p351
+tp352
+a(Vhttps://www.thehindu.com/news/international/no-political-interference-in-tax-settlement-with-reliance-firm-france/article26830677.ece
+p353
+S'<em>Rafale deal</em>: no political interference in tax settlement with Reliance ...'
+p354
+V13-Apr-2019
+p355
+tp356
+a(Vhttps://www.indiatoday.in/india/story/rafale-deal-french-authorities-anil-ambani-162-6-million-dollar-debt-narendra-modi-1501000-2019-04-13
+p357
+S'Le Monde drops <em>Rafale</em> bombshell: French authorities cleared Anil ...'
+p358
+V13-Apr-2019
+p359
+tp360
+a(Vhttps://www.indiatoday.in/india/story/rafale-deal-stopped-by-michel-mama-pm-modi-redirects-rafale-fire-at-rahul-1427142-2019-01-09
+p361
+S'<em>Rafale deal</em> stopped by Michel mama? PM Modi redirects fire at Rahul ...'
+p362
+V09-Jan-2019
+p363
+tp364
+a(Vhttps://www.livemint.com/Politics/565mN8oLle6em9nrzy2fUI/Rafale-deal-Arun-Jaitley-dismisses-Rahul-Gandhis-allegatio.html
+p365
+S"<em>Rafale deal</em>: Arun Jaitley dismisses Rahul Gandhi's allegations as ..."
+p366
+V16-Oct-2018
+p367
+tp368
+a(Vhttps://scroll.in/latest/907899/rafale-deal-congress-releases-audio-clip-says-parrikar-claimed-he-had-all-files-in-his-bedroom
+p369
+S'<em>Rafale deal</em>: Congress releases audio clip, claims Parrikar said he had ...'
+p370
+V01-Jan-2019
+p371
+tp372
+a(Vhttps://newscentral24x7.com/manohar-parrikar-tell-nation-secrets-rafale-deal-congress/
+p373
+S'Manohar Parrikar Should Tell Nation What Secrets He has About ...'
+p374
+V31-Dec-2018
+p375
+tp376
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/congress-accuses-centre-of-compromising-national-security-over-rafale-deal/articleshow/65732299.cms
+p377
+S"Congress accuses Centre of 'compromising national security' over ..."
+p378
+V08-Sep-2018
+p379
+tp380
+a(Vhttps://www.thehindu.com/news/national/break-in-at-iaf-rafale-team-office-in-france/article27207382.ece
+p381
+S'Break-in at IAF <em>Rafale</em> team office in France'
+p382
+V22-May-2019
+p383
+tp384
+a(Vhttps://economictimes.indiatimes.com/news/politics-and-nation/no-question-of-fir-registration-or-cbi-probe-into-rafale-deal-centre-to-sc/articleshow/69505384.cms
+p385
+S'No question of FIR registration or CBI probe into <em>Rafale deal</em>: Centre to ...'
+p386
+V26-May-2019
+p387
+tp388
+a(Vhttps://www.businesstoday.in/current/economy-politics/rafale-deal-centre-approaches-supreme-court-seeks-dismissal-of-all-review-petitions/story/350655.html
+p389
+S'<em>Rafale deal</em>: Centre approaches Supreme Court; seeks dismissal of all ...'
+p390
+V26-May-2019
+p391
+tp392
+a(Vhttps://www.thehindu.com/news/national/rafale-deal-not-even-fir-much-less-cbi-probe-government-tells-supreme-court/article27248559.ece
+p393
+S'<em>Rafale deal</em>: Not even FIR, much less CBI probe, government tells ...'
+p394
+V25-May-2019
+p395
+tp396
+a(Vhttps://www.thehindubusinessline.com/news/national/rafale-deal-no-question-of-fir-registration-or-cbi-probe-says-centre-to-supreme-court/article27253398.ece
+p397
+S'<em>Rafale deal</em>: No question of FIR registration or CBI probe, says Centre ...'
+p398
+V26-May-2019
+p399
+tp400
+a(Vhttps://www.livelaw.in/top-stories/rafale-petitioners-trying-to-get-a-fishing-enquiry-directed--145286
+p401
+S'<em>Rafale</em>: Petitioners Trying To Get A Fishing Enquiry Directed Without ...'
+p402
+V26-May-2019
+p403
+tp404
+a(Vhttps://www.outlookindia.com/website/story/india-news-rafale-deal-problematic-will-do-objective-inquiry-rahul-gandhi/330461
+p405
+S'EXCLUSIVE | Probe Into <em>Rafale Deal</em> Will Be Objective, Not Vindictive ...'
+p406
+V16-May-2019
+p407
+tp408
+a(Vhttps://economictimes.indiatimes.com/news/elections/lok-sabha/india/decoding-verdict-2019-how-a-right-pm-took-left-turn/articleshow/69477810.cms
+p409
+S'Decoding verdict 2019: How a right PM took left turn'
+p410
+V24-May-2019
+p411
+tp412
+a(Vhttps://www.ndtv.com/india-news/general-elections-2019-rahul-gandhi-is-a-cannon-and-i-am-ak-47-says-navjot-singh-sidhu-2038304
+p413
+S'Lok Sabha elections 2019: "Rahul Gandhi Is A Cannon And I Am AK ...'
+p414
+V15-May-2019
+p415
+tp416
+a(Vhttps://www.newsx.com/national/rafale-jet-controversy-anil-ambani-to-withdraw-defamation-suits-against-congress-leaders-newspaper-national-herald
+p417
+S'<em>Rafale</em> controversy: Anil Ambani to withdraw defamation suits against ...'
+p418
+V21-May-2019
+p419
+tp420
+a(Vhttp://tehelka.com/cash-priorities-behind-rafale-order-revision-says-gadkari/
+p421
+S'Cash priorities behind <em>Rafale</em> order revision, says Gadkari'
+p422
+V15-May-2019
+p423
+tp424
+a(Vhttps://www.timesnownews.com/india/article/air-chief-marshal-bs-dhanoa-s-kargil-squadron-to-get-first-rafale-jets/427510
+p425
+S"Air Chief Marshal BS Dhanoa's Kargil squadron to get first <em>Rafale</em> jets"
+p426
+V22 hours ago
+p427
+tp428
+a(Vhttps://www.business-standard.com/article/news-ani/iaf-chief-s-squadron-to-be-first-rafale-combat-aircraft-unit-119052900352_1.html
+p429
+S"IAF chief's squadron to be first <em>Rafale</em> combat aircraft unit"
+p430
+V29-May-2019
+p431
+tp432
+a(Vhttps://www.thehindu.com/news/national/rafale-office-break-in-vital-hard-disk-not-taken-says-defence-source/article27248690.ece
+p433
+S'<em>Rafale</em> office break-in: vital hard disk not taken, says defence source'
+p434
+V25-May-2019
+p435
+tp436
+a(Vhttps://timesofindia.indiatimes.com/india/rafale-didnt-fly-nyay-got-no-public-hearing/articleshow/69476739.cms
+p437
+S"<em>Rafale</em> didn't fly, NYAY got no public hearing"
+p438
+V23-May-2019
+p439
+tp440
+a(Vhttps://www.devdiscourse.com/election/details/537527-sikkim-skm-delegation-calls-on-guv-prasad-stake-claim-to-form-next-govt
+p441
+S'Sikkim: SKM delegation calls on Guv Prasad, stake claim to form next ...'
+p442
+V25-May-2019
+p443
+tp444
+a.

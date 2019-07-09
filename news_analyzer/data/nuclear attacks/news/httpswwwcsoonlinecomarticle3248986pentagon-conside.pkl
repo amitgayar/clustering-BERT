@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWhy use hack-back tactics when you can drop a nuke on your cyber attackers?\u000a\u000aAccording to the draft for the Pentagon\u2019s 2018 Nuclear Posture Review, the U.S. would consider using nuclear weapons to respond to non-nuclear attacks.\u000a\u000aWhile the Pentagon\u2019s proposed policy change suggests the U.S. should \u201conly consider the use of nuclear weapons in extreme circumstances to defend the vital interests of the United States or its allies and partners,\u201d large cyber attacks are considered \u201cextreme circumstances.\u201d\u000a\u000aAfter reviewing threats posed by Russia, China, North Korea and Iran, the document reads:\u000a\u000aThe United States would only consider the use of nuclear weapons in extreme circumstances to defend the vital interests of the United States, its allies, and partners. Extreme circumstance could include significant non-nuclear strategic attacks. Significant non-nuclear strategic attacks include, but are not limited to, attacks on the U.S., allied, or partner civilian population or infrastructure, and attacks on U.S. or allied nuclear forces, their command and control, or warning and attack assessment capabilities.\u000a\u000aNotice that \u201ccyber attack\u201d is not specifically mentioned, but officials who asked to remain anonymous told The New York Times that \u201clarge cyber attacks\u201d could warrant a nuclear response.\u000a\u000aThe NPR draft acknowledged that Russia has a \u201cnew intercontinental, nuclear-armed, undersea autonomous torpedo\u201d and is \u201cdeveloping and deploying new nuclear warheads and launchers.\u201d Russia, the document claims, believes that limited nuclear first use of low-yield weapons would give it an advantage. \u201cCorrecting this mistaken Russian perception is a strategic imperative,\u201d it says.\u000a\u000aTherefore, the U.S. should develop smaller nukes, new \u201clow-yield\u201d nuclear weapons, which would \u201cenhance deterrence.\u201d One new nuke would be a cruise missile fired from submarines and another a \u201clow-yield\u201d warhead for ballistic missiles from subs.\u000a\u000aBut Alexandra Bell, a former senior adviser at the State Department and current senior policy director at the Center for Arms Control and Non-Proliferation, told the Huffington Post, the U.S. already has \u201c4,000 nuclear weapons in our active stockpile, which is more than enough to destroy the world many times over. So I don\u2019t think it makes a convincing case that we somehow lack capabilities. And, in fact, I don\u2019t think you can make the case that this president needs any more capabilities.\u201d\u000a\u000aTwo weeks ago, President Donald Trump was bragging about having a \u201cmuch bigger\u201d and \u201cmore powerful\u201d nuclear button that North Korean leader Kim Jong Un.\u000a\u000aDuring the Cold War, nukes guaranteed mutually assured destruction. That same mutual assured destruction has been applied to large-scale cyberwar \u2014 knock out our power grid, and we will knock out yours type thing. It remains to be seen if the threat of nuking a country for pulling off large cyber attacks would serve as a deterrent or be the start of doomsday.\u000a\u000a\u201cAlmost everything about this radical new policy will blur the line between nuclear and conventional,\u201d Andrew C. Weber, an assistant defense secretary during the Obama administration, told The New York Times. If the draft is adopted as is, the new policy \u201cwill make nuclear war a lot more likely.\u201d\u000a\u000aThe draft, called \u201cpre-decisional\u201d by the Pentagon, is currently being reviewed by the White House. The final version is expected to be released in February.
+p2
+sS'meta_description'
+p3
+VA draft for the Pentagon\u2019s 2018 Nuclear Posture Review says the U.S. would consider using nuclear weapons to respond to non-nuclear attacks.
+p4
+sS'datetime'
+p5
+V17-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.csoonline.com/article/3248986/pentagon-considers-nuclear-response-to-retaliate-for-large-cyber-attacks.html
+p8
+sS'title'
+p9
+VPentagon considers nuclear response to retaliate for large cyber attacks
+p10
+s.

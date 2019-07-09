@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWHACKY conspiracy theorists are claiming that China has "copied Nasa" and faked its recent moon landing.\u000a\u000aUFO hunters say "chalk lines" spotted in one photo prove the Chang'e-4 mission is part of an elaborate hoax pushed by the Chinese government.\u000a\u000aThe white line in question appears in a panoramic snap of the mission's Jade Rabbit 2 rover taken last week.\u000a\u000aConspiracy theorist Scott C Waring wrote on UFO Sightings Daily: "I guess China may have decided since NASA faked the first Apollo moon landing and got away with it, then China wanted in on it too.\u000a\u000a"Look at the original photo you will see that there are no other lines in the entire giant panoramic photo. OMG, this is so very disappointing.\u000a\u000a"Notice the lack of moon rocks on the entire surface of the moon \u2026which is exactly what the first Apollo moon landing also showed \u2026 a sign of being faked on a stage."\u000a\u000aIt's not clear what the line actually is, but it could be a dirt track in the soil or even a visual glitch created when the agency stitched 80 photos together to build the space snap.\u000a\u000aConspiracy theory expert Nigel Watson said that the crackpot ideas were unlikely to prove the mission was faked.\u000a\u000a"The Moon is a location where conspiracy theorists' ideas go rampant. In this instance the 'prop line' could be a reflection of sunlight from the solar panels on top of the vehicle," Watson, author of 'UFOs of the First World War', told The Sun Online.\u000a\u000a"Whatever it is, it is very slim case for evidence that the Chinese faked this mission."\u000a\u000aChina's space agency released the image last week to show that its rover had successfully deployed from the mission's lander.\u000a\u000aBeijing said the snaps marked a "total success" for the mission on the moon's far side.\u000a\u000aChina also released a video last week showing the final moments as its Chang'e-4 mission descended to the moon's surface.\u000a\u000aThe spacecraft carefully adjusts its descent to avoid ditches and dents as it plummets into the moon's asteroid-battered Von Kármán Crater, which Chang\u2019e-4 landed in on January 2.\u000a\u000aScientists think the 115-mile wide crater holds moon rocks with unusual chemistry that could help us learn more about the natural satellite's violent past.\u000a\u000aWhat do you think of the conspiracy claims? Let us know in the comments!\u000a\u000aWe pay for your stories! Do you have a story for The Sun Online news team? Email us at tips@the-sun.co.uk or call 0207 782 4368 . We pay for videos too. Click here to upload yours.
+p2
+sS'meta_description'
+p3
+VWHACKY conspiracy theorists are claiming that China has "copied Nasa" and faked its recent moon landing. UFO hunters say "chalk lines" spotted in one photo prove the Chang'e-4 mission is part of an elaborate hoax pushed by the Chinese government.
+p4
+sS'datetime'
+p5
+V14-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.thesun.co.uk/tech/8193161/chalk-lines-china-moon-mission-photos-faked-conspiracy-theorists/
+p8
+sS'title'
+p9
+VChina moon photos 'prove landing was FAKED' as crackpots spot mystery chalk lines
+p10
+s.

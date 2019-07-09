@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Deputy Governor of Reserve Bank of India has resigned six months before his three year tenure on 24 June 2019. He was appointed as a Deputy Governor on 28 December 2016. He is heading back to New York University Stern School of Business (NYU) in August as CV Starr Professor of Economics and this is the second high-profile resignation after Urjit Patel in the past seven months at Reserve Bank of India.\u000a\u000aEducation\u000a\u000aViral Acharya has done his Ph.d in Finanace from Stern School of Business, New York University (1996-2001). He had pursued B.Tech in Computer Science and Engineering from IIT Bombay (199-1195). He was awarded with President of India Gold Medalist for highest Grade Point Average (GPA) among 350 students.\u000a\u000aEditorship\u000a\u000aHe is currently the Editor at Review of Corporate Finance Studies, Journal of Financial Stability and Journal of Financial Services Research. He was the Editor of Journal of Financial Intermediation (2009-2012) and Associate Editor of Journal of Finance (2011-2014), Management Science (2009-2010), Review of Financial Studies (2005-2008), Journal of Financial Intermediation (2005-2008) and International Journal of Central Banking (2004-2006).\u000a\u000aArea of Interest\u000a\u000aThe area of interest for his research work is Banking, Corporate Finance, Asset Pricing, Valuation and Hedging of Corporate and Sovereign Debt and Credit Derivatives, International Finance and General Equilibrium.\u000a\u000aServices in New York University (NYU)\u000a\u000aHe is currently the PhD Coordinator of Finance, Director at National Stock exchange of Indian Capital Market, coordinator at Indian Initiative of NVY- Stern Centre for Global Economy and Business and member of Faculty Grievance with Student Judiciary. He has served New York University from 2009 as a Faculty Council Member. He has been in many committees such as Finance Department Strategy Committee, Academic Curriculum Oversight Committee and Conflict of Interests Committee.\u000a\u000aPositions Hold\u000a\u000aHe is currently the Member of the Advisory Council of the Reserve Bank of India (RBI) Academy, Academic Council of the National Institute of Securities Markets (NISM), Securities and Exchange Board of India (SEBI) and is the fellow of European Corporate Governance Institute (ECGI). He was Member of the Advisory Board (Review of Finance) and Director of Western Finance Institutions.\u000a\u000aAwards\u000a\u000aHe has been awarded from Excellence in Refereeing Award for American Economic Review, Meritorious Service Award, Management Science, Distinguished Referee Award and Review of Financial Studies He was also awarded with Teaching Awards such as Deutsche Bank Curriculum Development Grant, NYU Stern, and Best Teacher in Masters in Finance at London Business School (Runner up). Besides this he has been awarded with research awards for presenting Best paper on Global Financial Market, Summit Research Conference and European Finance Association Meetings.
+p2
+sS'meta_description'
+p3
+S'Also, he is heading back to New York University Stern School of Business (NYU) in August as CV Starr Professor of Economics and this is the second high-profile resignation after Urjit Patel in the past seven months at Reserve Bank of India. , , Viral Acharya'
+p4
+sS'datetime'
+p5
+V24-Jun-2019
+p6
+sS'link'
+p7
+Vhttp://www.businessworld.in/article/Deputy-Governor-of-RBI-Viral-Acharya-Things-You-Should-Know/24-06-2019-172306
+p8
+sS'title'
+p9
+VDeputy Governor of RBI, Viral Acharya: Things You Should Know
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNCLT and SEBI at Loggerheads over Attachment of Ponzi Debtor's Properties\u000a\u000aThe principal bench of the National Company Law Tribunal (NCLT) has directed market regulator Securities and Exchange Board of India (SEBI) to de-attach the properties of a corporate debtor attached during its execution proceedings. The matter brings into focus the issue of the in-built disagreement between the SEBI Act and the provisions of the Insolvency and Bankruptcy Code (IBC). Especially, how a corporate debtor that was operating as an illegal collective investment scheme (CIS) can be revived under the IBC. Was it due to inactiveness of SEBI to act on  orders of SAT (securities appellate tribunal) to sell assets of the debtor in timely manner?\u000a\u000aLast week, in an order, the Bench ruled, "SEBI is directed to de-attach the properties of the corporate debtor and hand over the possession to the resolution professional (RP) to conduct the corporate insolvency resolution process (CIRP) expeditiously, in accordance with the timeline in the Code."\u000a\u000aA corporate debtor, HBN Dairies and Allies Ltd, an investment scheme operating as an unregistered collective investment scheme (CIS), was admitted into CIRP based on an application filed by some investors.\u000a\u000aA recovery officer from SEBI had passed an attachment order based on the adjudicating officer's order in 2015, a year before HBN went into CIRP. The Securities Appellate Tribunal (SAT) upheld SEBI's decision on HBN, and subsequently ordered the sale of its assets as a part of recovery.\u000a\u000aAccording to Dr Rajendra M Ganatra, an insolvency resolution professional and restructuring consultant, in terms of the SAT order, SEBI was to have sold the assets by December 2017. "However, it (SEBI) took absolutely no action. It seems there is no monitoring system in SEBI and critical matters remain pending without action for indefinite times," he said.\u000a\u000aWondering how a Ponzi operator can be revived under the IBC, Dr Ganatra, says, it is good that the matter has landed in IBC where timings will be more or less followed. However, he says, "the RP must not fail to initiate petition under Section 66 to book the promoters for fraudulent transactions. No crime abates with the entry in IBC, and it is the responsibility of the IRP to bring all facts in the information memorandum for actions against criminal promoters even beyond IBC."\u000a\u000aHBN had told the NCLT that the ongoing recovery proceedings by SEBI would amount to conflict with its plea before the Tribunal admitting it into CIRP.\u000a\u000aThe NCLT noted that SEBI is bound by the directions issued by the SAT, and that provisions of IBC would come into conflict with the stand taken by SEBI.\u000a\u000aAdmitting HBN's application, the NCLT saw merit in the case made out by the company and observed on the overriding nature of Section 238 of the IBC. It then allowed the RP to take action on the matter.\u000a\u000aAfter examining the issue, the RP requested the NCLT to de-attach the company properties in view of Section 14 of IBC, which imposes a moratorium on the corporate debtor's properties.\u000a\u000a"In view of the provisions of non-obstante clause of Section 238 of the Code, any right under any other law cannot come in the way of the IBC", NCLT had said in its order.\u000a\u000aNCLT also observed that in the absence of records and possession of the property belonging to the corporate debtor, the RP would not be able to perform his duties in a time-bound manner and "there would be no possibility of any resolution which is the primary object of the IBC."\u000a\u000aIt also noted that the income-tax (I-T) department had already de-attached the properties belonging to the corporate debtor, and the RP could go ahead with the possession.\u000a\u000aNCLT's order establishes the IBC's superiority over other laws which, apparently, act as an obstruction during the CIRP.
+p2
+sS'meta_description'
+p3
+S'The Principal Bench of the National Company Law Tribunal (NCLT) has directed market regulator Securities and Exchange Board of India (SEBI) to de-attach the properties of a corporate debtor attached during its execution proceedings.'
+p4
+sS'datetime'
+p5
+V20-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.moneylife.in/article/nclt-and-sebi-at-loggerheads-over-attachment-of-ponzi-debtors-properties/57220.html
+p8
+sS'title'
+p9
+VNCLT and SEBI at Loggerheads over Attachment of Ponzi Debtor's Properties
+p10
+s.

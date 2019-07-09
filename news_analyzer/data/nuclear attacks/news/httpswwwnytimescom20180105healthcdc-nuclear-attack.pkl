@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWASHINGTON \u2014 President Trump\u2019s recent tweets about his big nuclear button may have been intended to deter a nuclear weapons exchange with North Korea, but the nation\u2019s top public health agency is taking the prospect of a nuclear attack seriously.\u000a\u000aOn Jan. 16, the Centers for Disease Control and Prevention will present a workshop titled \u201cPublic Health Response to a Nuclear Detonation,\u201d for doctors, government officials, emergency responders and others whom, if they survived, would be responsible for overseeing the emergency response to a nuclear attack.\u000a\u000a\u201cWhile a nuclear detonation is unlikely,\u201d the C.D.C. states on its website, \u201cit would have devastating results and there would be limited time to take critical protection steps. Despite the fear surrounding such an event, planning and preparation can lessen deaths and illness.\u201d\u000a\u000a\u201cJoin us for this session of Grand Rounds to learn what public health programs have done on a federal, state and local level to prepare for a nuclear detonation. Learn how planning and preparation efforts for a nuclear detonation are similar and different from other emergency response planning efforts.\u201d
+p2
+sS'meta_description'
+p3
+VThe nation\u2019s public health agency says a workshop was scheduled months ago, before President Trump\u2019s recent tweets about nuclear buttons and North Korea.
+p4
+sS'datetime'
+p5
+V05-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2018/01/05/health/cdc-nuclear-attack.html
+p8
+sS'title'
+p9
+VThe C.D.C. Wants to Get People Prepared for Nuclear War
+p10
+s.

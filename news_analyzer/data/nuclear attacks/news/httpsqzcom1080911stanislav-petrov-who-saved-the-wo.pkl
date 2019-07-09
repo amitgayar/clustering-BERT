@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VOne night in September 1983, when Stanislav Petrov was on duty in a bunker near Moscow, his computer told him that the US had just launched four nuclear missiles at the Soviet Union.\u000a\u000aHe was the duty officer; his job was to watch for nuclear attacks. All it would take was him to pick up the phone. \u201cIf I had sent my report up the chain of command, nobody would have said a word against it,\u201d he told the BBC 30 years later. This is how the key moment unfolded:\u000a\u000aThe siren howled, but I just sat there for a few seconds, staring at the big, back-lit, red screen with the word \u201claunch\u201d on it. A minute later, the siren went off again. The second missile was launched. Then the third, and the fourth, and the fifth. Computers changed their alerts from \u201claunch\u201d to \u201cmissile strike.\u201d\u000a\u000aThe protocol was for Petrov to call his superiors and prepare the counter-strike, which could only mean World War III. Instead, Petrov called headquarters and reported a malfunction. \u201cTwenty-three minutes later, I realized that nothing had happened,\u201d he said as he smoked cheap, strong Russian cigarettes. He believed that anyone else on duty that night would have reported the attack and set off war.\u000a\u000aNo one knew of his heroics for 10 years. Petrov, who retired with the rank of lieutenant colonel, died in May at the age of 77. The BBC reported that his death has just now been made public.\u000a\u000aIn the most banal of circumstances, Petrov ensured that humanity persists. He was one of two Soviet military men hailed as heroes for averting disaster in the 20th century. The other, Vasili Arkhipov, was aboard a Soviet nuclear submarine that appeared to be under attack at the height of the Cuban missile crisis in 1962. All three of the sub\u2019s commanders needed to agree to launch a nuke; Arkhipov was the only one who dissented. He died in 1998.\u000a\u000aBoth are heroes to a group of men and women we profiled who study the field of existential risk, which is the threat of humanity destroying itself. In front of Petrov\u2019s portrait, one of those researchers, a genial Swede named Anders Sandberg, told Quartz, \u201cIt serves to remind us that maybe\u2014it\u2019s unlikely but maybe\u2014one day, you might find yourself in a similar situation where the fate of the world is hanging on what you do. Maybe you should think very carefully.\u201d\u000a\u000aOnly today, after months of building tension, US president Donald Trump warned that \u201cwe will have no choice but to totally destroy North Korea\u201d if the US or its allies are attacked. With all this open, casual talk of nuclear war (paywall), it might be that there is an American or a Korean out there somewhere who soon will have to act as a Petrov for the 21st century. At least, let us hope.
+p2
+sS'meta_description'
+p3
+S'In September 1983, when he was on duty in a bunker near Moscow, his computer told him the US had just launched four nuclear missiles at the Soviet Union.'
+p4
+sS'datetime'
+p5
+V19-Sep-2017
+p6
+sS'link'
+p7
+Vhttps://qz.com/1080911/stanislav-petrov-who-saved-the-world-from-nuclear-war-is-dead-at-77/
+p8
+sS'title'
+p9
+VStanislav Petrov, the man who saved the world from nuclear war, is dead at 77
+p10
+s.

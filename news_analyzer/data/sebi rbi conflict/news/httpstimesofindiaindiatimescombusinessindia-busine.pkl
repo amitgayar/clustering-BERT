@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMumbai, Sep 18 () Markets regulator Sebi Tuesday said that the ICICI Bank has replied to its show cause notice with respect to a probe into alleged regulatory lapses involving its CEO Chanda Kochhar, her husband and his business dealings.\u000a\u000aSebi Chairman Ajay Tyagi also said that the bank has sought to settle the issues related to Chanda Kochhar through consent mechanism.\u000a\u000aICICI Bank and the business dealings of the Kochhar family has come under the regulatory lens of Sebi and other agencies.\u000a\u000aEarlier, the Securities and Exchange Board of India (Sebi) issued show cause notices to ICICI Bank, Kochhar and others after its preliminary examination favoured initiating adjudication proceedings against them for alleged violation of listing disclosure norms regarding 'conflict of interest' in business dealings of her husband with Videocon Group.\u000a\u000aThe bank and Kochhar have been maintaining there has been no regulatory violation on their part and that she was not aware of specific business dealings of her husband.\u000a\u000aAs per Sebi's preliminary probe, Chanda Kochhar's husband Deepak Kochhar has had many business dealings with Videocon Group over the last several years.\u000a\u000aBesides, Deepak Kochhar and Videocon chief Venugopal Dhoot were co-founders and promoters of NuPower, besides other associations.\u000a\u000aThe cases under scanner include the significant loan exposure of the bank to Videocon way back in 2012 and the alleged involvement of Kochhar's family members in the restructuring of that loan. Kochhar and her family members are facing allegations of quid pro quo and conflict of interest with respect to a loan extended to certain entities. BEN SP RAM RAM RAM
+p2
+sS'meta_description'
+p3
+S'India Business News: Mumbai, Sep 18 () Markets regulator Sebi Tuesday said that the ICICI Bank has replied to its show cause notice with respect to a probe into alleged re'
+p4
+sS'datetime'
+p5
+V18-Sep-2018
+p6
+sS'link'
+p7
+Vhttps://timesofindia.indiatimes.com/business/india-business/icici-bank-seeks-settlement-through-consent-on-kochhar-issue-says-sebi-chief/articleshow/65858128.cms
+p8
+sS'title'
+p9
+VICICI Bank seeks settlement through consent on Kochhar issue, says Sebi chief - Times of India
+p10
+s.

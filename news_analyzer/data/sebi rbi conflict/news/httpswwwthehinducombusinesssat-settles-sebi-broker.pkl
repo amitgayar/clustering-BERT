@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VHow difficult is it to calculate simple interest? Quite difficult, if a recent case that landed at the Securities Appellate Tribunal (SAT) is anything to go by.\u000a\u000aThe tribunal, which had heard and disposed many complex regulatory matters, was forced to calculate simple interest in a matter after the Securities and Exchange Board of India (SEBI) and broker Prebon Yamane (India) failed to arrive at a consensus on the manner and the amount on which simple interest had to be calculated.\u000a\u000a\u201c... we find that parties are not clear as to how simple interest at relevant bank rate is to be calculated,\u201d said the SAT bench comprising Presiding Officer Justice Tarun Agarwala and members C. K. G. Nair and Justice M. T. Joshi, adding that \u201csimple interest was required to be calculated which the parties have failed to calculate in the correct perspective.\u201d\u000a\u000aIn 2004, SEBI had raised a demand of \u20b94.64 crore against Prebon Yamane (India) towards principal amount and the interest as fees under the broker regulations. Prebon Yamane, however, challenged the demand at the tribunal that directed the regulator to refund the money that was already paid by the broker.\u000a\u000aMeanwhile, SEBI challenged the tribunal\u2019s order at the Supreme Court that allowed the broker to withdraw the amount deposited with the tribunal till the matter was pending at the Apex court. As per the Apex Court\u2019s direction, the broker withdrew \u20b96.20 crore that included the principal amount and the interest accrued.\u000a\u000aIn December 2016, the Supreme Court ruled in favour of SEBI and hence the demand raised in 2004 became payable along with interest. Thereafter, the capital markets regulator directed the broker to deposit \u20b911.60 crore that was disputed by the brokerage that said it was liable to pay only \u20b96.20 crore along with simple interest and hence deposited \u20b98.15 crore.\u000a\u000aSEBI, however, informed that the broker was liable to pay a balance amount of \u20b91.10 crore, which was challenged by the broker at the tribunal.\u000a\u000aBased on the tribunal\u2019s order, while Prebon Yamane deposited \u20b956.61 lakh, SEBI said that the brokerage needed to pay an additional \u20b939.03 lakh. Since there was a conflict on calculation of rate of interest, the brokerage filed a miscellaneous application at the tribunal for clarification.\u000a\u000aWhile disposing the matter, the tribunal directed the market intermediary to deposit \u20b910 lakh before April 30, failing which the SEBI would be allowed to recover the entire amount of \u20b939.03 lakh.
+p2
+sS'meta_description'
+p3
+VPrebon Yamane directed to deposit \u20b910 lakh before April 30
+p4
+sS'datetime'
+p5
+V30-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/business/sat-settles-sebi-broker-dispute-over-interest-calculation/article26689298.ece
+p8
+sS'title'
+p9
+VSAT settles SEBI-broker dispute over interest calculation
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWASHINGTON \u2014 President Trump again raised the prospect of nuclear war with North Korea, boasting in strikingly playground terms on Tuesday night that he commands a \u201cmuch bigger\u201d and \u201cmore powerful\u201d arsenal of devastating weapons than the outlier government in Asia.\u000a\u000a\u201cNorth Korean Leader Kim Jong Un just stated that the \u2018Nuclear Button is on his desk at all times,\u2019\u201d Mr. Trump wrote on Twitter. \u201cWill someone from his depleted and food starved regime please inform him that I too have a Nuclear Button, but it is a much bigger & more powerful one than his, and my Button works!\u201d\u000a\u000aMr. Trump\u2019s combative response to a statement made the day before by Mr. Kim raised the temperature in the brewing confrontation between the United States and North Korea even as American allies in South Korea were moving to open talks with Pyongyang. The contrast between Mr. Trump\u2019s language and the peace overture by South Korea highlighted the growing rift between two longtime allies.\u000a\u000aThe president\u2019s tone also generated a mix of scorn and alarm among lawmakers, diplomats and national security experts who called it juvenile and frightening for a president handling a foreign policy challenge with world-wrecking consequences. The language was reminiscent of Mr. Trump\u2019s boast during the 2016 presidential campaign that his hands, and by extension his genitals, were in fact big enough.
+p2
+sS'meta_description'
+p3
+VPresident Trump again raised on Twitter the prospect of nuclear war, boasting that he commands a \u201cmore powerful\u201d arsenal of devastating weapons than Kim Jong-un.
+p4
+sS'datetime'
+p5
+V03-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2018/01/02/us/politics/trump-tweet-north-korea.html
+p8
+sS'title'
+p9
+VTrump Says His \u2018Nuclear Button\u2019 Is \u2018Much Bigger\u2019 Than North Korea\u2019s
+p10
+s.

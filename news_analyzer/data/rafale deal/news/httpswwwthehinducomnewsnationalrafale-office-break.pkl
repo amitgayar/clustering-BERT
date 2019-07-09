@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSeveral documents were stolen in the break-in at the Indian Air Force (IAF) Rafale Project Management Team office in France last week, according to defence sources. However, a crucial hard disk was left behind by the culprits, who accessed three rooms.\u000a\u000a\u201cThere were documents, disks with information and a crucial hard disk. The hard disk is intact,\u201d a defence source told The Hindu. But it is unclear if the hard disk was accessed by the culprits, the source added.\u000a\u000aThe PMT, consisting of four IAF officers and headed by a Group Captain, is overseeing the implementation of the \u20ac7.87 billion Inter-Governmental Agreement (IGA) for 36 Rafale multi-role jets in fly-away condition.\u000a\u000aThe office is located within the premises of French aircraft manufacturer Dassault Aviation in the suburbs of Paris.\u000a\u000aThe exact nature of the missing documents is yet to be determined, the source said. However, the IAF has identified the likely information that would have been leaked from the nature of the documents taken. They may be related to supply protocols, routine communications and weapons-related details but do not include price, another source said.\u000a\u000aThe local police have registered a case and are investigating the matter. At least two other break-ins were reported on the premises, but it is not yet known if they are related. A third source said the crime was very well planned and the culprits came prepared.\u000a\u000aAs per the 2016 Inter Government Agreement (IGA) , the first Rafale fighter is scheduled to be delivered to the IAF in September 2019 with the entire set of 36 jets coming in by 2022.\u000a\u000aIn a similar incident in 2016, 22,400 documents containing technical details of the Scorpene conventional submarines being built in India under technology transfer from Naval Group of France were leaked. They were later published by the media outlet The Australian. The Defence Ministry had then stated that the details were leaked from outside the country. Reports later said they were leaked by a former French officer working with Naval Group.
+p2
+sS'meta_description'
+p3
+S'But it is unclear if the hard disk was accessed by the culprits, the source added.'
+p4
+sS'datetime'
+p5
+V25-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/news/national/rafale-office-break-in-vital-hard-disk-not-taken-says-defence-source/article27248690.ece
+p8
+sS'title'
+p9
+VRafale office break-in: vital hard disk not taken, says defence source
+p10
+s.

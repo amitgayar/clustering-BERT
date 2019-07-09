@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMUMBAI: A whistle-blower had reached out to the market regulator alleging a number of irregularities at Sun Pharmaceutical Industries, reports said a day after ET reported that Australian brokerage Macquarie had raised concern over corporate governance practices at India\u2019s largest drug maker.Online publication Moneylife.in reported on Friday that a senior executive of Sun Pharma had submitted a 150-page document to the Securities and Exchange Board of India ( SEBI ) in September alleging insider trading by the company through several foreign entities. These included Bomin Finance, First International Group Plc, Orbit Investments Plc, Sun Global Investments, Orange Mauritius Investments, Hypnos Fund Limited, Elm Park Fund, Asia Advantage Fund and ITF Mauritius, according to the report.\u201cWe have not been contacted by SEBI in this regard,\u201d Sun Pharma said in an emailed reply to a query from ET on whether the company was aware of the allegations made by the whistle-blower. Queries emailed by ET to SEBI did not elicit any response until late evening on Friday.On Wednesday, Sun Pharma\u2019s shares had plunged to a six-month low after a sales note by Macquarie \u2013 with the subject line, \u2018Murky Waters of Sun Pharma\u2019 \u2013 had gone viral on WhatsApp , triggering alarm among investors . The note raised questions on inadequate disclosure norms in the company with regard to related party transactions, issues of conflict of interest of Sudhir Valia, whole-time director, Sun Pharma, and the company\u2019s links in the past with banned traders such as Ketan Parekh and Dharmesh Doshi.\u201cThere are number of red flags we have observed over the years in Sun Pharma. Most of these the street has already picked up on including a sole distributor for Sun Pharma that is wholly owned by the promoter; the company\u2019s conspicuously low tax rate (used to be as low as 3%) and the guarantees that Sun Pharma had made to a number of entities (including Suraksha realty, a company promoted by Sudhir Valia),\u201d the Macquarie note said.On Thursday, Sun Pharma told ET and the stock exchanges separately that it was legally compliant with all the disclosure norms of SEBI. The company\u2019s compliance officer said, \u201cCertain points raised in the said note are incomplete and have been presented in a negative manner. The supporting information to the points raised in the note has been sourced from public domain and hence this information/data is already available in the public domain. Further, there is no material impact of the said news article on the company.\u201dSun Pharma said that the information had been portrayed in a way to indicate that something inappropriate had been done by the company. \u201cSome of the information presented is even more than 10-15 years old. We believe we are in compliance with all the legal/regulatory provisions applicable to us,\u201d it said.According to disclosures made under related party transactions, Sun Pharma has reported transactions of ?7,466 crore. In the 2018 annual report the company said that since these transactions were in the ordinary course of business and at arm\u2019s length basis, approval of its board was not required.
+p2
+sS'meta_description'
+p3
+S'150-page document sent to market regulator in September, drugmaker says it has not yet been contacted by SEBI.'
+p4
+sS'datetime'
+p5
+V30-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/whistle-blower-complains-to-sebi-against-sun-pharma-alleges-insider-trading-report/articleshow/66891084.cms
+p8
+sS'title'
+p9
+VWhistle-blower complains to SEBI against Sun Pharma, alleges insider trading: Report
+p10
+s.

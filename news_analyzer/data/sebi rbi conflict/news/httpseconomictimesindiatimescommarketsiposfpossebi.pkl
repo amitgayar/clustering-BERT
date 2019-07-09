@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMumbai: The capital markets regulator has directed HDFC Asset Management, the country\u2019s second-largest fund house, to scrap a share placement to top financial advisers and distributors ahead of its initial public offering . Securities and Exchange Board of India ( Sebi ) has asked the fund house to return the money it had collected from these advisers and distributors at 12 per cent, said three people privy to the development.According to sources, HDFC AMC could get the final approval for the IPO once this refund is completed.HDFC Asset Management sold shares worth almost Rs 150 crore to distributors in April this year. These shares were offered to 190 leading distributors and advisers at Rs 1,050 per share. Of these, 140 subscribed, according to market sources.This was the first time a mutual fund has offered its shares to a clutch of distributors. The move, however, did not go down well with those left out, prompting a complaint to Sebi.\u201cThis is against the law. This practice is against the spirit of MF regulations itself,\u201d a senior Sebi official said on the development.Phone calls and text messages sent to HDFC Asset Management\u2019s spokesperson seeking its response on the issue went unanswered at the time of going to press.Two independent financial advisers (IFAs) who were allotted shares in the private placement confirmed that HDFC AMC is cancelling the pre-IPO share sale.HDFC Asset Management had filed papers with Sebi in March for an IPO. But it had to put the listing plans on hold after the regulator deferred approval for the IPO.Prior to the controversial share allotment, HDFC AMC had sought approval for a special quota for distributors in its IPO. The fund house said in its draft red herring prospectus that it may set aside up to 7.2 lakh shares for distributors, subject to regulatory approvals. Sebi, however, rejected the proposal then because it was against a separate quota for distributors. HDFC AMC then issued the shares via private placement, which Sebi now also considers a violation.Officials at rival mutual funds said private placements by asset managers to distributors and financial advisers could lead to \u2018conflict of interest\u2019.\u201cDistributors are supposed to advise investors as per the performance of the fund. Such incentives could lead to distributors favouring mutual funds that hand over the highest number of shares to them. That is not a good practice,\u201d said the chief executive of a large rival mutual fund.
+p2
+sS'meta_description'
+p3
+S'HDFC Asset Management had filed papers with Sebi in March for an IPO.'
+p4
+sS'datetime'
+p5
+V01-Jul-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/markets/ipos/fpos/sebi-directs-hdfc-amc-to-call-off-pre-ipo-placement/articleshow/64820900.cms
+p8
+sS'title'
+p9
+VSebi directs HDFC AMC to call off pre-IPO placement
+p10
+s.

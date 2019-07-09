@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Reserve Bank of India (RBI) faced an interesting question on Wednesday at the August monetary policy press conference. The RBI was asked if there was any engagement from the central bank over the controversy surrounding one of the three \u2018too big to fail\u2019 banks and if there was a bigger issue of governance at private sector banks.\u000a\u000aThe RBI has recognised three banks \u2014 SBI, ICICI Bank, and HDFC Bank \u2014 as domestic systemically important banks (DSIBs), which is along the lines of \u2018too big to fail\u2019 concept.\u000a\u000aPopularised by US Congressman Stewart McKinney in 1984, \u2018too big to fail\u2019 is a concept used for banks or financial institutions that are so big and interconnected that if they fail, the economy is at the risk of substantial damage. The term gained more popularity during the 2007-08 financial crash.\u000a\u000aThe question was ostensibly asked against the backdrop of allegations of conflict of interest made against CEO and MD of ICICI Bank Chanda Kochhar, and subsequent involvement of SEBI and the US SEC into the allegations.\u000a\u000aDubbing discussion on a specific bank \u201cinappropriate\u201d, deputy governor NS Vishwanathan said that the RBI is aware of developments in the banking system and is \u201cdealing with situations as they emerge\u201d.\u000a\u000a\u201cAs far as too big to fail is concerned, there is a global standard for that,\u201d he said, adding that additional capital required in the banks (to keep them healthy) is being maintained.\u000a\u000aIndian banks are currently dealing with a huge pile of non-performing assets (NPAs), making provisions against which have led them to take losses in the last couple of quarters. Moreover, ICICI Bank and Punjab National Bank have been marred by controversies as well.\u000a\u000a\u201cWith the PSBs still under losses, net profits of all banks declined by about 30% in Q1 FY19 vis-à-vis a growth of about 18% witnessed a year ago,\u201d a Care Ratings analysis of 15 public sector banks and 6 private banks said recently.\u000a\u000aWhile the overall NPA ratio increased to 7.92% of total loans in Q1 FY19 from 7.52% in Q1 FY18, PSBs have thrice the exposure than private banks.\u000a\u000aTo deal with the banking crisis, not only did the Narendra Modi government introduced Insolvency and Bankruptcy Code (IBC) to clean-up NPA mess but also announced a massive Rs 2.11 lakh crore bank recapitalisation plan for PSBs, which is being infused in tranches.\u000a\u000aBack-to-back controversies of bank fraud and conflict of interest in PNB and ICICI Bank respectively created resentment among people, and questions were asked on the role played by the government, the RBI and other regulators in stopping such events from emerging.
+p2
+sS'meta_description'
+p3
+S"The RBI was asked if there was any engagement from the central bank over the controversy surrounding one of the three 'too big to fail' banks and if there was a bigger issue of governance at private sector banks."
+p4
+sS'datetime'
+p5
+V02-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://www.financialexpress.com/industry/banking-finance/are-indian-banks-too-big-to-fail-heres-what-rbi-is-doing-about-it-rbi-monetary-policy-august-2018-rate-hike-2nd-time-6-5/1266140/
+p8
+sS'title'
+p9
+V\u2018Too big to fail\u2019 Indian banks: Here\u2019s what RBI is doing about it
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VGiven the allegations of crony capitalism that have dogged bank loans and restructuring processes in the past, it is understandable that the government should wish to distance itself from the process. So, rather than a bad bank which will take a decision on haircuts, the plan is to let commercial banks do this themselves, under the guidance of RBI. RBI, in turn, will set up various oversight committees to vet the decision-making process in the banks, while the government will change the Prevention of Corruption Act to ensure bankers taking decisions on haircuts are protected from scrutiny from courts or investigating agencies after the event. To add to the quality of decision-making, RBI Deputy Governor Viral Acharya has proposed each resolution plan be vetted and rated by at least two credit rating agencies that could also look at the company\u2019s economic health\u2014once a rating is given, needless to say, rating agencies will monitor the company regularly. In order to prevent rating-shopping or any kind of conflict of interest, RBI is likely to pay for the ratings itself.\u000a\u000aGiven the track record of rating agencies, both in India and overseas, it is surprising to see the central bank repose so much faith in their abilities, especially after their role in the global financial crisis of 2008\u2014they found themselves mired in US Department of Justice-led litigation for having inflated ratings of risky mortgage-backed securities for years preceding the crisis. Moody\u2019s had to fork out $864 million earlier this year to settle cases against it while S&P had to pay $1.4 billion after the DoJ launched a $5-billion suit against it.\u000a\u000aOnly last week, India\u2019s market regulator Sebi hauled up two prominent rating agencies, CARE Ratings and Crisil, for having failed to properly assess the debt paper issued by Amtek Auto and the risk associated with holding of Amtek bonds by JP Morgan under two schemes, respectively. In August 2015, it became clear that Amtek Auto was on the verge of defaulting on `800 crore of bond repayment. CARE, which had failed to warn the market of Amtek\u2019s position sufficiently ahead of time, abruptly suspended its rating of the paper\u2014after having rated it a high AA- for months. Crisil, for its part, lowered JP Morgan bond fund schemes\u2019 ratings by eight notches in the space of just one month (September 2015) before announcing the withdrawal of ratings for the schemes. Prior to this, it had given them the highest rating for credit portfolio quality. The raters were caught napping, and Amtek paper became junk almost overnight, causing serious hurt to investors. Examples such as these can be multiplied manifold\u2014indeed, chances are a very large proportion of the loans that are in trouble would have been taken from companies that have enjoyed a good rating in the past. Certainly, some rating agencies have valuable perspective to offer, and not all ratings are of the same quality, but with no skin in the game, raters have gone terribly wrong in the past\u2014in cases where a company has suffered due to siphoning off of funds, the raters can\u2019t even be blamed for this. While it is a good idea to get another opinion from a rating agency, basing a decision on this, or even justifying it is a bad idea.
+p2
+sS'meta_description'
+p3
+S'Given the allegations of crony capitalism that have dogged bank loans and restructuring processes in the past, it is understandable that the government should wish to distance itself from the process.'
+p4
+sS'datetime'
+p5
+V24-May-2017
+p6
+sS'link'
+p7
+Vhttps://www.financialexpress.com/opinion/npa-crisis-given-rating-agencies-track-record-odd-that-rbi-looks-to-add-to-their-credibility/684452/
+p8
+sS'title'
+p9
+VNPA crisis: Given rating agencies track record, odd that RBI looks to add to their credibility
+p10
+s.

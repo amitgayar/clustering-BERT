@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VKnown celestial conspiracy theorist and Celtics guard Kyrie Irving had a few thoughts about the media frenzy that followed after Warriors guard Stephen Curry said he didn't believe astronauts landed on the moon.\u000a\u000aIrving, who experienced a similar fallout after he stated in February 2017 that he believed that the earth was flat, which he eventually apologized for, said that the kinds of reactions he and Curry experienced are "a little unfair at times."\u000a\u000aThe Celtics' five-time NBA All-Star also called out the outlets who criticized Curry for his comments.\u000a\u000a"There's world hunger going on, there are political things going on, there are so many higher things in the totem poll of society that matter to human beings but hey\u2013Steph Curry says that he doesn't believe in the moon [and] it's the thing all over. It's on CNN and they say we're just jocks, just athletes, but it's on your channel."\u000a\u000aCurry started all the hubbub when he appeared on The Ringer\u2019s \u201cWinging It\u201d podcast featuring Hawks wings Vince Carter and Kent Bazemore. Almost out of the blue, the Golden State All-Star offered up this take.\u000a\u000a\u201cWe ever been to the moon?\u201d Curry asked in the interview. After two people replied "nope," Curry said, "They're gonna come get us. I don't think so either."\u000a\u000aCurry has since accepted an invitation to visit NASA when the Warriors go to Houston in March. He also clarified that he was joking and interviewed retired astronaut Scott Kelly, who once spent 340 days orbiting Earth on the International Space Station, over Instagram live.\u000a\u000aIn his Instagram live with Kelly, Curry said he needed to be more aware of the weight his words carry.\u000a\u000a\u201cIt was important for me to understand, one, the magnitude of things that I say in my comments, and how much weight they carry, no matter if I am joking or not, but totally honor that in every situation I put myself in,\u201d Curry said, as transcribed by Warriors Wire.\u000a\u000aIrving said that sometimes these types of comments can come from what he referred to as "speaking ahead of yourself." When Irving apologized for his earth comments while speaking at the Forbes Under 30 Summit in Boston in October, he echoed Curry's recognition of needing to be more aware of the power that comes with their platforms.\u000a\u000a"At the time, I was, like, innocent in it," Irving said at the summit. "But you realize the effect of the power of voice."
+p2
+sS'meta_description'
+p3
+S'Irving has had some experience of his own with floating a conspiracy theory and getting a pretty heated reaction as a result.'
+p4
+sS'datetime'
+p5
+V18-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://www.si.com/nba/2018/12/18/celtics-kyrie-irving-reaction-warriors-steph-curry-moon-landing-comments
+p8
+sS'title'
+p9
+VKyrie Irving weighs in on Steph's moon landing comments
+p10
+s.

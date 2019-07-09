@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWASHINGTON \u2014 The United States dropped the \u201cmother of all bombs\u201d \u2014 the most powerful conventional bomb in the American arsenal \u2014 on an Islamic State cave complex in Afghanistan on Thursday, the Pentagon said, unleashing a weapon so massive that it had to be dropped from the rear of a cargo plane.\u000a\u000aThe strike was the first combat use of what is formally named the GBU-43/B Massive Ordnance Air Blast. President Trump has bestowed additional authority on the Pentagon in his first months in office, which the military has argued will help it defeat the Islamic State more speedily. Mr. Trump did not say whether he had personally approved Thursday\u2019s mission.\u000a\u000a\u201cWhat I do is I authorize my military,\u201d Mr. Trump said after a meeting with emergency workers at the White House. He called the bombing \u201canother very, very successful mission.\u201d\u000a\u000aThe Pentagon gave no casualty totals for the bombing, part of an intense air campaign against the militant group in Afghanistan. But in a separate announcement, the Pentagon said that an airstrike in Syria by the American-led coalition fighting the Islamic State there had killed 18 Syrian fighters allied with the United States, raising concerns about whether the White House is applying any rigor to the process of approving airstrikes in hot spots from Afghanistan to Syria.
+p2
+sS'meta_description'
+p3
+S'A new version of the most powerful conventional bomb in the American arsenal, so big it had to be dropped from a cargo plane, was used for the first time in combat.'
+p4
+sS'datetime'
+p5
+V13-Apr-2017
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2017/04/13/world/asia/moab-mother-of-all-bombs-afghanistan.html
+p8
+sS'title'
+p9
+VU.S. Drops \u2018Mother of All Bombs\u2019 on ISIS Caves in Afghanistan
+p10
+s.

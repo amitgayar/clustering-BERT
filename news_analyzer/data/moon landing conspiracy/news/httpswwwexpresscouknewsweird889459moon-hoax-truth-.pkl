@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIt has been one of the world's biggest conspiracy theories and speculation and theories abound about why anomalies in NASA photographs prove they must have been taken in a studio on Earth, before the world was duped in July 1969. The 48th anniversary of Neil Armstrong's first steps on the lunar surface took place in July, but many conspiracy theorists across the globe remain convinced it was the biggest cover up of all time. Moon hoax conspiracy theorists say a desperate US President John F Kennedy, who wanted to beat the Russians in the space race to the Moon, ordered the production of a series of films in top-secret studios to make it look like NASA astronauts made it to the lunar surface. However, one YouTube video claims to have debunked the "fake lunar landings" conspiracy theorists once and for all. The Moon landings conspiracy theories have been branded "fake" in the video which claims to debunk the speculation.\u000a\u000aIt was made by YouTuber BertieSlack whose about section says: "Debunking the moon hoax theory, and laughing at conspiracy theorists." In the video entitled "Moon Hoax Theory dead - killed by rabbit!", the debunker uses footage taken by China's Chang'e 3 unmanned Moon mission. One of the main arguments from Moon hoax theorists is that there were no stars seen in NASA Apollo mission Moon images, and there should have been, so they must have been a studio oversight. However, the video compared pictures taken by the Chinese mission to the NASA originals, and both had a jet black sky without a single star. The video narrator said: "It all started to go wrong for the hoax nuts as soon as Chang'e 3 sent back its first pictures." He said it was not the striking similarity between the images to those taken by Neil Armstromg, but the "complete absence of stars in the lunar sky", in both sets.\u000a\u000aHe adds: "But the wheels really stated to come off when the lander deployed the U2 rover - multiple strands of the Moon hoax theory were instantly busted. "The rover made nice sharp tracks in the dry Moon dust\u2026 the hoax nuts told us this was only possible in wet material in a studio on Earth." Another claim made by hoax theorists is that classic images of Buzz Aldrin, lit up seemingly from the down sun end of the Moon, would not have been possible to take naturally, and must have needed "secondary light" from a studio. The narrator added: "Here the Chinese rover in the down sun is clearly lit by sunlight reflected back off the lunar sauce to the source. "The wheels down in the shadow do not get much light, just like Buzz's boots."
+p2
+sS'meta_description'
+p3
+S"NO SOONER than Neil Armstrong took his 'giant leap for mankind' more than 50 years ago, one of the world's biggest ever conspiracy theories started... did NASA actually go to the Moon?"
+p4
+sS'datetime'
+p5
+V07-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/weird/889459/Moon-hoax-truth-NASA-fake-lunar-landings-YouTube
+p8
+sS'title'
+p9
+VCONCLUSIVE PROOF? Video finally 'nails the TRUTH' about whether NASA went to the Moon
+p10
+s.

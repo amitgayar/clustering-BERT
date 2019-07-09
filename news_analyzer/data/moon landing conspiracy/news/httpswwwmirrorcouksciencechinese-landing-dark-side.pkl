@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VEarlier this month, China made history by landing a rover on the \u2018dark side of the moon\u2019 for the first time.\u000a\u000aWhile China\u2019s National Space Administration has posted several photos and videos of the landing, conspiracy theorists aren\u2019t convinced.\u000a\u000aNow, one conspiracy theorist claims he has evidence that the moon landing was fake.\u000a\u000aScott C. Waring, who runs UFO Sightings Daily, believes he\u2019s spotted a \u2018stage prop line\u2019 in a photo of the Jade Rabbit rover.\u000a\u000aOn his site, he said: \u201cSomeone mistakenly placed a line in front of the rover and forgot to erase it.\u000a\u000a\u201cOr they should have made the line much smaller. This screams staged event all together.\u201d\u000a\u000aMr Waring also claims that the lack of rocks in the image is a sign that the image is fake.\u000a\u000aHe added: \u201cNotice the lack of moon rocks on the entire surface of the moon...which is exactly what the first Apollo moon landing also showed...a sign of being faked on a stage.\u201d\u000a\u000aHowever, Nigel Watson, author of UFOs of the First World War, isn't falling for Waring's theory.\u000a\u000aSpeaking to Mirror Online, he said: "The Moon is a location where conspiracy theorists' ideas go rampant.\u000a\u000a"In this instance the 'prop line' could be a reflection of sunlight from the solar panels on top of the vehicle.\u000a\u000a"Whatever it is, it is very slim case for evidence that the Chinese faked this mission!"
+p2
+sS'meta_description'
+p3
+VScott C. Waring believes he\u2019s spotted a \u2018stage prop line\u2019 in a photo of the Jade Rabbit rover
+p4
+sS'datetime'
+p5
+V14-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.mirror.co.uk/science/chinese-landing-dark-side-moon-13855050
+p8
+sS'title'
+p9
+VChinese landing on 'dark side of the moon' was fake, conspiracy theorist claims
+p10
+s.

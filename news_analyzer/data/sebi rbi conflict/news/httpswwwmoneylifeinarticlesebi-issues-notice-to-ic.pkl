@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VTo bookmark you need to sign in\u000a\u000aPrivate lender ICICI Bank on Friday said that Securities and Exchange Board of India (SEBI) has sought responses from the company and its MD and CEO Chanda Kochhar on alleged non-compliance of the "erstwhile 'Listing Agreement' and the 'Listing Obligations and Disclosure Requirements) Regulations, 2015'".\u000a\u000aAccording to a BSE filing, SEBI sought the reply via a notice issued to the private lender and its MD and CEO on May 24.\u000a\u000aAs per the securities market regulator's LODR regulations, all listed entities are mandated to immediately disclose relevant and important information to stock exchanges.\u000a\u000a"The MD and CEO and the bank received a notice from SEBI on May 24, 2018... requiring responses on matters relating to alleged non-compliance with certain provisions of the erstwhile 'Listing Agreement' and the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'," the filing said.\u000a\u000a"The notice has been issued based on information furnished by the bank or its MD and CEO to diverse queries made by SEBI concerning dealings between the bank and Videocon Group and certain dealings allegedly between Videocon Group and Nupower, an entity in which Deepak Kochhar spouse of MD and CEO has economic interests."\u000a\u000aThe bank said that appropriate responses would be submitted to SEBI in accordance with regulation.\u000a\u000aThe SEBI notice comes more than a month after nepotism and conflict of interest allegations were levelled against Kochhar. It has been alleged that Kochhar had wrongfully granted a loan to Videocon Group and that her husband's company -- NuPower Renewables -- received a loan from the Videocon Group's Chariman Venugopal Dhoot on a quid pro quo basis.\u000a\u000aChanda Kochhar on May 7 had said that private lender works under and abides by all regulatory norms and that it has been fully cooperating with regulatory and investigative agencies.\u000a\u000aOn March 29, ICICI Bank Chairman M.K. Sharma had said that reports alleging nepotism by Kochhar were unfounded and malicious in nature.\u000a\u000aSaying that ICICI Bank's exposure to the Videocon Group (Videocon Industries and 12 of its subsidiaries or associates as co-obligors) for a debt consolidation programme and for the group's oil and gas capital expenditure programme aggregating approximately Rs 40,000 crore was less than 10 per cent.\u000a\u000aSharma had asserted that no individual bank employee has the ability to influence decisions of the credit committee.\u000a\u000aHe clarified that none of "the investors of NuPower Renewables are borrowers of ICICI Bank" and that Kochhar did not chair the committee that had lent to Videocon.\u000a\u000aIn addition, Sharma said at the press briefing that Kochhar has been making all her disclosures in accordance with the regulatory guidelines under the Companies Act and the Banking Act.\u000a\u000aSharma revealed that the bank has 'satisfactorily' replied to the questions of all the regulators, which he described as an ongoing process between "a regulated entity like a bank and the regulators and other government departments".\u000a\u000aIn 2012, a consortium of 20 banks and financial institutions sanctioned credit facilities to the Videocon Group for a debt consolidation programme and for its oil and gas capital expenditure programme aggregating to approximately Rs 40,000 crore.\u000a\u000aDisclaimer: Information, facts or opinions expressed in this news article are presented as sourced from IANS and do not reflect views of Moneylife and hence Moneylife is not responsible or liable for the same. As a source and news provider, IANS is responsible for accuracy, completeness, suitability and validity of any information in this article.
+p2
+sS'meta_description'
+p3
+S"Private lender ICICI Bank on Friday said that Securities and Exchange Board of India (SEBI) has sought responses from the company and its MD and CEO Chanda Kochhar on alleged non-compliance of the erstwhile 'Listing Agreement' and the 'Listing Obligations and Disclosure Requirements) Regulations, 2015'."
+p4
+sS'datetime'
+p5
+V25-May-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneylife.in/article/sebi-issues-notice-to-icici-bank-ceo-kochhar-in-videocon-case/54145.html
+p8
+sS'title'
+p9
+VSEBI issues notice to ICICI Bank, CEO Kochhar in Videocon case
+p10
+s.

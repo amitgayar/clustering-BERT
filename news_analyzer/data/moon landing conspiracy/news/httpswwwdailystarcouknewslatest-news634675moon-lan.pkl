@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNASA has admitted that sending astronauts to the moon is not possible, a respected lunar landing conspiracy theorist has sensationally claimed.\u000a\u000aIt is widely accepted that US astronauts Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the moon on July 20, 1969. But 48 years on, conspiracy theorists still believe that the Apollo 11 mission was staged by the administration of President John F Kennedy. One major theory suggests that a lethal radiation belt surrounding Earth would have made travel to the moon impossible. The Van Allen belt creates a dense radiation environment of charged particles trapped in Earth\u2019s magnetic field. Marcus Allen, a notorious peddler of moon landing hoax theories, reckons NASA\u2019s astronauts would have died when passing through the belt.\u000a\u000aAllen put forward this theory at the Glastonbury Symposium \u2013 an annual conference exploring truth, mysteries and new frontiers, according to Express.co.uk. Speaking on a panel at the 27th annual conference, Allen, whose Nexus conspiracy theory magazine reaches 1.1 million readers globally, waxed lyrical about the theory. He said: \u201cI don't believe man landed on the moon. If NASA or anyone else can prove it, I am waiting to hear, because I can't work it out. \u201cIt is the 50th anniversary apparently, but how did they do it? \u201cIf it was so easy in the 1960s, surely they could do it any day now, and so could Russia, Japan, India, even North Korea.\u201d\u000a\u000a\u201cI don't believe man landed on the moon.\u201d And in an astonishing claim, Allen suggested that NASA has admitted that astronauts cannot pass through the belt without problems. He said: "It wasn't easy, there are so many difficulties to be overcome. "NASA admitted this since in not so many words. "If you read NASA's technological information they say we have real problems, they just don't say they had a problem at the time." But writing for Popular Science, writer Amy Shira Teitel explored the theory in great detail.\u000a\u000aShe explained that, although NASA knew the risks of the \u201cVan Allen problem\u201d, scientists were confident no astronauts would be harmed. NASA research confirmed that \u201cthe spacecraft\u2019s skin and all the instrumentation lining the walls would be enough protection\u201d for astronauts. Shira wrote: \u201cTo monitor radiation exposure during the flights, Apollo crews carried dosimeters on board their spacecraft and on their persons. \u201cAt the end of the programme, the agency determined that its astronauts had avoided the large radiation doses many feared would ground flights to the Moon.\u201d
+p2
+sS'meta_description'
+p3
+S'NASA has admitted that sending astronauts to the moon is not possible, a respected lunar landing conspiracy theorist has sensationally claimed.'
+p4
+sS'datetime'
+p5
+V03-Aug-2017
+p6
+sS'link'
+p7
+Vhttps://www.dailystar.co.uk/news/latest-news/634675/moon-landing-faked-1969-hoax-nasa-van-allen-belt
+p8
+sS'title'
+p9
+VMoon landing HOAX? Bombshell claims \u2018NASA admitted 1969 mission is NOT possible\u2019
+p10
+s.

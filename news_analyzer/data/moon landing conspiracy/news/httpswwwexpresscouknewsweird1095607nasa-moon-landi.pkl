@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWhen NASA astronauts Neil Armstrong and Buzz Aldrin landed on the Moon on April 20, 1969, more than 500 million watched around the globe with bated breath. But the monumental moment in the history of mankind is often overshadowed by conspiracy theories claiming the Moon landing was faked. As the 50th anniversary of the Moon landing approaches, the number of conspiracist questioning NASA\u2019s official version of events is on the rise. Mr Weidner, who directed the documentary Kubrick's Odyssey, has astonishingly claimed footage of the Apollo 11 landing was directed by Mr Kubrick.\u000a\u000aHowever, even more surprisingly, the filmmaker said NASA did go to the Moon \u2013 but the footage broadcast around the world was a hoax. He said: \u201cNot to say we didn\u2019t go to the Moon, we went to the Moon, we just didn\u2019t go to the Moon and they didn\u2019t show it to us for various reasons, and they\u2019re all very good reasons.\u201d According to Mr Weidner, clues about the \u201ccontroversial\u201d version of events are peppered throughout Mr Kubrick\u2019s films. He said the Hollywood legend hid \u201csecrets\u201d in his movies, which Mr Kubrick then expected people to pick up on over the next 50 years or so.\u000a\u000aThe conspiracy theorist argued there is no concrete proof astronauts ever went to the Moon. Instead, he argued Mr Kubrick employed a technique known as front screen projection to shoot the Apollo 11 landing in a Hollywood studio. Front screen projecting involves creating a detailed backdrop for a filmed scene by projecting an image onto a two-way mirror, which then reflects it onto a highly reflective surface. The technique was pioneered by the cinematographer in his 1966 masterpiece 2001: A Space Odyssey. READ MORE: SHOCK claim footprint does not match Neil Armstrong's boot\u000a\u000aMr Weidner said: \u201cEverybody thinks we went to the Moon, and I think we went to the Moon too, but I don\u2019t think we went the way that they showed us. \u201cI think that they hired Stanley Kubrick to make the films \u2013 all of the Apollo films starting with Apollo 11. \u201cThen what he did is used the making of 2001: A Space Odyssey as a research and development project to develop the cinema technology needed to do the lunar filming. \u201cHe used the technique called front screen projection and I show how this works in this film and then I show the fingerprints of its usage. READ MORE: Does 'stagehand reflected in astronaut's' visor prove it was filmed in a studio?\u000a\u000a\u201cCertain fingerprints, which are evident every time front screen projection is used, and old antiquated cinematic process now in the age of computers but then a form of cinema trickery, and I show both in the Apollo footage and the Apollo photos the same exact fingerprints.\u000a\u000a\u201cIn fact, I would say if there\u2019s one thing that Kubrick\u2019s Odyssey is going to do is going to have a historical effect that whether you believe Stanley Kubrick directed the Moon landings or not, after reviewing Kubrick\u2019s Odyssey, I guarantee your view of the Apollo imagery will forever be changed.\u201d The Apollo 11 Moon landing took place on July 20, 1969, just four days after astronauts Neil Armstrong, Michael Collins and Buzz Aldrin blasted off from Cape Canaveral, Florida. NASA famously avoids the topic of Moon landing hoax allegations but has in the past firmly denied any claims of foul play. NASA said: \u201cTo some extent debating this subject is an insult to the thousands who worked for years to accomplish the most amazing feats of exploration in history.\u000a\u000a\u201cAnd it certainly is an insult to the memory of those who have given their lives for the exploration of space.\u201d The three NASA astronauts who flew to the Moon were awarded the Presidential Medal of Freedom. Their incredible endeavour is now the subject of the documentary Apollo 11, which is out now. Commander Armstrong, the first man to walk on the Moon, died in 2012 at the age of 82.
+p2
+sS'meta_description'
+p3
+S'NASA faked the historic Apollo 11 Moon landing footage with the help of Hollywood veteran director Stanley Kubrick, book author and filmmaker Jay Weidner has shockingly claimed.'
+p4
+sS'datetime'
+p5
+V05-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/weird/1095607/NASA-moon-landing-hoax-stanley-kubrick-film-apollo-11-nasa-moon-landing-fake
+p8
+sS'title'
+p9
+VNASA Moon landing HOAX? 'Stanley Kubrick filmed Apollo 11' and THIS is how - Shock claim
+p10
+s.

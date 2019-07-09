@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VAmerica\u2019s presence as a global superpower is on thin ice under President Donald Trump.\u000a\u000aThe president is struggling to reign in three of the biggest nuclear military nations, North Korea, India, and Pakistan. In the past, the US has played a crucial diplomatic role in easing nuclear tensions around the world. Not any more.\u000a\u000aYesterday, the president failed to reach a deal with North Korean dictator Kim Jong Un, with the much-hyped summit ending early. Meanwhile, his inaction in the India-Pakistan crossfire has left two nuclear powerhouses on the brink of war.\u000a\u000aWith Trump way out of his depth at the diplomacy table, there\u2019s a huge power vacuum growing on the global stage.\u000a\u000aTrump promised a \u201cvery productive summit\u201d when he flew to Vietnam to meet North Korea\u2019s Kim Jong Un. But the summit was cut short with both sides leaving early.\u000a\u000aA signing ceremony and lunch were both cancelled and a media conference was rescheduled two hours earlier.\u000a\u000aKim Jong Un allegedly offered to close its Yongbyon nuclear complex in exchange for US sanctions lifted. But the notorious dictator refused to shut down covert uranium plants. Trump explains:\u000a\u000aBut as the US editor of The Telegraph notes, why didn\u2019t Trump see this coming? Instead of anticipating this move and offering a counter, he simply gave up and left.\u000a\u000aAs CCN reported earlier this week, Trump\u2019s voice has been suspiciously absent as tensions flare between India and Pakistan. Two nuclear states with immense military firepower at their disposal.\u000a\u000aIndia launched airstrikes into Pakistan territory on Monday 21st February, breaching the de facto border for the first time in 40 years. The aggression came after Pakistan militants killed 40 Indians in a suicide attack.\u000a\u000aTypically, the US has used its diplomatic leverage to act as a peacemaker in the region. Former US secretary of state Condoleezza Rice famously pulled India and Pakistan back from the brink of war in 2008. She visited India to urge caution after the Mumbai attacks.\u000a\u000aNeither Trump nor his secretary of state Mike Pompeo has shown much tact or diplomacy in addressing the tensions this time around.\u000a\u000aSince elected, Trump has come down hard on Pakistan, slashing US military aid. Meanwhile, he has heaped praise on India and strengthened military deals. If war breaks out between the two nuclear nations, it\u2019s clear where Trump\u2019s allegiance lies.\u000a\u000aMeanwhile, China is lining up behind Pakistan, supplying the nation with nuclear technology and arms. There\u2019s an epic power battle escalating behind the scenes and Trump appears clueless.\u000a\u000aDisclaimer: The views expressed in the article are solely those of the author and do not represent those of, nor should they be attributed to, CCN.\u000a\u000aDisclaimer: The views expressed in the article are solely those of the author and do not represent those of, nor should they be attributed to, CCN.
+p2
+sS'meta_description'
+p3
+S"President Donald Trump's meeting with North Korea's Kim Jong Un ended early. With war looming between India and Pakistan, is Trump out of his depth?"
+p4
+sS'datetime'
+p5
+V28-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.ccn.com/trump-nuclear-north-korea-india-pakistan
+p8
+sS'title'
+p9
+VTrump Fails to Rein in Nuclear Nations: North Korea Summit Breaks Down While India-Pakistan War Looms
+p10
+s.

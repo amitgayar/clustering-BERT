@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSLIDESHOW | Govt vs RBI: A look at past disputes between the central bank and the executive\u000a\u000aThe government is likely to impose Section 7, which could curb the central bank's autonomy.
+p2
+sS'meta_description'
+p3
+S'This blog will keep you posted on the latest developments around the ongoing rift between the government and the Reserve Bank of India (RBI)'
+p4
+sS'datetime'
+p5
+V30-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneycontrol.com/news/india/govt-vs-rbi-highlights-rbi-govt-to-hold-consultations-frequently-says-finance-ministry-3108611.html
+p8
+sS'title'
+p9
+VGovt vs RBI highlights: RBI, govt to hold consultations frequently, says Finance Ministry
+p10
+s.

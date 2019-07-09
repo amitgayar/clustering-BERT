@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIran hit out at the United States on Monday for \u201ccausing tensions\u201d after President Donald Trump said his government was not seeking regime change and that he would welcome talks with Tehran.\u000a\u000aThe Trump administration was \u201churting the Iranian people and causing tension in the region,\u201d Iranian Foreign Minister Mohammad Javad Zarif wrote on his Twitter account.\u000a\u000a\u201cActions \u2014 not words \u2014 will show whether or not that\u2019s @realDonaldTrump\u2019s intent,\u201d Zarif added, referencing the U.S. president\u2019s Twitter handle.\u000a\u000aZarif also denied Iran was seeking nuclear weapons, after Trump said during a visit to Japan that \u201cwe\u2019re not looking for regime change (in Iran) \u2026 we\u2019re looking for no nuclear weapons.\u000a\u000aIran\u2019s supreme leader, Ayatollah Ali Khamenei, \u201clong ago said we\u2019re not seeking nuclear weapons \u2014 by issuing a fatwa (edict) banning them,\u201d the foreign minister tweeted.\u000a\u000aKhamenei is said to have issued a fatwa against nuclear weapons in 2003 and has reiterated it several times since.\u000a\u000aIran is locked in a tense standoff with the United States which has beefed up its military presence in the Middle East in response to alleged threats from the Islamic republic.\u000a\u000aOn Saturday, Zarif called a deployment of extra U.S. troops to the region \u201cvery dangerous and a threat to international peace and security.\u201d\u000a\u000aIt follows a U.S. decision earlier this month to send an aircraft carrier strike force and B-52 bombers in a show of force against what Washington\u2019s leaders said they believed was an imminent Iranian plan to attack U.S. assets.\u000a\u000aWashington says the latest reinforcements are in response to a \u201ccampaign\u201d of recent attacks including a rocket launched into the Green Zone in Baghdad, explosive devices that damaged four tankers near the entrance to the Gulf, and drone strikes by Yemeni rebels on a key Saudi oil pipeline.\u000a\u000aIran has denied any involvement in the attacks.
+p2
+sS'meta_description'
+p3
+S'Iran hit out at the United States on Monday for "causing tensions" after President Donald Trump said his government was not seeking regime change and that'
+p4
+sS'datetime'
+p5
+V14 hours ago
+p6
+sS'link'
+p7
+Vhttps://www.japantimes.co.jp/news/2019/05/28/world/politics-diplomacy-world/iran-slams-u-s-causing-tensions-trump-nuclear-weapons-comment/
+p8
+sS'title'
+p9
+VIran slams U.S. for 'causing tensions' after Trump nuclear weapons comment
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VStephen Hawking persuaded Buzz Aldrin that humans should return to the Moon before venturing to Mars.\u000a\u000aThe Apollo 11 astronaut said that the late astrophysicist was convinced that space agencies should be concentrating on getting back to the lunar surface, from where they could plan a new mission further into the Solar System.\u000a\u000aSpeaking at the Starmus festival in Zurich, where he was presented with the Stephen Hawking Medal for Lifetime Achievement, Aldrin, 89, said: \u201cThere was a time when I was in his office in Cambridge and at that time I had been anxious that we should make a continuous orbit between Earth and Mars, and he started tapping out letters with his cheek, the way he did.
+p2
+sS'meta_description'
+p3
+S'Stephen Hawking persuaded Buzz Aldrin that humans should return to the Moon before venturing to Mars.'
+p4
+sS'datetime'
+p5
+V29-Jun-2019
+p6
+sS'link'
+p7
+Vhttps://www.telegraph.co.uk/science/2019/06/29/buzz-aldrin-stephen-hawking-persuaded-go-back-moon-mars/
+p8
+sS'title'
+p9
+VBuzz Aldrin: Stephen Hawking persuaded me to go back to the Moon before Mars
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMUMBAI: Two domestic shareholders of UTI Asset Management Co \u2014 State Bank of India SBI ) and Life Insurance Corporation of India ( LIC ) \u2014 have sought more time from the Securities and Exchange Board of India (Sebi) to divest their stake in the asset manager but the market regulator has declined them an extension of time, said people with knowledge of the matter.Last year in March, the Securities and Exchange Board of India (Sebi) introduced a cross-holding limit in mutual funds to eliminate potential conflicts of interest. A shareholder with 10 per cent or more in an asset management company (AMC) in India cannot hold a similar-sized stake in another fund house and would also have to give up board seats.According to this rule, UTI AMC\u2019s local partners have to pare their stakes to less than 10 per cent each by the end of this month. SBI and LIC hold 18.5 per cent each in UTI AMC, as do Punjab National Bank and Bank of Baroda. The rule applies to all four. US asset manager T Rowe Price holds the balance 26 per cent stake.\u201cBoth the shareholders have placed their request before Sebi and also met the regulator regarding this issue. But Sebi has informally told them that it is not inclined to give any extension,\u201d said a person familiar with the development.The stakeholders may seek government intervention in the matter.\u201cSince Sebi is unlikely to give an extension, the shareholders may seek the finance ministry\u2019s intervention,\u201d said another person.Sebi, SBI and LIC didn\u2019t respond to queries.All shareholders want to take UTI AMC public and have been waiting for the finance ministry\u2019s approval for the past two years.They think an initial public offering (IPO) is the most efficient and value-added option to reduce the sponsor\u2019s stake.\u201cThe draft prospectus has not been filed yet and a new CEO has also not been appointed,\u201d said another person close to the development.UTI AMC is in the process of appointing a new CEO. The board is being assisted by an executive search firm in the recruitment process and it has shortlisted a few candidates. The board is yet to meet and approve the name of the potential candidate.UTI AMC was formed in 2003 when the government was forced to restructure Unit Trust of India (UTI) following a payments crisis. UTI\u2019s assured-return schemes were transferred to the Special Undertaking of UTI (SUUTI) and the rest to UTI AMC.Subsequently, the four domestic shareholders bought out the government\u2019s stake in the fund house for Rs 1,250 crore.When the fund house was formed, the four shareholders were temporary custodians as they had also started their own asset management companies. When UTI AMC came into existence the government had indicated to the sponsors that they would have to eventually pare down their holding.
+p2
+sS'meta_description'
+p3
+S'Shareholders have been waiting for FinMins approval to take UTI MF public for two years now.'
+p4
+sS'datetime'
+p5
+V04-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/markets/stocks/news/sbi-lic-fail-to-get-more-time-to-cut-uti-mf-stake/articleshow/68263477.cms
+p8
+sS'title'
+p9
+VSBI, LIC fail to get more time to cut UTI MF stake
+p10
+s.

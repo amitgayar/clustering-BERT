@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VICICI Bank has applied for consent to the markets regulator to settle allegations against its chief Chanda Kochhar relating to corporate governance issues in Videocon loan case.\u000a\u000aConfirming that ICICI Bank and Chanda Kochhar have sought for consent, SEBI Chairman Ajay Tyagi said that nothing has been formally communicated by the bank.\u000a\u000aHowever, in a clarification to the stock exchanges later in the evening, ICICI Bank said: "We have submitted our response to the show cause notice issued by SEBI. We would like to clarify that we have not filed any application for settlement."\u000a\u000aSEBI had earlier issued showcause notices to ICICI Bank, Kochhar and others after its preliminary examination showed alleged violation of listing disclosure norms.\u000a\u000aTyagi said that ICICI Bank has replied to its showcause notice with respect to a probe into alleged \u201cconflict of interest\u201d and regulatory lapses involving its CEO and Managing Director Kochhar, involving her husband and his business dealings.\u000a\u000aTyagi said the bank has sought to settle the matter through consent mechanism.\u000a\u000aUnder consent proceedings, parties involved in disputes with SEBI can settle them without admission of guilt. It is a quick alternate arrangement that avoids any courtroom battles relating to any legal dispute.\u000a\u000aThe private sector lender has come under regulatory lens for loans given to a few corporate borrowers including the Videocon Group.\u000a\u000aSince the issue fire came to light in March end, the bank and Kochhar have maintained that there has been no regulatory violation on their part and that she was not aware of specific business dealings of her husband.\u000a\u000aAs per SEBI's preliminary probe, Chanda Kochhar's husband Deepak Kochhar has had many business dealings with Videocon Group over the last several years. Besides, Deepak Kochhar and Videocon chief Venugopal Dhoot were co-founders and promoters of NuPower, besides other associations. Catch Budget 2019 LIVE updates here . Click here for full Budget 2019 coverage
+p2
+sS'meta_description'
+p3
+S'Under consent proceedings, parties involved in disputes with SEBI can settle them without admission of guilt. It is a quick alternate arrangement that avoids any courtroom battles relating to any legal dispute.'
+p4
+sS'datetime'
+p5
+V18-Sep-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneycontrol.com/news/business/companies/videocon-case-icici-bank-seeks-settlement-through-consent-says-sebi-chief-ajay-tyagi-2963241.html
+p8
+sS'title'
+p9
+VVideocon case: ICICI Bank seeks settlement through consent, says SEBI chief Ajay Tyagi
+p10
+s.

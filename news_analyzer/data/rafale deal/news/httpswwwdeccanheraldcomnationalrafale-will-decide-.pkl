@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Supreme Court on Thursday said it will first decide if the \u201cprivileged\u201d documents obtained \u201cillegally\u201d could be looked into to consider a plea for review of its judgement that dismissed petitions for a probe into the 2016 deal to buy Rafale fighter jets from France.\u000a\u000aA three-judge bench presided over by Chief Justice Ranjan Gogoi, which reserved its order, questioned Attorney General K K Venugopal who contended that the secret documents which were barred under the Right to Information (RTI) Act and amounted to an offence under the Official Secrets Act could not be relied upon to seek reconsideration of the judgement.\u000a\u000a\u201cWhat privilege do you claim? They have already produced them in the court. File notings have lost the sanctity they had. The RTI Act brought about a revolution, a complete change. In cases of corruption and human right violations, even sensitive organisations have to disclose. Parliament passed the RTI Act in 2005 and brought about a complete revolution. Let us not go back to what it was before the law came into existence,\u201d the bench said.\u000a\u000a\u201cHow does the government decide on privilege protection? Is there a high-level inter-departmental? Is a call taken on this? Can\u2019t the court even examine the documents to decide your claim of privilege?\u201d the bench, also comprising justices Sanjay Kishan Kaul and K M Joseph, asked the Attorney General.\u000a\u000aVenugopal said that armaments, war-preparedness, and security of the nation were issues exempted from disclosure under the RTI Act. The security of the state is an exception, he said, adding there could reasonable restrictions on the freedom of speech guaranteed under the Constitution.\u000a\u000aHow many things can the SC overlook in Rafale?\u000a\u000a'Unauthorised docs used to mislead SC in Rafale case'\u000a\u000a\u201cSo you are saying they have unauthorisedly published and brought it in public domain. Notwithstanding this fact, you want us to decide under the light of the Official Secrets Act if those documents can be examined. You have also claimed privilege under the Evidence Act,\u201d the bench asked him further.\u000a\u000aAdvocate Prashant Bhushan, appearing for former Union ministers Yashwant Sinha and Arun Shourie and himself, contended that the objection was malafide and untenable.\u000a\u000a\u201cThe arguments are not meant to prevent any harm to national security or defence secret. Virtually, all these have been published. If it is relevant to decide any corruption case, it is absolutely irrelevant whether the documents are obtained through legal means,\u201d he said.\u000a\u000aBhushan said the government itself leaked the documents containing the defence minister\u2019s notings. He also asked why the government did not lodge an FIR in the case of leak of documents.\u000a\u000aShourie said that the government, by saying in its affidavit that the documents were photocopies, admitted their genuineness. Bhushan said Rafale was the only case where the CAG published a redacted report. He said there were 10 other defence deals where the government published the pricing details.
+p2
+sS'meta_description'
+p3
+VThe Supreme Court on Thursday said it will first decide if the \u201cprivileged\u201d documents obtained \u201cillegally\u201d could be looked into to consider a plea for review of its judgement that dismissed petitions for a probe into the 2016 deal to buy Rafale fighter jets from France.
+p4
+sS'datetime'
+p5
+V14-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://www.deccanherald.com/national/rafale-will-decide-on-objection-raised-by-centresays-sc-723185.html
+p8
+sS'title'
+p9
+VRafale Deal: Will first look at Centre's preliminary objections, says SC
+p10
+s.

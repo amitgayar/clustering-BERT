@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VDefence Minister Nirmala Sitharaman said on Monday that she could not disclose details of the Rafale aircraft deal with France as it is classified information. The inter-governmental agreement protects the information and material exchanged between the two countries, Sitharaman told the Rajya Sabha.\u000a\u000aSamajwadi Party MP Naresh Agrawal had asked her whether the Centre did not want to put details of the deal in the public domain. If it did, he wanted to know details and whether any private sector firm without any experience in the field was also involved in the deal.\u000a\u000aSitharaman said neither any public sector unit nor private sector industry was included in the agreement signed in September 2016 for the supply of 36 Rafale aircraft.\u000a\u000aSince November, the Congress has raised questions over the Narendra Modi government\u2019s handling of the Rafale aircraft deal. Congress President Rahul Gandhi had accused Modi of altering the deal for the benefit of Anil Ambani-led Reliance Defence, but the company has denied these allegations. The party claims that the deal was overpriced.\u000a\u000aIn September 2016, India and France signed an agreement through which France would supply New Delhi with 36 Rafale fighter aircraft, to be delivered between September 2019 and April 2022.\u000a\u000aSitharaman has defended the deal in the past as well, in response to the Congress\u2019 allegations.
+p2
+sS'meta_description'
+p3
+S'Nirmala Sitharaman told the Rajya Sabha that no government or private sector firm was involved in the 2016 Rafale deal with France.'
+p4
+sS'datetime'
+p5
+V06-Feb-2018
+p6
+sS'link'
+p7
+Vhttps://scroll.in/latest/867691/centre-cannot-disclose-details-of-rafale-deal-as-it-is-classified-says-defence-minister
+p8
+sS'title'
+p9
+VCentre cannot disclose details of Rafale deal as it is classified, says defence minister
+p10
+s.

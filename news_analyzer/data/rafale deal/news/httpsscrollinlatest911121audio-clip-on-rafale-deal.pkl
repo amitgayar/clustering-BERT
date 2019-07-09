@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VCongress President Rahul Gandhi on Monday claimed that an audio clip related to the Rafale deal released earlier this month was authentic and that Goa Chief Minister Manohar Parrikar was in possession of \u201cexplosive Rafale secrets\u201d. Parrikar was the defence minister when the fighter jet deal was signed with France.\u000a\u000aThe Congress on January 2 had released an audio clip in which it claimed Goa minister Vishwajeet Rane said that Parrikar was aware of all the details of the deal. The voice in the clip, which the Congress claimed was that of Rane, alleged that Parikar had claimed to have \u201call the files related to the Rafale deal in his bedroom\u201d.\u000a\u000aHowever, both Rane and Parrikar had claimed that the clip was inauthentic and doctored.\u000a\u000aGandhi, while citing an ANI tweet from January 2 quoting Rane, said it had been 30 days since the \u201cGoa Audio Tapes\u201d on Rafale were released. \u201cNo FIR or enquiry ordered,\u201d Gandhi tweeted. \u201cNo action against the minister [Rane] either! It\u2019s obvious that the tapes are authentic [and] that Goa CM, Parrikar, is in possession of explosive Rafale secrets, that give him power over the PM.\u201d\u000a\u000aThe Congress has accused the Centre of signing an overpriced deal and helping Anil Ambani\u2019s Reliance Defence Ltd, which had no prior experience in the sector before landing a contract with Dassault Aviation that manufactures the fighter jets.\u000a\u000aGandhi had previously claimed that Parrikar was blackmailing Prime Minister Narendra Modi with the information in his possession. Congress leader and former Union minister Jaipal Reddy had reiterated Gandhi\u2019s claims, saying Parrikar was trying to blackmail Modi in a bid to retain his post.\u000a\u000aGandhi also tried to play the tape in the Lok Sabha during the Winter Session, but Speaker Sumitra Mahajan denied him permission. Finance Minister Arun Jaitley had said the audio clip was \u201cfalse and fabricated\u201d and asked if the Congress president could authenticate it.
+p2
+sS'meta_description'
+p3
+S'The Congress chief said an inquiry is yet to be ordered a month after the audio clip was released.'
+p4
+sS'datetime'
+p5
+V28-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://scroll.in/latest/911121/audio-clip-on-rafale-deal-authentic-manohar-parrikar-has-explosive-secrets-alleges-rahul-gandhi
+p8
+sS'title'
+p9
+VAudio clip on Rafale deal authentic, Manohar Parrikar has \u2018explosive secrets\u2019, alleges Rahul Gandhi
+p10
+s.

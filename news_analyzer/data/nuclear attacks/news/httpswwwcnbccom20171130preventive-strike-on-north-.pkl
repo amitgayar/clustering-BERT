@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VOn Tuesday, North Korea test fired what experts believe is its most advanced long range, nuclear-capable missile yet. In response, U.S. Sen. Lindsey Graham (R-SC) bluntly told CNN's that Trump will not allow North Korea to even possess a nuclear missile capable of hitting the U.S.\u000a\u000a"If we have to go to war to stop this we will," he said. "We're headed towards a war if things don't change."\u000a\u000aIf Sen. Graham's binary choice accurately reflects the president's thinking, then war will come, and millions could die, including thousands of Americans. Such a war is too costly to seriously consider absent an imminent attack.\u000a\u000a \u000a\u000a It is difficult to overstate the negative consequences that would result should President Trump order any type of "preventive" military strike\u2014that is, an attack to deprive them of a capability rather than to stop an actual, imminent launch\u2014against North Korea.\u000a\u000aChoe Kang-il, Deputy Director General for North American affairs at North Korea's foreign ministry recently told the New York Times, "If the United States even hints at a strike on North Korea, we will proceed with a preemptive attack on the U.S."\u000a\u000a \u000a\u000a In case some are tempted to think these threats are merely bluster by the Kim regime, they were echoed almost precisely last month in congressional testimony by the highest ranking North Korean official ever to defect.\u000a\u000aFormer diplomat Thae Yong-ho told members of Congress North Korean officers are trained to fire their weapons "without any further instructions from the general command if anything happens on their side." Their response would be immediate and devastating.
+p2
+sS'meta_description'
+p3
+S'The window of opportunity to strike North Korea without risk of nuclear retaliation closed many years ago, says retired Lt. Col. Daniel Davis.'
+p4
+sS'datetime'
+p5
+V30-Nov-2017
+p6
+sS'link'
+p7
+Vhttps://www.cnbc.com/2017/11/30/preventive-strike-on-north-korea-would-trigger-nuclear-retaliation-lt-col-commentary.html
+p8
+sS'title'
+p9
+VA 'preventive strike' against North Korea would trigger 'nuclear retaliation,' says US Army veteran
+p10
+s.

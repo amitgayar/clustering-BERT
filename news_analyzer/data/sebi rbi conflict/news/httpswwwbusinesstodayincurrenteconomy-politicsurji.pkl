@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VRBI Governor Urjit Patel, during a meeting with Prime Minister Narendra Modi last week, discussed major issues of friction that erupted between the government and the central bank in the recent past. The meeting bears significance as both the RBI and the PMO are at loggerhead on various issues, including the surplus size of cash reserves and the autonomy of the RBI.\u000a\u000aHowever, this could be a sign of thaw between the two sides. Government sources told India Today TV that both Patel and Modi discussed various points of friction last Friday, and that the RBI might agree to some demands of the central government. Earlier reports suggested the RBI Governor could resign at the central bank's next board meeting on November 19. Patel was handpicked by Prime Minister Narendra Modi after Raghuram Rajan's term ended in 2016.\u000a\u000aThe spat had come out in the open after RBI Deputy Governor Viral Acharya's fiery speech, in which he warned that undermining the central bank's independence could be "potentially catastrophic". Government officials were left unhappy with Acharya's speech. Following this, the Finance Minister blamed the RBI for its lending spree between 2008 and 2014 that left banks with huge debts. His remark only inflamed the ongoing row between the RBI and the government.\u000a\u000aAdding another layer to this conflict, RBI board member S Gurumurthy also wrote a letter to Urjit Patel, complaining about Acharya's speech. While refusing to divulge the contents of the letter, Gurumurthy said Acharya went public without discussing issues in the board meeting. There has been a long-running tug of war between the government and the RBI on whether the bank should part with some of its reserves to fund the country's fiscal deficit.\u000a\u000aThe government, however, last week clarified that it is not seeking transfer of Rs 3.6-lakh crore reserves from the RBI and the only proposal under discussion is to fix appropriate economic capital framework of the central bank. "Lot of misinformed speculation is going around in media. Government's fiscal math is completely on track. There is no proposal to ask RBI to transfer Rs 3.6 or 1 lakh crore, as speculated," Economic Affairs Secretary Subhash Chandra Garg tweeted. The RBI board is likely to discuss the capital framework and other issues at its meeting scheduled to be held on November 19.
+p2
+sS'meta_description'
+p3
+S"The spat had come out in the open after RBI Deputy Governor Viral Acharya's fiery speech, in which he warned that undermining the central bank's independence could be"
+p4
+sS'datetime'
+p5
+V13-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/current/economy-politics/urjit-patel-met-pm-modi-to-sort-out-differences-between-rbi-centre-report/story/290420.html
+p8
+sS'title'
+p9
+VUrjit Patel met PM Modi to sort out differences between RBI, Centre: report
+p10
+s.

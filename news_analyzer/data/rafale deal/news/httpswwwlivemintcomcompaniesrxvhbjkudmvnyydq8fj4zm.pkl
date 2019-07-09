@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VCEO Rajesh Dhingra says Dassault chose Reliance Defence to meet its 'offset', or export obligation, in the Rafale deal and that the defence ministry has no role in the selection of Indian partners by foreign vendors
+p2
+sS'meta_description'
+p3
+S"CEO Rajesh Dhingra says Dassault chose Reliance Defence to meet its 'offset', or export obligation, in the Rafale deal and that the defence ministry has no role in the selection of Indian partners by foreign vendors"
+p4
+sS'datetime'
+p5
+V12-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Companies/rXvhbJkuDMVnYyDq8fj4ZM/Rafale-deal-from-Dassault-not-defence-ministry-Reliance-Gr.html
+p8
+sS'title'
+p9
+VRafale deal from Dassault, not defence ministry: Reliance Group
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe decision of the central board of the Reserve Bank of India to transfer an interim surplus of \u20b928,000 crore to the Centre should come as a big relief to the Modi government. Together with the \u20b940,000-crore final surplus share for 2017-18, which the Centre received in the first half, the total receipts from the RBI this fiscal will be a tidy \u20b968,000 crore. For a government strapped for finances and struggling to meet the revised fiscal deficit target of 3.4% of GDP, the RBI\u2019s largesse will be handy. The total surplus received by the Centre for 2018-19 is substantially higher than the \u20b950,000 crore it got from the RBI in 2017-18, and this is the second successive year the central bank is making an interim transfer: last year it transferred \u20b910,000 crore. Though there is nothing wrong in a shareholder demanding an interim dividend payout, the fact is that the Centre is advancing a receipt from the next fiscal to bail itself out in the current one. Should the RBI decide not to repeat this practice, the government\u2019s revenues will suffer because as much as \u20b982,911 crore has been budgeted on this count for the next fiscal. Again, the central bank is not like a corporate enterprise, nor can the government compare itself with a company shareholder. The RBI\u2019s income and surplus growth cannot be measured in commercial terms since a large part of it comes from statutory functions it has to perform as a regulator.\u000a\u000aThe large payout this fiscal is bound to raise eyebrows, especially because of the recent history of conflict between the RBI and the Centre over the sharing of the former\u2019s accumulated reserves as dividend with the Centre. Pressure on this count was said to be a major reason for the resignation of Urjit Patel as RBI Governor. Though the practice of an interim payout started under Mr. Patel, there are inevitable questions over whether there was pressure from the Centre now for the transfer of a higher sum than last year. This is because the Centre had in the Interim Budget bumped up receipts under this head from the central bank, nationalised banks and other financial institutions to \u20b974,140 crore from the original estimate of \u20b954,817 crore made in the 2018-19 Budget. Clearly, the Finance Ministry knew what it wanted. There will, hopefully, be a system and a structure in place once the committee under former RBI Governor Bimal Jalan, that is now reviewing the economic capital framework for the RBI, submits its report. It was constituted to de-personalise and institutionalise a system for the sharing of the RBI\u2019s surpluses with the government, and is expected to come out with its recommendations by the end of the next month.
+p2
+sS'meta_description'
+p3
+VA system for sharing the RBI\u2019s surpluses with the Centre must be quickly institutionalised
+p4
+sS'datetime'
+p5
+V19-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/opinion/editorial/interim-bailout/article26314663.ece
+p8
+sS'title'
+p9
+VInterim bailout: RBI surplus to govt
+p10
+s.

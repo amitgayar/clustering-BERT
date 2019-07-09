@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+VA nuclear war doesn\u2019t have to be the end of the world, according to the U.S. government\u2019s latest Nuclear Posture Review.The recently updated policy on nuclear weapons calls for fitting existing submarine-launched ballistic missiles with low-yield warheads to deter Russia, which believes that if it u...
+p4
+sS'datetime'
+p5
+V02-Feb-2018
+p6
+sS'link'
+p7
+Vhttps://taskandpurpose.com/small-nuclear-war
+p8
+sS'title'
+p9
+VUS Revives Idea Of Limited Nuclear War That Doesn\u2019t Destroy The Planet
+p10
+s.

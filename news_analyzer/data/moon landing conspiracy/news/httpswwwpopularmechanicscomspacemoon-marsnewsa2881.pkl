@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIt's understandable that many people over the years have questioned the validity of the 1969 Apollo 11 moon landing. It was an incredible, unprecedented triumph for NASA and a monumental achievement for humanity in general\u2014and one we haven't bothered to repeat since the end of Apollo.\u000a\u000aThe general idea behind most moon landing conspiracy theories is that the landing was faked on a sound stage with actors, a set, and professional lighting taking the place of the real deal. There are all kinds of article and YouTube videos dedicated to this argument\u2014and plenty dedicated to debunking it, too. This new video from TruTV's Adam Ruins Everything is a quick distillation of the case against the hoax theory. It would've been harder to fake the landing on Earth than it would have been to actually go to the moon. In fact, in 1969 it would have been impossible.\u000a\u000aThere are a few key reasons for this. On reason is the shadows, which are the result of parallel sun rays with no diffusion. The only way to recreate this on Earth would be to light the scene with millions of super-bright lasers. Lasers were incredibly expensive in 1969, and the only color they came in was red. In modern times, we could just change the color with CG, but back then, altering images with computers wasn't possible.\u000a\u000aAside from this huge hurdle, there's the issue that dooms a lot of grand conspiracy theories: Even if NASA had secretly invented computer graphics and kept it from the public, the organization would have had to keep 400,000 employees from spilling the beans, and it would have needed to coordinate the story with dozens of world leaders, including our enemy at the time, Russia.\u000a\u000aThe moon landing isn't fake. So relax. We have plenty of real problems to worry about.
+p2
+sS'meta_description'
+p3
+S"Tech in the '60s wouldn't allow for an accurate simulation of the landing."
+p4
+sS'datetime'
+p5
+V27-Oct-2017
+p6
+sS'link'
+p7
+Vhttps://www.popularmechanics.com/space/moon-mars/news/a28814/moon-landing-faking/
+p8
+sS'title'
+p9
+VWhy Faking the Moon Landing Was Impossible
+p10
+s.

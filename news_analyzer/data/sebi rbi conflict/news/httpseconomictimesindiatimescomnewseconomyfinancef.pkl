@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VKolkata: The composition of the Board for Financial Supervision (BFS) could emerge as yet another point of conflict between the government and the Reserve Bank of India ( RBI ) after both sides stepped back from outright confrontation at a meeting of the regulator\u2019s central board on November 19.The finance ministry is of the view that BFS needs to be broad-based and include representatives of the government, said people with knowledge of the matter. Ministry officials are said to be exploring options on how to ensure this before December 14, when RBI\u2019s central board will meet again to discuss pending issues such as easing the prompt corrective action ( PCA ) framework for weak lenders and ensuring liquidity for non-banking finance companies (NBFCs).It had been decided at the November 19 meeting that PCA would be reviewed by BFS, one of the five committees under the central board.The governor forms BFS by co-opting four directors from the central board as members. RBI deputy governors are ex-officio members. A deputy governor, usually the one in charge of banking regulation and supervision, is nominated as vice chairman of BFS.The financial services or economic affairs secretary isn\u2019t a member of BFS, three people close to the issue said.\u201cHowever, if they happen to be in the city, they can attend central board committee meetings,\u201d one of them said. Another of the three said that it was up to the RBI governor to invite government representatives.Relations between the two sides have been tense over the past few months. In October, deputy governor Viral Acharya sounded a warning about the damage that could be caused by undermining the autonomy of regulators. The government had cited a hitherto unused section of the RBI Act that allows it to issue directions to the regulator in a series of communications that raised matters it wanted to discuss. Apart from PCA and liquidity, other key subjects are easing capital requirements for banks and the amount of surplus RBI needs.BFS was set up in November 1994 to provide guidance to RBI on financial supervision, which remains a cornerstone of banking regulation. It has assumed greater importance after the November 19 meeting.Typically, committee meetings take place in the second half of the day after central board meetings in the morning. But people close to RBI said BFS meetings may now have to be scheduled separately as the last two board meetings lasted more than nine hours each.The government wants RBI to ease PCA norms so that weaker banks can lend more freely. The central board has agreed to review the issue on December 14. The government also wants NBFCs to have access to adequate liquidity so that the current squeeze doesn\u2019t develop into a credit freeze.The primary objective of BFS is to undertake consolidated supervision of the financial sector comprising commercial banks, financial institutions and NBFCs. It usually meets once a month to consider inspection reports and other issues placed before it by the supervisory departments.\u201cThis (finance ministry\u2019s representation in BFS) will not be a good practice as the government owns banks,\u201d said former finance secretary DK Mittal.
+p2
+sS'meta_description'
+p3
+S'Composition of the Board for Financial Supervision could emerge as a point of conflict between govt and RBI.'
+p4
+sS'datetime'
+p5
+V23-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/news/economy/finance/financial-supervision-board-may-turn-government-rbi-flashpoint/articleshow/66779723.cms
+p8
+sS'title'
+p9
+VFinancial supervision board may turn government-RBI flashpoint
+p10
+s.

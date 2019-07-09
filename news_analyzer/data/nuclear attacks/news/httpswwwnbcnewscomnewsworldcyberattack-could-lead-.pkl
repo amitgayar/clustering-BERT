@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNuclear strikes could be launched by mistake because aging or unsophisticated weapons systems are vulnerable to cyberattacks, an international relations think tank warned Thursday.\u000a\u000aA hack could lead to false information being passed to decision makers during a crisis, the think tank, Chatham House, based in London, said in a new report.\u000a\u000a\u201cNuclear weapons systems were first developed at a time when computer capabilities were in their infancy and little consideration was given to potential malicious cyber vulnerabilities,\u201d it said. \u201cAt times of heightened tension, cyberattacks on nuclear weapons systems could cause an escalation, which results in their use. Inadvertent nuclear launches could stem from an unwitting reliance on false information and data.\u201d\u000a\u000aThe report comes as the U.S. officials grow increasingly concerned that North Korea might use cyberattacks alongside conventional weapons.\u000a\u000aIntelligence officials have long ranked the rogue regime among the world's most dangerous cyber actors \u2014 trailing only Russia, China and Iran \u2014 and have blamed it for the 2014 Sony hack that leaked sensitive company data. The FBI also suspects North Korea was behind a $81-million cyberheist of the Bangladesh central bank's account at the Federal Reserve Bank of New York.\u000a\u000aRelated: How North Korea recruits its army of young hackers\u000a\u000aHowever, the U.S. is also using cyberwarfare to disrupt North Korea\u2019s weapons program \u2014 a campaign than began under the Obama administration \u2014 and was blamed for the April 2017 failure of a rocket that disintegrated seconds after being launched.\u000a\u000aWhile digital espionage is appealing to leaders, it creates uncertainty for both sides, the report warns.\u000a\u000a\u201cDuring peacetime, offensive cyber activities would create a dilemma for a state as it may not know whether its systems have been the subject of a cyberattack,\u201d it said. \u201cThis unknown could have implications for military decision-making, particularly for decisions affecting nuclear weapons deterrence policies.\u201d\u000a\u000aThe report also said the likelihood of attempted cyberattacks on nuclear weapons systems \u201cis relatively high and increasing.\u201d\u000a\u000aPotential weaknesses include rudimentary components, the report said. The report cited the example of Britain\u2019s newest aircraft carrier, which was reportedly using a customized version of discontinued Windows XP in its control room during trials.\u000a\u000a\u201cMost countries acquire computer chips from the global marketplace rather than from national defense units and laboratories,\u201d it said.
+p2
+sS'meta_description'
+p3
+S'A cyberattack could lead to false information being passed to decision makers during a nuclear security crisis, the think tank Chatham House warned.'
+p4
+sS'datetime'
+p5
+V11-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.nbcnews.com/news/world/cyberattack-could-lead-inadvertent-nuclear-strike-think-tank-warns-n836731
+p8
+sS'title'
+p9
+VCyberattack could trick world leader into launching nuclear missiles
+p10
+s.

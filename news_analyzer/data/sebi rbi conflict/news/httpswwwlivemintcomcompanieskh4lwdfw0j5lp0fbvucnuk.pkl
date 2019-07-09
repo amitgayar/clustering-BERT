@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VYes Bank's knotty articles of association may make the board's search for a new MD and CEO to replace Rana Kapoor harder
+p2
+sS'meta_description'
+p3
+S"Yes Bank's knotty articles of association may make the board's search for a new MD and CEO to replace Rana Kapoor harder"
+p4
+sS'datetime'
+p5
+V23-Sep-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Companies/kh4lWDfw0J5lp0fbVuCnuK/Task-cut-out-forYes-Bank-as-it-scouts-for-CEO-Rana-Kapoors.html
+p8
+sS'title'
+p9
+VTask cut out for Yes Bank as it scouts for CEO Rana Kapoor\u2019s successor
+p10
+s.

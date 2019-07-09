@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSo many conspiracy theories have surrounded NASA\u2019s 1969 Moon landing that it\u2019s challenging to keep track anymore.\u000a\u000aOne element that is cited by most theories is the fact that the US flag that has been planted on the Moon is seen flapping.\u000a\u000aBack in 1969, NASA has landed the first two men on the Moon after a decade of chasing the Soviet Union in the Cold War space race, notes Express.co.uk.\u000a\u000aAmerica came out victorious back on July 20, 1969 when Neil Armstrong and Edwin \u201cBuzz\u201d Aldrin successfully landed on the lunar orb.\u000a\u000aIn order to mark the victory, the astronauts have been instructed by President Richard Nixon to plant an American flag on the Moon \u201cin honor of every US taxpayer who contributed to the Apollo program,\u201d as reported by the online publication mentioned above.\u000a\u000aBut, the planting of the flag has attracted tons of skepticism from leading conspiracy theorists who have been questioning whether NASA has indeed landed on the Moon.\u000a\u000aLeading conspiracy theory claims that the flag flapping in the vacuum of space is proof that NASA is lying. The flag seems to move like it\u2019s moved by the wind when it was planted.\u000a\u000aBut, there\u2019s no atmosphere on the Moon, so how come the flag did move like that?\u000a\u000aThe online publication said that there no way the whole scene was actually filmed in the Nevada desert or in a studio.\u000a\u000a\u201cThere is one key factor all lunar conspiracies get wrong and that is the American flag did not really flap or wave on the Moon,\u201d they write.\u000a\u000aAccording to the UK National Space Centre in Leicester, the flag\u2019s apparent movements have been caused by the astronauts themselves and not by the wind.\u000a\u000aThe Space Centre explained: \u201cThe flag was disturbed as it was planted into the ground and kept this bent shape because of the lack of strong gravity on the Moon.\u201d\u000a\u000aThey also note that the flag was moving \u201cbecause when astronauts were planting it, they rotated it back and forth to better dig into the lunar soil, which of course made the flag ripple like a pendulum \u2013 without a breeze.\u201d\u000a\u000aThe Space Centre said, \u201cThere\u2019s a huge amount of footage of the flags stood on the Moon in exactly the same position.\u201d\u000a\u000aThe online publication also writes that, according to Lunar satellite photos, \u201cthe Apollo 11 flag has likely fallen over but the Apollo 12, Apollo 16 and Apollo 17 flagpoles are still upright.\u201d
+p2
+sS'meta_description'
+p3
+S''
+p4
+sS'datetime'
+p5
+V19-Jun-2019
+p6
+sS'link'
+p7
+Vhttps://greatlakesledger.com/2019/06/19/nasa-moon-landing-conspiracy-why-did-the-apollo-11-flag-flap-in-space/
+p8
+sS'title'
+p9
+VNASA Moon Landing Conspiracy: Why Did The Apollo 11 Flag Flap In Space?
+p10
+s.

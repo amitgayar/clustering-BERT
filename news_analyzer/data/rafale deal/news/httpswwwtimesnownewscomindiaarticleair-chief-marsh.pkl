@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNew Delhi: The Indian Air Force is expected to receive the delivery of its first Rafale combat jet and the squadron that will enjoy the exploits of the state-of-the-art aircraft will be the \u2018Golden Arrows\u2019 17 Squadron, one that Air Chief Marshal BS Dhanoa commanded during the Kargil War in 1999.\u000a\u000a\u201cThe 17 Squadron will be the first unit to receive the Rafale aircraft. The unit, which was earlier located in Punjab\u2019s Bathinda and will now be relocated to Haryana\u2019s Ambala,\u201d news agency ANI quoted IAF sources as saying.\u000a\u000aThe other squadron that will receive the fighter aircraft West Bengal\u2019s Hashimara to guard our border with China, while the one is Ambala will secure north against Pakistan. Earlier, 17 Squadron operated light combat aircraft MiG-21.\u000a\u000aThe first unit of the advanced aircraft is expected in September this year but before it starts official operation, the jet will undergo an intensive 1,500 hours of testing to quality as per the India Specific Enhancements. As a result, the first batch of delivery is expected to arrive at Ambala around May 2020.\u000a\u000aIndia had signed a deal with France in September 2016 for 36 Rafale fighter jets for a cost of Euro 7.8 billion to boost the existing fleet with-top-of-the-line machinery. As of now, IAF\u2019s Ambala base is home to the Jaguar aircraft.\u000a\u000aDhanoa had in March said that with the inclusion of the French-made Rafale jets, forces across the border won\u2019t dare to loiter anywhere near the International Border.\u000a\u000a\u201cWhen Rafale comes in, it will ensure that the deterrence of our air defence will increase manifold and they (Pakistan) will not come anywhere near our Line of Control or border. That kind of capability we will possess, for which, presently they (Pakistan) don\u2019t have an answer,\u201d the Air Chief Marshal had said.
+p2
+sS'meta_description'
+p3
+S'The first unit of the advanced aircraft is expected in September this year but before it starts official operation, the jet will undergo an intensive 1,500 hours of testing.'
+p4
+sS'datetime'
+p5
+V22 hours ago
+p6
+sS'link'
+p7
+Vhttps://www.timesnownews.com/india/article/air-chief-marshal-bs-dhanoa-s-kargil-squadron-to-get-first-rafale-jets/427510
+p8
+sS'title'
+p9
+VAir Chief Marshal BS Dhanoa\u2019s Kargil squadron to get first Rafale jets | India News
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA decades-old lunar mystery has now been solved thanks to the recovery of once lost data tapes and a massive amount of sleuthing.\u000a\u000aThe results confirm that inexplicable changes in the moon's temperatures recorded in the 1970s were not the result of some strange inner heat source, but rather the by-product on astronauts stomping around and stirring up moon dust.\u000a\u000aIn a study published in April in the Journal of Geophysical Research: Planets, researchers from Texas Tech University used recovered tapes from the 1970s Apollo missions to understand why the moon's surface appeared to have warmed. These records were taken on the Apollo 15 mission, the fourth mission to land men on the moon in 1971, The Smithsonian reported.\u000a\u000aThe primary purpose of this trip was to observe the moon's surface through a variety of experiments. This included drilling probes into the moon that sent information back to Earth. Records of the moon's temperature were taken from 1971-1977 but data from 1974-1977 were lost, Sciencealert reported.\u000a\u000aThe team was only able to recover less than 10 percent of all the lost tapes, and the information they could recover was poorly degraded. However, they did their best to restore the tapes and were able to fill in some of the gaps with the help of some hardcore science skills. Now, eight years after the tapes were originally discovered, the team have concluded that human activity was the reason for the temperature increases measured on the moon.\u000a\u000aThe biggest indication that humans were the cause of the temperature increases on the moon was that the warming was stronger on the surface and faded in measurements taken deeper in the moon. This suggests that the source was not from inside the moon.\u000a\u000aIt appeared that the astronauts and their rovers stirred up the moon's loose outer surface dirt, exposing darker surface dirt\u2014also known as regolith\u2014that would have otherwise been hidden. Just as you learned to avoid dark shirts in the summer as dark colors absorb heat, the same is true for the moon's surface. The now-darker dirt absorbed more of the sun's heat, initially increasing the moon's temperature.\u000a\u000aIn addition, photos acquired from the Lunar Reconnaissance Orbiter Camera show that there are dark surface paths on the moon where astronauts have traversed, Sciencealert reported.\u000a\u000a"We suggest that, as a result of the astronauts' activities, solar heat intake by the regolith increased slightly on average, and that resulted in the observed warming," the researchers wrote.
+p2
+sS'meta_description'
+p3
+S'The big Moon mystery has now been solved. And yes, humans are to blame.'
+p4
+sS'datetime'
+p5
+V12-Jun-2018
+p6
+sS'link'
+p7
+Vhttps://www.newsweek.com/moon-apollo-15-nasa-973775
+p8
+sS'title'
+p9
+VScientists found NASA tapes that were lost for nearly 50 years and solved a Moon mystery
+p10
+s.

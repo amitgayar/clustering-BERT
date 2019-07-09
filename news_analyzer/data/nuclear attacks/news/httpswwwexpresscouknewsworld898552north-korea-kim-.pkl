@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VAdmiral Mike Mullen\u2019s terrifying warning comes as tensions between Washington and Pyongyang continue to increase. This week Kim Jong-Un\u2019s state media warned the rogue regime would never hand over nuclear weapons while the USA continues its \u201cblackmail and war drills\u201d. And now Adm Mullen claimed the conflict may have gone beyond diplomacy as he warned the world is the closest to nuclear war it has ever been. He told ABC: "We're actually closer in my view to a nuclear war with North Korea and in that region than we've ever been.\u000a\u000a"I don't see the opportunities how to solve this diplomatically at this particular point.\u201d The former chairman of the Joint Chiefs of Staff previously warned the United States\u2019 increasingly volatile relationship with the unpredictable hermit nation increased the likelihood dictator Kim Jong-un would use nuclear weapons. He said:  \u201cI think it\u2019s more probable than it used to be, and it scares me to death quite frankly. \u201cThey\u2019re the most dangerous weapons in the world.\u000a\u000a\u201cAnd, certainly if we have someone in North Korea that has a lethal legacy, is very, very unpredictable and sees this as a way to solidify his future, that he could well not just obtain them, but potentially use them.\u201d The United Nations Security Council voted unanimously earlier this month to impose new sanctions on North Korea, in the hope of strangling the country's deteriorating economy. Pyongyang swiftly responded to the vote, which came after Kim Jong-Un\u2019s most recent missile test, calling the move an "act of war" that violates peace and stability in the region.
+p2
+sS'meta_description'
+p3
+S'NORTH Korea has brought the world closer to nuclear war than ever before, a retired United States military official warned.'
+p4
+sS'datetime'
+p5
+V31-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/world/898552/North-Korea-Kim-Jong-Un-war-news-latest-USA-world-war-3-nuclear
+p8
+sS'title'
+p9
+VUSA 'closer to nuclear war than EVER BEFORE' North Korea will NOT be stopped by diplomacy
+p10
+s.

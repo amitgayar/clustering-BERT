@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VTOKYO -- Nagasaki marked the anniversary of the world's second atomic bombing Thursday with the United Nations chief and the city's mayor urging global leaders to take concrete steps toward nuclear disarmament. Secretary-General Antonio Guterres, the first United Nations chief to visit Nagasaki, said fears of nuclear war are still present 73 years after the Nagasaki and Hiroshima bombings and that the attacks should never be repeated.\u000a\u000aHe raised concerns about slowing efforts to denuclearize, saying existing nuclear states are modernizing their arsenals.\u000a\u000a"Disarmament processes have slowed and even come to a halt," Guterres told the audience at the Nagasaki peace park. "Here in Nagasaki, I call on all countries to commit to nuclear disarmament and to start making visible progress as a matter of urgency." Guterres added that nuclear weapons states should take the lead. "Let us all commit to making Nagasaki the last place on Earth to suffer nuclear devastation," he said.\u000a\u000aMore than 5,000 citizens, including Nagasaki atom bomb survivors, and representatives of about 70 countries remembered the victims as they observed a minute of silence at 11:02 a.m., the moment the plutonium bomb Fatman hit the city.\u000a\u000aEmperor Akihito joined a silent prayer from Tokyo with his wife Michiko as they monitored the ceremony on TV, marking the last Nagasaki commemoration before his planned abdication next April, Kyodo News reported.\u000a\u000aThe U.S. bombing of Nagasaki on Aug. 9, 1945, killed an estimated 70,000 people three days after a bomb dropped on Hiroshima killed 140,000. They were followed by Japan's surrender, ending World War II.\u000a\u000aGuterres said the peace and nuclear disarmament movement started by survivors of the atomic bombings has spread around the world but frustration over the slow progress led to last year's adoption of the Treaty on the Prohibition of Nuclear Weapons.\u000a\u000aJapan, despite being the only country in the world to have suffered nuclear attacks, has not signed the treaty because of its sensitive position as an American ally protected by the U.S. nuclear umbrella.\u000a\u000aNagasaki Mayor Tomihisa Taue urged Japan's government to do more to seek nuclear disarmament, especially in the Asian region to help achieve a nuclear-free Korean Peninsula. He said citizens of the atomic-bombed cities are hoping to see North Korea denuclearized.\u000a\u000aTaue urged Tokyo to sign the treaty and "fulfill its moral obligation to lead the world toward denuclearization." He said more than 300 local assemblies have adopted resolutions calling on Japan to sign and ratify the treaty.\u000a\u000aJapan seeks to close the gap between the views of nuclear and non-nuclear states about nuclear disarmament to eventually achieve a nuclear-free world, said Prime Minister Shinzo Abe, repeating almost the same phrase he used in a speech three days earlier in Hiroshima.\u000a\u000aAt a meeting later Thursday with Abe, an atom bomb survivor, or "hibakusha," confronted the prime minister, asking how exactly he could bridge the divide while remaining under the U.S. nuclear umbrella.
+p2
+sS'meta_description'
+p3
+S'On 73rd anniversary of U.S. atomic bomb attack, Antonio Guterres calls for disarmament &quot;progress as a matter of urgency&quot;'
+p4
+sS'datetime'
+p5
+V09-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://www.cbsnews.com/news/nuclear-weapons-threat-un-chief-anniversary-atomic-bomb-nagasaki-japan/
+p8
+sS'title'
+p9
+VU.N. chief offers a warning on anniversary of last nuclear attack
+p10
+s.

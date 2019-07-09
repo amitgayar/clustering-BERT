@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn 1969, Neil Armstrong became the first human to set foot on the moon. It was an incredible technological and scientific achievement for the human race, and the 11 other men who followed in his footsteps are still the only humans to ever set foot somewhere other than Earth. Conspiracy researchers David S. Percy and Mary D. M. Bennett, authors of \u201cDark Moon: Apollo and the Whistle-blowers\u201d, question whether NASA\u2019s Apollo record ever really happened and argue that astronaut Neil Armstrong \u201cmay not have walked on the Moon\u201d.\u000a\u000aThey outrageously suggest that Apollo images released by NASA have been "tampered with" and use scientific methodology to show that NASA\u2019s photographic material is \u201cfull of anomalies and inconsistencies\u201d. Mr Percy and Ms Bennett claim their research suggests the images were both \u201cfaked and at the same time skilfully encoded with deliberate mistakes\u201d. Throughout aviation history and space exploration, the lasting record of these achievements has been preserved as photographic images and film. The authors claim in the 1999 book that they were \u201cwaking up to the probability that NASA\u2019s photographic record of the Apollo programme has been modified\u201d.\u000a\u000aIn 1996, the two researchers interviewed Douglas Arnold, who was working with Kodak at the time of the Apollo mission. Mr Arnold claimed Neil Armstrong told him that it was \u201chis idea that the spacesuits had a bracket for the cameras, instead of holding them in their gloved hands\u201d. Mr Arnold said: \u201cThat sequence of photos taken by him with that one camera has never been bettered, in my opinion. \u201cAlmost every one of those Armstrong images appeared to be splendidly composed."\u000a\u000aMr Arnold compares Neil Armstrong\u2019s photograph of astronaut Buzz Aldrin where the latter paused in a small crater on the Moon, while Mr Armstrong snapped the picture from his chest-mounted Hasselblad camera. Mr Arnold suggested that \u201cwhen the camera was eventually used on the lunar surface, the astronauts were obliged to guess where the lens was pointing\u201d. Buzz Aldrin revealed in his 2016 book \u201cNo Dream Is Too High: Life Lessons From a Man Who Walked on the Moon\u201d that many people assume this famous photo was posed because it manages to capture both moonwalkers and the lander.
+p2
+sS'meta_description'
+p3
+S"NASA's moon landing evidence in 1969 was 'splendidly composed', a photography expert, who claims to have an intimate knowledge of the photographic technology of the Sixties, argues in a conspiracy theory book."
+p4
+sS'datetime'
+p5
+V22-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/weird/1103829/nasa-news-moon-landing-conspiracy-neil-armstrong-apollo-11-spt
+p8
+sS'title'
+p9
+VNASA moon landing SHOCK claim: 'First pictures were splendidly composed'
+p10
+s.

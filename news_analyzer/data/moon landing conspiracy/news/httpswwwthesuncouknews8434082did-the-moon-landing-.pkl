@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VTHE landing on the Moon on July 21, 1969, was the first time a human being had set foot on a world beyond Earth.\u000a\u000aDespite the immense achievement, played out before the world\u2019s media, many continue to believe the landing was faked.\u000a\u000aIt depends on whether you believe the live TV footage taken from the actual Moon was real or not.\u000a\u000aThe conspiracy theory that the landings were faked has grown in popularity and over 20 per cent of\u000a\u000aAmericans now believing that the US has never landed on the Moon.\u000a\u000aAccording to conspiracy nuts, America was so desperate to win the Cold War technical race for prestige with the Soviet Union that it was prepared to do anything.\u000a\u000aThe theory is that it was just too expensive and too dangerous to land on the Moon.\u000a\u000aInstead, Nasa filmed a series of fake Moon landings in a studio, complete with props, costumes and a code of silence.\u000a\u000aThe idea was given credence by the emergence of a video in 2015 in which legendary film director\u000a\u000aStanley Kubrick apparently \u201cconfesses\u201d to faking the Moon landings video for Nasa.\u000a\u000aThe story that Kubrick had shot the Moon landing video had been doing the rounds for many years.\u000a\u000aCloser inspection of his apparent confession however, revealed that the man interviewed wasn\u2019t in fact Kubrick.\u000a\u000aSuch minor details have, however, failed to deter the conspiracy theorists.\u000a\u000aThey point to what they say are inconsistencies, in particular the shot of the astronauts waving the American flag on the moon.\u000a\u000aCritics say the flag has creases which indicates the presence of wind, which is impossible on the Moon where there is no atmosphere.\u000a\u000aNasa says Buzz Aldrin was twisting the flagpole to get the Moon soil, which caused the flag to move.\u000a\u000aSome also questioned the lack of stars in the footage.\u000a\u000aIn pictures of the Moon's landscapes there are no stars in the sky and instead just a big black void, which Nasa said was down to the low quality of the photos.\u000a\u000aThen there's the slow-motion walking.\u000a\u000aLow gravity conditions had to be filmed, which may have proven difficult in a sound studio.\u000a\u000aHowever, all they did was broadcast the footage of the astronauts walking and bouncing around in slow motion.\u000a\u000aIf you take the film and increase the speed x2.5 the "space walkers" are clearly moving in normal earth gravity conditions.\u000a\u000aThe high bounces and jumps could easily have been achieved by wires, some critics claim.\u000a\u000aIn 2016 Oxford University mathematician David Grimes calculated that if the Moon landing was fake, it would take 3.7 years to become public, given the huge number of people who would have known about it.\u000a\u000aNeil Armstrong was the commander of the Apollo 11 mission to the Moon.\u000a\u000aUpon landing he famously said: "That's one small step for man, one giant leap for mankind."\u000a\u000aAn estimated 600 million watched the fuzzy black-and-white TV images of the historic event.\u000a\u000aAfter service as a US Navy fighter pilot in the Korean War he joined Nasa as a test pilot before being recruited as an astronaut.\u000a\u000aThe shy Armstrong always refused to cash in on his celebrity status.\u000a\u000aThe self-proclaimed nerd chose to live in relative seclusion in his farmhouse, teaching engineering at the local university.\u000a\u000aArmstrong died in 2012 in Ohio, the state where he was born on August 5 1930.\u000a\u000aWe pay for your stories! Do you have a story for The Sun Online news team? Email us at tips@the-sun.co.uk or call 0207 782 4368 . We pay for videos too. Click here to upload yours.'
+p2
+sS'meta_description'
+p3
+S'The landing on the Moon was July 21, 1969, continues to attract conspiracy theorists who believe the momentous achievement was all just a fake made in a TV studio.'
+p4
+sS'datetime'
+p5
+V15-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.thesun.co.uk/news/8434082/did-the-moon-landing-really-happen-what-conspiracy-theories-are-there-and-who-was-neil-armstrong/
+p8
+sS'title'
+p9
+VDid are the conspiracy theories about the moon landing & who was Neil Armstrong?
+p10
+s.

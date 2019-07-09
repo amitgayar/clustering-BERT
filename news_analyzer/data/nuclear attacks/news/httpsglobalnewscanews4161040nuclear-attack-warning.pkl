@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA loudspeaker blaring a warning of an imminent nuclear attack against Canadians startled many Winnipeg residents Sunday evening.\u000a\u000a\u201cSix nuclear missiles have been launched,\u201d a robot-sounding voice said over a speaker in Winnipeg\u2019s trendy neighbourhood, Osborne Village.\u000a\u000a\u201cAll Canadian residents should seek out a fallout shelter immediately. If members of the Canadian armed forces direct you to a fallout shelter, please follow them for your safety. Prime Minister Justin Trudeau will be speaking on all stations shortly,\u201d the alert stated.\u000a\u000aBut it turns out the cryptic message turned out to be a prank that was taken from an online video, according to Winnipeg police.\u000a\u000a\u201cIt is not part of any official alert system and it was likely played through a home speaker system,\u201d police said. \u201cThis is obviously a very serious thing \u2026 It was a very troublesome message and we would like to find out who did this.\u201d\u000a\u000aWATCH: Most LTE mobile devices in Canada now able to receive wireless emergency alerts\u000a\u000aAlthough the alert turned out to be a hoax, residents were visibly shaken, not knowing if nuclear weapons were indeed barrelling towards Canada.\u000a\u000a\u201cOne woman was visibly shaken, saying, \u2018should I head to the basement? Should I get out of here?\u2019 She didn\u2019t know what to do because that\u2019s how real it sounded. It was very weird,\u201d Jon Lovlin, managing editor of Global News Winnipeg, who heard the warning, said.\u000a\u000aSo how do you know if an emergency alert is real or just a prank?\u000a\u000aAlerts are sent out by the federal or provincial governments and are used to warn the public about emergencies such as fires, tsunamis or terrorist attacks. The alert can be sent out over television, radio, social media and smartphones.\u000a\u000aA shrill, siren-like alarm emergency alarm will be sounded, which was also used during the unfounded Winnipeg case.\u000a\u000aREAD MORE: Could Canadian authorities accidentally send a false emergency alert to people\u2019s phones? Not yet\u000a\u000a\u201cI took a listen [to the audio] and it definitely sounded very real in a lot of respects, especially with the reference to Prime Minister Trudeau and the specific actions,\u201d Mike Olczyk, with the Manitoba Emergency Measures Organization, said.\u000a\u000aIf you do hear a notification, it should always state where it\u2019s coming from, Olczyk explained.\u000a\u000a\u201cMake sure it is a government-authorized alert system,\u201d he said. For example, in Manitoba, Emergency Measures Organization and Climate Change Canada are the only two authorized users of the emergency alerting system in the province.\u000a\u000aWATCH: How did a ballistic missile alert warning accidentally get sent out in Hawaii?\u000a\u000a\u201cIn addition, it goes out over cable and satellite television, radio and compatible wireless devices. There would be likely standard communication on social media too,\u201d he explained.\u000a\u000aThe fake emergency message in Winnipeg was only broadcast from a speaker and it did not specify who sent the message.\u000a\u000a\u201cThe method that was employed last night isn\u2019t something that a government authorized alerting authority would issue in that manner. So going and broadcasting out in the parking lot \u2026 that isn\u2019t an approach we would take,\u201d he said.\u000a\u000aCanadians can expect to start getting text messages on their phones in May as part of the overall testing of the entire emergency alert system \u2013 including radio, broadcast and wireless devices connected to LTE networks.\u000a\u000aThe National Public Alerting System \u2014 commonly called Alert Ready \u2014 will send out the test alerts throughout the beginning of May. For example, Ontario residents will receive the alert at 1:55 ET on May 7 and British Columbians will get the test on May 9 at 1:55 p.m. PT.
+p2
+sS'meta_description'
+p3
+S'Some Winnipeg residents were deceived by a fake emergency alert system Sunday evening, warning an imminent nuclear missile threat to Canada.'
+p4
+sS'datetime'
+p5
+V23-Apr-2018
+p6
+sS'link'
+p7
+Vhttps://globalnews.ca/news/4161040/nuclear-attack-warning-winnipeg-prank/
+p8
+sS'title'
+p9
+VNuclear attack warning in Winnipeg was a prank: Here\u2019s how to spot fake alerts
+p10
+s.

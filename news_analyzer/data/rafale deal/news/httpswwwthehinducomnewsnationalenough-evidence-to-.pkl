@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VAsserting that the Centre\u2019s claim of the Rafale file being stolen was an attempt to destroy evidence and a cover-up, Congress president Rahul Gandhi on Wednesday said Prime Minister Narendra Modi should be prosecuted.\u000a\u000aThe Congress also said that even if the NDA government tries to \u201cgag the media or/and arrest every citizen\u201d the party will not be deterred from speaking the \u201ctruth.\u201d\u000a\u000a\u201cThere is now enough evidence to prosecute the PM in the #RafaleScam. The trail of corruption begins & ends with him. That crucial Rafale files incriminating him are now reported \u201cstolen\u201d by the Govt, is destruction of evidence & an obvious coverup,\u201d Mr. Gandhi tweeted with the hash tag #FIRagainstCorruptModi.\u000a\u000a\u201cThe time has now come to register an FIR against PM Modi and every other individual so that a time-bound investigation takes place in this entire saga of Rafale corruption reaching the highest echelons of power,\u201d said Mr. Surjewala.\u000a\u000a\u201cIt is now crystal clear that blatant and massive corruption has taken place in the Rafale deal. It is undoubtedly established that Modi ji misused his office as Prime Minister to grant undue benefit to Dassault Aviation and caused a loss to the public exchequer. This is a clear-cut case under Section 13 (1) (d) of the Prevention of Corruption Act, 1988 and different provisions of Indian Penal Code,\u201d he said.\u000a\u000aFollowing The Hindu\u2019s expose on Wednesday, the Congress extensively cited the Indian Negotiation Team (INT) to argue that Mr. Modi \u201cmisled Parliament and duped the country.\u201d\u000a\u000aThe Congress alleged that despite insistence from the Defence, Law and Finance Ministries on taking a bank guarantee to the tune of \u20b94305 crore from Dassault Aviation, the Cabinet Committee on Security (CCS), chaired by the Prime Minister, waived it off.\u000a\u000aMr. Surjewala alleged that the Modi government\u2019s publicly declared value of \u20b959,000 crore to buy 36 Rafale fighter jets off the shelf doesn\u2019t include \u20b99750 crore for the India-specific enhancements (ISE). If these are added to the cost, then the deal is nearly \u20b970,000 crore and the ISE per aircraft has gone from \u20b982 crore during UPA to \u20b9271 crore under the NDA, he said.\u000a\u000aThe Congress also alleged that the decision to buy 36 Rafale jets was not taken by the INT but National Security Adviser (NSA) Ajit Doval, who was neither authorised by the INT nor the CCS.
+p2
+sS'meta_description'
+p3
+V\u201cThe corruption and malfeasance in Rafale deal is out in the open. PM Modi misused his office to give benefits to Dassault Aviation and caused loss to the public exchequer\u201d
+p4
+sS'datetime'
+p5
+V06-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/news/national/enough-evidence-to-prosecute-pm-modi-for-corruption-in-rafale-deal-says-rahul-gandhi/article26448702.ece
+p8
+sS'title'
+p9
+VEnough evidence to prosecute PM Modi for corruption in Rafale deal, says Rahul Gandhi
+p10
+s.

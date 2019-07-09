@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V\u201cIt\u2019s a red-letter day for freedom of the press in India and forThe Hindu,\u201d N. Ram, Chairman of The Hindu Publishing Group, said in response to the Supreme Court judgment on publication of documents relating to the Rafale deal investigation.\u000a\u000a\u201cIt is extremely significant that the Supreme Court of India says in the judgment written by the Chief Justice of India that our publication of the documents \u2018reminds the Court\u2019 of its own consistency in \u2018upholding the freedom of the press in a long line of decisions from Romesh Thapar vs. State of Madras and Brij Bhushan vs. State of Delhi\u2019.\u000a\u000a\u201cWe hope this positive message goes down the line to all our courts, because freedom of the press has come under pressure and attack in India. The Supreme Court\u2019s finding that \u2018the right of such publication\u2019, that is, publication of the Rafale deal documents by The Hindu, \u2018would seem to be in consonance with the constitutional guarantee of speech\u2019 should empower the pursuit of independent, investigative journalism by India\u2019s press,\u201d Mr. Ram said in a statement.\u000a\u000aRead all investigative reports by N. Ram on the Rafale deal here.
+p2
+sS'meta_description'
+p3
+V\u201cIt\u2019s a red-letter day for freedom of the press in India and forThe Hindu,\u201d N. Ram, Chairman of The Hindu Publishing Group, said in response to the Supreme Court judgment on publication of documents r
+p4
+sS'datetime'
+p5
+V10-Apr-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/news/national/sc-decision-on-rafale-case-review-pleas-red-letter-day-for-the-press-says-n-ram/article26799071.ece
+p8
+sS'title'
+p9
+VSC decision on Rafale case review pleas: Red-letter day for the press, says N. Ram
+p10
+s.

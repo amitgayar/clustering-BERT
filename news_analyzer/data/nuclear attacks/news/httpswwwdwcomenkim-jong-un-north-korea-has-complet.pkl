@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNorth Korean leader Kim Jong Un said Monday the country had completed its nuclear weapons arsenal in 2017, an achievement that would deter the United States from ever attacking it.\u000a\u000a"[The North] can cope with any kind of nuclear threats from the US and has a strong nuclear deterrence that is able to prevent the US from playing with fire," Kim said in a televised New Year's Day speech.\u000a\u000aTensions between the United States and North Korea reached new heights in 2017 after Pyongyang conducted multiple nuclear and ballistic missile tests in violation of international sanctions.\u000a\u000aIn September, North Korea tested its sixth and most powerful nuclear warhead, and in November, it launched its longest-range missile that it claims can deliver a nuclear strike anywhere in the continental United States.\u000a\u000a"The entire United States is within range of our nuclear weapons, and a nuclear button is always on my desk. This is reality, not a threat," Kim said.\u000a\u000aThe North's weapons, he added, "will be used only if our security is threatened" and will multiply as Pyongyang focuses on mass production of nuclear warheads and ballistic missiles.\u000a\u000aKim's speech is the latest in the ongoing public war of words with US President Donald Trump, a spat that has compounded fears of armed conflict between the two countries in recent months.\u000a\u000aThe young leader nevertheless offered what appeared to be a gesture of goodwill to the North's other rival, South Korea, by calling on both sides to lower military tensions and improve their relationship.\u000a\u000aAs part of that effort, Kim said he may send a delegation to the Winter Olympic Games in Pyeongchang, South Korea in February.\u000a\u000a"North Korea's participation in the Winter Games will be a good opportunity to show unity of the people and we wish the Games will be a success. Officials from the two Koreas may urgently meet to discuss the possibility," he said.\u000a\u000aSouth Korea's presidential office said it welcomed the proposal to hold talks on North Korea sending a delegation to the Olympics.\u000a\u000aThe office of President Moon Jae-in said the successful hosting of the Pyeongchang Olympics will contribute to peace and harmony not only on the Korean Peninsula and in northeast Asia but in the entire world.
+p2
+sS'meta_description'
+p3
+S"North Korea made significant strides in the development of its nuclear weapon and ballistic missile programs in 2017. In a New Year's speech, the country's leader said it can now start focusing on mass production."
+p4
+sS'datetime'
+p5
+V31-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.dw.com/en/kim-jong-un-north-korea-has-completed-nuclear-program-us-will-never-attack/a-41987633
+p8
+sS'title'
+p9
+VKim Jong Un: North Korea has completed nuclear program, US will never attack | DW | 01.01.2018
+p10
+s.

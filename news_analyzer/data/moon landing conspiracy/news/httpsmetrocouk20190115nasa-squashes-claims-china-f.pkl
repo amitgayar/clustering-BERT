@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNasa has found itself at the centre of many bizarre and far-fetched conspiracy theories over the years.\u000a\u000aSo it\u2019s easy to imagine that the space agency has some sympathy with China, which has been accused of faking a recent landing on the dark side of the moon.\u000a\u000aNow Nasa has released pictures of the spot where the Chang\u2019e 4 lander touched down on the lunar surface.\u000a\u000aScientists also published a statement which said: \u2018Chang\u2019e 4 safely set down on the plains of Von Kármán crater last week (3 January 2019). Soon thereafter a colour image of the immediate surroundings was relayed back to the Earth from the far side.\u2019\u000a\u000aThe images were snapped by the Lunar Reconnaissance Orbiter Camera (LROC), which is fitted to a satellite orbiting the moon.\u000a\u000aThey show the site before the landing, meaning there is still a chance that the landings were a hoax, although it seems unlikely that American scientists would be able to resist landing a major blow against China if it really did fake the mission.\u000a\u000aThe rumours about a hoax were started by alien hunter Scott C Waring of UFO Sightings Daily, who said: \u2018I guess China may have decided since NASA faked the first Apollo moon landing and got away with it, then China wanted in on it too.\u000a\u000a\u2018Look at the original photo you will see that there are no other lines in the entire giant panoramic photo. OMG, this is so very disappointing. Notice the lack of moon rocks on the entire surface of the moon\u2026which is exactly what the first Apollo moon landing also showed\u2026a sign of being faked on a stage.\u2019\u000a\u000aOfficials with the China National Space Administration said the landings were a \u2018total success\u2019 after releasing pics showing the Jade Rabbit 2 rover moving away from its lander.\u000a\u000aThe pictures show a rocky surface with the jagged edge of craters in the background, posing a challenge for the controllers who are plotting the rover\u2019s travels, the official Xinhua News Agency said.\u000a\u000a\u2018From the panorama, we can see the probe is surrounded by lots of small craters, which was really thrilling,\u2019 Li was quoted as saying.\u000a\u000aThe space administration also released a 12-minute video of Chang\u2019e 4\u2019s landing, using more than 4,700 images taken by an on-board camera.\u000a\u000aThe probe is shown adjusting its altitude, speed and pitch as it seeks to avoid obstacles on the ground.\u000a\u000aResearchers hope that low-frequency observations of the cosmos from the far side of the moon, where radio signals from Earth are blocked, will help scientists learn more about the early days of the solar system and birth of the universe\u2019s first stars.\u000a\u000aThe far side has been observed many times from lunar orbits, but never explored on the surface.\u000a\u000aIt is popularly called the \u2018dark side\u2019 because it cannot be seen from Earth and is relatively unknown, not because it lacks sunlight.\u000a\u000aThe pioneering landing highlights China\u2019s ambitions to rival the US, Russia and Europe in space through manned flights and the planned construction of a permanent space station.\u000a\u000aIn America, 21 million people believe that the moon landings were faked \u2013 despite pictures clearly showing flags left by the Apollo missions.\u000a\u000aMoon hoax conspiracy theories are often the \u2018entry level\u2019 conspiracy which guides people to the really weird \u2018hard stuff\u2019 like believing the Earth is flat.\u000a\u000aBut where did the idea come from?\u000a\u000aWe can blame one rocket expert, Bill Kaysing, a technical writer who self-published a book called \u2018We Never Went to the Moon: America\u2019s Thirty Billion Dollar Swindle.\u2019\u000a\u000aMany of the supposed \u2018giveaways\u2019 still touted by moon truthers today come from Kaysing\u2019s book, according to author C Stuart Hardwick, writing on Quora.\u000a\u000aHardwick says, \u2018The first person to give real voice to moon hoax conspira-nonesense was Bill Kaysing, a technical writer who had worked for Rocketdyne until 1963.
+p2
+sS'meta_description'
+p3
+S"Don't believe the conspiracy theories."
+p4
+sS'datetime'
+p5
+V15-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://metro.co.uk/2019/01/15/nasa-squashes-claims-china-faked-landing-dark-side-moon-8347482/
+p8
+sS'title'
+p9
+VNasa squashes claims that China faked landing on the dark side of the moon
+p10
+s.

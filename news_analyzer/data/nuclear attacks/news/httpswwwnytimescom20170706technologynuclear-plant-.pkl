@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSince May, hackers have been penetrating the computer networks of companies that operate nuclear power stations and other energy facilities, as well as manufacturing plants in the United States and other countries.\u000a\u000aAmong the companies targeted was the Wolf Creek Nuclear Operating Corporation, which runs a nuclear power plant near Burlington, Kan., according to security consultants and an urgent joint report issued by the Department of Homeland Security and the Federal Bureau of Investigation last week.\u000a\u000aThe joint report was obtained by The New York Times and confirmed by security specialists who have been responding to the attacks. It carried an urgent amber warning, the second-highest rating for the sensitivity of the threat.\u000a\u000aThe report did not indicate whether the cyberattacks were an attempt at espionage \u2014 such as stealing industrial secrets \u2014 or part of a plan to cause destruction. There is no indication that hackers were able to jump from their victims\u2019 computers into the control systems of the facilities, nor is it clear how many facilities were breached.
+p2
+sS'meta_description'
+p3
+S'Among the companies targeted was a firm that operates a nuclear power plant in Kansas. It is not clear who was responsible.'
+p4
+sS'datetime'
+p5
+V06-Jul-2017
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2017/07/06/technology/nuclear-plant-hack-report.html
+p8
+sS'title'
+p9
+VHackers Are Targeting Nuclear Facilities, Homeland Security Dept. and F.B.I. Say
+p10
+s.

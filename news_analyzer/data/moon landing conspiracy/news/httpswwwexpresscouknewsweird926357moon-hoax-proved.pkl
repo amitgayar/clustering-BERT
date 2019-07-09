@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMr Bryant, who also runs a business selling meteorite parts, has compared NASA images of a mountain near Taurus Littrow, said to have been taken on the Moon during the 1972 Apollo 17 mission, with the Hawaiian scene, and believes they could be a match.\u000a\u000aThe 49th anniversary of Neil Armstrong's first steps on the lunar surface takes place in July, but many conspiracy theorists across the globe remain convinced it was the biggest cover up of all time.\u000a\u000aMoon hoax conspiracy theorists say a desperate President John F Kennedy, who wanted to beat the Russians in the space race to the moon, ordered the production of a series of films in top-secret studios to make it look like NASA astronauts made it to the lunar surface.\u000a\u000aAt the heart of the theory are claims that the radioactive Van Allen belt around Earth would have been lethal to fly through.\u000a\u000aMr Bryant is fast becoming one of the top moon hoax conspiracy theorists after spending years investigating the huge conspiracy theory.\u000a\u000aHe managed to track down 14 of the NASA astronauts that were involved in the various Apollo missions from 1963 to 1972.\u000a\u000aHe has come away convinced that at the very least there are major question marks over whether the missions went ahead.
+p2
+sS'meta_description'
+p3
+S'EXCLUSIVE: An astronomer, who interviewed 14 NASA Apollo astronauts about whether the Moon landings actually happened, believes he may have found the top-secret location where they could have been staged on Earth.\nDavid Bryant, a British former Naval pilot, believes a hill near the summit of Mauna Kea in Hawaii may have been used as a backdrop for some of the footage that was then aired to the world as men landing on the Moon.'
+p4
+sS'datetime'
+p5
+V02-Mar-2018
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/weird/926357/MOON-HOAX-PROVED-where-NASA-filmed-fake-lunar-landings-on-Earth
+p8
+sS'title'
+p9
+VMOON HOAX PROVED? Is this where NASA filmed 'fake lunar landings on Earth?'
+p10
+s.

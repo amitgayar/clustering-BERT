@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VFinance ministry is also keeping a 'close watch' on the entire case and wants Sebi to fast-track the probe into alleged lapses in high-frequency trading offered through NSE's 'co-location' facility
+p2
+sS'meta_description'
+p3
+S"Finance ministry is also keeping a 'close watch' on the entire case and wants Sebi to fast-track the probe into alleged lapses in high-frequency trading offered through NSE's 'co-location' facility"
+p4
+sS'datetime'
+p5
+V28-May-2017
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Money/6QQjPOdfFNzHknirMbxlGI/Sebi-RBI-step-up-NSE-highfrequency-trading-probe-top-of.html
+p8
+sS'title'
+p9
+VSebi, RBI step up NSE \u2018high-frequency\u2019 trading probe, top officials under scanner
+p10
+s.

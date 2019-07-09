@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSebi is considering to get a forensic test done on financial statements and disclosures made by ICICI Bank amid a row over alleged conflict of interest involving the lender's CEO Chanda Kochhar and her husband
+p2
+sS'meta_description'
+p3
+S"Sebi is considering to get a forensic test done on financial statements and disclosures made by ICICI Bank amid a row over alleged conflict of interest involving the lender's CEO Chanda Kochhar and her husband"
+p4
+sS'datetime'
+p5
+V21-Apr-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Industry/TB7kM1PIooMnBCapES4TjP/ICICIVideocon-loan-case-Sebi-may-seek-forensic-probe-of-ba.html
+p8
+sS'title'
+p9
+VICICI-Videocon loan case: Sebi may seek forensic probe of bank books, disclosures
+p10
+s.

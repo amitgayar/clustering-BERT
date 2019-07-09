@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Reserve Bank of India had two years back conducted a detailed scrutiny to probe allegations of impropriety in ICICI Bank extending loans to Videocon Group but found no proof of any "quid pro quo" or reciprocal benefits, according to RBI documents.\u000a\u000aThe RBI had undertaken a scrutiny in mid-2016 after the Prime Minister's Office referred to it allegations of ICICI Bank CEO Chanda Kochhar's husband, Deepak reaping windfall gains from his association with businessman Venugopal Dhoot, whose Videocon Group is a large debtor to ICICI.\u000a\u000aThe RBI, which is the regulator for the banking sector, in its first response, sometime in mid-July of 2016, stated that ICICI Bank had sanctioned a loan of Rs 1,730 crore to the Videocon Group in 2012 as part of a debt consolidation programme undertaken through a consortium of banks led by the State Bank of India, according to the documents and sources with direct knowledge of the matter.\u000a\u000aIt went on to state that it was difficult to establish any conflict of interest in the sanctioning of the loan but flagged that it was not able to determine the sources of funding in some of the transactions involving Deepak Kochhar's renewable energy venture NuPower.\u000a\u000aThe source of funding was critical for ascertaining the legitimacy of NuPower transactions, the RBI had said, adding that it was for investigative agencies to ascertain that.\u000a\u000aLater in December that year, RBI gave a detailed response to allegations of "quid pro quo" in loan sanctioned to the Videocon Group in 2007-08 and 2012, saying ICICI Bank was a part of the debt recast programme of Rs 20,195 crore by a consortium of banks led by SBI, where ICICI Bank's share was Rs 1,750 crore.\u000a\u000aRBI stated that 'quid pro quo' could not be established as ICICI Bank had to take a share like other banks in the consortium, they said.\u000a\u000aThe central bank said the transfer of ownership of NuPower Renewables Ltd, which Deepak had set up with Dhoot family in December 2008, by Videocon was an unrelated event outside the banking domain. Such a transfer can only be examined by Sebi (Securities and Exchange Board of India) or Ministry for Corporate Affairs (MCA).\u000a\u000aOn the investment in NuPower coming from Mauritius, the RBI had stated that the funds had come under the automatic route and reported to the central bank and no violation was reported.\u000a\u000aAccording to the RBI papers, the central bank had left it to the Department of Financial Services in the Ministry of Finance to investigate if there was a non-disclosure of related party transaction or if there were FEMA (Foreign Exchange Management Act) violations.\u000a\u000aThe RBI, however, raised questions over the ownership of the Mauritius-based entity, First Land Holding, which had invested Rs 325 crore in NuPower. Also, there was no clarity over the alleged Rs 64-crore loan (unsecured fully convertible debentures) given to NuPower by Supreme Energy, which was 99.99 per cent owned by Videocon chief Venugopal Dhoot at that time.\u000a\u000aWhile Chanda Kochhar sat on the credit committee that approved the loan to Videocon, there are allegations of conflict of interest in her husband's brother, Singapore-based Rajiv Kochhar, performing debt-restructuring work on errant corporate borrowers from ICICI, including Videocon. The restructuring wasn't commissioned by the bank but by the borrowers.\u000a\u000aLast month, the board of ICICI Bank expressed full faith in Chanda Kochhar, whose current tenure as CEO is set to end on March 31, 2019. It had reviewed credit approval processes and found them to be robust, according to a March 28 filing by the Bank.
+p2
+sS'meta_description'
+p3
+S"The RBI had undertaken a scrutiny in mid-2016 after the Prime Minister's Office referred to it allegations of Deepak Kochhar reaping windfall gains from his association with Venugopal Dhoot, Videocon's chairman and managing director."
+p4
+sS'datetime'
+p5
+V15-Apr-2018
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/sectors/banks/icici-bank-videocon-loan-rbi-docs-show-no-quid-pro-quo-chanda-kochhar/story/274900.html
+p8
+sS'title'
+p9
+VRBI docs from two years ago show no 'quid pro quo' in ICICI loans to Videocon
+p10
+s.

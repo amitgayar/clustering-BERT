@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VFormer French President Francois Hollande has reportedly claimed that the Indian government had proposed the name of Anil Ambani's Reliance Defence for the Rafale deal with the French government.\u000a\u000aAccording to French website Mediapart, the ex-French President said that his government "did not have a say" in choosing Anil Ambani's company for the Rafale deal with India.\u000a\u000aResponding to the damning report in French media, Ministry of Defence tweeted, "The report referring to fmr French president Mr. Hollande's statement that GOI insisted upon a particular firm as offset partner for the Dassault Aviation in Rafale is being verified. It is reiterated that neither GoI nor French Govt had any say in the commercial decision."\u000a\u000aCongress President Rahul Gandhi took on Prime Minister Narendra Modi after the latest revelations. "PM personally negotiated and changed the Rafale deal behind closed doors. Thanks to Francois Hollande, we now know he personally delivered a deal worth billions of dollars to a bankrupt Anil Ambani," Gandhi tweeted.\u000a\u000a"The PM has betrayed India. He has dishonoured the blood of our soldiers," Congress President tweeted.\u000a\u000aHollande also denied any connection of the deal with a film by his partner Julie Gayet.\u000a\u000aLast month, The Indian Express had reported that Anil Ambani's Reliance Entertainment had signed a deal to produce a film with actor Julie Gayet, then French President Francois Hollande's partner, just two days before the MoU for Rafale aircraft was signed.\u000a\u000aIn its defence, Reliance Entertainment had said that there is nothing to hide. "It was Anurag Kashyap's Phantom Films that produced the French leader's partner Julie Gayet's production Tout La-Haut," it had said.\u000a\u000aPhantom Films, the production and distribution company set up by Anurag Kashyap, Vikramaditya Motwane, Madhu Mantena and Vikas Bahl was founded in 2011. Reliance Entertainment picked up 50% stake in 2015.\u000a\u000aAttacking the BJP over Rafale deal, former Finance Minister P Chidambaram said, "In the NDA negotiated Rafale aircraft deal, we have got no aircraft, we have got only lies. What is the new lie that the government will put out in response to Mr Hollande?"\u000a\u000a"Defence Minister has been called out again! This time by then President of France, Mr Hollande," Chidambaram added.
+p2
+sS'meta_description'
+p3
+S'According to French website Mediapart, the ex-French President said that his government'
+p4
+sS'datetime'
+p5
+V21-Sep-2018
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/current/economy-politics/rafale-deal-french-president-hollande-claims-india-proposed-anil-ambani-reliance/story/282714.html
+p8
+sS'title'
+p9
+VIndia proposed Anil Ambani's Reliance for Rafale deal: Former French President Hollande
+p10
+s.

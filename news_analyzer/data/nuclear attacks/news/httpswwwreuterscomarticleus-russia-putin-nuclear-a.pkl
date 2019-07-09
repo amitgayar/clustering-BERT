@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMOSCOW (Reuters) - President Vladimir Putin said on Thursday that Moscow would regard a nuclear attack on its allies as a nuclear attack on Russia itself and would immediately respond.\u000a\u000aPutin said that Russia had tested an array of new nuclear weapons, including a new nuclear-powered missile at the end of 2017 which could reach almost any point in the world and could not be intercepted by anti-missile systems.\u000a\u000a\u201cWe would consider any use of nuclear weapons against Russia or its allies to be a nuclear attack on our country. The response would be immediate,\u201d Putin said in a speech to Russian lawmakers.
+p2
+sS'meta_description'
+p3
+S'President Vladimir Putin said on Thursday that Moscow would regard a nuclear attack on its allies as a nuclear attack on Russia itself and would immediately respond.'
+p4
+sS'datetime'
+p5
+V01-Mar-2018
+p6
+sS'link'
+p7
+Vhttps://www.reuters.com/article/us-russia-putin-nuclear-arms/putin-moscow-would-regard-nuclear-attack-on-allies-as-attack-on-russia-idUSKCN1GD4R9
+p8
+sS'title'
+p9
+VPutin: Moscow would regard nuclear attack on allies as attack on...
+p10
+s.

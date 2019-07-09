@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'The RBI has done well to stand firm on data localisation'
+p4
+sS'datetime'
+p5
+V16-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.thehindubusinessline.com/opinion/editorial/the-rbi-has-done-well-to-stand-firm-on-data-localisation/article25240890.ece
+p8
+sS'title'
+p9
+VThe right move
+p10
+s.

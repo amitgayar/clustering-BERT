@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VGunmen have attacked a convoy of trucks carrying uranium fuel to a nuclear power plant near the Brazilian city of Rio de Janeiro, police say.\u000a\u000aThe convoy came under attack as it drove past a community controlled by drug traffickers in Angra dos Reis, a tourist city 145km (90 miles) from Rio.\u000a\u000aPolice escorting the convoy responded and a shootout followed. No-one was injured or detained.\u000a\u000aThe convoy reached the Angra 2 plant safely 20 minutes after the attack.\u000a\u000aThe attack in the Rio-Santos highway is the latest in a series of violent incidents in an area popular with visitors.\u000a\u000aIn 2017, a British woman was shot and wounded after her family's car drove by mistake into a community run by gangs.\u000a\u000aThe convoy was carrying uranium fuel fabricated in Resende, in Rio de Janeiro state, to supply Angra 2, one of the two nuclear power plants in Angra dos Reis, which began operations in 2001.\u000a\u000aThe gunmen targeted the police officers that were part of the convoy as it passed the Frade community at around 12:00 local time on Tuesday (15:00 GMT), Brazil's federal highway police said in a statement.\u000a\u000a"Sadly, attacks by criminals have become frequent in that area... Such a beautiful region, with great tourist demand has become a dangerous place," spokesman José Hélio Macedo was quoted by O Globo newspaper as saying.\u000a\u000aThe uranium was being transported in armoured containers in a "natural state" and would not have offered any risk as it had the same level of radioactivity as when it is found in nature, Brazil's nuclear agency Eletronuclear said.\u000a\u000aThe agency, however, said the convoy "had not been attacked by bandits" directly - it was passing in the area at the moment a shootout was happening.\u000a\u000aSome bandits scared by the heavy police presence shot at a police vehicle in the convoy, it added in a statement.\u000a\u000aViolence has increased in Angra dos Reis in recent years and heavily armed criminals are now present in once-peaceful communities, correspondents say.\u000a\u000aReports say the shootout in Frade was a result of fighting between rival gangs.\u000a\u000aAngra dos Reis Mayor Fernando Jordão urged the state's government to improve security in the region. "We have nuclear plants here. It's a sensitive area."
+p2
+sS'meta_description'
+p3
+S'Gunmen opened fire on a convoy carrying uranium to a nuclear power plant near Rio, police say.'
+p4
+sS'datetime'
+p5
+V20-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://www.bbc.com/news/world-latin-america-47635706
+p8
+sS'title'
+p9
+VNuclear fuel convoy attacked in Brazil
+p10
+s.

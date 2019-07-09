@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMUMBAI: \u2018Bond tap\u2019, which gives corporates the flexibility to time the market, prune cost, and dramatically cut down on paperwork for raising money, will soon be a reality in India.Capital market regulator Sebi is preparing the ground to allow \u2018on tap public issue of bonds\u2019 \u2014 a mechanism that will let corporates use stock exchanges to sell bonds directly to investors, including retail investors, any time and as many times during a financial year, after filing a single prospectus.\u201cAfter filing the tap bond issue prospectus, a corporate can decide when to enter the market. It can be multiple times during a financial year depending on the fund need and market appetite... as the name suggests, it\u2019s turning the tap on or off. Such issuances could be a cheaper, and certainly a far quicker way to raise debt capital,\u201d a person aware of the plan told ET.\u201cIt\u2019s like a secondary sale of a primary issuance, similar to an offer for sale in PSU divestments. The stock exchange platform would be used to invite investors,\u201d he said.According to a Sebi official, the regulator is exploring the basic framework for \u2018on tap public issue\u2019 and may soon invite feedback from market participants on the subject.On tap issues would offer greater leeway than shelf-prospectus which currently allows corporates to issue bonds by using the same document multiple times. In \u2018tap\u2019, unlike a \u2018shelf \u2019, a string of formalities like dealing with the registrar, merchant banker, or issuing new advertisements and application forms can be done away with. On tap market, which thrives in financial centres like London, would particularly benefit certain sectors like non-depositing taking non-banking finance companies which are regular issuers, said Kaushik Mukherjee, partner at the law firm Shardul Amarchand Mangaldas.\u201cOn tap market can also benefit small issuers who otherwise find the cost of fund raising prohibitive. It\u2019s a step towards a deeper bond market ,\u201d said Rajesh Gandhi, Partner, Deloitte The idea is being discussed at a point when the bond market is grappling with conflicting regulatory moves. On one hand, the Securities and Exchange Board of India recently halved the listing time for corporate bonds to six days and introduced the mechanism where funds are debited from investors\u2019 accounts only after allotment of securities.On the other hand, few months ago, the Reserve Bank of India brought in fresh investment restrictions \u2014 which are aimed at curbing concentration of investments and possible round-tripping of money stashed abroad in the run-up to the elections. Besides, rising US bond yields, the new rules are believed to have contributed to the recent bond selloffs by foreign portfolio investors.\u201cThe new diversification and concentration norms prescribed by RBI for FPIs, have impacted the manner in which FPIs used to invest in Indian corporate debt securities. The stipulation whereby investment by any FPI (including related FPIs) cannot exceed 50% of any corporate bond issue, has put a full stop on the earlier popular structures where a single FPI could have been the sole investors in a debt issuance. Also, the new diversification norms requiring an FPI to not have an exposure of more than 20% of its corporate bond portfolio in a single corporate group, have derailed the structures where special purpose FPIs were established to invest only in a select debt issuances of one corporate group. The said risk diversification norms may not be completely unwarranted, however may need to undergo certain tweaks,\u201d said Tejas Chitlangi, senior partner, IC Universal Legal.Also, FPIs cannot hold more than 10% of their corpus in bonds of less than one year maturity \u2014 forcing many foreign investors to consider offloading even long-dated bonds which would mature in a year or so. \u201cOn tap market is a step in the right direction, but liquidity could further suffer if these new restrictions which make little sense are not removed. We have raised the issue with the finance ministry,\u201d said a banker.
+p2
+sS'meta_description'
+p3
+S'This mechanism that will let corporates use stock exchanges to sell bonds directly to investors.'
+p4
+sS'datetime'
+p5
+V26-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/markets/bonds/sebi-plans-on-tap-bond-market/articleshow/65556332.cms
+p8
+sS'title'
+p9
+VSebi plans \u2018on tap\u2019 bond market
+p10
+s.

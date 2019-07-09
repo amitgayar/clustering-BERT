@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VPrivate lender Kotak Mahindra Bank has filed a writ petition with the Bombay High Court after the RBI turned down its plea to reduce promoter stake by issuing perpetual nonconvertible preference shares (PNCPS).\u000a\u000aIn a filing to the exchanges, the bank said its position on preference shares, being a part of paid-up capital and the legal basis on the matter of dilution of shareholding under the Banking Regulation Act, was clarified and conveyed to the RBI. \u201cWe have also shared with the RBI the opinions of eminent jurists and senior most legal counsels of the country, which confirm ...
+p2
+sS'meta_description'
+p3
+S"Read more about Kotak Bank moves HC against RBI over promoter shareholding dispute on Business Standard. RBI had turned down the bank's stake dilution plan through non-convertible preference shares"
+p4
+sS'datetime'
+p5
+V10-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/finance/promoter-stake-dilution-kotak-mahindra-moves-court-against-rbi-decision-118121000467_1.html
+p8
+sS'title'
+p9
+VKotak Bank moves HC against RBI over promoter shareholding dispute
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VAfter winning a slender majority in the 32-member legislative assembly, a Sikkim Krantikari Morcha (SKM) delegation led by its president P S Golay on Saturday called on Governor Ganga Prasad and staked claim to form the next government in the state. The SKM leaders, however, were tight-lipped about the name of their legislature party chief.\u000a\u000aThe SKM, founded in 2013, won a slender majority in the 32-member legislative assembly by bagging 17 seats against 15 won by the SDF. Speaking to the media on the Raj Bhawan premises after meeting the Governor, Golay said his party has requested Prasad to invite the SKM to form the next government in Sikkim. To a query on who will become the chief minister, he said a decision about it will be made soon. SKM sources said its legislature party has authorized Golay to decide on the chief minister's issue.\u000a\u000aThough Golay did not contest the polls, the party rank and file want him to become the next chief minister, the sources said. The Governor is learnt to be consulting legal experts about implications of inviting Golay to take oath as the chief minister, given that he was convicted to a year's imprisonment in a corruption case and had served the prison term. He was also disqualified as MLA in 2017. The SKM unseated the Sikkim Democratic Front (SDF) government led by five-time chief minister Pawan Kumar Chamling.
+p2
+sS'meta_description'
+p3
+S"Though Golay did not contest the polls, the party rank and file want him to become the next chief minister, the sources said. The Governor is learnt to be consulting legal experts about implications of inviting Golay to take oath as the chief minister, given that he was convicted to a year's imprisonment in a corruption case and had served the prison term. He was also disqualified as MLA in 2017. The SKM unseated the Sikkim Democratic Front (SDF) government led by five-time chief minister Pawan Kumar Chamling."
+p4
+sS'datetime'
+p5
+V25-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.devdiscourse.com/election/details/537527-sikkim-skm-delegation-calls-on-guv-prasad-stake-claim-to-form-next-govt
+p8
+sS'title'
+p9
+VSikkim: SKM delegation calls on Guv Prasad, stake claim to form next govt | News
+p10
+s.

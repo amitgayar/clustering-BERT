@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VRegulator SEBI clarified on Wednesday that it has not received any settlement application from ICICI Bank or any other entity with respect to the probe into alleged regulatory lapses involving its CEO Chanda Kochhar, her husband and his business dealings.\u000a\u000aBesides, the markets watchdog said that ICICI Bank and Kochhar have replied to the show cause notices issued by it.\u000a\u000aICICI Bank and the business dealings of the Kochhar family have come under the regulatory glare of SEBI and other agencies after a whistleblower reported to the government agencies that the family had some quid pro quo in its dealings with the now bankrupt Videocon group.\u000a\u000aIn FY 2012, the bank had, by allegedly flouting its own lending norms, extended a Rs 3,250 crore loan to the Videocon group, which has since turned dud for the bank.\u000a\u000a"It is hereby clarified that ICICI Bank and Chanda Kochhar have filed replies to show cause notices issued by SEBI. It is further clarified that, SEBI has not received any settlement application from ICICI Bank or from any other entity related to the matter," the regulator said in a statement.\u000a\u000aEarlier, the Securities and Exchange Board (SEBI) had issued show cause notices to ICICI Bank, Kochhar and others after its preliminary examination favoured initiating adjudication proceedings against them for alleged violation of listing disclosure norms regarding 'conflict of interest' in business dealings of her husband with Videocon Group.\u000a\u000aThe bank and Kochhar have been maintaining there had been no regulatory violations on their part and that she was not aware of specific business dealings of her husband.\u000a\u000aAs per SEBI's preliminary probe, Kochhar's husband Deepak has had many business dealings with the Videocon group over the past several years.\u000a\u000aBesides, Deepak and Videocon chief Venugopal Dhoot were co-founders and promoters of NuPower, besides other associations.\u000a\u000aThe cases under scanner include significant loan exposure of the bank to Videocon way back in 2012 and the alleged involvement of the Kochhar family in restructuring of that loan.\u000a\u000aKochhar and her family members are also facing allegations of quid pro quo and conflict of interest with respect to the loan extended to an offshore arm of the Essar group.
+p2
+sS'meta_description'
+p3
+S'In FY 2012, the bank had, by allegedly flouting its own lending norms, extended a Rs 3,250 crore loan to the Videocon group, which has since turned dud for the bank.'
+p4
+sS'datetime'
+p5
+V19-Sep-2018
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/sectors/banks/sebi-says-icici-bank-other-related-entities-have-not-filed-for-settlement/story/282600.html
+p8
+sS'title'
+p9
+VSEBI says ICICI Bank, other related entities have not filed for settlement
+p10
+s.

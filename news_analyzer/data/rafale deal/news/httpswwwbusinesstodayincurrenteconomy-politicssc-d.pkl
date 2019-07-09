@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn a big setback to the government, the Supreme Court on Wednesday dismissed the Centre's "preliminary objections", allowing the admissibility of three documents in the Rafale deal as evidence in re-examining the review petitions filed against the SC's December 14 judgement. Earlier the government had claimed "privilege" over the leaked Rafale documents under Section 123 of the Indian Evidence Act and told the SC these papers couldn't be considered as bases to re-examine its verdict on the controversial Rafale fighter jet deal. The Supreme Court has also said "as far as the question of hearing of review plea on Rafale judgement is concerned, it will give a detailed hearing later on".\u000a\u000a"There are three Rafale documents whose publication comes under Official Secrets Act, 1923," the government told the SC.  The verdict on the "preliminary objections" was announced by Chief Justice Ranjan Gogoi. The court had earlier reserved its verdict on March 14 after the Centre raised objections over the validity of these leaked documents.\u000a\u000aFormer Union ministers Yashwant Sinha and Arun Shourie and activist-lawyer Prashant Bhushan had filed a review petition in the SC on its December-14 judgement, in which it dismissed all petitions against the Rafale jet deal. "Only after we decide the preliminary objection raised by the Centre, we will go into other aspects of the review petitions," the SC bench had said. "Only if we overrule the preliminary objection, we will go into other details," it added.\u000a\u000aThe SC decision on the government's objection came after Attorney General KK Venugopal, appearing for the Centre, told the court that no one could produce such documents in the court without the permission of the department concerned as those documents are also protected under the Official Secrets Act and their disclosure was exempted under the Right to Information Act as per Section 8(1)(a).\u000a\u000aLawyer Prashant Bhushan had contended the Centre's objections were "mala fide and totally untenable arguments", and that it couldn't claim "privilege" over the published documents which are in public domain.\u000a\u000aNarendra Modi did 'bypass surgery' in Rafale deal; his role should also be probed, says Rahul Gandhi
+p2
+sS'meta_description'
+p3
+S'The Supreme Court says'
+p4
+sS'datetime'
+p5
+V10-Apr-2019
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/current/economy-politics/sc-dismiss-rafale-deal-govt-preliminary-objections-leaked-papers/story/335836.html
+p8
+sS'title'
+p9
+VRafale deal: SC dismisses govt's objections on leaked papers; to re-examine them as evidence
+p10
+s.

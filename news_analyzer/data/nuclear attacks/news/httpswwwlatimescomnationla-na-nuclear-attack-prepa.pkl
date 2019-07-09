@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V"One advantage in our area is that we are resource rich," he said. "I am convinced we would have a robust response. We don't have the ability to do anything at ground zero, but we do have the ability to help at the perimeter. We have 10 million people in this county and there would be quite a few people to look after."
+p2
+sS'meta_description'
+p3
+S'As North Korea makes stunning progress in its nuclear weapons program, local officials are assessing preparations for an attack.'
+p4
+sS'datetime'
+p5
+V25-Jul-2017
+p6
+sS'link'
+p7
+Vhttps://www.latimes.com/nation/la-na-nuclear-attack-preparations-20170725-story.html
+p8
+sS'title'
+p9
+VDuck and cover 2.0: How North Korea is prompting new efforts to prepare for a nuclear attack
+p10
+s.

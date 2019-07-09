@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNASA\u2019S July 20, 1969 Moon landing has been right at the centre of conspiracy theory discourse for the past 50 years. As the 50th anniversary of the Apollo 11 mission approaches, new questions are being raised about whether NASA ever went to the Moon at all. Filmmaker and author Jay Weidner has now publicly revealed why he thinks the Moon landing was shot in a studio. Appearing publicly on Coast to Coast AM radio, Mr Weidner alleged Mr Kubrick used \u201cFront Screen Projection\u201d techniques to forge the Moon landing footage.\u000a\u000aThe conspiracy theorist said: \u201cI think they just decided for publicity reasons that it was probably better to have somebody do it here on Earth. \u201cThen they could go about their business and not reveal their secret equipment to the Soviet Union during the middle of the Cold War. \u201cSo it isn\u2019t really all that big of a leap to say that they might have shown us something that wasn\u2019t quite real, to protect national security.\u201d Front Screen Projecting is an in-camera visual effect pioneered by Mr Kubrick in his film 2001: A Space Odyssey.\u000a\u000a\u201cHe was a photographer, he understood lighting, he understood emulsion, he understood all the techniques of a photographer. That\u2019s how he got started. \u201cHe came into filmmaking as a technician first and an actor\u2019s director second, and that suited NASA perfectly because that\u2019s what they needed. \u201cThey needed someone who could solve problems, someone who could come in and technically solve the problems. \u201cThe acting wasn\u2019t as important to them as the technical problems and so Stanley began to solve the technical problems.\u201d READ MORE: Does Neil Armstrong's body language prove no one has ever been to the Moon?\u000a\u000aAccording to Mr Weidner, his own analysis of Apollo 11 photographs reveals "strategically placed horizon lines" behind the "Apollo 11 set". These lines supposedly show up when contrast and focus editing is applied to the Apollo snapshots. But all of this is not evidence of NASA ever landing on the Moon, Mr Weidner stressed. Instead, the filmmaker said geopolitical tensions between the US and Soviet Union have forced NASA to fake the footage should the Moon landing go wrong. READ MORE: Conspiracy theorist claims proof of Moon landings hoax CAN'T be questioned\u000a\u000aThis means Neil Armstrong was indeed the first man to set foot on the Moon but the video of his one small step, which was broadcast around the world, was not genuine.\u000a\u000aMr Weidner said: \u201cI\u2019m not saying we did not go to the Moon. I believe we did go to the Moon. \u201cI believe there are reflectors on the Moon, they put seismograph machines on the Moon, but I don\u2019t believe that what we saw was real. \u201cI think for political reasons \u2013 and we did have that great truth-teller Richard Nixon in office when they landed, so we know that probably everything the Government was doing was clean and straight.\u201d
+p2
+sS'meta_description'
+p3
+S'NASA falsified the historic Apollo 11 Moon landing tapes with under the direction and expertise of Hollywood legend Stanley Kubrick, filmmaker and author Jay Weidner has shockingly claimed live on radio.'
+p4
+sS'datetime'
+p5
+V25-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/weird/1076599/NASA-fake-moon-landing-Stanley-Kubrick-apollo-11-conspiracy-Jay-Weidner
+p8
+sS'title'
+p9
+VDid NASA fake the Moon landing? Filmmaker 'proves' Stanley Kubrick faked Apollo 11 landing
+p10
+s.

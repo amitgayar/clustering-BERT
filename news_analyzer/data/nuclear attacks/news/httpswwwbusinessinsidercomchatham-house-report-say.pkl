@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V\u000a\u000aCyber attacks could compromise the nuclear arsenals of countries like Britain and the US, and ultimately trigger nuclear war, according to a paper by a respected think-tank.\u000a\u000aChatham House, a policy discussion group based in London, warned that "inadvertent launches" were a possible consequence of new technology being employed by hostile states and criminals.\u000a\u000aIn a research paper published on Thursday , two policy experts said that new technology could allow hostile actors to manipulate data feeds to components involved in nuclear launches.\u000a\u000aThis could have consequences including turning them off, giving them false information, or, in an extreme situation, accidentally firing them, the report warns.\u000a\u000aIt listed 13 types of data which were open to manipulation, stressing the scale of efforts necessary to protect nuclear systems:\u000a\u000aThe paper highlighted specific methods of vulnerability, including those related to at-sea nuclear deterrents like the UK's Trident missile system.\u000a\u000aWhile these vessels are generally "air-gapped," meaning their systems are closed to outside input, the report pointed out that they are vulnerable while in port between missions, and could be compromised there.\u000a\u000aThey also highlighted research by Israeli researchers, who claimed to be able to read information from a computer without being connected to it by listening to the sound of its cooling fans , arguing that keeping systems 100% offline is no longer a feasible strategy.\u000a\u000aSecurity risks to nuclear infrastructure are not new, the report acknowledges, and factors like human error, intelligence breaches and mechanical failure have been concerns since the beginning of the nuclear age.\u000a\u000aBut it warns that the expansion of cyber warfare programs by militaries and external groups introduces new risks which have yet to be fully appreciated.\u000a\u000aDetails on any capability to meddle in nuclear programs would, inevitably, be kept out of the public domain. But it is certainly plausible that states have cyber weapons specifically designed to interfere with nuclear weapons systems.\u000a\u000aChatham House highlighted reports from spring 2017 that the US infiltrated parts of North Korea's nuclear test infrastructure.\u000a\u000aSeparately, Britain's GCHQ security agency has confirmed in a report to Parliament that it has a large array of "offensive cyber" capabilities, which are so powerful it would be hesitant to use them.\u000a\u000aIn comments made to the Intelligence and Security Committee, a GCHQ spokesman described the arsenal included "counter state offensive cyber capabilities which might never be used but are the sort [of] high-end deterrents."\u000a\u000aIt did not specify their particular capabilities, but the language leaves open the possibility that these could affect nuclear systems.\u000a\u000aIn conclusion, Chatham House's report called for more thorough testing of cyber resilience in nuclear systems, more failsafes, and a slowing-down of the process involved in launching attacks, which could increase the time available to assess the situation and spot compromised systems.\u000a\u000aBusiness Insider contacted the British Ministry of Defence, and the Pentagon for comment, but did not receive a response from either at time of publication.
+p2
+sS'meta_description'
+p3
+S'Wikimedia CommonsThe mushroom cloud of the Castle Bravo test device.Research by Chatham House, a famed UK think-tank, highlighted vulnerabilities in the systems'
+p4
+sS'datetime'
+p5
+V11-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.businessinsider.com/chatham-house-report-says-cyber-attacks-can-trigger-nuclear-war-2018-1
+p8
+sS'title'
+p9
+VA top think-tank has warned that cyber attacks on nuclear weapons could lead to accidental launches
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA speech made last week by Viral Acharya , the deputy governor of the Reserve Bank of India (RBI), has brought the tensions between the RBI and the government to the forefront. Stressing the importance of the central bank's autonomy, Acharya sounded a warning to the government \u2014 keep your hands off the RBI. However, the rift between the government and the RBI, especially its Governor Urjit Patel , has widened over several past months as both increasingly differed on key issues.According to a TOI report, there has been an almost complete breakdown in communication between the government and RBI. The tension has triggered fevered speculation about Patel\u2019s fate. Not only does he appear highly unlikely to get an extension beyond the three-year term that ends next September, questions have arisen over his continuance, according to the report. Patel did not respond to a message from TOI. Some people in the NDA government have gone so far as to acknowledge in private that \u201ceven Raghuram Rajan was better than this\u201d \u2014 and Patel\u2019s predecessor didn\u2019t leave on the best of terms, says the report.In 2018, the RBI and the government developed differences over at least six major issues:The spat began with the government unhappy with the inflation-focused RBI for not cutting interest rates \u2013 and even raising them. However, it spilled over into regulation, something the central bank believes is its exclusive domain. What followed was a host of issues related to regulation where both the parties asserted against each other.RBI\u2019s February 12 circular on classification of non-performing assets (NPAs) and norms of loan restructuring was the next flashpoint. The government saw it as overly harsh, and indeed it drove all but two state-run lenders into the red.Around the same time, as the Nirav Modi scam broke, the government hit out at the RBI on supervision, drawing an almost-immediate rebuttal with Patel seeking more powers to oversee public sector banks so that they are at par with their private sector peers.The government has been insisting that RBI step in to provide relief to non-banking finance companies (NBFCs), which are grappling with a cash crunch after IL&FS defaulted on repayments. The central bank has refused to play ball.In September, Nachiket Mor was removed from the RBI board more than two years before his term was to end without formally informing him. This irked the central bank brass. His removal was seen to be linked to his vocal opposition to the government's demand for a higher dividend.A separate payments regulator has been another friction point with RBI stating its position publicly on why it did not support the move. In fact, it went to the extent of releasing its dissent note on a separate regulator on its website.However, the government does not see the whole issue as jousting between both the parties. TOI reports that people in the government said the tension should not be seen through a government versus regulator prism. They argued that the onus of taking the board along rests with the governor. They also denied it was trying to encroach on RBI\u2019s turf, but added that institutional autonomy should be a means for achieving faster growth rather than an end in itself.
+p2
+sS'meta_description'
+p3
+S'The rift between government and RBI, especially Urjit Patel, has widened over several past months.'
+p4
+sS'datetime'
+p5
+V28-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/news/economy/policy/the-six-things-that-widened-the-rift-between-rbi-and-government/articleshow/66410997.cms
+p8
+sS'title'
+p9
+VThe six things that widened the rift between RBI and government
+p10
+s.

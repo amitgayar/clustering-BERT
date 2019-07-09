@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VP2P platforms have requested the RBI to allow non-bank trust companies to act as trustees for fund transfers between the participantsinvestors and borrowerson their platforms
+p2
+sS'meta_description'
+p3
+S'P2P platforms have requested the RBI to allow non-bank trust companies to act as trustees for fund transfers between the participantsinvestors and borrowerson their platforms'
+p4
+sS'datetime'
+p5
+V15-Oct-2017
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Industry/TvzAVu4WhQlb4aJPFlS45H/P2P-lenders-seek-clarity-from-RBI-on-appointment-of-trustee.html
+p8
+sS'title'
+p9
+VP2P lenders seek clarity from RBI on appointment of trustee
+p10
+s.

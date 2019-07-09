@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+VFormula One champion Lewis Hamilton repeated a long-held conspiracy theory during a visit to NASA's Johnson Space Center in Houston last week.
+p4
+sS'datetime'
+p5
+V19-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://www.foxnews.com/science/f1s-lewis-hamilton-asks-question-to-astronaut-about-moon-landing-hoax
+p8
+sS'title'
+p9
+VF1's Lewis Hamilton questions astronauts about moon landing hoax conspiracy: report
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'Plenty of people still believe the moon landings were staged by the US \ngovernment, or that the Illuminati are secretly controlling the world. But scientists'
+p4
+sS'datetime'
+p5
+V25-Mar-2017
+p6
+sS'link'
+p7
+Vhttps://www.gulf-times.com/story/539932/Proving-the-moon-landing-the-scientists-tackling-c
+p8
+sS'title'
+p9
+VProving the moon landing: the scientists tackling conspiracy theories
+p10
+s.

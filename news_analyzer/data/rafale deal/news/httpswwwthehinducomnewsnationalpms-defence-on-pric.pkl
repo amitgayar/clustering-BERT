@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VStepping up his attack on Prime Minister Narendra Modi on the Rafale fighter jet  issue, Congress president Rahul Gandhi on Wednesday cited The Hindu report to claim that Mr. Modi's argument of better pricing and faster delivery of the jets to defend the deal has been \u201cdemolished\u201d.\u000a\u000aAccording to the report, the Rafale deal was not on \u201cbetter terms\u201d than the United Progressive Alliance (UPA) era offer.\u000a\u000a\u201cThe PM defended his personal RAFALE bypass deal on 2 counts: 1. Better Price 2. Faster Delivery. Both have been demolished by the revelations in the Hindu today,\u201d he tweeted.\u000a\u000aThe government has rejected all such allegations and claims against the deal.\u000a\u000aThree senior Defence Ministry officials, who were the domain experts on the seven-member Indian Negotiating Team (INT), came to a \u201cwell-substantiated and clear conclusion\u201d that the Narendra Modi government\u2019s new Rafale deal for 36 flyaway aircraft was not on \u201cbetter terms\u201d than the offer made by Dassault Aviation during the procurement process for 126 aircraft under the UPA government, the report said.\u000a\u000aCongress\u2019 chief spokesperson Randeep Singh Surjewala said the \u201ctheft has been caught.\u201d He highlighted four points citing the report -- price of 36 Rafale jets was 55% higher than the UPA-era offer, loss incurred by not taking 25% discount for Rafale as offered by Eurofighter, Bank and sovereign guarantee waived, and no aircraft for 10 years with escalation cost to be paid.\u000a\u000aThe Congress\u2019 attack came a day after, Mr. Gandhi accused the Prime Minister of \u201ctreason\u201d and violating the Official Secrets Act by acting as Anil Ambani\u2019s \u201cmiddleman\u201d in the Rafale jet contract, citing an email to claim the businessman was aware of the deal days before India and France finalised it.\u000a\u000aThe BJP, however, rejected the charge, saying the email purportedly by an Airbus executive referred to a helicopter deal and not Rafale.\u000a\u000aAnd Reliance Defence, in a statement, also refuted Mr. Gandhi\u2019s allegation saying the \u201cproposed MoU\u201d mentioned in the email referred to its cooperation with Airbus Helicopter.
+p2
+sS'meta_description'
+p3
+S'The government has rejected all allegations and claims against the deal.'
+p4
+sS'datetime'
+p5
+V12-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/news/national/pms-defence-on-pricing-of-rafale-deal-demolished-rahul-gandhi/article26256174.ece
+p8
+sS'title'
+p9
+VPM\u2019s defence of better pricing in Rafale deal demolished: Rahul Gandhi
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMarket regulator Securities and Exchange Board of India (Sebi) has cut the time for the announcement of price band for initial public offers (IPOs) from five days to two.\u000a\u000aIn a press meet post, its board meeting in Mumbai on Thursday, Sebi chairman Ajay Tyagi also said that the market regulator has tweaked buyback norms and intends to rationalise regulations for foreign portfolio investors (FPIs) and mutual funds. ALSO READ: BSE seeks clarity from Sebi on licensing with Dubai, Deutsche exchanges "Under the new Regulations, the buy back period has been defined as the ...
+p2
+sS'meta_description'
+p3
+S'Read more about Sebi tweaks IPO norms, intends to rationalise FPI, MF regulations on Business Standard. Shareholding of foreign holding will be harmonised to 15% in Market Infrastructure Institutions'
+p4
+sS'datetime'
+p5
+V21-Jun-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/markets/sebi-tweaks-ipo-norms-intends-to-rationalise-fpi-mf-regulations-118062100678_1.html
+p8
+sS'title'
+p9
+VSebi tweaks IPO norms, intends to rationalise FPI, MF regulations
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VPrivate sector lender Tuesday said the has approved Sandeep Bakshi's appointment as Managing Director and CEO of the bank for three years.\u000a\u000aAfter resignation of Chanda Kochhar, who was facing inquiry, earlier this month, the bank's board had elevated Chief Operating Officer (COO) Bakshi as the new managing director and CEO for five years until October 3, 2023, subject to regulatory and other approvals.\u000a\u000a"We wish to inform you that vide its letter no DBR Appt. No. 3065 /08.88.001/2018-19 dated October 15, 2018 has approved the appointment of Sandeep Bakhshi as Managing Director and CEO of the Bank for a period of three years with effect from October 15, 2018," said in a BSE filing.\u000a\u000aThe private sector lender said Bakshi had joined the group in 1986.\u000a\u000aHe was appointed as the MD and CEO of ICICI Prudential Life Insurance Company on August 1, 2010 where under his leadership the company redesigned various products, re-engineered the distribution architecture and made significant improvement in productivity. He successfully led the listing of the company.\u000a\u000aFacing enquiry over the charges of nepotism and conflict of interest, ICICI Bank's former MD and CEO had quit the bank on October 4, six months before her current tenure was to end.\u000a\u000aKochhar, 57, also resigned from all subsidiaries of the bank, including ICICI Securities where she had sought reappointment as the chairperson.
+p2
+sS'meta_description'
+p3
+S"Read more about ICICI Bank gets RBI clearance to appoint Sandeep Bakhshi  as its MD and CEO on Business Standard. Facing enquiry over the charges of nepotism and conflict of interest, ICICI Bank's former MD and CEO Chanda Kochhar had quit the bank on October 4"
+p4
+sS'datetime'
+p5
+V15-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/finance/icici-bank-gets-rbi-clearance-to-appoint-sandeep-bakhshi-as-its-md-and-ceo-118101600174_1.html
+p8
+sS'title'
+p9
+VICICI Bank gets RBI clearance to appoint Sandeep Bakhshi as its MD and CEO
+p10
+s.

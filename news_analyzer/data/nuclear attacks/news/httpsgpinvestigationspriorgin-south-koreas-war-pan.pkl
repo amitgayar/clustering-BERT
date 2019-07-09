@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSeoul is renowned for its stoicism in the face of potential war. At least that\u2019s what we\u2019re often told, that the majority of people in this city of 25 million can wake up to North Korean threats about immolation in a nuclear \u201csea of fire,\u201d shrug and just go to work.\u000a\u000aEven when Pyongyang was detonating nukes last fall\u200a\u2014\u200aand US President Donald Trump spoke of bringing \u201cfire and fury\u201d to their peninsula\u200a\u2014\u200apolls suggested that roughly six in 10 South Koreans believed there was \u201cno possibility\u201d of war. (Even Americans living an entire ocean away appear more panicky over North Korean nukes than that.)\u000a\u000aBut what about those in South Korea who can\u2019t shake an impending sense of doom? For that anxious minority, there is a marketplace offering to aid in their survival should North Korea ever unsheathe its self-proclaimed \u201cnuclear sword of justice.\u201d\u000a\u000aCall it the war panic economy: a small industry selling all the stuff you might want on doomsday. Think gas masks, hazmat suits and emergency rations. Or, for the upper classes, your own personal bunker.\u000a\u000a\u201cWe have government shelters all over South Korea. But we all know they\u2019re not completely safe,\u201d says Go Wan-hyeok, a Seoul-based entrepreneur in his 50s. He is referring to the nation\u2019s 3,000-plus civil defense shelters, many of them located in train stations or under malls.\u000a\u000a\u201cThey\u2019re not as sturdy as the real bomb shelters\u200a\u2014\u200athe ones on our army bases or run by the Americans,\u201d Go says. \u201cSo I wondered: Why shouldn\u2019t civilians have access to their own top-notch bunkers?\u201d\u000a\u000aInteract: What would you do if you ran the U.S. early warning system and saw nuclear armed ballistic missiles headed in its direction?\u000a\u000aIn September, Go opened up a showroom selling customizable, nuclear radiation-proof personal bunkers. So much for stoicism; Go wanted to target the roughly 40 percent of South Koreans who do anticipate North Korean aggression.
+p2
+sS'meta_description'
+p3
+VSeoul is renowned for its stoicism in the face of potential war. At least that\u2019s what we\u2019re often told, that the majority of people in this city of 25 million can wake up to North Korean threats\u2026
+p4
+sS'datetime'
+p5
+V21-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://gpinvestigations.pri.org/in-south-koreas-war-panic-economy-sales-thrive-on-nuclear-angst-edb1dbf0731b
+p8
+sS'title'
+p9
+VIn South Korea\u2019s war panic economy, sales thrive on nuclear angst
+p10
+s.

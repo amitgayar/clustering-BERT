@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VLast month, the Securities and Exchange Board of India (Sebi) had sent a notice to ICICI Bank MD and CEO Chanda Kochhar, seeking her response on the alleged non-compliance with norms in dealings with the Videocon Group and Nupower Renewables, a company co-founded by her husband Deepak Kochhar. According to The Business Standard, the deadline to respond to the show cause notice was Thursday but ICICI Bank and Kochhar have sought more time from the market regulatory body.\u000a\u000a"Sebi issued a 12-page show-cause notice to ICICI Bank and Chanda Kochhar on May 23. The notice, however, did not have adequate documents to support the allegations. Before filing an appropriate reply, evidence of alleged contravention of securities laws needs to be examined by the recipients," sources privy to the development told the daily, adding that the bank has requested Sebi to share the documents on the basis of which the notice was served. The Sebi notice reportedly alleged violations of its code of conduct because Kochhar had not disclosed the conflict of interest in the case.\u000a\u000aThe country's second-largest private lender has been embroiled in controversies ever since investor and whistleblower Arvind Gupta alleged a 'quid pro quo' in ICICI Bank's Rs 3,250 crore plus Rs 660 crore loans to Venugopal Dhoot-owned Videocon Industries. He had alleged that it was the time when an identical 10 per cent foreign funding (Rs 325 crore and Rs 66 crore) made its way to NuPower Renewables. The bank has denied the allegations, saying the loans were part of a consortium of lenders that extended the facility to Videocon.\u000a\u000aThe report added that the regulator had initiated a preliminary enquiry into whether the bank's board was aware of the conflict of interest on April 17 and sought an explanation on lapses in disclosures of business dealings involving Deepak Kochhar. Sources claimed that Sebi had found inconsistencies in ICICI Bank's subsequent response, where it had furnished all the relevant documents and the mode of transactions involving the bank, Videocon, NuPower and Deepak Kochhar. So the regulator initiated adjudication proceedings against ICICI Bank and its chief.\u000a\u000aIn the meantime, ICICI Bank last week announced that it would initiate an independent enquiry into the allegations of 'conflict of interest'. In a regulatory filing the bank also said that the enquiry would be headed by an "independent and credible person" to examine the complaint. "The scope of the enquiry would be comprehensive and would include all relevant matters arising out of and in the course of examination of the facts and, where ever warranted, the use of forensic or email reviews and recordal of statements of relevant personnel, etc," the bank statement said. It added the probe would cover all connected matters in the course of the investigation. This development, incidentally, coincides with its embattled CEO's planned annual leave.\u000a\u000aCiting legal experts, the report added that ICICI Bank and Kochhar may now consider filing a settlement plea with Sebi to resolve the case. The shares of the bank have already dipped about 6 per cent in the last one month, and prolonged adjudication proceedings could rock the boat further.
+p2
+sS'meta_description'
+p3
+S'Last month, the Securities and Exchange Board of India (Sebi) had sent a notice to ICICI Bank MD and CEO Chanda Kochhar, seeking her response on the alleged non-compliance with norms in dealings with the Videocon Group and Nupower Renewables, a company co'
+p4
+sS'datetime'
+p5
+V08-Jun-2018
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/current/economy-politics/icici-bank-chanda-kochhar-seek-more-time-to-respond-to-sebi-show-cause-notice/story/278732.html
+p8
+sS'title'
+p9
+VICICI Bank, Chanda Kochhar seek more time to respond to Sebi's show cause notice
+p10
+s.

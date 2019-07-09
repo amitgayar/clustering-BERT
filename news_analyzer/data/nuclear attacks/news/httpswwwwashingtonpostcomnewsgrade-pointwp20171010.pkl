@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMany schools go to great lengths these days to ensure their campus communities are ready for whatever emergency might arise, such as a hurricane, a blizzard or, worse, an active shooter. The University of Hawaii took that spirit of preparedness a step further this week with an email to students and staff that began, \u201cSubject: In the event of a nuclear attack.\u201d\u000a\u000aThe email from the Aloha State\u2019s university system went to 50,000 students and 10,000 employees at 2:25 p.m. Monday Hawaii Standard Time. It made reference to growing tensions between the United States and North Korea over the isolated Communist nation\u2019s nuclear-weapons ambitions.\u000a\u000a\u201cIn light of concerns about North Korea missile tests, state and federal agencies are providing information about nuclear threats and what to do in the unlikely event of a nuclear attack and radiation emergency,\u201d the email said.\u000a\u000a\u201cFor this type of event, the ten campuses of the University of Hawaii will rely on the Hawaii Emergency Management Agency siren system and follow agency instructions on \u2018sheltering-in-place.\u2019 \u201d\u000a\u000aThe Hawaiian Islands lie roughly 4,600 miles southeast of North Korea, in the Pacific Ocean, raising the question of whether the island state could someday be a target of a North Korean missile strike.\u000a\u000aThe email drew immediate and widespread notice. It is not routine in academia for schools to broadcast \u201cwhat-if\u201d guidance on nuclear attacks. Soon after he sent it, a university communications official wished he could take it back.\u000a\u000a\u201cI take full responsibility for it,\u201d Daniel Meisenzahl, spokesman for the University of Hawaii system, said Tuesday. \u201cIt was a mistake on my part.\u201d\u000a\u000aMeisenzahl said it is routine for the university to send out precautionary emails about hurricane season and tsunami warning systems and the like. Generally, the emails provide a link for members of the community to sign up for UH Alerts, an electronic notification system.\u000a\u000aAs it happened, Meisenzahl said, university officials have been getting inquiries for the past few months about a possible North Korean nuclear threat. So they wanted to send a message that would be responsive.\u000a\u000a\u201cIf I were to do it all over again, the one thing I would have done is put \u2018unlikely\u2019 in the subject line,\u201d Meisenzahl said. He then added that he also might have put into all caps: \u201cNO REASON FOR ALARM\u201d and other language to the effect of, \u201cDon\u2019t take this the wrong way.\u201d\u000a\u000a\u201cThe subject line could use some work,\u201d he concluded.\u000a\u000aHe quipped that he\u2019d been dealing for several hours with \u201cthe fallout from a nuclear email.\u201d He would much prefer if the world took note of the university for its high-level oceanography, astronomy and other academic programs.\u000a\u000aBut there was a bright side: \u201cAt least people are clicking on it.\u201d\u000a\u000aHere\u2019s the text of the email:
+p2
+sS'meta_description'
+p3
+S'The University of Hawaii appears to take preparedness to another level.'
+p4
+sS'datetime'
+p5
+V10-Oct-2017
+p6
+sS'link'
+p7
+Vhttps://www.washingtonpost.com/news/grade-point/wp/2017/10/10/in-the-event-of-a-nuclear-attack-u-hawaiis-curious-email-to-students-and-staff/
+p8
+sS'title'
+p9
+V\u2018In the event of a nuclear attack\u2019: U-Hawaii\u2019s curious email to students and staff
+p10
+s.

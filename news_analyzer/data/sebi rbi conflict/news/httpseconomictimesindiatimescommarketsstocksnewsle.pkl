@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMumbai: The Securities and Exchange Board of India (Sebi) is examining whether the deal between Hotel Leelaventure and Brookfield violated rules on related-party transactions and disclosures gave a true and fair picture.Minority shareholders of the hotel chain operator have alleged that no valuation report or fairness opinion was given to the audit committee and the board of the company, and that there was no discussion in the audit committee whether it was a related-party transaction.Conglomerate ITC, which also operates hotels and owns a 7.92% stake in Leela Leelaventure, has challenged the Brookfield deal before the National Company Law Tribunal (NCLT), claiming \u201coppression\u201d of minority shareholder interest and \u201cmismanagement\u201d. ITC and Life Insurance Corporation, which holds a 2.36% stake, have also approached Sebi separately, complaining about the deal. A person aware of the matter said both ITC an LIC have raised similar issues.One of the complaints to Sebi said no valuation report was tabled before the audit committee and the board of the company, whose approval to the transaction had been sought, despite lenders asking whether any valuation report had been obtained and about the process that had been followed before deciding to go ahead with Brookfield.It said JM Financial Asset Reconstruction Company is a lender and a 26% equity shareholder, following a conversion of a part of loans to Hotel Leelaventure. As a financial creditor it moved the NCLT In January this year for the recovery of its loans outstanding. The minority shareholder alleged that the filing of the petition itself was akin to a related-party transaction \u2014 it was purporting to be a lender, but was also a 26% shareholder without whose consent no special resolution could be passed, said the person who has seen the complaint.PThe complaint said JM Financial ARC was playing two conflicting roles of shareholder as well as lender. It also accused the promoters of having conflicting interests \u2014 of standing to receive monies in their own pockets as well as being a substantial shareholder in Hotel Leelaventure. These, it said, were detrimental to the interest of minority shareholders."Under securities laws, Sebi can look at the final ownership of hotels and the ultimate beneficiary of licence agreements and ask for a review from the audit committee and specific disclosure on RPTs (related-party transactions), keeping in view the complaints from shareholders," said Sumit Agrawal, partner at Regstreet Law Advisors and a former official at the regulator. \u201cSebi may also examine the valuation of slump sale and its impact on non-promoter holdings. Sebi has done that in the past.\u201dThe complaint said if the deal goes through, it would make Hotel Leelaventure a shell company with only liabilities residing in it, and benefiting the promoters who would receive at least Rs 300 crore. Minority shareholders will be left with holding worthless shares with no underlying business or assets left with the company, it said, according to the person.In March this year, Leelaventure announced that Canadian alternative asset management company Brookfield had agreed to purchase its assets, comprising key hotel properties in Delhi, Bengaluru, Udaipur and Chennai, for Rs 3,950 crore.As the per deal structure, the Mumbai hotel, which has huge liabilities, would remain with Hotel Leelaventure, the complaint said.Although the transaction involves a number of arrangements with the promoters and their affiliates, the postal ballot notice was drafted to mislead that it was not a related-party transaction, it said, adding: "It is settled law that artful drafting cannot disguise the true nature of any transaction which must be ascertained by disregarding it."The promoters of Hotel Leelaventure and JM Financial ARC each being a related party are ineligible to vote as per Sebi's Listing Obligation and Disclosure Requirements regulations, the complaint said.Sebi has asked both parties to the transaction to hold off on completion of the deal till it examines complaints filed by ITC and LIC.
+p2
+sS'meta_description'
+p3
+S'The complaint said JM Financial ARC was playing two conflicting roles of a shareholder as well as a lender.'
+p4
+sS'datetime'
+p5
+V25-Apr-2019
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/markets/stocks/news/leela-brookfield-deal-under-sebi-lens-for-rpt-violations/articleshow/69036792.cms
+p8
+sS'title'
+p9
+VLeela-Brookfield deal under Sebi lens for RPT violations
+p10
+s.

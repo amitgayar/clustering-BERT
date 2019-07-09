@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNEW DELHI: A delegation of senior Congress leaders on Wednesday met the Comptroller and Auditor General of India ( CAG ) on the Rafale fighter jet deal and asked the auditor to prepare a report on alleged irregularities in it.The Congress delegation handed a memorandum to the CAG and said it expects the truth to prevail after the report on the Rafale deal is made public."We have given a detailed memorandum along with enclosures on the irregularities and acts of omission and commission by the Government in the fighter jet deal. We expect the CAG will prepare a report soon and present it before Parliament," senior Congress leader Anand Sharma told reporters after meeting the CAG.Congress chief spokesperson Randeep Surjewala added that all evidence and facts relating to the Rafale deal have been submitted to the CAG."We explained to the CAG how Hindustan Aeronautics Limited was removed from the deal to benefit a private player. We hope the CAG will give its report soon. The CAG has assured us that they are already examining all aspects of the deal."We expect that when the report on the deal comes out in public domain, the real scam will come out and the truth shall prevail," he told reporters.The Congress has stepped up heat on the government over the Rafale deal and is seeking to make it a major poll issue ahead of assembly elections to some key states later this year and the general elections in 2019.
+p2
+sS'meta_description'
+p3
+S'The Congress delegation handed a memorandum to the CAG and said it expects the truth to prevail after the report on the Rafale deal is made public.'
+p4
+sS'datetime'
+p5
+V19-Sep-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/news/defence/congress-leaders-meet-cag-on-rafale-deal-demand-early-report-on-irregularities/articleshow/65868681.cms
+p8
+sS'title'
+p9
+VCongress leaders meet CAG on Rafale deal, demand early report on 'irregularities'
+p10
+s.

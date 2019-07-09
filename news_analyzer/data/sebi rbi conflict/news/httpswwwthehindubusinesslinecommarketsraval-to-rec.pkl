@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+VWill avoid conflict of interest as she is also a member of the bourse\u2019s board
+p4
+sS'datetime'
+p5
+V30-Jul-2017
+p6
+sS'link'
+p7
+Vhttps://www.thehindubusinessline.com/markets/raval-to-recuse-self-from-sebi-panel-on-nse-consent-plea/article9794207.ece
+p8
+sS'title'
+p9
+VRaval to recuse self from SEBI panel on NSE consent plea
+p10
+s.

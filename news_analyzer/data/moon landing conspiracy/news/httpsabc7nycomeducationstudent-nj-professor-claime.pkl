@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VWAYNE, New Jersey (WABC) -- A professor at a university in New Jersey is facing scrutiny after he was reported to have made several controversial statements while teaching.Now officials at William Paterson University in Wayne are investigating professor Clyde Magarelli after a student recorded him making the comments, such as saying that the moon landing was fake and teaching Holocaust conspiracies."It started with the conspiracy that since the video of the flag on the moon was waving, it must have been photoshopped," student Benny Koval said.The student isn't talking about something she read on the internet, but she says this was taught to her in class by Magarelli.The freshman started taking video of the lectures because she says she was so appalled."We haven't landed on the moon? No. You didn't know that? No," Magarelli is heard saying in the video. "They say maybe in about 20 or 30 years they may be able to do it."One video from April shows the sociology professor teaching students the moon landing is fake."We do not have a system that can take a living species out. Mechanical systems no problem," the professor is heard saying in the video. "By the way mechanical systems can't land on the moon. They can take pictures of it."That's just the beginning. Other videos show the professor teaching students that Native Americans are not indigenous people and that the Irish were the first slaves in America and also spouted Holocaust conspiracy theories."People say 'Oh no Gestapo, they're terrorists, they engaged in torture'. No only the last part of the war," Magarelli is heard saying."I was mortified. I'm just sitting there as a Jewish student," Koval said.Koval says she eventually brought it to the attention of the department head and now school officials say they are reviewing the videos.The student also says she was told this was not the first time a student has filed a complaint against this professor."The incident in 1994, Professor Magarelli said that not 6 million Jews died in concentration camps. He said that 800,000 died," Koval said.In a statement, a university spokesperson said "We seek to model and to impart to our students the highest standards of knowledge, inquiry, preparation, academic freedom and integrity."Eyewitness News was unable to reach Magarelli for comment.----------
+p2
+sS'meta_description'
+p3
+S'A professor at a university in New Jersey is facing scrutiny after he was recorded by a student making several controversial statements while teaching.'
+p4
+sS'datetime'
+p5
+V13-Jun-2018
+p6
+sS'link'
+p7
+Vhttps://abc7ny.com/education/student-nj-professor-claimed-moon-landing-was-fake/3600077/
+p8
+sS'title'
+p9
+VNew Jersey university investigates professor recorded making controversial comments
+p10
+s.

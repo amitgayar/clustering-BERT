@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VRahul Gandhi says India's Rafale fighter jet deal with France has resulted in an advantage between 38,000 crore and 130,000crore for an Indian business house
+p2
+sS'meta_description'
+p3
+S"Rahul Gandhi says India's Rafale fighter jet deal with France has resulted in an advantage between 38,000 crore and 130,000crore for an Indian business house"
+p4
+sS'datetime'
+p5
+V16-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Politics/565mN8oLle6em9nrzy2fUI/Rafale-deal-Arun-Jaitley-dismisses-Rahul-Gandhis-allegatio.html
+p8
+sS'title'
+p9
+VRafale deal: Arun Jaitley dismisses Rahul Gandhi\u2019s allegations as falsehood
+p10
+s.

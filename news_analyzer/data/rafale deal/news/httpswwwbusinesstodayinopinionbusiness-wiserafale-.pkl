@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn the byzantine world of politics, every side resorts to half truths, lies and more lies. Spoken very often, some of them even get accepted as facts. But this one will be really tough to explain. Congress President Rahul Gandhi has been attacking Prime Minister Narendra Modi alleging corruption in the Rafale deal. On Tuesday he threw yet another barb at the PM unveiling a copy of an email purportedly referring to Anil Ambani's visit to France before the Prime Minister's visit and alleging that the references in the email are about Rafale.\u000a\u000a"Dear students & the youth of India: everyday there are new revelations about Rafale that make it clear that the PM helped his friend Anil Ambani steal Rs 30,000 crore of your money," he said on Twitter. During his press conference, Rahul said earlier there was "one axis of corruption, second axis of procedure. This is the third, and frankly a serious one, where PM Modi has compromised national security."\u000a\u000aOnly, the email 'expose' has no reference to Rafale. Nicolas Chamussy, Executive Vice President Space Systems - Airbus Defence and Space, using his official Airbus email ID nicolas.chamussy@airbus.com in a subject titled 'Ambani' writes: "For info, just had C Salomon (advisor to JY Le Drian, attended the meeting on Monday) on the phone. A.Ambani visited the ministers' office (Mallet, Salomon, Bouquot) this week (confidential and planned as you can imagine with very short notice). Told them he intends to work with AH on commercial helos and then on defence. Mentioned a MoU in preparation and the intention to sign during the PM visit. Told him that on our side we are checking the right way forward, there are other potential partners. Suggest we send him a short note about our position."\u000a\u000aAlso read: Ericsson case against RCom: Anil Ambani appears before SC over non-payment of Rs 550 crore\u000a\u000aThe Congress President picked on the line "Mentioned a MoU in preparation and the intention to sign during the PM visit" as referring to the Rafale MoU. Especially, with reference to the timing of the email (March 28, 2015, just before PM Modi's France visit between April 9-11 when he announced the intention to buy Rafale aircraft).\u000a\u000aHowever, it appears the Airbus executives were discussing Anil Ambani's intention to sign an MoU with Airbus Helicopters for the Helos range. Nicolas Chamussy, in fact, copied the mail to Airbus Helicopters CEO Guillaume Faury as well. Even more interesting is the fact that Nicolas is advising his colleagues that while Anil Ambani is readying an MoU with AH, Airbus--in fact--has "other potential patners". He then advises his Airbus executives to send a note to that effect.\u000a\u000aAs facts go: No MoU was signed on the defence deal with France during PM Modi's April, 2015 visit to France. Airbus Helicopters deal finally did not go to Anil Ambani Group. Instead, in July, 2015, Airbus signed a MoU to create a joint venture with Mahindra Defence to produce the Airbus Helicopters in India. India and France signed the MoU to buy Rafale aircraft in January, 2016 and Reliance and Dassault signed the deal in October, 2016. This is a season of obfuscation. And every side is learning from the other to do it bigger and better than the other.\u000a\u000aAlso read: Anil Ambani knew about Rafale deal in advance; PM helped his friend, says Rahul Gandhi\u000a\u000aAlso read: CAG report on Rafale deal to be tabled in Parliament today; Congress alleges 'conflict of interest'
+p2
+sS'meta_description'
+p3
+S'In the byzantine world of politics, every side resorts to half truths, lies and more lies. Spoken very often, some of them even get accepted as facts.'
+p4
+sS'datetime'
+p5
+V12-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/opinion/business-wise/rafale-email-airbus-email-how-rahul-gandhi-got-wrong-in-this-game-of-obfuscation/story/318537.html
+p8
+sS'title'
+p9
+V'Rafale' e-mail is an 'Airbus' e-mail: How Rahul Gandhi got it all wrong in this game of obfuscation
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMUMBAI: The spate of auditor resignations from companies in last few weeks and questions raised over certain transactions could lead to the securities and banking regulators scrutinising the transactions as these happened through banking channels, said two persons in the know.In most resignations, the reasons provided mainly involve intergroup transactions and bank loans raised for one purpose but used for another.The allegations are that promoters moved money from one entity to another\u2014 through banking channels\u2014 without providing documentary evidence to support these. The question is how could banks not know of these dodgy transactions or did they deliberately overlook them, asked one of the persons in the know.\u201cThe wider problem is that there have been significant transactions where recoverability is doubtful. A bank has a right to recall a loan if there are early warning signals like the auditor resignations, what are they doing about that?\u201d asked the other person close to the development.Both Reserve Bank of India RBI ) and Securities and Exchange Board of India ( SEBI ) may start a separate investigations and look into these transactions, sources said.Price Waterhouse & Co Chartered Accountants LLP, a network firm of PwC India, resigned a few days ago as an auditor of BSE-listed Eveready Industries India (EIIL) citing a few transactions relating to intercompany deposits. The resignation in EIIL came weeks after PwC resigned as auditor of Reliance Capital and Reliance Home Finance. PwC had not gone into the specifics but hinted at certain transactions involving group companies.\u201cThe biggest issue with the earlier NPA (non-performing asset) problem was that banks ignored the early warnings and did not categorise these as one. If auditor resigning after questioning a particular transaction is not an early warning, then what is?\u201d asked a banking and finance analyst requesting not to be identified.Investigations by Serious Fraud Investigation Office (SFIO), the investigation arm of the ministry of corporate affairs (MCA), revealed that the banking regulator could have done more before the debt crisis of Infrastructure Leasing and Financial Services (IL&FS).In its charge sheet filed in a Mumbai court in the IL&FS Financial Services (IFIN) case, the SFIO said that timely intervention by RBI could detected the crisis earlier. It said some of the issues were raised as late as during the 2017 quarterly Reserve Bank of India review.ET had on June 21 reported that BSR & Associates, the KPMG network firm, in a written statement to SFIO said it had written to the RBI, seeking clarity on lending within the IL&FS Group about a month after its debt crisis came to the fore.The latest regulatory action against Deloitte , EY and KPMG, has seen auditors scampering to de-risk themselves and more differences between auditors and managements will come to the fore in companies with dodgy accounting policies that fail to provide evidence and justifications for their decisions.People in the know say that auditors taking a stand have also led to conflicts with the management. In some cases like Reliance Capital, Manpasand, Vakrangee, Fortis Healthcare, IL&FS Transportation Networks Ltd (ITNL) and in situations like Jet Airways, where the auditor-management tussle went on for a month, the incoming auditors had different interpretations of key issues and conflicts were laid bare.In one of the companies where where an auditor resigned, there are also issues with a group company. According to a person close to the development, while in one case the same transaction has been questioned, in another, the transaction has been impaired or written off. Both the group companies are audited by different auditors.
+p2
+sS'meta_description'
+p3
+S'In its charge sheet filed in a Mumbai court in the IL&FS Financial Services (IFIN) case, the SFIO said that timely intervention by RBI could have detected the crisis earlier.'
+p4
+sS'datetime'
+p5
+V02-Jul-2019
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/industry/services/consultancy-/-audit/auditor-resignations-likely-to-trigger-probes-by-rbi-sebi/articleshow/70050215.cms
+p8
+sS'title'
+p9
+VAuditor resignations likely to trigger probes by RBI, Sebi
+p10
+s.

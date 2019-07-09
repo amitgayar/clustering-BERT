@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S"Addressing a press conference in UAE, Pakistan's former president said that Indian and Pakistan relations have again reached a dangerous level."
+p4
+sS'datetime'
+p5
+V24-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.news18.com/news/india/if-pakistan-attacks-with-one-nuclear-bomb-india-can-finish-us-with-20-pervez-musharraf-2047265.html
+p8
+sS'title'
+p9
+VIf Pakistan Attacks With One Nuclear Bomb, India Can Finish Us With 20, Says Pervez Musharraf
+p10
+s.

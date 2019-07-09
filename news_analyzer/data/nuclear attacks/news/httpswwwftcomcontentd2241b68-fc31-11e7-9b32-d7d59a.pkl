@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VKeep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust.
+p2
+sS'meta_description'
+p3
+S''
+p4
+sS'datetime'
+p5
+V18-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.ft.com/content/d2241b68-fc31-11e7-9b32-d7d59aace167
+p8
+sS'title'
+p9
+VSubscribe to read
+p10
+s.

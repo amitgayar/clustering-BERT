@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'Get all the Union Budget 2019 updates live here4.08 PM | Things that got dearer and cheaperA large number of items including petrol, diesel, gold, silver, cigarettes, fully-imported cars and split air'
+p4
+sS'datetime'
+p5
+V6 hours ago
+p6
+sS'link'
+p7
+Vhttps://www.thehindubusinessline.com/economy/budget/live-coverage-of-union-budget-2019/article28284367.ece
+p8
+sS'title'
+p9
+VBudget 2019 Live: Petrol, diesel, gold gets costlier; EV components to become cheaper
+p10
+s.

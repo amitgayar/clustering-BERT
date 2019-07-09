@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VObit Stanislav Petrov, one of the unsung heroes of the Cold War without whose guts and intelligence you wouldn't be reading this, has died at the age of 77, his son has confirmed.\u000a\u000aPetrov was a former Lieutenant Colonel in the Soviet Air Defence Forces and was duty commander for the USSR rocket forces on September 26, 1983. His job was to monitor the satellites watching for launches from American ICBM forces. On that day first one, then four more launches were detected.\u000a\u000a"An alarm at the command and control post went off with red lights blinking on the terminal. It was a nasty shock," Petrov told Moscow News in 2004.\u000a\u000a"Everyone jumped from their seats, looking at me. What could I do? There was an operations procedure that I had written myself. We did what we had to do. We checked the operation of all systems \u2013 on 30 levels, one after another. Reports kept coming in: All is correct."\u000a\u000aYou have to remember that, at the time, the world was in a state of paranoia that makes today's shenanigans with North Korea look like very small beer. In the US, Reagan was publicly calling the USSR the "evil empire" and Russia \u2013 a nation armed with tens of thousands of nukes and the rocket technology to deliver them \u2013 was convinced he was seriously considering nuclear war.\u000a\u000aOn the Soviet side, the communist state was so paranoid that earlier that month it had shot down a Korean passenger jet that had accidentally wandered into Soviet airspace, killing all 269 passengers and crew, including a serving US congressman. That tragedy led to Reagan opening up the military GPS system for commercial traffic.\u000a\u000aAs a result of the Korean incident, Soviet forces were on alert. Petrov was on duty at his station in a bunker outside Moscow running the Oko early warning system of geostationary satellites that had been looking out for the flash of an ICBM launch since the system went live the previous year.\u000a\u000aPetrov's job wasn't to push the metaphorical red button, but to warn Soviet high command if it might need to. If an ICBM was launched from a US ground launch site, it would take about 30 minutes to reach the motherland, and it was highly likely that Soviet commanders would trust his launch recommendation.\u000a\u000aBut Petrov knew that the Oko system was new and still had bugs to iron out. He also knew that logically the US would never launch just five missiles against the USSR and await retaliation \u2013 first strike doctrine was that you threw everything you could at the enemy in hopes of blunting the response.\u000a\u000aSo Petrov held back from letting his superiors know until he could correlate Oko's data against other sources. As a result it was found that, due to faults in the system, what Oko had been detecting were flashes of sunshine on the tops of heavy clouds.\u000a\u000aWhile initially Petrov was praised for his perspicacity, that didn't last. Before long top brass acted against him, demoting the officer for a paperwork error. He got the message and retired a year later to become a military contractor.\u000a\u000a"If I was to be decorated for that incident, someone would have had to take the rap \u2013 above all, those who had developed the ballistic missile early warning system, including our renowned academicians who had received billions and billions in funding. So I should be thankful not to have been thrown the book at for that log," he said.\u000a\u000aPetrov's story wasn't known until 1997 after a Russian general revealed the incident in his memoirs. Petrov finally got the recognition he deserved, won multiple humanitarian awards, and in 2014 a film was made about his exploits.\u000a\u000aBut Petrov himself wasn't keen on all the attention. "I'm not a hero," he said. "I was in the right place at the right time."\u000a\u000aThe right time for all of us. A 1979 US government study [PDF] into the effects of a nuclear exchange estimated that 40 to 60 per cent of the world population would have been dead within 30 days, and the casualty rate could have been 90 per cent in the decade following a war. There would have been no internet, probably no power and \u2013 as this hack was living next to a target \u2013 no one writing this. ®
+p2
+sS'meta_description'
+p3
+S''
+p4
+sS'datetime'
+p5
+V18-Sep-2017
+p6
+sS'link'
+p7
+Vhttps://www.theregister.co.uk/2017/09/18/stanislav_petrov_obit/
+p8
+sS'title'
+p9
+VRIP Stanislav Petrov: Russian colonel who saved world from all-out nuclear war
+p10
+s.

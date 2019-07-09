@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VEric O'Neill is an attorney, security consultant and public speaker. Formerly he was with the FBI and helped to capture the spy Robert Hanssen. He currently runs the Georgetown Group, an investigative and security consultancy in Washington, and is the national security strategist for Carbon Black, a security company in Waltham, Massachusetts. The views expressed here are solely those of the author.\u000a\u000aAccording to US intelligence sources, the most recent test detonated a 140-kiloton nuclear device , which the North Koreans claim was a hydrogen bomb. (That's 10 times as powerful as the atomic bomb the United States dropped on Hiroshima in World War II.) The UN secretary-general has continuously condemned North Korea's ballistic missile launches as serious violations of UN Security Council resolutions.\u000a\u000aMeanwhile, President Donald Trump has promised new sanctions against North Korea that will allow the United States to target businesses, individuals and financial institutions that aid North Korea's regime, and the Chinese central bank has begun to implement strict UN sanctions against Pyongyang.\u000a\u000aThe missile tests are posturing by Kim Jong Un and a clear attempt to show dominance to the United States and its allies. They are likely part of a strategy that follows Iran's playbook: Get close to developing a nuclear weapon and the rest of the world will make a deal.\u000a\u000aBut they are also a major distraction from a much bigger issue. The true risk when it comes to North Korea is its cyberattack capabilities.
+p2
+sS'meta_description'
+p3
+S"The country has invested heavily in cyberattack operations to target Western countries and South Korea, Eric O'Neill  says."
+p4
+sS'datetime'
+p5
+V23-Sep-2017
+p6
+sS'link'
+p7
+Vhttps://www.cnn.com/2017/09/23/opinions/north-korea-cyberattack-oneill-opinion/index.html
+p8
+sS'title'
+p9
+VNuclear war isn't North Korea's only threat
+p10
+s.

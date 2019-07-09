@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA preliminary examination by regulator Sebi has favoured adjudication proceedings against ICICI Bank and its CEO Chanda Kochhar for alleged violation of listing disclosure norms regarding 'conflict of interest' in business dealings of her husband with Videocon group.ICICI Bank may face a penalty of up to Rs 25 crore under the relevant Sebi regulations for such lapses, while the fine for Kochhar may go up to Rs 1 crore, besides other penal actions, a senior official said.The adjudication process will start formally soon after taking into account the replies to the show cause notices issued by Sebi to ICICI Bank, Kochhar and others in this matter, the official added.According to an ICICI Bank spokesperson, the bank and its MD received show cause notice seeking a response as to why an inquiry should not be held against them under the Securities Contracts (Regulation) Rules."Documents relied upon under the notice have been received today. Appropriate response to the show cause notice after seeking legal advice would be submitted within the timeline provided," the spokesperson said.Besides Sebi probe, ICICI Bank's board has also constituted an "independent enquiry" and Kochhar has gone on leave till completion of this enquiry.According to a regulatory filing by the bank last week, Kochhar will continue as MD and CEO, though the group's life insurance arm head Sandeep Bakshi has been appointed as a whole time director and COO. Bakshi will report to Kochhar and will handle the day-to-day operations in her absence.The bank has maintained that its board has full faith in Kochhar.According to regulatory sources, Sebi's preliminary examination findings are based on enquiries made by the regulator in the matter involving Kocchar, ICICI Bank and Videocon Group.As per the report, Kochhar has admitted that her husband Deepak Kocchar has had many dealings with Videocon Group over the last several years.Besides, it has also been admitted by her that Deepak Kocchar and Venugopal Dhoot were co-founders and promoters of NuPower.Further, in June 2009, shares of Dhoot and Pacific Capital (owned by Deepak Kocchar's father and sister-in-law) in NuPower were sold to Supreme Energy. Also, Dhoot continues to hold interest in NuPower through debentures of Rs 64 crore, subscribed through Supreme Energy, the regulator found.Association of Deepak Kocchar and Videocon has also been confirmed in case of Credential Finance.On the basis of the preliminary report, Sebi has concluded that there was conflict of interest in the transactions of ICICI Bank with Videocon.By not disclosing the details of her husband's dealings with Videocon, Kochhar has not complied with the provisions of listing agreement. Further, the bank also failed in ensuring that its directors comply with listing rules, the official said.Therefore, adjudication proceedings have been recommended against ICICI Bank and Kochhar, he added.Last week, Sebi Chairman Ajay Tyagi had said the regulator was yet to receive a reply from ICICI Bank on the allegations involving Kochhar.The cases under scanner include the bank's Rs 3,250 crore loan to Videocon Group in 2012 and the involvement of Kochhar's family members in restructuring of the loan.Kochhar and her family members are facing allegations of quid pro quo and conflict of interest with respect to a loan extended to certain entities.
+p2
+sS'meta_description'
+p3
+S'Sebi has concluded that there was conflict of interest in transactions of ICICI with Videocon.'
+p4
+sS'datetime'
+p5
+V25-Jun-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/markets/stocks/news/sebi-favours-adjudication-proceedings-against-icici-bank-chanda-kochhar/articleshow/64734978.cms
+p8
+sS'title'
+p9
+VSebi favours adjudication proceedings against ICICI Bank, Chanda Kochhar
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VBOSTON (CBS) \u2014 Kyrie Irving\u2019s expertise is basketball, but you may have heard that he\u2019s dabbled in the land of conspiracy theories as well.\u000a\u000aSo of course the Celtics guard, who once said he believed the earth was flat, would be asked about Steph Curry\u2019s recent proclamation that questions whether the lunar landing was real.\u000a\u000aIrving\u2019s flat-earth theory was a big deal in 2017, and though he apologized to science teachers everywhere earlier this season, the theory still follows him today. Curry has also come out and said that he was just joking, but his conspiracy theory will certainly follow the two-time NBA champ for some time.\u000a\u000aAsked about Curry\u2019s comments following Boston\u2019s practice on Tuesday, Irving rolled his eyes. He did not hold back on his thoughts of how people treat each other in today\u2019s society.\u000a\u000a\u201cWe live in America, where people say [stuff] all the time about one another, and it\u2019s mean. It\u2019s bad. Kids see it, like everyone gets a piece of it and then it\u2019s the next story, the next thing that\u2019s coming out of someone\u2019s mouth,\u201d Irving told reporters at The Auerbach Center in Brighton. \u201cThere\u2019s world hunger going on. There\u2019s political things going on. There\u2019s so many higher things in the totem pole of society that matter to human beings, but hey, Steph Curry says he doesn\u2019t believe in the moon [landing], it\u2019s the thing all over. It\u2019s on CNN and they say we\u2019re just jocks, we\u2019re just athletes. But it\u2019s on your channel. We\u2019re [thinkers], but you don\u2019t want us to be that.\u000a\u000a\u201cPeople are blatantly disrespectful now, like to people\u2019s faces,\u201d added Irving. \u201cIt\u2019s ridiculous to treat another human being like that. People do it behind screens, people do it on their phones every single day. It\u2019s something to learn as a human being, how to treat and respect other people.\u201d\u000a\u000aIrving said he is happy to answer questions that don\u2019t pertain to basketball, but he\u2019d like it a lot more if everyone would just be a little bit nicer to each other.\u000a\u000a\u201cI\u2019m fully supportive of loving human beings. That\u2019s it. It\u2019s pretty simple,\u201d he said.
+p2
+sS'meta_description'
+p3
+S"Kyrie Irving's expertise is basketball, but you may have heard that he's dabbled in the land of conspiracy theories as well."
+p4
+sS'datetime'
+p5
+V18-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://boston.cbslocal.com/2018/12/18/kyrie-irving-steph-curry-moon-landing-conspiracy-celtics-warriors-nba/
+p8
+sS'title'
+p9
+VKyrie Irving Irked By Reaction To Steph Curry's Moon Landing Conspiracy
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn a setback for the government, the Supreme Court Wednesday rejected the preliminary objections raised by the Centre on the admissibility of certain documents sought to be relied on by petitioners seeking review in the Rafale matter. The said documents were published by The Hindu newspaper and later carried by news agency ANI.\u000a\u000aThe Centre has contended that the documents were \u201csensitive to national security\u201d and their \u201cunauthorised photocopying and leakage\u201d constituted \u201cpenal offences under the Indian Penal Code including theft\u201d.\u000a\u000aA bench of Chief Justice of India Ranjan Gogoi and Justices S K Kaul and K M Joseph was unanimous that the review petitions should be adjudicated on its own merit in the light of the three documents submitted by the petitioners seeking review of its December 14, 2018 judgment. It also said that \u2018as far as the question of hearing of review plea on Rafale judgement is concerned, it will give a detailed hearing later on\u2019.\u000a\u000aThe bench had on March 14 reserved its decision after hearing the Centre and the petitioners \u2014 former Union Ministers Yashwant Sinha, Arun Shourie and advocate Prashanth Bhushan \u2014 on the question of admissibility of these documents.\u000a\u000aReacting to the order, Arun Shourie, who filed the review plea said, \u201cWe are delighted it is a unanimous verdict dismissing Central government\u2019s peculiar argument on the admissibility of documents. Centre\u2019s argument meant no wrong can be done in the defence deal,\u201d reported news agency PTI.\u000a\u000aAttorney General K K Venugopal, appearing for the Centre, had stated that the documents were unauthorisedly photocopied and leaked and that they also enjoyed protection under the Official Secrets Act, 1923. The government also sought their removal from the record of the case, saying they were of sensitive nature and their going public could jeopardise national security.\u000a\u000aThe bench had on December 14, 2018, dismissed petitions seeking a court-monitored probe into the purchase of the jets from France finding \u201cno occasion to doubt the (decision making) process\u201d leading to the award of the contract and said there was no material to show that the government had favoured anyone commercially.\u000a\u000aShourie, Sinha and Bhushan sought a review of the judgment, saying the court had relied on \u201cpatently incorrect\u201d claims made by the government in its note submitted in a sealed cover to the bench, which heard the original petition. They claimed that more information had come to light subsequently and not considering them would result in grave miscarriage of justice.
+p2
+sS'meta_description'
+p3
+VThe said documents were published by The Hindu newspaper and later carried by news agency ANI. The Centre has contended that the documents were \u201csensitive to national security\u201d and their \u201cunauthorised photocopying and leakage\u201d constituted \u201cpenal offences under the Indian Penal Code including theft\u201d.
+p4
+sS'datetime'
+p5
+V09-Apr-2019
+p6
+sS'link'
+p7
+Vhttps://indianexpress.com/article/india/rafale-deal-sc-dismisses-centres-objections-on-stolen-documents-5668164/
+p8
+sS'title'
+p9
+VRafale deal: SC accepts \u2018stolen\u2019 papers as evidence, rejects Centre\u2019s objection
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThis morning, China\u2019s space programme made history, after landing a spacecraft on the dark side of the moon for the first time.\u000a\u000aThe Chang\u2019e-4 probe will explore the lunar surface in the hopes of putting China in good stead to set up a lunar base in the 2030s.\u000a\u000aBut conspiracy theorists believe China has another agenda - finding secret alien lunar bases.\u000a\u000aThese theories are based on the fact that the dark side of the moon, which faces away from Earth, has never been explored before, and can\u2019t be seen by normal telescopes.\u000a\u000aThis has sparked many conspiracy theories about what could be hiding there.\u000a\u000aWeird and wonderful theories range from a secret alien lunar base to NASA bombing sites.\u000a\u000aConspiracy website, ancient-codes.com, said: \u201cNASA\u2019s LCROSS mission had a more militaristic objective rather than scientific.\u000a\u000a"Despite the fact that it strictly prohibited, NASA released a \u2018Centaur\u2019 kinetic weapon which ultimately impacted the moon.\u000a\u000a"Many believe that the 2-ton kinetic weapon that was detonated on the Moon\u2019s South Pole was aimed at an Alien Base located there.\u201d\u000a\u000aThe Chang\u2019e-4 probe has already started sending back pictures of the dark side of the moon, and unsurprisingly, there\u2019s no signs of alien bases or NASA bombings just yet.
+p2
+sS'meta_description'
+p3
+S'Conspiracy theories are based on the fact that the dark side of the moon has never been explored before'
+p4
+sS'datetime'
+p5
+V03-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.mirror.co.uk/science/chinas-moon-mission-reveal-secret-13806615
+p8
+sS'title'
+p9
+VChina's moon mission will reveal secret alien bases, conspiracy theorists claim
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSebi rules require that the listed companies voluntarily separate the two posts to avoid any conflict of interest
+p2
+sS'meta_description'
+p3
+S'Sebi rules require that the listed companies voluntarily separate the two posts to avoid any conflict of interest'
+p4
+sS'datetime'
+p5
+V19-Sep-2017
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Companies/R4qe8jYdauHGuMrNXUG56K/PSU-listed-firms-may-be-first-to-separate-chairman-MD-posts.html
+p8
+sS'title'
+p9
+VPSU listed firms may be first to separate chairman, MD posts
+p10
+s.

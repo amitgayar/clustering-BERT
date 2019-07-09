@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VUnder the 2015 deal, Iran shipped roughly 97 percent of its nuclear fuel stockpile out of the country, and experts do not believe it has enough on hand to produce a weapon. Ever since the United States withdrew from the agreement, Iran has sought to walk a fine line between abandoning the deal and continuing to sell its oil to foreign buyers to buoy its struggling economy.\u000a\u000aBut last month, the Trump administration announced it would no longer suspend economic penalties against eight nations that were continuing to buy Iranian oil, including China, Japan and India. And in an interview in New York 10 days ago, Iran\u2019s foreign minister, Mohammed Javad Zarif, said he was \u201cunder pressure every day\u201d to abandon the deal, as Mr. Trump did.\u000a\u000aBy themselves, an acceleration of work on high-speed centrifuges and limits on international inspections would not necessarily take Iran closer to producing a weapon.\u000a\u000aBut Fars on Monday quoted Ali Akbar Salehi, the M.I.T.-educated head of Iran\u2019s Atomic Energy Organization and a key negotiator in the 2015 deal, as saying Tehran could disregard the limit \u201cwhenever we wish, and would do the enrichment at any volume and level.\u201d\u000a\u000aThe sanctions on Iran\u2019s oil exports were escalated two weeks after the country\u2019s Islamic Revolutionary Guards Corps was placed on the State Department\u2019s list of foreign terrorist organizations \u2014 the first time that the designation was given to an arm of another nation\u2019s government.\u000a\u000aAmerican intelligence and Defense Department officials had opposed the terror designation, concerned that Iran would similarly target or attack American troops and intelligence operatives in the region. Last week, President Hassan Rouhani of Iran declared all American forces in the Middle East as terrorists and labeled the United States government a state sponsor of terrorism.\u000a\u000aThree senior American officials said new intelligence that surfaced over the weekend raised concerns about the Revolutionary Guards and their activities in Iraq, where they have helped train Shiite Arab militias. The officials would not provide specific details about the threat posed by Iranian forces or Iraqi Shiite militias with ties to Tehran\u2019s military.
+p2
+sS'meta_description'
+p3
+S'The mutual threats escalated action from both the U.S., which warned against attacks, and Iran, which said it would not fully comply with a deal President Trump already abandoned.'
+p4
+sS'datetime'
+p5
+V06-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2019/05/06/world/middleeast/us-iran-iraq-troops-.html
+p8
+sS'title'
+p9
+VNew Tensions With Iran Threaten Nuclear Deal and, White House Says, U.S. Troops
+p10
+s.

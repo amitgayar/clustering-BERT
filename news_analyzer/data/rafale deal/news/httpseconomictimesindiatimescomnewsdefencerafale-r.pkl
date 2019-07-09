@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNEW DELHI: A fresh political storm seems to be brewing over the 36 Rafale jet deal after French media portal Mediapart claimed that it was in possession of a document by Dassault Aviation which said that an \u201calliance\u201d with the Anil Ambani-led Reliance Defence as a \u201ccounterpart\u201d was \u201cimperative and mandatory\u201d to clinch the fighter jet deal with India.The French media portal in its report said the Dassault Aviation\u2019s document was based on what the aircraft manufacturer\u2019s deputy CEO Loïk Segalen said during a presentation of the Dassault Reliance Aerospace joint venture to staff representatives in Nagpur in May 2017.\u201cIt was imperative and mandatory for Dassault Aviation to accept this counterpart in order to get the contract,\u201d the report quoted the purported document as saying.The Modi government has consistently denied any government role in the offsets part of the Rafale contract, with top officials saying on record that a selection of Indian partners was an independent choice of French companies.Translations of the report, written in French, are being monitored by the Indian government, even as Congress MP Shashi Tharoor and advocate Prashant Bhushan pitched the media report against the government on social media sites.Defence minister Nirmala Sitharaman left for France on Wednesday night on a three-day visit which comes amid a massive controversy over the procurement of 36 Rafale jets from Dassault Aviation.Officials sources said Sitharaman will hold wide-ranging talks with her French counterpart Florence Parly on ways to deepen strategic cooperation between the two countries and the two sides will also deliberate on major regional and global issues of mutual interests.
+p2
+sS'meta_description'
+p3
+VDassault claims \u201calliance\u201d with Reliance Defence was \u201cimperative and mandatory\u201d to clinch the deal.
+p4
+sS'datetime'
+p5
+V10-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/news/defence/rafale-row-alliance-with-reliance-defence-was-mandatory-to-clinch-the-deal-says-dassault-deputy-ceo/articleshow/66157632.cms
+p8
+sS'title'
+p9
+VTo get Rafale contract, Dassault had to choose Reliance Defence: French Media
+p10
+s.

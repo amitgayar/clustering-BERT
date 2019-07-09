@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Supreme Court on Wednesday directed the National Democratic Alliance (NDA) government to provide within 10 days pricing details of the 36 Rafale fighter jets bought from France.\u000a\u000aThe top court said it would \u201clike to be apprised of the details with regard to pricing and cost particularly the advantages thereof, if any, which again will be submitted to the court in a sealed cover\u201d.\u000a\u000aThe government\u2019s top law officer KK Venugopal, however, told the court that it would not be possible for the government to provide pricing details to the court since this information had not been provided to Parliament either.\u000a\u000aThe Supreme Court, which is hearing petitions questioning the deal, told Attorney General KK Venugopal to make this point in their affidavit.\u000a\u000aAt the last hearing, the court had ordered the government to provide details of the decision-making process. But the three-judge bench led by Chief Justice Ranjan Gogoi had then made it clear that it was only seeking this information \u201cfor the purpose of satisfying ourselves\u201d. The bench had then, also underlined that the centre\u2019s report did not have to cover pricing or suitability of the equipment for the Indian Air Force.\u000a\u000aThe Supreme Court\u2019s order on\u2009Wednesday, goes one step further.\u000a\u000aThe three-judge bench comprising Chief Justice Ranjan Gogoi, justice UU Lalit and justice K M Joseph said they had received the report about the process and wanted the government to share them with the petitioners too to the extent possible.\u000a\u000a\u201cWe are of the view that the information conveyed upon in the report, which can be legitimately be brought into the public domain be made available to the lead counsel of the petitioners in all cases. Along with the said facts, further details that could legitimately come in the public domain with respect to the induction of the Indian offset partner, if any, be also furnished to the lead counsel of the parties,\u201d the bench ordered.\u000a\u000aIt said that if there were any details that \u201cmay be considered to be strategic and confidential\u201d may at this stage be placed before the court and may not be furnished to the petitioners.\u000a\u000aThe NDA\u2019s decision to enter an $8.7 billion government-to-government deal with France to buy the 36 Rafale warplanes made by Dassault was announced in April 2015, with an agreement signed a little over a year later. This replaced the previous United Progressive Alliance regime\u2019s decision to buy 126 Rafale aircraft, 108 of which were to be made in India by the state-owned Hindustan Aeronautics Ltd.\u000a\u000aThe petitions have been filed by lawyers Vineet Dhanda and ML Sharma. Aam Aadmi Party\u2019s Rajya Sabha MP Sanjay Singh has also moved the top court against the Rafale deal; Sanjay Singh has sought a court order for the formation of a special team to probe the matter under the Supreme Court\u2019s oversight.
+p2
+sS'meta_description'
+p3
+S'The Supreme Court has given the government 10 days to provide Rafale deal price details'
+p4
+sS'datetime'
+p5
+V30-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.hindustantimes.com/india-news/give-rafale-deal-price-details-in-10-days-sc-to-government/story-YhMpYQF9wHC0Jh4IltizjP.html
+p8
+sS'title'
+p9
+VGive Rafale deal price details in 10 days: SC to government
+p10
+s.

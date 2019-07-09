@@ -1,0 +1,492 @@
+(lp0
+(Vhttps://www.snopes.com/fact-check/chinese-lunar-moon-landings/
+p1
+S'Did a Chinese <em>Lunar</em> Rover Find No Evidence of American <em>Moon</em> ...'
+p2
+V06-Jan-2019
+p3
+tp4
+a(Vhttps://hoax-alert.leadstories.com/3470051-fake-news-54.html
+p5
+S'<em>Fake</em> News: Chinese <em>Lunar</em> Rover Finds No Evidence of American ...'
+p6
+V05-Jan-2019
+p7
+tp8
+a(Vhttps://www.gq.com/story/ryan-gosling-damien-chazelle-first-man-november-2018-cover
+p9
+S'Ryan Gosling on First Man, <em>Moon Landing Conspiracies</em>, and Mild ...'
+p10
+V09-Oct-2018
+p11
+tp12
+a(Vhttps://parade.com/894033/dillondodson/moon-landing-conspiracy-theories/
+p13
+S'5 of the Craziest <em>Moon Landing Conspiracy</em> Theories & Why People ...'
+p14
+V21-Jun-2019
+p15
+tp16
+a(Vhttps://www.fastcompany.com/90372040/the-charming-conspiracy-that-put-the-first-american-flag-on-the-moon
+p17
+S'The charming <em>conspiracy</em> that put the first American flag on the <em>Moon</em>'
+p18
+V04-Jul-2019
+p19
+tp20
+a(Vhttps://www.mirror.co.uk/science/chinese-landing-dark-side-moon-13855050
+p21
+S"Chinese <em>landing</em> on 'dark side of the <em>moon</em>' was <em>FAKE</em>, <em>conspiracy</em> ..."
+p22
+V14-Jan-2019
+p23
+tp24
+a(Vhttps://www.thesun.co.uk/tech/8193161/chalk-lines-china-moon-mission-photos-faked-conspiracy-theorists/
+p25
+S"China <em>moon</em> photos 'prove <em>landing</em> was FAKED' as crackpots spot ..."
+p26
+V14-Jan-2019
+p27
+tp28
+a(Vhttps://www.express.co.uk/news/science/1137472/NASA-Moon-landing-why-no-stars-space-photos-Apollo-11-NASA-news
+p29
+S"NASA <em>Moon landing</em>: Why are there no stars in NASA's photos of ..."
+p30
+V07-Jun-2019
+p31
+tp32
+a(Vhttps://www.ibtimes.sg/moon-landing-hoax-why-stars-are-missing-nasa-photos-taken-lunar-surface-31180
+p33
+S'<em>Moon landing hoax</em>: Why stars are missing in NASA photos taken from ...'
+p34
+V07-Jun-2019
+p35
+tp36
+a(Vhttps://www.express.co.uk/news/science/1084648/nasa-lie-moon-landing-aerospace-expert-hoax-claims
+p37
+S'Did NASA lie about the <em>Moon landing</em>? Aerospace expert addresses ...'
+p38
+V08-Feb-2019
+p39
+tp40
+a(Vhttps://www.express.co.uk/news/science/1140849/NASA-Moon-landing-flag-Apollo-11-why-flag-wave-flap-NASA-hoax-conspiracy
+p41
+S'NASA <em>Moon landing</em>: Why did the Apollo 11 flag wave and flap in space?'
+p42
+V15-Jun-2019
+p43
+tp44
+a(Vhttps://bgr.com/2018/04/19/moon-landing-hoax-photo-fraud/
+p45
+S'This is the photo that <em>conspiracy</em> theorists say proves the <em>Moon</em> ...'
+p46
+V19-Apr-2018
+p47
+tp48
+a(Vhttps://www.techtimes.com/articles/225580/20180419/this-nasa-photo-proves-that-the-moon-landing-was-fake-conspiracy-theorist-says.htm
+p49
+S'This NASA Photo Proves That The <em>Moon Landing</em> Was <em>Fake</em> ...'
+p50
+V19-Apr-2018
+p51
+tp52
+a(Vhttps://www.thesun.co.uk/news/8434082/did-the-moon-landing-really-happen-what-conspiracy-theories-are-there-and-who-was-neil-armstrong/
+p53
+S'Did the <em>moon landing</em> REALLY happen, what <em>conspiracy</em> theories are ...'
+p54
+V15-Feb-2019
+p55
+tp56
+a(Vhttps://www.express.co.uk/news/science/1087693/Nasa-news-moon-landing-when-is-nasa-going-back-moon-Jim-Bridenstine
+p57
+S"NASA <em>Moon landing</em>: NASA chief pledges 'ASAP return' to the Moon ..."
+p58
+V15-Feb-2019
+p59
+tp60
+a(Vhttps://www.dailystar.co.uk/news/weird-news/779658/nasa-moon-landing-space-apollo-apollo-11-fake-conspiracy-1969
+p61
+S"NASA astronauts were 'KILLED to keep faked <em>moon landings</em> covered ..."
+p62
+V25-May-2019
+p63
+tp64
+a(Vhttps://www.ibtimes.co.in/nasa-usaf-killed-astronauts-coverup-fake-moon-landings-says-deceased-space-walkers-family-798367
+p65
+S'NASA and USAF killed astronauts to cover up <em>fake moon landings</em> ...'
+p66
+V26-May-2019
+p67
+tp68
+a(Vhttps://www.stripes.com/news/us/50-years-after-apollo-conspiracy-theories-about-a-moon-hoax-persist-1.582946
+p69
+S"50 years after Apollo, <em>conspiracy</em> theories about a '<em>moon hoax</em>' persist"
+p70
+V24-May-2019
+p71
+tp72
+a(Vhttps://www.rt.com/russia/434419-russians-nasa-lunar-fake/
+p73
+S"Most Russians believe NASA's <em>lunar</em> missions were <em>fake</em>"
+p74
+V27-Jul-2018
+p75
+tp76
+a(Vhttps://sputniknews.com/science/201807271066736384-russians-polled-on-moon-landings/
+p77
+S"Poll: Over Half of Russians Don't Believe America <em>Landed</em> on the <em>Moon</em>"
+p78
+V27-Jul-2018
+p79
+tp80
+a(Vhttps://www.fortmcmurraytoday.com/entertainment/local-arts/stratford-artists-exhibition-focuses-on-1969-lunar-landing/wcm/eb98ced2-715d-4c08-83f5-8e8ca9a0ff4e
+p81
+S"Stratford artist's exhibition focuses on 1969 <em>lunar landing</em>"
+p82
+V10 hours ago
+p83
+tp84
+a(Vhttps://www.express.co.uk/news/weird/1095607/NASA-moon-landing-hoax-stanley-kubrick-film-apollo-11-nasa-moon-landing-fake
+p85
+S"NASA <em>Moon landing HOAX</em>? 'Stanley Kubrick filmed Apollo 11' and ..."
+p86
+V05-Mar-2019
+p87
+tp88
+a(Vhttps://nationalpost.com/entertainment/the-tenacious-idiotic-appeal-of-moon-landing-conspiracy-theories
+p89
+S'The tenacious, idiotic appeal of <em>moon landing conspiracy</em> theories'
+p90
+V11-Oct-2018
+p91
+tp92
+a(Vhttps://ftw.usatoday.com/2018/12/kyrie-irving-stephen-curry-moon-landing-reaction-conspiracy-comments-earth-flat-nba
+p93
+S"Kyrie Irving finally weighed in on Steph Curry's <em>moon</em>-<em>landing conspiracy</em>"
+p94
+V18-Dec-2018
+p95
+tp96
+a(Vhttps://dailycaller.com/2018/12/18/steph-curry-moon/
+p97
+S"WHITTINGTON: How NASA turned Steph Curry's <em>Moon Landing</em> ..."
+p98
+V18-Dec-2018
+p99
+tp100
+a(Vhttps://boston.cbslocal.com/2018/12/18/kyrie-irving-steph-curry-moon-landing-conspiracy-celtics-warriors-nba/
+p101
+S"Kyrie Irving Irked By Reaction To Steph Curry's <em>Moon Landing</em> ..."
+p102
+V18-Dec-2018
+p103
+tp104
+a(Vhttps://www.si.com/nba/2018/12/18/celtics-kyrie-irving-reaction-warriors-steph-curry-moon-landing-comments
+p105
+S"Kyrie Irving Weighs in on Stephen Curry's <em>Moon Landing</em> Comments ..."
+p106
+V18-Dec-2018
+p107
+tp108
+a(Vhttps://www.express.co.uk/news/weird/832865/Russians-first-on-moon-lunar-landings-hoax-NASA
+p109
+S'Neil Armstrong NOT first man on <em>moon</em> as astronaut beaten by ...'
+p110
+V25-Jul-2017
+p111
+tp112
+a(Vhttps://metro.co.uk/2019/01/15/nasa-squashes-claims-china-faked-landing-dark-side-moon-8347482/
+p113
+S'Nasa squashes claims that China faked <em>landing</em> on the dark side of the ...'
+p114
+V15-Jan-2019
+p115
+tp116
+a(Vhttps://www.express.co.uk/news/weird/1103829/nasa-news-moon-landing-conspiracy-neil-armstrong-apollo-11-spt
+p117
+S"NASA <em>moon landing</em> SHOCK claim: 'First pictures were splendidly ..."
+p118
+V22-Mar-2019
+p119
+tp120
+a(Vhttps://www.express.co.uk/news/weird/790227/NASA-Apollo-11-moon-landing-hoax-fake
+p121
+S"'<em>MOON LANDING HOAX</em>' Film claims to show how NASA 'faked Apollo ..."
+p122
+V10-Apr-2017
+p123
+tp124
+a(Vhttps://www.express.co.uk/news/weird/1076599/NASA-fake-moon-landing-Stanley-Kubrick-apollo-11-conspiracy-Jay-Weidner
+p125
+S"Did NASA <em>fake</em> the <em>Moon landing</em>? Filmmaker 'proves' Stanley Kubrick ..."
+p126
+V25-Jan-2019
+p127
+tp128
+a(Vhttps://advocator.ca/science/fake-moon-landing-conspiracy-reignited-as-a-filmmaker-accuses-nasa-of-faking-the-apollo-11-landing/8204
+p129
+S'Fake <em>Moon Landing Conspiracy</em> Reignited As A Filmmaker Accuses ...'
+p130
+V23-Jan-2019
+p131
+tp132
+a(Vhttps://www.mirror.co.uk/science/chinas-moon-mission-reveal-secret-13806615
+p133
+S"China's <em>moon</em> mission will reveal secret ALIEN bases, <em>conspiracy</em> ..."
+p134
+V03-Jan-2019
+p135
+tp136
+a(Vhttps://www.express.co.uk/news/science/1050496/moon-landing-conspiracy-nasa-russia-us-roscosmos
+p137
+S"<em>Moon landing</em> SHOCK: Russia to 'VERIFY' whether NASA REALLY ..."
+p138
+V26-Nov-2018
+p139
+tp140
+a(Vhttps://www.thevintagenews.com/2019/05/03/apollo-project/
+p141
+S'NASA Got Sick of The <em>Conspiracy</em> Thing so Released Over 10000 ...'
+p142
+V04-May-2019
+p143
+tp144
+a(Vhttps://canadianhomesteading.ca/science/conspiracy-theorists-claiming-the-moon-landings-were-fake-might-become-more-numerous-soon/9711
+p145
+S'<em>Conspiracy</em> Theorists Claiming The <em>Moon Landings</em> Were <em>Fake</em> Might ...'
+p146
+V30-Apr-2019
+p147
+tp148
+a(Vhttps://greatlakesledger.com/2019/06/19/nasa-moon-landing-conspiracy-why-did-the-apollo-11-flag-flap-in-space/
+p149
+S'NASA <em>Moon Landing Conspiracy</em>: Why Did The Apollo 11 Flag Flap In ...'
+p150
+V19-Jun-2019
+p151
+tp152
+a(Vhttps://www.idaily.com/article/why-people-believe-moon-landing-hoax-conspiracies
+p153
+S"Some People Still Don't Believe the <em>Moon Landing</em> Was Real -- and ..."
+p154
+V20-Jun-2019
+p155
+tp156
+a(Vhttps://www.outerplaces.com/science/item/18290-apollo-moon-landing-fake
+p157
+S'<em>Conspiracy</em> Theorists Say This Rare Apollo 16 Photo Proves the <em>Moon</em> ...'
+p158
+V17-Apr-2018
+p159
+tp160
+a(Vhttps://www.indy100.com/article/conspiracy-theory-buildings-on-the-moon-apollo-landing-8310641
+p161
+S"<em>Conspiracy</em> theorists have spotted something 'wrong' in this footage of ..."
+p162
+V18-Apr-2018
+p163
+tp164
+a(Vhttps://www.indy100.com/article/neil-armstrong-who-first-man-walked-the-moon-conspiracy-boots-space-8568966
+p165
+S'<em>Conspiracy</em> theorists point out something controversial about Neil ...'
+p166
+V06-Oct-2018
+p167
+tp168
+a(Vhttps://www.express.co.uk/news/weird/1042770/NASA-moon-landing-fake-hoax-Neil-Armstrong-footprint-boot-conspiracy-theory
+p169
+S'Did NASA <em>fake</em> the <em>Moon landing</em>? SHOCK claim footprint does not ...'
+p170
+V08-Nov-2018
+p171
+tp172
+a(Vhttps://www.foxnews.com/us/new-jersey-professor-recorded-saying-moon-landing-was-fake-you-didnt-know-that
+p173
+S"New Jersey professor recorded saying <em>moon landing</em> was <em>fake</em>: 'You ..."
+p174
+V14-Jun-2018
+p175
+tp176
+a(Vhttps://abc7ny.com/education/student-nj-professor-claimed-moon-landing-was-fake/3600077/
+p177
+S'New Jersey university investigates professor recorded making ...'
+p178
+V13-Jun-2018
+p179
+tp180
+a(Vhttps://www.thesun.co.uk/tech/6912943/moon-landings-faked-conspiracy-theories-apollo-hoax/
+p181
+S'Were the <em>moon landings</em> faked? <em>Conspiracy</em> theories about the Apollo ...'
+p182
+V01-Aug-2018
+p183
+tp184
+a(Vhttps://www.express.co.uk/news/weird/926357/MOON-HOAX-PROVED-where-NASA-filmed-fake-lunar-landings-on-Earth
+p185
+S"<em>MOON HOAX</em> PROVED? Is this where NASA filmed '<em>fake lunar</em> ..."
+p186
+V02-Mar-2018
+p187
+tp188
+a(Vhttps://www.thesun.co.uk/tech/8104094/china-change-4-alien-conspiracy/
+p189
+S"China's Chang'e-4 <em>moon</em> mission 'will find ALIEN BASES and craters ..."
+p190
+V02-Jan-2019
+p191
+tp192
+a(Vhttps://www.express.co.uk/news/weird/1096115/Nasa-moon-landing-apollo-11-lost-two-minutes-ancient-aliens-ufo
+p193
+S'NASA <em>Moon landing</em> SHOCK: What did Apollo 11 discover during lost ...'
+p194
+V05-Mar-2019
+p195
+tp196
+a(Vhttps://www.popularmechanics.com/space/moon-mars/news/a28814/moon-landing-faking/
+p197
+S'Why Faking the <em>Moon Landing</em> Was Impossible'
+p198
+V27-Oct-2017
+p199
+tp200
+a(Vhttps://www.express.co.uk/news/weird/889459/Moon-hoax-truth-NASA-fake-lunar-landings-YouTube
+p201
+S"CONCLUSIVE PROOF? Video finally 'nails the TRUTH' about whether ..."
+p202
+V07-Dec-2017
+p203
+tp204
+a(Vhttps://bgr.com/2019/01/23/moon-landing-conspiracy-new-theory/
+p205
+S"There's a new <em>fake Moon landing</em> theory, and it's dumber than you ..."
+p206
+V23-Jan-2019
+p207
+tp208
+a(Vhttps://www.thesun.co.uk/tvandshowbiz/6913907/this-morning-moon-landing-hoax-viewers-slam/
+p209
+S"This Morning viewers slam 'idiot' who claims the <em>moon landing</em> was a ..."
+p210
+V01-Aug-2018
+p211
+tp212
+a(Vhttps://www.digitalspy.com/tv/reality-tv/a862911/this-morning-moon-landing-conspiracy-theorist/
+p213
+S'This Morning viewers slam <em>moon landing conspiracy</em> theorist: "Best ...'
+p214
+V01-Aug-2018
+p215
+tp216
+a(Vhttps://www.foxnews.com/science/f1s-lewis-hamilton-asks-question-to-astronaut-about-moon-landing-hoax
+p217
+S"F1's Lewis Hamilton questions astronauts about <em>moon landing hoax</em> ..."
+p218
+V19-Mar-2019
+p219
+tp220
+a(Vhttps://www.dailystar.co.uk/news/latest-news/766337/lewis-hamilton-f1-nasa-moon-landing-hoax-mercedes-driver-faked-conspiracy-theory
+p221
+S"F1 champ Lewis Hamilton asks astronaut about NASA '<em>moon landing</em> ..."
+p222
+V19-Mar-2019
+p223
+tp224
+a(Vhttps://www.newsweek.com/moon-apollo-15-nasa-973775
+p225
+S'Apollo <em>Moon Landing</em> Mystery Solved By Discovery Of Long Lost ...'
+p226
+V12-Jun-2018
+p227
+tp228
+a(Vhttps://www.dailystar.co.uk/news/latest-news/634675/moon-landing-faked-1969-hoax-nasa-van-allen-belt
+p229
+S"<em>Moon landing HOAX</em>? Bombshell claims 'NASA admitted 1969 mission ..."
+p230
+V03-Aug-2017
+p231
+tp232
+a(Vhttps://www.gulf-times.com/story/539932/Proving-the-moon-landing-the-scientists-tackling-c
+p233
+S'Proving the <em>moon landing</em>: the scientists tackling <em>conspiracy</em> theories'
+p234
+V25-Mar-2017
+p235
+tp236
+a(Vhttps://www.express.co.uk/news/science/1113413/nasa-moon-landing-shock-apollo-11-flag-neil-armstrong-buzz-aldrin-spt
+p237
+S'NASA <em>moon landing</em> SHOCK: Why space agency admitted flags have ...'
+p238
+V12-Apr-2019
+p239
+tp240
+a(Vhttps://newrepublic.com/article/154133/democratic-rot-origins-american-conspiracism
+p241
+S'Democratic Rot and the Origins of American Conspiracism'
+p242
+V22-Jun-2019
+p243
+tp244
+a(Vhttps://historynewsnetwork.org/article/172320
+p245
+S'The <em>Moon Landings</em> Have a Nazi Problem'
+p246
+V25-Jun-2019
+p247
+tp248
+a(Vhttps://www.telegraph.co.uk/science/2019/06/29/buzz-aldrin-stephen-hawking-persuaded-go-back-moon-mars/
+p249
+S'Buzz Aldrin: Stephen Hawking persuaded me to go back to the <em>Moon</em> ...'
+p250
+V29-Jun-2019
+p251
+tp252
+a(Vhttps://parade.com/896691/samuelmurrian/the-best-movies-of-2019/
+p253
+S'The 15 Best Movies of 2019 (So Far) to Add to Your Must-Watch List ...'
+p254
+V02-Jul-2019
+p255
+tp256
+a(Vhttps://www.rt.com/news/463013-hiv-aids-denialists-krasovsky-irkutsk/
+p257
+S"'You don't have AIDS': RT documentary takes on Russia's top HIV ..."
+p258
+V29-Jun-2019
+p259
+tp260
+a(Vhttps://www.houstonchronicle.com/opinion/outlook/article/Everything-out-there-in-space-wants-to-kill-14070393.php
+p261
+S"'Everything out there in space wants to kill you' [Opinion]"
+p262
+V04-Jul-2019
+p263
+tp264
+a(Vhttps://unhingedyankees.com/2019/06/30/new-york-yankees-boston-red-sox-london-series-juiced-balls-mlb/
+p265
+S'<em>Conspiracy</em> Theory: Juiced Balls Behind Yankees, Red Sox Offensive ...'
+p266
+V30-Jun-2019
+p267
+tp268
+a(Vhttps://www.express.co.uk/news/weird/927509/alien-invasion-nasa-ufo-911-cigar-shaped-asteroid-extraterrestrial
+p269
+S"SHOCK CLAIM: US to 'stage ALIEN INVASION to gain world power'"
+p270
+V05-Mar-2018
+p271
+tp272
+a(Vhttps://galpost.com/a-resident-of-nevada-43-years-ago-i-bought-a-written-off-videotape-why-is-she-now-worth-a-fortune/25448/
+p273
+S'A resident of Nevada, 43 years ago I bought a written off videotape ...'
+p274
+V19 hours ago
+p275
+tp276
+a(Vhttps://www.insidephilanthropy.com/home/2019/6/26/supporting-science-teachers-and-students-a-look-inside-the-amgen-foundation
+p277
+S'Supporting Science Teachers and Students: A Look Inside the Amgen ...'
+p278
+V26-Jun-2019
+p279
+tp280
+a.

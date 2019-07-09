@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMOSCOW \u2014 President Vladimir V. Putin of Russia threatened the West with a new generation of nuclear weapons Thursday, including what he described as an \u201cinvincible\u201d intercontinental cruise missile and a nuclear torpedo that could outsmart all American defenses.\u000a\u000aThe presentation by Mr. Putin, which included animation videos depicting multiple warheads aimed at Florida, where President Trump often stays at his Mar-a-Lago resort, sharply escalated the military invective in the tense relationship between the United States and Russia, which has led to predictions of a costly new nuclear arms race.\u000a\u000aWhile Mr. Putin may have been bluffing about these weapons, as some experts suggested, he cleverly focused on a vulnerability of American-designed defenses: They are based on the assumption that enemy nuclear missiles fly high and can be destroyed well before they reach their targets.\u000a\u000aThe new class of Russian weapons, he said, travel low, stealthily, far and fast \u2014 too fast for defenders to react.
+p2
+sS'meta_description'
+p3
+VRussians had wondered before Mr. Putin\u2019s speech what he planned for his last term, and they got an answer: Russia will be a superpower again.
+p4
+sS'datetime'
+p5
+V01-Mar-2018
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2018/03/01/world/europe/russia-putin-speech.html
+p8
+sS'title'
+p9
+VPutin\u2019s \u2018Invincible\u2019 Missile Is Aimed at U.S. Vulnerabilities
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VHours after Congress president Rahul Gandhi targeted Defence Minister Nirmala Sitharaman asking her to resign if she can't prove that the government has signed HAL for various deals, she hit back with a list of the contracts and asking him to apologise.\u000a\u000aThe war of words between Sitharaman and Gandhi over defence deals and the contentious Rafale jet deal continued to worsen on Sunday when the latter cited a news report claiming Hindustan Aeronautics Limited (HAL) is yet to get any of the orders worth Rs 1 lakh crore.\u000a\u000aSitharaman on Sunday evening released some papers to show that HAL has signed contracts of Rs 26,570 crore and was set to get more orders of Rs 73,000 crore in future. This comes after she was accused of lying by Rahul Gandhi.\u000a\u000aGandhi had tweeted, "When you tell one lie, you need to keep spinning out more lies, to cover up the first one. In her eagerness to defend the PM's Rafale lie, the RM lied to Parliament. Tomorrow, RM must place before Parliament documents showing 1 Lakh crore of Govt orders to HAL. Or resign."\u000a\u000aReacting to his charges, Sitharaman's office tweeted details of the orders given to the HAL and the tenders in pipeline for the aerospace company.\u000a\u000a"It is a shame that the President of @INCindia is spreading lies and misleading the country. HaL has signed contracts worth Rs 26,570 crore (between 2014-2018) (tenure of the NDA government) and contracts worth rs 73,000 crore are in the pipeline. Will @rahulgandhi apologise to the country from the floor of the house and resign," her office tweeted.\u000a\u000aSitharaman also provided details of the contracts given to the HAL by defence forces and Coast Guard including ALH Dhruv choppers, AL-31 FP and RD-33 engines for fighter aircraft and Dornier aircraft.\u000a\u000aThe Rs 73,000 crore projects shown in the pipeline include the Rs 49,000 crore Light Combat Aircraft project for supplying 83 LCA Mark1A aircraft to the Air Force, 15 Light Combat Helicopters for the Air Force and the Army and the joint production of the Kamov 226T choppers for replacing the fleet of Cheetah and Chetak choppers.
+p2
+sS'meta_description'
+p3
+S"Reacting to Rahul Gandhi's charges, Nirmala Sitharaman's office tweeted details of the orders given to the HAL and the tenders in pipeline for the aerospace company."
+p4
+sS'datetime'
+p5
+V06-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.indiatoday.in/india/story/nirmala-sitharaman-rahul-gandhi-rafale-hal-contracts-1424702-2019-01-06
+p8
+sS'title'
+p9
+VRafale deal: Rahul Gandhi, raksha mantri go all guns blazing over HAL row
+p10
+s.

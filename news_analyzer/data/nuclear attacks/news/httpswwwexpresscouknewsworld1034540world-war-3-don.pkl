@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMr Trump said the decision to withdraw Washington from the pact that restricts nuclear attacks was the result of Russia\u2019s violation of the terms.\u000a\u000aSpeaking after a rally in Nevada yesterday, Trump, said: \u201cWe're the ones that have stayed in the agreement and we've honoured the agreement, but Russia has not unfortunately honoured the agreement, so we\u2019re going to terminate the agreement and we\u2019re going to pull out.\u201d\u000a\u000aThe Intermediate-Range Nuclear Forces Treaty, signed by former president Ronald Reagan and Soviet leader Mikhail Gorbachev in 1987, was an arms-control agreement between the two countries.\u000a\u000aThe treaty eliminated the use of short and intermediate-range nuclear and conventional missiles but excluded sea-launched missiles.
+p2
+sS'meta_description'
+p3
+S'US PRESIDENT Donald Trump is to exit the Cold War nuclear treaty sparking a warning from Russia that Moscow could launch a military retaliation.'
+p4
+sS'datetime'
+p5
+V21-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/world/1034540/world-war-3-donald-trump-nuclear-deal-russia-military
+p8
+sS'title'
+p9
+VWorld War 3: Trump pulls US out of Cold War nuclear pact - Russia warns of military STRIKE
+p10
+s.

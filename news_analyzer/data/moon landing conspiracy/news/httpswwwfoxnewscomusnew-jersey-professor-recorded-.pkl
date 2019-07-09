@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'A sociology professor in New Jersey who has been teaching for over 50 years is under fire for alleged anti-Semitic comments about Jews and the Holocaust and for claiming the moon landing was faked.'
+p4
+sS'datetime'
+p5
+V14-Jun-2018
+p6
+sS'link'
+p7
+Vhttps://www.foxnews.com/us/new-jersey-professor-recorded-saying-moon-landing-was-fake-you-didnt-know-that
+p8
+sS'title'
+p9
+VNew Jersey professor recorded saying moon landing was fake: \u2018You didn\u2019t know that?\u2019
+p10
+s.

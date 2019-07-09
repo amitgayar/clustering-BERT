@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VGerman Defence Minister Ursula von der Leyen said now the US has pulled out of the (Intermediate-Range Nuclear Forces) INF Treaty, China\u2019s medium-range missiles are more than capable of reaching Russia, putting the country at risk. She told Focus Moscow might have an interest in including China in \u201csome sort of disarmament treaty\u201d when asked if the INF could be salvaged without input from the US. She added: \u201cBecause just as the Russian rockets are a threat to Europe, so are the Chinese for Russia.\u201d A flurry of other German publications shared concerns over the collapse of the treaty, such as Frankfurter Allgemeine, which spoke to Christian Democratic Union (CDU) member Roderich Kiesewetter and Rolf Mutzenich from the Social Democratic Party of Germany (SPD).\u000a\u000aThe pair were quoted as saying Russia\u2019s new 9M729 missiles should be moved to the \u201cother side of the Ural Mountains so that they cannot reach Europe\u201d. Heiko Maas, Germany\u2019s Foreign Minister, said in December the country would strongly oppose new medium-range missiles in Europe should the INF treaty crumble. Mr Maas added: \u201cEurope must under no circumstances become a platform for an arms race debate.\u000a\u000a\u201cThe deployment of new medium-range missiles would encounter broad opposition in Germany.\u201d The news come after President Trump pulled out of the treaty last month having condemned Russia for violating its terms. Washington accused Moscow of testing 9M729 missiles at ranges banned under the INF, which Russia denied.\u000a\u000aUS Secretary of State Mike Pompeo demanded Moscow destroy all their ground-based 9M729 missiles and their launchers in order for the treaty to be saved. But the following day, Russian President Vladimir Putin announced Moscow was also pulling out of the treaty in retaliation for the US scrapping it. He added Russia would remain open to negotiations.\u000a\u000aChina opposed Mr Trump scrapping the deal, with Chinese Foreign Ministry spokesman Gen Shuang calling on the US and Russia to engage in talks before adding Beijing was against adding more signatories to the treaty.
+p2
+sS'meta_description'
+p3
+VMISSILES from China are a threat to Russia, Germany\u2019s defence minister has warned as he said Beijing\u2019s weapons are capable of reaching Moscow.
+p4
+sS'datetime'
+p5
+V04-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/world/1095596/nuclear-war-china-missiles-russia-vladimir-putin-US-donald-trump-INF-treaty-europe
+p8
+sS'title'
+p9
+VNuclear war WARNING: China's missiles could THREATEN Russia, warns Germany
+p10
+s.

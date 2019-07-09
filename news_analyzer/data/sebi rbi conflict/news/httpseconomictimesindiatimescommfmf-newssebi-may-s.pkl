@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSecurities and Exchange Board of India (Sebi) on Thursday proposed to amend its norms for investment advisers. As per the new norm, investment advisors will have to segregate their advisory and product distribution businesses even as their registration rules would be relaxed.\u000a\u000aThe regulator also proposed to bring the ranking of mutual fund schemes under its regulatory ambit.\u000a\u000aIt has also proposed to relax the educational qualification for employees of registered investment advisers. The networth requirement and registration fee also would be reduced.\u000a\u000aThe regulator has sought comments from the public on the proposals till July 14 and final regulation will be put in place after taking into views of all the stakeholders.\u000a\u000a"To prevent the conflict of interest that exists between 'advising' of investment products and 'selling' of investment products by the same entity/person, there should be clear segregation between these two activities.\u000a\u000a"...entities engaged solely in the business of 'advising' on investment products shall not be permitted to sell any products to prevent conflict of interest," Sebi has proposed.\u000a\u000aIn addition, banks, NBFCs and various corporate bodies would have to set up a separate subsidiary for investment advisory services. Under current rules, such services can be provided through a separate division or department.\u000a\u000aSebi has proposed a time period of six months for such existing entities offering investment advisory services through separate department or division to set up a separate subsidiary.\u000a\u000a"Entities/persons who are providing advice solely on non-securities shall not come under the purview of the Sebi (Investment Advisers) Regulations," Sebi has proposed.\u000a\u000aSebi has said that employees of registered investment advisers should be graduate in any discipline. The net worth requirement for body corporates should be reduced to Rs 10 lakh from the current requirement of Rs 25 lakhs.\u000a\u000aThe application fees for corporate applicants, for initial 5 years, should be reduced to Rs 10,000 from the current Rs 25,000 and the registration fees should be halved to Rs 1 lakh.\u000a\u000aWith regard to mutual funds, Sebi has proposed that distributors should not give any investment advice. They can only explain the features of MF schemes and can distribute suitable schemes to the investors describing material facts of the scheme and the associated risk factors of the scheme.\u000a\u000a"Mutual fund distributors who want to get registered as investment advisers shall be allowed to receive trail commission for the products already distributed, subject to disclosure to the clients," Sebi said.\u000a\u000aThe regulator has suggested that agencies providing ranking of mutual fund schemes need to be register under research analysts regulations.\u000a\u000aHowever, agencies providing ranking of mutual fund schemes on public media such as newspaper, and website need not obtain registration from it. Although they need to comply with the requirements like disclosure of financial interest, holdings and methodology.\u000a\u000aA mutual fund ranking entity should rank performance of MFs for general information of the common investors. It should rank the performance of MF schemes through an objective methodology that is based on quantitative performance measurements and applied consistently to all mutual funds.\u000a\u000aBesides, it should disclose the criteria, name of category, number of funds in category and the data used for ranking different schemes.
+p2
+sS'meta_description'
+p3
+S'Sebi has sought comments from the public till July 14 and final regulation will be put in place after taking into views of all the stakeholders.'
+p4
+sS'datetime'
+p5
+V22-Jun-2017
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/mf/mf-news/sebi-may-segregate-investment-advisory-distribution-services/articleshow/59281936.cms
+p8
+sS'title'
+p9
+VSebi may segregate investment advisory, distribution services
+p10
+s.

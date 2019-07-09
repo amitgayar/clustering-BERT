@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMUMBAI: Reserve Bank of India RBI ) has pinpointed the conflict of interest in the functioning of credit rating agencies and is concerned over the role of the littleknown club of \u2018rating advisers\u2019, which are unregulated entities acting as brokers between companies and rating agencies.In a recent meeting, RBI governor Shaktikanta Das categorically questioned the dual practice of rating agencies to rate a bond as well as decide its valuation which is used by mutual funds (MFs) to calculate the net asset value, or NAV, of a MF scheme.Das said the two businesses pose a conflict as he asked senior agency officials present in the meeting about the share of \u2018non-rating activities\u2019 in earnings of rating companies. It is perceived that the motivation to downgrade a security would be lower for an agency which carries out both businesses.\u201cThe valuation of a bond is also function of liquidity in the market. If a price or value of a bond goes down, it could impact the rating. But the agency doing both may be reluctant to downgrade a rating or keep it under watch because it could make its rating transition and default statistics look bad,\u201d a banker familiar with the discussions told ET.\u201cWhile bond valuation is not a big business for rating agencies, it gives them a certain clout and builds their relationship with funds. More so, because rating MF schemes is another business for the rating agencies,\u201d said the person.Das clearly spelt out that credit rating is a different kind of business in which revenue should not be the primary objective.\u201cRBI officials made a note on the activities of rating advisers but did not express their views on the subject. These advisers, which have come up in the past five to six years, are small firms, often floated by former employees of rating agencies. They receive commission from issuing companies which are their clients as well as from rating companies. Since they approach the agencies with the authorisation from client companies, agencies cannot shut them out. But there are suspicions that they misrepresent data and indulge in other sharp practices,\u201d said an industry official.Such adviser-intermediaries are mostly hired by mid-sized corporates (and occasionally by large ones) which shop around for the best rating.Rating agencies have come under the glare after IL&FS bonds were downgraded from \u2018triple-A\u2019 (or, highest rating) to \u2018D\u2019 (or, default grade) in just 40 days. About 25,000 companies are rated in India, of which half are estimated to be below \u2018investment grade\u2019.The rotation of the rating agencies every five years \u2013 the kind of regulation that applies to auditors \u2013 is another suggestion that has cropped up in making the agencies more effective and independent. \u201cThe suggestion is that Sebi or RBI should play a role in the reappointment of an agency by a corporate. However, some of the agencies argue that this would disturb the long-term data on a bond issuer\u2019s rating movements,\u201d said a source.In recent years, agencies have become fiercely competitive. In the absence of any regulation on the fees they charge, there is a wide variation. Some of the agencies have even deviated from the indicative fee laid down by RBI for rating bank loans. The rating industry, it may be said, has grown with RBI stating that unrated loans would have to be assigned higher capital.
+p2
+sS'meta_description'
+p3
+VRating agencies have come under the glare after IL&FS bonds were downgraded from \u2018triple-A (or, highest rating) to \u2018D (or, default grade) in just 40 days.
+p4
+sS'datetime'
+p5
+V17-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/industry/banking/finance/banking/reserve-bank-of-india-raises-concern-over-role-of-rating-advisers/articleshow/68457009.cms
+p8
+sS'title'
+p9
+VReserve Bank of India raises concern over role of \u2018rating advisers\u2019
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VPricewaterhouseCoopers banned for 2 years by SEBI in Satyam scam\u000a\u000aNine-years after the Satyam Computer Services Ltd (SCSL) promoter Ramalinga Raju confessed to a massive fraud, its high profile auditor has got a slap on the wrist by the regulator. Market regulator Securities and Exchange Board of India (SEBI) has barred Price Waterhouse & Co (PwC) for two years from issuing any certificate of audit of listed companies. SEBI has also asked PwC, its partners S Gopalakrishnan and Srinivas Talluri to pay a fine of Rs13.09 crore along with an interest of 12% from 7 January 2007 for fudging account books and reports of SCSL.\u000a\u000aIn a 108-page order G Mahalingam, Whole Time Member of SEBI said, "The investigation found that certain directors and employees of SCSL had connived and collaborated in the overstatement, fabrication, falsification and misrepresentation in the books of account and financial statements of SCSL. The published books of account of SCSL contained false and inflated current account bank balances, fixed deposit balances, fictitious interest income revenue from sales and debtors\u2019 figures and for several years. The investigation also noted that the statutory auditors of SCSL had connived with the directors and employees of SCSL in falsifying the financial statements of SCSL."\u000a\u000aThe market regulator has also directed all listed companies and intermediaries not to engage with any audit firm in PwC network for obtaining any certificate for compliance of statutory obligations, which SEBI is competent to administer and enforce, under various laws for next two years.\u000a\u000aThe auditors' report, balance sheets and profit and loss accounts of SCSL were signed by S Gopalakrishnan, Chartered Accountant between April 2000 to March 2007. He was a partner in PwC and Lovelock and Lewes. The auditors\u2019 report, balance sheets and profit and loss account of SCSL between April 2007 to September 2008 were signed by CA Srinivas Talluri on behalf of PwC.\u000a\u000aThe SEBI order says PwC firms have benefited from the relationship from SCSL, by having collectively received a fee of Rs23.31 crore during 2000-2008. Out of this amount, Rs13.09 crore was paid towards PwC, Bangalore for the audit of SCSL, as submitted by the audit firm. \u201cGiven that this remuneration was the identifiable monetary gain made by PwC in its association with the audit of SCSL, it is clear that this wrongful gain is liable to be disgorged. Though the legal portions of that gain or costs such as taxes paid are required to be reduced, the noticees have not provided details of such costs or expenses in their replies. Consequently the entire gain made from PwC's relationship with SCSL shall be treated as wrongful gain liable to be disgorged,\u201d it added.\u000a\u000aBoth Gopalakrishnan and Talluri are also banned from issuing any audit certificated to any listed entity for next three years.
+p2
+sS'meta_description'
+p3
+S'SEBI has also asked PwC, its partners S Gopalakrishnan and Srinivas Talluri to pay a fine of Rs13.09 crore along with an interest of 12% from 7 January 2007 for fudging account books and reports of SCSL'
+p4
+sS'datetime'
+p5
+V10-Jan-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneylife.in/article/pricewaterhousecoopers-banned-for-2-years-by-sebi-in-satyam-scam/52739.html
+p8
+sS'title'
+p9
+VPricewaterhouseCoopers banned for 2 years by SEBI in Satyam scam
+p10
+s.

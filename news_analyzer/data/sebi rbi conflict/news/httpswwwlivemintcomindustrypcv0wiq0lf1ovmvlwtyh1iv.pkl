@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIndian regulators and investigative agencies are mulling seeking help from their overseas counterparts as part of their own probes into alleged lapses involving ICICI Bank and CEO Chanda Kochhar
+p2
+sS'meta_description'
+p3
+S'Indian regulators and investigative agencies are mulling seeking help from their overseas counterparts as part of their own probes into alleged lapses involving ICICI Bank and CEO Chanda Kochhar'
+p4
+sS'datetime'
+p5
+V10-Jun-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Industry/PCV0wIQ0LF1OvmvLwtYH1I/Videocon-loan-case-ICICI-Bank-Chanda-Kochhar-under-scanner.html
+p8
+sS'title'
+p9
+VICICI Bank, Chanda Kochhar under US SEC scanner
+p10
+s.

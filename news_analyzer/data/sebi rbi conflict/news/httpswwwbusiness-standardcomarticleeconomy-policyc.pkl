@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VBefore the government decided to withdraw the contentious Financial Resolution and Deposit Insurance (FRDI) Bill, 2017, various regulators and institutions had objected to it. These included the Reserve Bank of India (RBI), which criticised various provisions that might have transferred some of its powers to the proposed Resolution Corporation.\u000a\u000aStrong opposition came from the RBI governor Urjit Patel, who pressed for a need to create a clear distinction between the role of the regulator and the proposed Corporation. Patel wanted \u201cproper harmonisation of roles and ...
+p2
+sS'meta_description'
+p3
+S'Read more about Conflicting views between govt and RBI led to withdraw of FRDI Bill on Business Standard. RBI criticised various provisions that might have transferred some of its powers to the proposed Resolution Corporation'
+p4
+sS'datetime'
+p5
+V01-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/economy-policy/conflicting-views-between-govt-and-rbi-led-to-withdraw-of-frdi-bill-118080200031_1.html
+p8
+sS'title'
+p9
+VConflicting views between govt and RBI led to withdraw of FRDI Bill
+p10
+s.

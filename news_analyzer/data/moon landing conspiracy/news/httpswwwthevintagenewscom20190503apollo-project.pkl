@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIt was during the presidency of Dwight D. Eisenhower that the United States\u2019 space program was launched. The program was given the codename \u201cApollo\u201d and was put under the control of the National Aeronautics and Space Administration (NASA).\u000a\u000aIt was only after Eisenhower had been succeeded by John F. Kennedy that the American public really learned the significance and purpose of this program: to put a man on the Moon.\u000a\u000aAt the time, the United States and the Soviet Union were embroiled in the infamous \u201cspace race\u201d, with both nations eager to outdo the other and pursue new lengths of human exploration, beyond the very atmosphere of our own home planet.\u000a\u000aThe Apollo program subsequently launched no less than 12 missions between 1969 and 1972, with half of them making it all the way to the Moon.\u000a\u000aThe first of the launches, Apollo 1, didn\u2019t actually launch at all. It suffered a malfunction and wasn\u2019t able to leave the Earth\u2019s surface. Apollos 7 through 10, the next four launches, were orbiting missions to test various components and take photographs of the lunar surface elements.\u000a\u000aBut it was Apollo 11 that would really go down in history. This mission \u2014 manned by Neil Armstrong, Michael Collins and Buzz Aldrin \u2014 not only made it to the Moon, but actually made a successful landing and allowed both Armstrong and Aldrin to step out onto it\u2019s surface.\u000a\u000aThe pair spent a couple of hours on their moonwalk, taking photos, recording their experiences, collecting rock samples, and planting the American flag, thereby putting a definitive end to the space race and sealing the United States\u2019 status as the victor.\u000a\u000aCrew member, Michael Collins is often overlooked due to the fact that he stayed behind on the Command module, but he was integral to the mission\u2019s success.\u000a\u000aAs previously stated, several other missions made it to the Moon, but none could really generate the same excitement as Apollo 11. That incredible video of Neil Armstrong taking his first steps on the surface of the Moon has been seen and shared by millions, with many photos also being taken and released to the public in the wake of the mission.\u000a\u000aIn spite of all that evidence, however, as well as the proof from other successful space missions, there are many people who argue to this day that the whole thing was fake. In fact, the moon landings are one of the most popular subjects of debate for conspiracy theorists all over the world, with people suggesting various alternate explanations for the footage and photos.\u000a\u000aSome have argued that the whole thing was a hoax, drawn up by the American government to try and outdo Russia and earn popularity points with the public. Some have found alleged errors or inconsistencies in the footage to support their claims, with others suggesting that the whole thing was shot on a Hollywood film set, funded by Walt Disney and directed by Stanley Kubrick.\u000a\u000aThese conspiracy theories started many years ago and are still a hot topic in the modern era, especially with the recent emergence of the Flat Earth Movement and growing support for the idea that NASA has been lying to the public for decades. For a long time, NASA simply ignored the conspiracy theorists, but in 2016, the organization decided to make a big statement.\u000a\u000aNASA released over 10,000 photos of the first moon landing, uploading almost every single image ever taken on the Apollo missions on their public Flickr account for all to see and analyze.\u000a\u000aRead another story from us: Apollo 11 Tapes Made Public \u2013 NASA Releases 19,000 Hours of Historic Audio\u000a\u000aIn doing so, NASA effectively shut down a lot of the conspiracy theorists\u2019 ideas; faking one film or a couple of photos might seem plausible enough, but faking thousands of shots from different angles, times, dates, and more would be a truly impossible undertaking.
+p2
+sS'meta_description'
+p3
+VIt was during the presidency of Dwight D. Eisenhower that the United States\u2019 space program was launched. The program was given the codename \u201cApollo\u201d and
+p4
+sS'datetime'
+p5
+V04-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.thevintagenews.com/2019/05/03/apollo-project/
+p8
+sS'title'
+p9
+VNASA Got Sick of The Conspiracy Thing so Released Over 10,000 Photos From the Apollo Moon Mission
+p10
+s.

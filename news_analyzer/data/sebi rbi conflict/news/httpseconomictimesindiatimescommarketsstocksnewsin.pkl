@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VRecent events in large companies like ICICI Bank and Infosys has brought the issues of corporate governance to the fore. The primary role of the board is to keep the company honest. While the board needs to support the management in strategy and execution, they also need to provide the required oversight in protecting the value system of the company. In both the instances the board was overawed by charismatic CEOs thereby failing to protect the interests of its stakeholders.In both these cases, the board rushed to give clean chit to the management at the first instance. It is only later when the issues became larger and larger that proper investigations were done and action followed. It is to be noted that in ICICI\u2019s case, the conflict of interest issues was flagged to the board by an investor in 2016.In the public markets, the PE (priceearnings ratio) of a company is a function of both earnings and the comfort factor. Investors want honesty and transparency. They understand that businesses go through ups and downs. What they don\u2019t like are surprises and any ethical issues which will destroy the \u201ctrust factor\u201d.The current ICICI board has done the right thing by conducting an investigation by a former Supreme Court judge and based on its recommendation sacked the CEO and clawed back the entitlements paid to her by the bank.In the case of Infosys, the earlier board dismissed lack of approvals by the board and its committees on the severance payment to its ex-CFO as bookkeeping issues and failed to clearly justify the reason for such high payment. Now, Infosys has paid a consent fee of ?34 lakh to Sebi, which found the severance payment was not in accordance with the remuneration policy of the company. Sebi\u2019s investigation also found that the severance payments were made without proper approvals from the Audit Committee and Nominations and Remuneration Committee of the company.Infosys was the gold standard for corporate governance in this country. Its founder NR Narayana Murthy always put value before profits. His statement that clear conscience is the softest pillow is legendary. Despite criticism from different quarters, he questioned the board and its management as his silence would have mortally wounded the core value system of the company. People close to him clearly understood the pain he went through when Infosys was accused of mis-governance. The recent settlement clearly vindicates his position. The least the company can do is to apologise to Murthy for the communication it issued to the stock exchanges that blamed him of interference. Also, there should be accountability for such lapses by the board. Trust in the management of a company and its board is essential to build a vibrant capital market . Building long-term businesses needs a vibrant board which takes its fiduciary duty seriously and acts in the best interests of all its stakeholders.(The author is a former board member of Infosys)
+p2
+sS'meta_description'
+p3
+S'Trust in the management of a company and its board is essential to build a vibrant capital market.'
+p4
+sS'datetime'
+p5
+V04-Mar-2019
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/markets/stocks/news/infosys-settlement-with-sebi-vindicates-murthys-position/articleshow/68263690.cms
+p8
+sS'title'
+p9
+VInfosys\u2019 settlement with Sebi vindicates Murthy\u2019s position
+p10
+s.

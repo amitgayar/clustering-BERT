@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VCongress president Rahul Gandhi on Friday made an explosive claim in Parliament claiming that French President Emmanuel Macron had told him there was no 'secrecy' clause in the Rafale deal preventing India from revealing details of the cost per aircraft.\u000a\u000aHere is what the French president had to say when he was interviewed by India Today Group Editorial Director Raj Chengappa: "In India and in France, when the deal is very sensitive, we can't reveal details because of business reasons. Part of the absence of answers to some technical issues is these commercial agreements and the interests of different companies."\u000a\u000aAt the same time, Macron suggested that it was up to the Indian government to decide what details it wanted to reveal to Indian Parliament.\u000a\u000aTo license this video please contact syndicationsteam@intoday.com
+p2
+sS'meta_description'
+p3
+S"Congress president Rahul Gandhi on Friday made an explosive claim in Parliament claiming that French President Emmanuel Macron had told him there was no 'secrecy' clause in the Rafale deal preventing India from revealing details of the cost per aircraft."
+p4
+sS'datetime'
+p5
+V20-Jul-2018
+p6
+sS'link'
+p7
+Vhttps://www.indiatoday.in/india/video/exclusive-what-macron-told-india-today-on-rafale-deal-1291160-2018-07-20
+p8
+sS'title'
+p9
+VExclusive: What Macron told on Rafale deal
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn May, the Securities and Exchange Board of India (Sebi) had sent a showcause notice to former ICICI Bank MD and CEO Chanda Kochhar, seeking her response on the alleged non-compliance with norms in dealings with the Videocon Group and Nupower Renewables, a company co-founded by her husband. A source in the know told The Business Standard that Kochhar has sought more time to appear before the markets regulator for a personal hearing.\u000a\u000aOctober 16 had reportedly been set as a date for the personal hearing, cross-questioning and recording of her statement. "[Kochhar's] representative has informed Sebi's adjudicating officer, who is probing the case, that she would not be able to keep Tuesday's date and has sought a month's time," said the source, adding, "Regulatory officials are mulling the options and studying the reasons cited for the extension by Kochhar."\u000a\u000aKochhar resigned from her position earlier this month, about half a year after the allegations first cropped up against her. However, she had been on an indefinite leave since June, soon after the board was forced to appoint an external probe under retired Supreme Court judge BN Srikrishna to look into the matter.\u000a\u000aSebi had issued showcause notices to ICICI Bank, Kochhar and others after its preliminary examination favoured initiating adjudication proceedings against them for alleged violation of listing disclosure norms regarding "conflict of interest" in business dealings.\u000a\u000aThe allegations pertain to ICICI Bank's loan to the now bankrupt Videocon Industries and the business dalliances between its promoter Venugopal Dhoot and her husband, Deepak Kochhar. Dhoot had invested in and subsequently exited a power company promoted by the latter, and Kochhar did not recuse herself or disclose this when a loan was granted as part of a consortium.\u000a\u000aWhile she enjoyed the full backing of the bank's board initially, the growing list of allegations - an Essar group shell company of the Ruia family also emerged among those with whom the Kochhar family had ties - chipped away at that support. It was a second whistleblower's allegations in May that prompted ICICI Bank's board to opt for an independent investigation. All these allegations eventually led to probes by multiple agencies, including the CBI, the Enforcement Directorate (ED) and Serious Fraud Investigation Office (SFIO).\u000a\u000aThe buzz is that Kochhar and her legal representative are awaiting the Srikrishna panel's report before the Sebi appearance. According to the daily, the panel will take one more month to release its findings, and is also likely to call Kochhar for a hearing before that.\u000a\u000aIn September, Kochhar had replied to Sebi denying all allegations of impropriety. She claimed she had adhered to all the norms, in line with the code of conduct of the bank that's mandated for the top management and senior employees.
+p2
+sS'meta_description'
+p3
+S'October 16 had reportedly been set as a date for the personal hearing, cross-questioning and recording of her statement.'
+p4
+sS'datetime'
+p5
+V15-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/sectors/banks/chanda-kochhar-seeks-more-time-to-appear-before-sebi-for-personal-hearing/story/285210.html
+p8
+sS'title'
+p9
+VChanda Kochhar seeks more time to appear before Sebi for personal hearing
+p10
+s.

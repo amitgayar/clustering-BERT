@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNASA astronaut Neil Armstrong was the first man to set foot on the surface of the Moon, on July 20, 1969. Just three years later, NASA astronaut Eugene Cernan was the last ever person to see the Moon up close, during the 1972 Apollo 17 mission. Now, 50 years after the monumental achievement of Apollo 11, NASA has pledged to re-focus its efforts once more on reaching the Moon. This time, however, NASA has been directed by US President Donald Trump to fly to the Moon and stay on the Moon.\u000a\u000aNASA administrator Jim Bridenstine said: \u201cIt\u2019s important that we get back to the Moon as soon as possible. \u201cThis time when we go to the Moon, we\u2019re actually going to stay. \u201cWe\u2019re not going to leave flags and footprints and then come home and not go back for another 50 years.\u201d Speaking to reporters at NASA\u2019s Washington base of operations, Mr Bridenstine said NASA will lead a \u201csustainable\u201d space race to the Moon with the aid of private companies. READ MORE: Did NASA lie about the Moon landing? Aerospace expert addresses hoax claims\u000a\u000aThe lunar policy is focused on utilising US-based companies to transport American astronauts into space, cutting America\u2019s reliance on the Russian Soyuz rocket programme. NASA now aims to send its first lunar landers to the Moon as soon as 2024. If successful, Mr Bridenstine said human crews will take another small step onto the Moon by the year 2028.\u000a\u000aThe multi-stage approach to future Moon landings will rely on the aid and expertise of companies like SpaceX and Boeing to overcome the obstacles ahead. Mr Bridenstine said: \u201cBuilding on our model low-Earth orbit, we\u2019ll expand our partnerships with industry and other nations to explore the Moon and advance our missions to farther destinations such as Mars, with America leading the way. \u201cWhen we send astronauts to the surface of the Moon in the next decade, it will be in a sustainable fashion.\u201d NASA has set an industry deadline of March 25 for companies to pitch their bids towards building NASA\u2019s 2024 lunar lander. READ MORE: Moon landing hoax claim: SHOCK claim footprint does not match Neil Armstrong's boot\u000a\u000aThe space agency then aims to make its first selections from the list of candidates by May this year \u2013 proof of NASA\u2019s accelerated drive to reach the Moon. Thomas Zurbuchen, of NASA's Science Mission Directorate, said: \u201cFor us, if we had any wish, I would like to fly this calendar year. We want to go fast.\u201d Mr Bridenstine added: \u201cWe want numerous providers competing on cost and innovation.\u201d The new drive to reconnect with the spirit of NASA\u2019s Apollo programme comes after President Trump signed a new space policy into action in December 2017. Space Policy Directive-1 will see NASA develop and build a small space station near the Moon, the so-called Lunar Gateway, to enable easier and quicker trips to the Moon. The Lunar Gateway could enter orbit around the Moon as early as 2026.
+p2
+sS'meta_description'
+p3
+VNASA will land on the Moon 'as soon as possible', according to administrator Jim Bridenstine \u2013 but when exactly will NASA return to the Moon?
+p4
+sS'datetime'
+p5
+V15-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/science/1087693/Nasa-news-moon-landing-when-is-nasa-going-back-moon-Jim-Bridenstine
+p8
+sS'title'
+p9
+VNASA Moon landing: NASA chief pledges 'ASAP return' to the Moon - When is NASA going back?
+p10
+s.

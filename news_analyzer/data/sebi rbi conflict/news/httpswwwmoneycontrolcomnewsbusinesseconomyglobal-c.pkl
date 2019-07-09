@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VGlobal capital markets, which have been volatile in the current year, are likely to remain so due to various factors, a top SEBI official said on Thursday.\u000a\u000a"The capital markets, globally, have been quite volatile during the current year and are likely to remain so in coming times on account of various factors such as US Fed rate hikes, volatile oil prices, intensifying trade conflicts and sanctions.\u000a\u000a"The Indian markets have also been affected by these factors," SEBI chairman Ajay Tyagi told the 8th India Finance Conference, organised by IIM-Calcutta. At the same time, the volatility in the Indian equity market which measured 12 percent upto mid-December during the current fiscal, is among the lowest compared to major developed and emerging markets, Tyagi said.\u000a\u000aThe volatility in major developed and emerging markets such as the UK was 12 percent), US at 16 percent, China at 19 percent, Japan at 17 percent, South Korea at 14 percent), Hong Kong at 19 percent and Brazil 21 percent, he said.\u000a\u000a"During the current financial year (upto December 14, 2018), return of Nifty has moved up by about 5.8 percent as compared to almost neutral return in Dow Jones (- 0.01 percent)," the SEBI chairman said.\u000a\u000aOn the domestic front, non-banking financial companies (NBFCs) and housing finance companies (HFCs) have been facing tight liquidity since September 2018, he said.\u000a\u000aHowever much has improved on account of various steps taken by Reserve Bank of India (RBI) in providing systemic liquidity, the SEBI chairman said.\u000a\u000aIndian currency depreciation was also in sync with global trend, he said.\u000a\u000aIndian Rupee depreciated about 10.4 percent, against US Dollar. Chinese currency was down 9.9 percent, Euro 9 percent, UK currency was lower by 11.7 percent while Brazil saw slump by 18 percent. Catch Budget 2019 LIVE updates here . Click here for full Budget 2019 coverage
+p2
+sS'meta_description'
+p3
+S''
+p4
+sS'datetime'
+p5
+V20-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneycontrol.com/news/business/economy/global-capital-markets-likely-to-remain-volatile-sebi-chairman-ajay-tyagi-3314581.html
+p8
+sS'title'
+p9
+VGlobal capital markets likely to remain volatile: Sebi Chairman Ajay Tyagi
+p10
+s.

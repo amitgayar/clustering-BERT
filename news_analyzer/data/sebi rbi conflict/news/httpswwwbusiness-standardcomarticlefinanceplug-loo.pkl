@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Reserve Bank of India (RBI) wrote to the Securities and Exchange Board of India (Sebi) to plug loopholes in alternative investment funds (AIFs) regulations that are being exploited by the funds to give corporate loans. According to sources, the banking regulator is concerned about the risks posed by such practices and fears the route could also be used for money laundering.\u000a\u000aIt is worthwhile to note that all the lending businesses in India are regulated by the RBI. The issue came to light during the market regulator\u2019s investigation against Srei Alternatives, a category-II AIF. In ...
+p2
+sS'meta_description'
+p3
+S'Read more about Plug loopholes in alternative investment funds regulations: RBI to Sebi on Business Standard. Some of the AIFs were giving corporate loans, violating RBI norms'
+p4
+sS'datetime'
+p5
+V08-Mar-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/finance/plug-loopholes-in-alternative-investment-funds-regulations-rbi-to-sebi-118030801418_1.html
+p8
+sS'title'
+p9
+VPlug loopholes in alternative investment funds regulations: RBI to Sebi
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VHe was a little coy about specifying the decision-making centers.\u000a\u000aAfter the speech, however, Mr. Putin hosted a background briefing with news media editors, in which, according to Russian reports, the president said that if the United States moved missiles into Poland, Russia would deploy submarines off American shores.\u000a\u000aMr. Kiselyev, already famous for saying some years ago that Russia could reduce the United States to \u201cnuclear dust,\u201d ran with that threat.\u000a\u000aSome Putin supporters applauded the sentiment. On a talk show immediately following the news program, one commentator said there was no need to rely on weapons like tanks since the response would be nuclear.\u000a\u000aCritics, however, were scathing, suggesting that Russia was saber rattling from a position of weakness. Just moments before, the same news program reported that some 200,000 Russian children attend schools with only outhouses for toilets, one commentator noted on Twitter, asking what exactly was worth defending with nuclear-tipped missiles.\u000a\u000aAnother commentator wondered how Russians would react if CNN broadcast a program detailing American plans to strike Moscow and St. Petersburg with nuclear weapons.\u000a\u000aIn the ensuing outcry, Dmitri S. Peskov, Mr. Putin\u2019s spokesman, echoed his boss\u2019s coyness by noting that the president himself had not singled out any target by name.\u000a\u000aOver all, several factors motivated the belligerent rhetoric, analysts said, in addition to the United States\u2019 withdrawal from the I.N.F. Treaty.
+p2
+sS'meta_description'
+p3
+S'A prime-time news show talks about deploying nuclear submarines along the coast of the United States, and a church choir sings about nuking America.'
+p4
+sS'datetime'
+p5
+V26-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2019/02/26/world/europe/russia-nuclear-cathedral-choir.html
+p8
+sS'title'
+p9
+V\u2018Aim, I Say, at the City of Washington!\u2019 Russia Revives Cold War Playbook
+p10
+s.

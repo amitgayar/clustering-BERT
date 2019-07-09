@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNASA won the space race to the Moon on July 20, 1969, with astronauts Neil Armstrong, Buzz Aldrin and Michael Collins. The historic moment was watched live by 650 million enchanted people all around the globe. In the aftermath, NASA\u2019s Moon landing has been widely hailed one of the greatest achievements of the 20th century. There are, however, those who doubt the official story and weave conspiracy theories about the possibility of the Moon landing being faked.\u000a\u000aOne clue so-called lunar truthers like to point out is the very obvious lack of twinkling stars in photographs taken from space. But the mystery is not limited to the Apollo 11 Moon landing \u2013 it goes much earlier than that. On December 24, 1968, during the Apollo 8 mission, astronaut William Anders was the first human to snap a photo of the Earth from space. The photo, dubbed Earthrise, shows the entire globe rise over the lunar horizon and against the deep black backdrop of space.\u000a\u000aBut there is not a single star visible in the photo. So, where have all the stars gone? Astronomer Deborah Byrd of EarthSky.org said: \u201cOne of the early promoters of the moon landing conspiracy theory was the Fox television network, which, in 2001, aired a documentary-style film titled Conspiracy Theory: Did We Land on the Moon?. \u201cIt claimed that NASA faked the first landing in 1969 to win the space race. \u201cThe film presented \u2018evidence\u2019 of deception including photos showing no stars in the lunar sky and American flags rippling on the Moon, despite the fact there\u2019s no air or wind.\u201d READ MORE: What did President Richard Nixon tell Neil Armstrong on the Moon?\u000a\u000aNASA\u2019s astronauts shot all of their film photographs at relatively high shutter speeds, meaning their camera shutter were open for fractions of a second. The high shutter speeds were enough to properly expose the pictures of the Moon but not enough to capture the faint light from the stars. NASA explained: \u201cHave you ever taken a photo of the night sky with your phone or camera? READ MORE: What did Apollo 11 discover during lost two minutes of SILENCE?\u000a\u000a\u201cYou likely won\u2019t see any stars because chances are your camera\u2019s settings are set to short exposure time only lets it quickly take in the light off the bright objects closest to you. \u201cIt\u2019s the same reason you generally don\u2019t see stars in spacewalk pictures from the International Space Station. \u201cThere\u2019s no use for longer exposure times to get an image like this one of Bruce McCandless in 1984 as seen Space Shuttle Challenger (STS-41B).\u201d \u201cThe Hasselblad cameras that Apollo astronauts flew with were almost always set to short exposure times. \u201cAnd why didn\u2019t the astronauts photograph the stars? Well, they were busy exploring the Moon!\u201d
+p2
+sS'meta_description'
+p3
+VNASA\u2019S photo of Neil Armstrong and Buzz Aldrin on the Moon are some of the most iconic and monumental pictures ever taken \u2013 but why are there no stars visible in the any of the space photos?
+p4
+sS'datetime'
+p5
+V07-Jun-2019
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/science/1137472/NASA-Moon-landing-why-no-stars-space-photos-Apollo-11-NASA-news
+p8
+sS'title'
+p9
+VNASA Moon landing: Why are there no stars in NASA's photos of space? What's going on?
+p10
+s.

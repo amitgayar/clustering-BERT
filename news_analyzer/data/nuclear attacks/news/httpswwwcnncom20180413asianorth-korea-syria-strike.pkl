@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V(CNN) As the US prepares to try and convince North Korean leader Kim Jong Un to give up his nuclear weapons, it may have made his counter argument for him.\u000a\u000aOn Friday, US President Donald Trump announced he had given the order for US forces to strike the Syrian regime in response to an alleged chemical weapons attack on a rebel-held city in the southwest of the country, which he blames on Russia and Syria.\u000a\u000aBut the attack against Syrian President Bashar al-Assad -- a longtime ally of North Korea -- could complicate Trump's planned summit with Kim, expected to take place in May or June.\u000a\u000a"This is sort of the whole reason why North Korea has pursued nuclear weapons," Rodger Baker, VP of strategic analysis for the global intelligence firm Stratfor, told CNN. "The perception is (having nuclear weapons) reduces the likelihood of these types of punitive strikes."\u000a\u000aIn the past, Pyongyang has repeatedly pointed to US military interventions around the world as a justification for its nuclear program, viewing it as a vital deterrent to any attempts at regime change instigated or led by Washington.\u000a\u000aAccording to Dan Coats, Trump's director of national intelligence, Kim views nukes as key to the "survival (of) his regime."\u000a\u000a"He has watched ... what has happened around the world relative to nations that possess nuclear capabilities and the leverage they have, and seen that having the nuclear card in your pocket results in a lot of deterrence capability," he said at an event last year\u000a\u000a"The lessons that we learned out of Libya ... and Ukraine giving up its nukes is, unfortunately, if you had nukes, never give them up," Coats said. "(And) if you don't have them, get them."\u000a\u000a"It's hard to say out loud, because people say you're justifying North Korea's bad behavior," said Stratfor's Baker. "(But) Libya is a case in point of how US promises are temporary at best."\u000a\u000aAnother example often cited is the Trump administration's criticism and backtracking of the Iran nuclear deal reached under President Barack Obama.\u000a\u000a"The lesson for any future negotiation with North Korea is you can't count on the Americans to live up to anything," Mike Chinoy, a senior fellow at the US-China Institute at the University of Southern California, told CNN in February.\u000a\u000a"So screw it, get as many nukes as you can, and say: 'We dare you to attack us because we can nuke Los Angeles'."\u000a\u000aWhile analysts said North Korea's massive conventional military and vast amounts of artillery aimed at Seoul gave it a deterrent Libya and Syria both lacked, even without nuclear weapons, all indications are Pyongyang has no intentions of reducing its capabilities.\u000a\u000a"(Syria) is one of those case studies the North Koreans will use in their discourse with the US," Baker said. "What exactly is a security guarantee?"\u000a\u000aNorth Korea's concerns about suffering the same fate as Syria or Libya speak to a major potential sticking point in any negotiations with the US: what both parties mean by "denuclearization."\u000a\u000aIn a commentary last month, the state-run North Korean Central News Agency (KCNA) said the US "has posed nuclear threat and blackmail to (North Korea) for several decades."\u000a\u000a"Peace and security on the Korean Peninsula, Northeast Asia and the rest of the world have been reliably guaranteed by (North Korea's) bolstering of nuclear deterrent," KCNA said.\u000a\u000aFriday's strike in Syria may make arguing the opposite more difficult than it ever was.
+p2
+sS'meta_description'
+p3
+S'As the US prepares to try and convince North Korean leader Kim Jong Un to give up his nuclear weapons, it may have made his counter argument for him.'
+p4
+sS'datetime'
+p5
+V13-Apr-2018
+p6
+sS'link'
+p7
+Vhttps://www.cnn.com/2018/04/13/asia/north-korea-syria-strike-intl/index.html
+p8
+sS'title'
+p9
+VTrump's strike on Syria is exactly why North Korea wants nuclear weapons
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VHawaii has been gearing up to prepare for a nuclear attack from North Korea, with the island state taking its first serious precautions in decades for a possible missile strike.\u000a\u000aHawaii \u201cjust couldn't ignore these constant threats and missile tests from North Korea,\u201d the state\u2019s Emergency Management Agency administrator, Vern Miyagi, told California's The Mercury News. He said Hawaii\u2019s citizens have so far been \u201cwelcoming\u201d to a full-blown campaign of warnings about a North Korea attack.\u000a\u000aIn the past month, Hawaii officials have started airing TV ads warning locals to \u201cget inside, stay inside\u201d if an attack appears to be happening, and also holding meetings across the islands to inform people about threats from Kim Jong Un\u2019s nation. Hawaii also tested a Cold War-era warning siren for the first time in more than 30 years and has prepared an emergency text alert. State officials have been holding weekly meetings with Homeland Security Department and Defense Department officials.\u000a\u000aThe campaign comes after North Korea has spent the year threatening the United States with a nuclear attack and running tests with missiles that seem ready to strike Hawaii or anywhere on the U.S. mainland. Hawaii, which is about 4,600 miles away from North Korea, would be one of the easiest targets for a long-range missile. Such severe precautions have not been taken by other states, such as California, which are also in close range.\u000a\u000aNorth Korea has not issued a specific threat against Hawaii, although in August Kim said he was ready to bomb Guam, a U.S. territory island in the Pacific that, like Hawaii, is home to substantial military personnel. Kim\u2019s self-imposed deadline for a threat on Guam passed without incident after President Donald Trump threatened fierce retaliation.\u000a\u000aNorth Korea did, however, include the capital city of Honolulu in a 2013 propaganda poster listing potential targets, according to The Mercury News. Hawaii is also home to Pearl Harbor, the naval base that was bombed by Japan in 1941 in a surprise attack that killed 2,403 people. It was the deadliest attack on U.S. soil until 9/11.\u000a\u000aNorth Korea has tested several missiles this year that defense experts say are capable of hitting Hawaii or, in some cases, Washington, D.C. But experts said Kim has yet to prove that he can develop a weapon that would be able to carry a nuclear warhead. After North Korea\u2019s latest test, in late November, Trump and White House officials have been increasingly ramping up talk of a possible war.\u000a\u000aHawaiian officials noted that the chances of a North Korea attack are not considered strong and that an earthquake or massive fire is seen as a much more likely threat than a nuclear bomb.
+p2
+sS'meta_description'
+p3
+VIn the past month, Hawaii officials have started airing TV ads warning locals to \u201cget inside, stay inside\u201d if an attack appears to be happening.
+p4
+sS'datetime'
+p5
+V17-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.newsweek.com/hawaii-north-korea-nuclear-attack-prepare-750767
+p8
+sS'title'
+p9
+VNorth Korea nuclear attack: Hawaii taking major steps to prepare for potential strike from Kim
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+VThe aim is to prevent \u2018ratings shopping\u2019, in which companies seek out the firm that promises the highest rating.One of the key proposals by the committee was changing ratings from a subscriber-based model to an issuer-based model
+p4
+sS'datetime'
+p5
+V16-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/market/stock-market-news/sebi-rbi-examining-business-models-of-rating-agencies-1558030782374.html
+p8
+sS'title'
+p9
+VSebi, RBI examining business models of rating agencies
+p10
+s.

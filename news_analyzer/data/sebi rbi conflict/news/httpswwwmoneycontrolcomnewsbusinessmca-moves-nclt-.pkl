@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe government has moved NCLT to reopen the ledgers of past five years of IL&FS and its subsidiaries under Section 130 of the Companies Act. The Ministry of Corporate Affairs (MCA) in its petition has submitted a report on the views of Institute of Chartered Accountants of India (ICAI) on IL&FS Groups' accounts which were cleared by Deloitte, EY affiliate SRBC and KPMG affiliate BSR.\u000a\u000aThe government plea urges the NCLT to appoint an independent chartered accountant to take a closer look at the account and revise the balancesheets of IL&FS, IL&FS Financial Services and IL&FS Transportation Network Ltd (ITNL). It has sought three months to perform the required tasks.\u000a\u000aThe matter will be taken up on January 1, 2019.\u000a\u000aInterestingly, this is the first instance that Section 130 of the Companies Act has been put to use by the government. The law allows for reopening of accounts on a court\u2019s or a tribunal\u2019s orders. The law states: "A company shall not re-open its books of account and not recast its financial statements, unless an application is made by the Central government, Income-tax authorities, SEBI, any other statutory regulatory body or authority or any person concerned and an order is made by a court of competent jurisdiction or the Tribunal to the effect that \u2014(i) the relevant earlier accounts were prepared in a fraudulent manner; or\u000a\u000a(ii) the affairs of the company were mismanaged during the relevant period, casting a doubt on the reliability of financial statements."\u000a\u000aThe law also calls for the Centre to send notices to RBI, SEBI, Income Tax department and other statutory bodies. The government is expected to file an affidavit of the notice sent to the NCLT to these bodies in three days.\u000a\u000aThe move comes after Serious Fraud Investigation Office (SFIO) investigation found out serious mismanagement of accounts and fraudulent transactions. The SFIO has uncovered shocking details of wrongdoing in the embattled IL&FS Group, with instances of misreporting of income, dubious transactions, conflict of interest, ever-greening of loans and personal enrichment of key employees being shown as rampant.\u000a\u000aThese have been revealed in SFIO's interim report, which the Ministry of Corporate Affairs (MCA) submitted to the National Company Law Tribunal (NCLT) Mumbai on December 3. Catch Budget 2019 LIVE updates here . Click here for full Budget 2019 coverage
+p2
+sS'meta_description'
+p3
+S'This is the first instance that Section 130 of the Companies Act has been invoked by the government to reopen ledgers of a firm.'
+p4
+sS'datetime'
+p5
+V21-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://www.moneycontrol.com/news/business/mca-moves-nclt-for-reopening-of-ilfs-groups-books-3315681.html
+p8
+sS'title'
+p9
+VMCA moves NCLT for reopening of IL&FS Group's books
+p10
+s.

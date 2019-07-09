@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn 1969, Neil Armstrong became the first human to set foot on the Moon. It was an incredible technological and scientific achievement for the human race, and the 11 other men who followed in his dusty footsteps are still the only humans to ever set foot somewhere other than Earth. That, of course, is assuming you believe the \u201cofficial\u201d account of things. If you\u2019re on the fringes of the conspiracy community, on the other hand, you believe that the Moon landing was just a big lie cooked up by\u2026 lizard people or something, I guess.\u000a\u000aLots of \u201cevidence\u201d supporting the Moon landing hoax theory has cropped up in the past, but nothing has ever swayed the public as a whole. Now, hoax believers are pointing to an old photograph taken by an astronaut as potential proof that the lunar surface we see in Moon landing images is nothing more than a film set.\u000a\u000aThe photo in question comes from the Apollo 16 mission which took place in 1972. In the image, astronaut John Young is seen taking samples from the lunar surface. In the background, large boulders and smaller rocks litter the pale landscape, and a quick glance at the photograph doesn\u2019t reveal anything particularly damning, but conspiracy theorists want you to take a much closer look.\u000a\u000aBehind Young\u2019s head, near the edge of the horizon, the supposed \u201cboulder\u201d is now the subject of debate. The photo\u2019s description says that the background contains boulders as well as the Lunar Roving Vehicle, but conspiracy believers are seeing something else. Specifically, they believe that a lunar base is actually visible in the distance, along with additional personnel who weren\u2019t supposed to be there.\u000a\u000aThis claim points to yet another fringe theory regarding the Moon landings. Rather than believing that the landings themselves were staged, a subset of the conspiracy community believes that NASA actually went to the Moon and found evidence of alien life there. Rather than tell the world about the discovery, they believe that NASA covered it up. The photo, they suggest, shows that NASA sent additional crew to the Moon after discovering extraterrestrial life, and even set up a lunar habitat there.\u000a\u000aOr, as one YouTube commenter suggests, it\u2019s probably \u201cjust a Starbucks.\u201d
+p2
+sS'meta_description'
+p3
+S'In 1969, Neil Armstrong became the first human to set foot on the Moon. It was an incredible technological and scientific achievement for the human race, and the 11 other men who followed in his dusty footsteps are still the only humans to ever set foot somewhere other than Earth.'
+p4
+sS'datetime'
+p5
+V19-Apr-2018
+p6
+sS'link'
+p7
+Vhttps://bgr.com/2018/04/19/moon-landing-hoax-photo-fraud/
+p8
+sS'title'
+p9
+VThis is the photo that conspiracy theorists say proves the Moon landing was a fraud
+p10
+s.

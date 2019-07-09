@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VAs North Korea has continued testing its potential nuclear weapons, public concern in the United States seems to have grown over what to do in the case of a nuclear attack.\u000a\u000aOnly two nuclear bombs have ever been detonated during wartime, and both were dropped by the U.S. on Japan during World War II. There are some misconceptions about what actually happens during a nuclear blast. What do you need to know about nuclear attacks and what to do before, during, and after one? Here's your preparedness guide:\u000a\u000aAccording to the Department of Homeland Security, a nuclear blast uses a device to set off a molecular chain reaction that leads to a devastating explosion. Nuclear weapons create intense heat, air pressure, light and radiation, all of which can have severe and often deadly effects. Unlike with other types of bombs or weapons, the radioactive fallout that comes after the initial blast can lead to even more damage, so the immediate physical destruction from the nuclear bomb itself isn't the only concern. Survivors of nuclear attacks often suffer health effects from radiation exposure that vary in severity depending on how much exposure occurred and for how long, and people who are near nuclear attacks have an increased likelihood of developing cancer later in life.\u000a\u000aIf you want to be prepared before a nuclear attack hits, you can create an emergency kit that includes items like flashlights, batteries, a small battery-powered radio, water, and nonperishable food to store. Make an emergency plan with your loved ones so that you know what to do in such a situation, and ask officials in your area where the nearest fallout shelter is in case of an emergency.\u000a\u000aYou should also scope out where to take shelter in places you frequent often, like your school, office, and home, and look for structures made of brick or concrete with basements or windowless areas in the center of floors\u2014spots without easy access to the outside environment.\u000a\u000aIf possible, get indoors as quickly as possible. If you're stuck outside, lie facedown, cover the exposed area, and protect your nose and mouth with a cloth.\u000a\u000aOnce indoors, try and get as far away from windows or doors as possible so that there are as many levels separating you from the blast as possible. The taller the building and the more brick, concrete, and soil between you and the radiation, the better. Close doors and turn off ventilation systems to prevent radiation from seeping in.\u000a\u000aAnother important tip: Don't look at the blast itself, as the fireball it creates could actually blind you.\u000a\u000aStay indoors for at least 24 hours unless instructed otherwise by officials. Radioactive fallout is intense, but reduces greatly after the initial blast. If you think you may have been exposed to radiation, take off your outer clothing as quickly as possible and shower if you're able to do so. Avoid scrubbing or scratching skin, and don't use conditioner (only shampoo or soap), as it could bind to the radiation. Then place your contaminated clothes in a plastic bag, seal it, and keep it far away from other people.\u000a\u000aRelated: So, Are We Headed Into Nuclear Warfare and Total Apocalypse?
+p2
+sS'meta_description'
+p3
+S"There are several things you probably don't know."
+p4
+sS'datetime'
+p5
+V26-Apr-2017
+p6
+sS'link'
+p7
+Vhttps://www.teenvogue.com/story/how-to-prepare-for-a-nuclear-attack
+p8
+sS'title'
+p9
+VWhat You Should Do in Case of a Nuclear Attack
+p10
+s.

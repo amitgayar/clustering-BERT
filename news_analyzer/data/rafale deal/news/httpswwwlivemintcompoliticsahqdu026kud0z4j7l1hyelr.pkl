@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Supreme Court has asked the Centre to disclose all details strategic to the Rafale jet fighter deal within 10 days
+p2
+sS'meta_description'
+p3
+S'The Supreme Court has asked the Centre to disclose all details strategic to the Rafale jet fighter deal within 10 days'
+p4
+sS'datetime'
+p5
+V31-Oct-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Politics/AHQDU026Kud0Z4J7l1HYEL/Rafale-deal-SC-seeks-details-of-pricing-choice-of-offset-p.html
+p8
+sS'title'
+p9
+VGive details of Rafale deal in 10 days, Supreme Court tells Govt
+p10
+s.

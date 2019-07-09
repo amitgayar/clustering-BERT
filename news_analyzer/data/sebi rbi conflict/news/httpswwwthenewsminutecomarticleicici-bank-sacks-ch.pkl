@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VBeleaguered former ICICI Bank Chief Executive Chanda Kochhar was in for fresh trouble with the Justice Srikrishna Committee indicting her for violation of bank's code of conduct and conflict of interest duties in the controversial Rs 3,250-crore loan for the Videocon Group, a part of which went to a company run by her husband Deepak, that will cost her various financial benefits.\u000a\u000aThis clears the decks for the government's investigating agencies--CBI, ED, IT, SFIO--and overarching regulatory bodies -- RBI, SEBI and Ministry of Corporate Affairs-- to take appropriate action against all the accused in the case filed by CBI last week as they deem fit. It is learnt that the Justice Srikrishna Enquiry Report will be forwarded by the ICICI Board to all the probe agencies and regulators for immediate action.\u000a\u000aLast week, the CBI lodged an FIR against 57-year-old Chanda Kochhar, Deepak and Videocon Managing Director VN Dhoot besides four companies in connection with the controversial loan. As part of a quid pro quo, Dhoot allegedly invested Rs 64 crore in NuPower Renewables Pvt Ltd run by her husband. She had stepped down from the post of CEO and MD in October last year after media expose of the loan saga. Her tenure in the Bank was to end this March.\u000a\u000aThe bank on Wednesday said it has received the Enquiry Report from retired Supreme Court Justice BN Srikrishna which concluded primarily on account of ineffectively dealing with conflict of interest and due disclosure or recusal requirements that Chanda Kochhar "was in violation" of the ICICI Bank code of conduct, its framework for dealing with conflict of interest and fiduciary duties, and in terms of applicable Indian laws, rules and regulations".\u000a\u000aThe Enquiry Report also concluded her lack of diligence with respect to annual disclosures as required by the bank in terms of its internal policies, the ICICI Bank code of conduct and applicable Indian laws, rules and regulations on her interest (direct or indirect) toward avoidance of conflict of interest.\u000a\u000aThis, the Committee said, when considered that the Bank's processes were dependent solely on the Directors discharging their fiduciary duty to recuse themselves and avoid conflict, implies that the bank's processes were rendered ineffective by her approach to such disclosures and avoidance of conflict.\u000a\u000aThe Bank said in a release that following the receipt of the Enquiry Report and its due consideration and the conclusions thereat, after due deliberations, the Board of Directors decided to treat the 'separation' of Chanda Kochhar from the Bank as a 'termination for cause' under the Bank's internal policies, schemes and the code of conduct with all attendant consequences.\u000a\u000aThis included revocation of all her existing and future entitlements such as any unpaid amount, unpaid bonuses or increments, unvested and vested and unexercised stock options and medical benefits. The Board's decision will also require "clawback" of all bonuses paid from April 2009 until March 2018 and to take such further actions as may be warranted in the matter.\u000a\u000aThe bank also noted that there were no implications of the Enquiry Report on its published financial statements (Indian or US General Accepted Accounting Principles) for the relevant periods.
+p2
+sS'meta_description'
+p3
+S"Beleaguered former ICICI Bank Chief Executive Chanda Kochhar was in for fresh trouble with the Justice Srikrishna Committee indicting her for violation of bank's code of conduct and conflict of interest duties in the controversial Rs 3,250-crore loan for the Videocon Group, a part of which went to a company run by her husband Deepak, that will cost her various financial"
+p4
+sS'datetime'
+p5
+V30-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.thenewsminute.com/article/icici-bank-sacks-chanda-kochhar-after-srikrishna-panel-indicts-her-videocon-case-95942
+p8
+sS'title'
+p9
+VICICI Bank sacks Chanda Kochhar after Srikrishna panel indicts her in Videocon case
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe cold war INF nuclear treaty is dead, killed by rise of China and Trump. A global arms race is next
+p2
+sS'meta_description'
+p3
+S'The slow death of the Intermediate-Range Nuclear Forces Treaty is part of a collapse in cold war era arms control. Chaos now beckons, as every country fends for itself. Welcome to the New World Disorder'
+p4
+sS'datetime'
+p5
+V01-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.scmp.com/week-asia/opinion/article/2184742/cold-war-inf-nuclear-treaty-dead-killed-rise-china-and-trump
+p8
+sS'title'
+p9
+VAs the INF treaty dies, the global arms race comes to life
+p10
+s.

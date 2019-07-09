@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Supreme Court today (December 14) dismissed all writ petitions demanding a court-monitored CBI probe into the Rafale jet deal. The apex court said it had no objections to any aspect of the deal and gave it the go-ahead.\u000a\u000aThe ruling today came on four petitions that had asked the Supreme Court to set up a court-monitored probe into the signing of the Rafale deal. The petitions had alleged that the Modi government not only overpaid for 36 Rafale jets but also promoted crony capitalism.\u000a\u000aThe Modi government had signed an inter-governmental deal with France in 2016 for the sale of 36 Rafale medium multi-role combat aircraft (MMRCA) in flyaway condition. The deal, however, came under intense political scrutiny in India and in France after the Opposition alleged that Anil Ambani-owned Reliance Defence had been signed on as the offset partner by weapons manufacturer Dassault Aviation, even though the company had no previous experience.\u000a\u000aThe deal has been at the centre of much controversy, with the Opposition making it a key weapon in its arsenal against the Modi government.\u000a\u000aNo final UPA deal because it was never finalised. The Congress party claims that it had negotiated a deal with the price of Rs 526.1 crore per jet but whether Dassault agreed to deliver the jets with India-specific requirements in a given timeline could not be known because this UPA deal never went through.\u000a\u000aFast forward to 2018, while the Congress had been alleging favouritism by the Modi government for over a year, the first real blow to the Centre came when French publication Mediapart interviewed former French president Francois Hollande revealed that he had no choice in selecting the Indian offset partner and the name of Reliance was given by the Indian side.\u000a\u000aThe Congress alleged that the Modi government signed the contract with France at a much higher price than negotiated during the UPA rule. Rahul Gandhi and other Opposition leaders demanded that the government must reveal the price of Rafale. The government rejected the demand saying that the price disclosure is covered under the secrecy clause of the deal. Rahul Gandhi claimed that he had been told "personally" by former French President Francois Hollande that the Modi government could reveal the price of Rafale without jeopardising the defence deal.\u000a\u000aA bench headed by CJI Ranjan Gogoi reserved verdict in the case on November 14 after extensive arguments. While reserving the verdict, the apex court had said that the pricing details of Rafale jets could only be discussed after it decides on whether to make it public. The apex court had asked wide-ranging questions from the government on issues including lack of a sovereign guarantee from the French government, selection of Indian offset partner by the Dassault Aviation and need of entering into inter-governmental agreement (IGA) with France. During the arguments, the Centre had filed details of the pricing and the process followed during the deal in a sealed cover before the court, and had claimed that the details of the deal were being kept secret "in the national interest".\u000a\u000aDecember 14: The Supreme Court said today that it found nothing wrong with the Rafale deal. A bench headed by Chief Justice of India Ranjan Gogoi said that it had studied the matter "extensively" and that it was "satisfied that there is no occasion to doubt the process [of signing the Rafale deal]". The Supreme Court, however, said that the Rafale deal process was perfectly fine and dismissed all PILs that demanded a court-monitored probe into it. The Supreme Court also said it was not its job to examine the pricing of the Rafale jets.
+p2
+sS'meta_description'
+p3
+S'The Supreme Court today (December 14) dismissed all writ petitions demanding a court-monitored CBI probe into the Rafale jet deal. The apex court said it had no objections to any aspect of the deal and gave it the go-ahead. Know all about the Rafale deal here.'
+p4
+sS'datetime'
+p5
+V13-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://www.indiatoday.in/fyi/story/rafale-deal-know-all-about-rafale-deal-controversy-1409339-2018-12-14
+p8
+sS'title'
+p9
+VRafale Deal: Know all about the controversy | 15 points
+p10
+s.

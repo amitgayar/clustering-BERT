@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIn the wake of reports that it granted huge tax waiver to Anil Ambani\u2019s French firm, France on Saturday said a global settlement was reached between the French tax authorities and the Reliance subsidiary and that it was not subject to any political interference.\u000a\u000aLeading French newspaper Le Monde reported that France waived taxes worth 143.7 million euros to a French-registered telecom subsidiary of Mr. Ambani\u2019s Reliance Communications in 2015, months after Prime Minister Narendra Modi\u2019s announcement of India buying 36 Rafale jets.\u000a\u000a\u201cA global settlement was reached between the French tax authorities and Reliance Flag, a telecom company, in a tax dispute pertaining to the period 2008-2012,\u201d the French embassy said in a statement.\u000a\u000aIt further said, \u201cThis settlement was conducted in full adherence with the legislative and regulatory framework governing this common practice of the tax administration,\u201d the embassy said.\u000a\u000aIt said the settlement was not subject to any political interference whatsoever.\u000a\u000aPrime Minister Narendra Modi had announced the procurement of a batch of 36 Rafale jets after talks with the then French President Francois Hollande on April 10, 2015 in Paris. The final deal was sealed on September 23, 2016.\u000a\u000aThe Congress has been alleging massive irregularities in the deal, saying the government was procuring each aircraft at a cost of over \u20b91,670 crore as against \u20b9526 crore finalised by the UPA government when it was negotiating the deal.\u000a\u000aThe Congress has also been targeting the government over selection of Anil Ambani-owned Reliance Defence as an offset partner for Dassault Aviation, the manufacturer of Rafale. The government has rejected the allegations.\u000a\u000aThe French newspaper said the company was investigated by French tax authorities and found liable to pay 60 million euros in taxes for the period 2007 to 2010.\u000a\u000aHowever, Reliance offered to pay 7.6 million euros only as a settlement but French tax authorities refused to accept the amount. The authorities conducted another probe for the period 2010 to 2012 and asked the company to pay an additional 91 million euros in taxes, the report said.\u000a\u000aIt said by April 2015, the total amount owed by Reliance to the French authorities in taxes was at least 151 million euros.\u000a\u000aIn October, six months after Mr. Modi announced in Paris about the Rafale deal, the French authorities accepted 7.3 million euros from Reliance as a settlement as against the original demand of 151 million euros.
+p2
+sS'meta_description'
+p3
+VThe response comes after a media report that France waived taxes worth 143.7 million euros to a telecom subsidiary of Anil Ambani\u2019s Reliance Communications in 2015.
+p4
+sS'datetime'
+p5
+V13-Apr-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/news/international/no-political-interference-in-tax-settlement-with-reliance-firm-france/article26830677.ece
+p8
+sS'title'
+p9
+VRafale deal: no political interference in tax settlement with Reliance firm, says France
+p10
+s.

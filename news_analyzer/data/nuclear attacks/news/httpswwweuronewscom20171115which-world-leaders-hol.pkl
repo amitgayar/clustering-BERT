@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'Most countries that have access to nuclear weapons put the final decision to launch an attack in the hands of one individual'
+p4
+sS'datetime'
+p5
+V15-Nov-2017
+p6
+sS'link'
+p7
+Vhttps://www.euronews.com/2017/11/15/which-world-leaders-hold-the-power-to-launch-a-nuclear-attack
+p8
+sS'title'
+p9
+VWhich world leaders hold the power to launch a nuclear attack?
+p10
+s.

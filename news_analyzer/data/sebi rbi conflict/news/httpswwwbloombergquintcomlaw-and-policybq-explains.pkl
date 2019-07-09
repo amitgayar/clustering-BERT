@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe central board of the Reserve Bank of India will meet on Nov.19 amid a public battle over a host of issues ranging from banking regulation to the central bank\u2019s own balance sheet.The issues, whi...
+p2
+sS'meta_description'
+p3
+VThe central board of the Reserve Bank of India will meet on Nov.19 amid a public battle over a host of issues ranging from banking regulation to the central bank\u2019s own balance sheet. BloombergQuint, through a series of articles, explains some of the underlying issues on which the RBI and the government have differing views.
+p4
+sS'datetime'
+p5
+V16-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://www.bloombergquint.com/law-and-policy/bq-explains-the-points-of-friction-between-rbi-and-government-ahead-of-crucial-board-meet
+p8
+sS'title'
+p9
+VBQExplains: The Points Of Friction Between RBI And Government Ahead Of Crucial Board Meet
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VHundreds of Indian Youth Congress (IYC) workers on Thursday staged a protest against the Centre over the Rafale fighter aircraft deal here.\u000a\u000aLeaders and activists from several state units have gathered outside All India Congress Committee (AICC) headquarters and is scheduled to take out protest march towards Prime Minister\u2019s residence later in the day.\u000a\u000aWhile addressing a gathering, IYC leaders alleged the BJP-led National Democratic Alliance (NDA) government \u201cmisled\u201d the nation by quoting \u201cillogical and imaginary data\u201d.\u000a\u000a\u201cRafale deal is the biggest scam. Why is the central government not forming Joint Parliamentary Committee (JPC) to probe the deal?,\u201d IYC president Keshav Chand Yadav asked.\u000a\u000aIn view of protest march, heavy police deployment has been made near the Congress headquarters at Akbar Road.\u000a\u000aPolice have barricaded the area to stop IYC leaders and workers from marching towards the PM\u2019s residence.\u000a\u000aAround fifty workers were detained and taken to Mandir Marg and Tughlak Road police stations, police said.\u000a\u000aThe Congress, which has launched a frontal attack on the government over the Rafale issue, is undertaking a pan India campaign to \u201capprise people\u201d on the deal. Party leaders are fanning out across the country, holding press conferences which will be followed by plans for district and state level agitations on the issue.
+p2
+sS'meta_description'
+p3
+S'Hundreds of Indian Youth Congress (IYC) workers on Thursday staged a protest against the Centre over the Rafale fighter aircraft deal'
+p4
+sS'datetime'
+p5
+V30-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://www.hindustantimes.com/india-news/youth-congress-workers-protest-against-pm-modi-government-s-rafale-deal/story-6uhtDgKRPaackbZAuY7PGN.html
+p8
+sS'title'
+p9
+VYouth Congress workers protest against PM Modi government\u2019s Rafale deal
+p10
+s.

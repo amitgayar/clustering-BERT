@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VFourteen million people are dead, Washington and New York have been reduced to smouldering rubble and nuclear conflict engulfs the globe.\u000a\u000aHow could it happen? A book by an expert on North Korea explores how a nuclear conflict could erupt in 2020.\u000a\u000aAuthor Jeffrey Lewis is a North Korea expert who has warned that Donald Trump is \u2018playing\u2019 the West by pretending to disarm.\u000a\u000aIn his speculative novel The 2020 Commission Report on the North Korean Nuclear Attacks Against the United States, he explores how nuclear war could erupt between the two powers.\u000a\u000aIn the book, North Korean troops shoot down a South Korean airliner believing it to an American warplane.\u000a\u000aSeoul strikes back at Kim\u2019s palaces \u2013 and at that point, Donald Trump, irritable and distracted by a golf game, tweets a personal insult at Kim.\u000a\u000aLewis says: \u2018The book was intended as a warning that we\u2019re on a pretty dangerous path.\u2019\u000a\u000aHe says that some fictional events he dreamt up for the book actually \u2018came true\u2019 as he wrote it.\u000a\u000aHe told The Verge: \u2018The concept of the book was that there was a diplomatic approach that failed because, at the end of the day, North Korea wouldn\u2019t give up the weapons, and the US would insist on that.\u000a\u000a\u2018Unfortunately for real life but fortunately for the book, that\u2019s exactly what happened. It\u2019s playing out precisely how I thought it would.\u2019
+p2
+sS'meta_description'
+p3
+S'Fourteen million people are dead, Washington and New York have been reduced to smouldering rubble and nuclear conflict engulfs the globe. How could it happen? A book by an expert...'
+p4
+sS'datetime'
+p5
+V22-Aug-2018
+p6
+sS'link'
+p7
+Vhttps://metro.co.uk/2018/08/22/heres-how-the-next-nuclear-war-could-start-by-north-korea-expert-7871845/
+p8
+sS'title'
+p9
+VHere\u2019s how the next nuclear war could start, by North Korea expert
+p10
+s.

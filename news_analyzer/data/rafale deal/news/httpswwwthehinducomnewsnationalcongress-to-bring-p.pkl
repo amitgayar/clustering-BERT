@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VAccusing Prime Minister Narendra Modi and Defence Minister Nirmala Sitharaman of misleading the Lok Sabha on the Rafale deal, the Congress has decided to bring a privilege motion against them.\u000a\u000aThe Congress called it a \u201cscam\u201d and contested the claim that the 2008 inter-governmental agreement between India and France, signed during the UPA regime, does not allow the Government of India to reveal the commercial value of the Rafale deal.\u000a\u000aA formal motion will be moved on Tuesday morning by Mallikarjun Kharge, Jyotiraditya Scindia and K.C. Venugopal. \u201cThe motion has to be submitted to the Lok Sabha secretariat before 10 a.m. We will be moving against the Prime Minister and the Defence Minister,\u201d Mr. Venugopal told The Hindu.\u000a\u000aThe final decision on admitting the motion rests with Speaker Sumitra Mahajan.\u000a\u000aThe Congress move will be seen as a counter to the BJP having already moved a privilege motion against party chief Rahul Gandhi for making \u201cunsubstantiated allegations\u201d against the Prime Minister and the Defence Minister in his speech during the no-confidence motion debate last Friday.\u000a\u000aEarlier, former Defence Minister A.K. Antony, along with Deputy Leader of the Congress in the Rajya Sabha Anand Sharma and party communications in-charge Randeep Surjewala, asserted at a press conference that revealing the commercial value of the deal was not covered under any secrecy clause.\u000a\u000aMr. Sharma also countered Union Minister Arun Jaitley\u2019s charge that the Congress president had \u201cconcocted\u201d his conversation with French President Emmanuel Macron on France not having any objection to making the price of the deal public.\u000a\u000a\u201cMr. Jaitley was not present there. I was there and know what was said. I take strong objection to the use of the word \u2018concocted\u2019 in his blog,\u201d Mr. Sharma said.\u000a\u000a\u201cThe scope of the agreement [2008 Agreement] only extends to tactical and technical details of weaponry relating to the capability of the platform in question and its performance and tactics in combat and does not include commercial details and costs. It is clear that the Prime Minister and Defence Minister misled the nation,\u201d Mr. Antony said.\u000a\u000aMr. Antony said under the law, the government was bound to provide full information to the Public Accounts Committee of Parliament, the Parliamentary Standing Committee on Defence and the Comptroller and Auditor-General.\u000a\u000aMr. Sharma said that in November 2016 and March 2018, the Minister of State for Defence had said the price of an aircraft was \u20b9670 crore.\u000a\u000aThe Congress has argued that under the UPA, the price of a Rafale was \u20b9526 crore but had increased to \u20b91,670 crore under the Modi government. So the BJP needs to explain why the extra \u20b941,000 crore is being paid.
+p2
+sS'meta_description'
+p3
+S'Party alleges that the Defence Minister misled the Lok Sabha by stating that the value of the jets purchased cannot be disclosed.'
+p4
+sS'datetime'
+p5
+V23-Jul-2018
+p6
+sS'link'
+p7
+Vhttps://www.thehindu.com/news/national/congress-to-bring-privilege-motion-against-nirmala-sitharaman-over-rafale-deal/article24494010.ece
+p8
+sS'title'
+p9
+VCongress to bring privilege motion against PM on Rafale deal details
+p10
+s.

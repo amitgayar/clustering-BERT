@@ -1,0 +1,1087 @@
+(lp0
+(Vhttps://www.bbc.com/news/world-asia-39604361
+p1
+S"North Korea 'ready for <em>nuclear attack</em>' amid show of force"
+p2
+V14-Apr-2017
+p3
+tp4
+a(Vhttps://www.cnbc.com/2017/11/30/preventive-strike-on-north-korea-would-trigger-nuclear-retaliation-lt-col-commentary.html
+p5
+S"A 'preventive <em>strike</em>' against North Korea would trigger '<em>nuclear</em> ..."
+p6
+V30-Nov-2017
+p7
+tp8
+a(Vhttps://globalnews.ca/news/3889167/north-korea-missile-u-s/
+p9
+S"If North Korea launched a <em>nuclear</em> missile at the US, here's how it ..."
+p10
+V01-Dec-2017
+p11
+tp12
+a(Vhttps://nationalinterest.org/blog/the-skeptics/what-would-happen-if-north-korea-attacked-washington-dc-23418
+p13
+S'What Would Happen If North Korea <em>Attacked</em> Washington, DC with a ...'
+p14
+V29-Nov-2017
+p15
+tp16
+a(Vhttps://www.reuters.com/article/us-mecklin-nuclear-commentary/commentary-can-congress-stop-a-president-waging-nuclear-war-idUSKBN1DU2HW
+p17
+S'Commentary: Can Congress stop a president waging <em>nuclear war</em>?'
+p18
+V30-Nov-2017
+p19
+tp20
+a(Vhttps://www.cbc.ca/news/politics/joint-military-exercises-nuclear-threat-1.4424556
+p21
+S'Canada, US held joint exercises simulating <em>nuclear attack</em> on both ...'
+p22
+V30-Nov-2017
+p23
+tp24
+a(Vhttps://www.vox.com/world/2017/11/30/16714736/north-korea-launches-missile-us
+p25
+S'The US is running out of options to stop North Korea'
+p26
+V30-Nov-2017
+p27
+tp28
+a(Vhttps://www.cnn.com/2017/04/17/world/north-korea-united-nations-envoy/index.html
+p29
+S'North Korean envoy at UN warns of <em>nuclear war</em> possibility'
+p30
+V17-Apr-2017
+p31
+tp32
+a(Vhttps://www.cbsnews.com/news/north-korea-trumps-aggressive-tweets-making-trouble/
+p33
+S'North Korea threatens pre-emptive <em>nuclear attack</em>'
+p34
+V14-Apr-2017
+p35
+tp36
+a(Vhttps://nationalinterest.org/blog/the-buzz/what-would-happen-if-north-korea-fired-nuclear-weapon-20205
+p37
+S'What Would Happen if North Korea Fired Off a <em>Nuclear</em> Weapon?'
+p38
+V14-Apr-2017
+p39
+tp40
+a(Vhttps://www.history.com/news/what-is-the-nuclear-button-and-where-did-it-come-from
+p41
+S"What Is the <em>Nuclear</em> 'Button' and Where Did It Come From?"
+p42
+V03-Jan-2018
+p43
+tp44
+a(Vhttps://www.nytimes.com/2018/01/02/us/politics/trump-tweet-north-korea.html
+p45
+S"Trump Says His '<em>Nuclear</em> Button' Is 'Much Bigger' Than North Korea's"
+p46
+V03-Jan-2018
+p47
+tp48
+a(Vhttps://www.theglobeandmail.com/opinion/war-with-north-korea-how-might-it-break-out-and-what-would-happen-if-itdid/article37511316/
+p49
+S'<em>War</em> with North Korea: How might it break out, and what would happen ...'
+p50
+V06-Jan-2018
+p51
+tp52
+a(Vhttps://www.politico.com/story/2018/01/06/north-korea-nuclear-war-264526
+p53
+S'How the US and North Korea could stumble into World <em>War</em> III'
+p54
+V06-Jan-2018
+p55
+tp56
+a(Vhttps://nationalinterest.org/blog/the-buzz/8-million-people-could-die-nuclear-war-north-korea-23329
+p57
+S'8 Million People Could Die in a <em>Nuclear War</em> with North Korea'
+p58
+V22-Nov-2017
+p59
+tp60
+a(Vhttps://foreignpolicy.com/2017/03/09/north-korea-is-practicing-for-nuclear-war/
+p61
+S'North Korea Is Practicing for <em>Nuclear War</em>'
+p62
+V09-Mar-2017
+p63
+tp64
+a(Vhttps://www.economist.com/briefing/2017/08/05/how-a-nuclear-war-in-korea-could-start-and-how-it-might-end
+p65
+S'Red lines and bad choicesHow a <em>nuclear war</em> in Korea could start, and ...'
+p66
+V03-Aug-2017
+p67
+tp68
+a(Vhttps://www.newyorker.com/magazine/2017/09/18/the-risk-of-nuclear-war-with-north-korea
+p69
+S'The Risk of <em>Nuclear War</em> with North Korea'
+p70
+V07-Sep-2017
+p71
+tp72
+a(Vhttps://www.vox.com/2019/5/20/18628977/usa-iran-war-proxy-nuclear-oil
+p73
+S'9 questions about the scary US-Iran standoff you were too ...'
+p74
+V20-May-2019
+p75
+tp76
+a(Vhttps://www.foreignaffairs.com/articles/iran/2019-05-20/path-war-iran
+p77
+S'A Path to <em>War</em> With Iran'
+p78
+V20-May-2019
+p79
+tp80
+a(Vhttp://inthesetimes.com/article/21893/iran-war-trump-bolton-neoliberalism-venezuela-cuba-world-order
+p81
+S"Noam Chomsky: We Must Stop <em>War</em> with Iran Before It's Too Late"
+p82
+V21-May-2019
+p83
+tp84
+a(Vhttps://www.commondreams.org/news/2019/05/21/no-war-iran-say-62-groups-letter-congress
+p85
+S'No <em>War</em> With Iran, Say 62 Groups in Letter to Congress'
+p86
+V21-May-2019
+p87
+tp88
+a(Vhttps://www.foxnews.com/opinion/8-million-dead-what-nuclear-war-with-north-korea-could-look-like
+p89
+S'8 million dead - what <em>nuclear war</em> with North Korea could look like'
+p90
+V15-Aug-2017
+p91
+tp92
+a(Vhttps://www.washingtonpost.com/outlook/this-is-how-nuclear-war-with-north-korea-would-unfold/2017/12/08/4e298a28-db07-11e7-a841-2066faf731ef_story.html
+p93
+S'This is how <em>nuclear war</em> with North Korea would unfold'
+p94
+V08-Dec-2017
+p95
+tp96
+a(Vhttp://time.com/4971773/north-korea-casualties-nuclear-missile/
+p97
+S"Here's How Deadly a North Korea <em>Nuclear Attack</em> Could Be"
+p98
+V05-Oct-2017
+p99
+tp100
+a(Vhttps://www.vox.com/world/2017/12/22/16805426/north-korea-trump-missile-kim-threat-2017
+p101
+S"North Korea's Kim Jong Un may have had his best year yet"
+p102
+V22-Dec-2017
+p103
+tp104
+a(Vhttps://warontherocks.com/2017/10/the-growing-danger-of-a-u-s-nuclear-first-strike-on-north-korea/
+p105
+S'The Growing Danger of a US <em>Nuclear</em> First <em>Strike</em> on North Korea'
+p106
+V12-Oct-2017
+p107
+tp108
+a(Vhttps://www.washingtonpost.com/news/grade-point/wp/2017/10/10/in-the-event-of-a-nuclear-attack-u-hawaiis-curious-email-to-students-and-staff/
+p109
+S"'In the event of a <em>nuclear attack</em>': U-Hawaii's curious email to students ..."
+p110
+V10-Oct-2017
+p111
+tp112
+a(Vhttp://japan-forward.com/north-korean-threat-whats-the-alternative-to-nuclear-war/
+p113
+S"North Korean Threat: What's the Alternative to <em>Nuclear War</em>?"
+p114
+V11-Oct-2017
+p115
+tp116
+a(Vhttps://www.wired.com/story/cyberattack-north-korea-nukes/
+p117
+S'Hacking North Korea Is Easy. Its Nukes? Not So Much'
+p118
+V11-Oct-2017
+p119
+tp120
+a(Vhttps://www.esquire.com/news-politics/a15157970/america-nuclear-bomb-plan/
+p121
+S'Minutes to Live: When the <em>Nuclear</em> Push Alert Is Not a Mistake'
+p122
+V14-Jan-2018
+p123
+tp124
+a(Vhttps://www.nytimes.com/2018/01/14/world/asia/hawaii-false-alarm-north-korea-nuclear.html
+p125
+S'Hawaii False Alarm Hints at Thin Line Between Mishap and <em>Nuclear War</em>'
+p126
+V14-Jan-2018
+p127
+tp128
+a(Vhttps://www.washingtonpost.com/news/posteverything/wp/2018/01/16/the-hawaii-alert-was-an-accident-the-dread-it-inspired-wasnt/
+p129
+S"The Hawaii alert was an accident. The dread it inspired wasn't."
+p130
+V16-Jan-2018
+p131
+tp132
+a(Vhttps://www.thesun.co.uk/news/5345513/warned-britain-nuclear-attack/
+p133
+S'This is what you would see and hear if a <em>nuclear</em> missile was heading ...'
+p134
+V16-Jan-2018
+p135
+tp136
+a(Vhttps://www.voanews.com/a/north-korea-nuclear-war-scenario-plays-out-in-new-book/4497230.html
+p137
+S'North Korea <em>Nuclear War</em> Scenario Plays Out in New Book'
+p138
+V24-Jul-2018
+p139
+tp140
+a(Vhttps://www.undispatch.com/podcast-this-is-how-nuclear-war-breaks-out-with-north-korea/
+p141
+S'PODCAST: This is How <em>Nuclear War</em> Breaks Out With North Korea'
+p142
+V21-Aug-2018
+p143
+tp144
+a(Vhttps://gpinvestigations.pri.org/in-south-koreas-war-panic-economy-sales-thrive-on-nuclear-angst-edb1dbf0731b
+p145
+S"In South Korea's <em>war</em> panic economy, sales thrive on <em>nuclear</em> angst"
+p146
+V21-Aug-2018
+p147
+tp148
+a(Vhttps://www.npr.org/2017/12/19/572013287/nuclear-strike-drills-faded-away-in-the-1980s-it-may-be-time-to-dust-them-off
+p149
+S'<em>Nuclear Strike</em> Drills Faded Away In The 1980s. It May Be Time To ...'
+p150
+V19-Dec-2017
+p151
+tp152
+a(Vhttps://www.newsweek.com/hawaii-north-korea-nuclear-attack-prepare-750767
+p153
+S'North Korea <em>Nuclear Attack</em>: Hawaii Taking Major Steps To Prepare ...'
+p154
+V17-Dec-2017
+p155
+tp156
+a(Vhttps://nationalinterest.org/blog/buzz/millions-dead-north-korea-would-be-destroyed-if-kim-attacked-america-nuclear-weapon-48457
+p157
+S'Millions Dead: North Korea Would Be Destroyed If Kim <em>Attacked</em> ...'
+p158
+V26-Nov-2017
+p159
+tp160
+a(Vhttps://www.washingtonpost.com/opinions/what-president-trump-could-learn-from-jfks-nuclear-showdown/2017/10/19/cf82e7a6-b503-11e7-a908-a3470754bbb9_story.html
+p161
+S'JFK could help us prevent <em>nuclear war</em>'
+p162
+V19-Oct-2017
+p163
+tp164
+a(Vhttps://www.nytimes.com/2019/05/13/world/middleeast/us-military-plans-iran.html
+p165
+S'White House Reviews Military Plans Against Iran, in Echoes of Iraq <em>War</em>'
+p166
+V14-May-2019
+p167
+tp168
+a(Vhttps://www.kentucky.com/news/business/article230417254.html
+p169
+S'The Latest: FM says Iran is committed to <em>nuclear</em> deal'
+p170
+V15-May-2019
+p171
+tp172
+a(Vhttps://www.rte.ie/news/newslens/2017/1206/925311-china-how-to-survive-a-nuclear-attack/
+p173
+S'How to survive a <em>nuclear attack</em>'
+p174
+V05-Dec-2017
+p175
+tp176
+a(Vhttps://www.reuters.com/article/us-northkorea-missiles-china/chinese-state-media-tells-readers-how-to-survive-a-nuclear-attack-idUSKBN1E00EF
+p177
+S'Chinese state media tells readers how to survive a <em>nuclear attack</em>'
+p178
+V05-Dec-2017
+p179
+tp180
+a(Vhttps://thediplomat.com/2017/12/chinese-newspaper-publishes-nuclear-attack-survival-guide/
+p181
+S'Chinese Newspaper Publishes <em>Nuclear Attack</em> Survival Guide'
+p182
+V07-Dec-2017
+p183
+tp184
+a(Vhttps://www.express.co.uk/news/world/888385/north-korea-latest-news-USA-drills-South-Korea-donald-trump-nuclear-threat
+p185
+S"North Korea <em>nuclear war</em> would affect 'WORLD', Nato warns as USA ..."
+p186
+V05-Dec-2017
+p187
+tp188
+a(Vhttps://theweek.com/articles/740264/why-north-koreas-next-nuclear-test-could-lead-war
+p189
+S"Why North Korea's next <em>nuclear</em> test could lead to <em>war</em>"
+p190
+V04-Dec-2017
+p191
+tp192
+a(Vhttps://www.cnn.com/2017/07/25/politics/north-korea-threatens-nuclear-strike-us/index.html
+p193
+S'North Korea promises <em>nuclear strike</em> on US if regime is threatened'
+p194
+V25-Jul-2017
+p195
+tp196
+a(Vhttps://www.latimes.com/nation/la-na-nuclear-attack-preparations-20170725-story.html
+p197
+S'Duck and cover 2.0: How North Korea is prompting new efforts to ...'
+p198
+V25-Jul-2017
+p199
+tp200
+a(Vhttps://www.cnn.com/2018/03/01/europe/putin-nuclear-missile-video-florida/index.html
+p201
+S'Putin boasts military might with animation of Florida nuke <em>strike</em>'
+p202
+V01-Mar-2018
+p203
+tp204
+a(Vhttps://www.reuters.com/article/us-russia-putin-nuclear-arms/putin-moscow-would-regard-nuclear-attack-on-allies-as-attack-on-russia-idUSKCN1GD4R9
+p205
+S'Putin: Moscow would regard <em>nuclear attack</em> on allies as attack on Russia'
+p206
+V01-Mar-2018
+p207
+tp208
+a(Vhttp://fortune.com/2018/03/01/putin-russia-nuclear-threat-florida-mar-a-lago/
+p209
+S'Why Russia Would Specifically Choose to Threaten Florida With a ...'
+p210
+V01-Mar-2018
+p211
+tp212
+a(Vhttps://www.nytimes.com/2018/03/01/world/europe/russia-putin-speech.html
+p213
+S"Putin's 'Invincible' Missile Is Aimed at US Vulnerabilities"
+p214
+V01-Mar-2018
+p215
+tp216
+a(Vhttps://taskandpurpose.com/small-nuclear-war
+p217
+S"US Revives Idea Of Limited <em>Nuclear War</em> That Doesn't Destroy The ..."
+p218
+V02-Feb-2018
+p219
+tp220
+a(Vhttps://allthingsnuclear.org/lgronlund/trumps-npr-top-take-aways
+p221
+S"Trump's <em>Nuclear</em> Posture Review: Top Take-Aways"
+p222
+V02-Feb-2018
+p223
+tp224
+a(Vhttps://www.straitstimes.com/opinion/cyber-attacks-and-rising-risks-of-an-accidental-nuclear-war
+p225
+S'Cyber attacks and rising risks of an accidental <em>nuclear war</em>'
+p226
+V02-Feb-2018
+p227
+tp228
+a(Vhttps://www.latimes.com/nation/la-na-pol-nuclear-trump-20180202-story.html
+p229
+S'Trump strategy review calls for building smaller <em>nuclear</em> weapons and ...'
+p230
+V02-Feb-2018
+p231
+tp232
+a(Vhttps://www.theguardian.com/books/2018/aug/06/2020-commission-report-north-korean-attacks-against-united-states-jeffrey-lewis-review
+p233
+S'The 2020 Commission Report on the North Korean <em>Nuclear Attacks</em> ...'
+p234
+V06-Aug-2018
+p235
+tp236
+a(Vhttps://www.theverge.com/2018/8/8/17649588/north-korea-nuclear-attack-2020-commission-report-jeffrey-lewis-book-interview
+p237
+S'This is how a leading arms expert imagines a North Korean <em>nuclear</em> ...'
+p238
+V08-Aug-2018
+p239
+tp240
+a(Vhttps://www.cbsnews.com/news/nuclear-weapons-threat-un-chief-anniversary-atomic-bomb-nagasaki-japan/
+p241
+S'UN chief offers a warning on anniversary of last <em>nuclear attack</em>'
+p242
+V09-Aug-2018
+p243
+tp244
+a(Vhttps://www.ncronline.org/news/justice/justice-action-bulletin-atomic-bomb-anniversaries-preventing-nuclear-war
+p245
+S'Justice Action Bulletin: Atomic bomb anniversaries; preventing <em>nuclear</em> ...'
+p246
+V07-Aug-2018
+p247
+tp248
+a(Vhttps://www.wired.com/story/doomsday-clock-nuclear-war/
+p249
+S'Closer to Midnight: The Doomsday Clock and the Threat of <em>Nuclear War</em>'
+p250
+V25-Jan-2018
+p251
+tp252
+a(Vhttps://www.opendemocracy.net/en/transformation/how-to-prevent-nuclear-war/
+p253
+S'How to prevent <em>nuclear war</em>'
+p254
+V24-Oct-2017
+p255
+tp256
+a(Vhttps://www.euronews.com/2017/11/15/which-world-leaders-hold-the-power-to-launch-a-nuclear-attack
+p257
+S'Which world leaders hold the power to launch a <em>nuclear attack</em>?'
+p258
+V15-Nov-2017
+p259
+tp260
+a(Vhttps://www.bbc.co.uk/news/world-47117349
+p261
+S'The weapons making <em>nuclear war</em> more likely'
+p262
+V07-Feb-2019
+p263
+tp264
+a(Vhttps://www.usatoday.com/story/news/world/2018/03/07/china-advice-if-nuclear-attack-neighboring-north-korea-duck-and-run/320200002/
+p265
+S"China's advice if a <em>nuclear attack</em> from neighboring North Korea: duck ..."
+p266
+V07-Mar-2018
+p267
+tp268
+a(Vhttps://www.ctvnews.ca/features/what-if-is-canada-ready-for-a-nuclear-strike-from-north-korea-1.3589303
+p269
+S'What if: Is Canada ready for a <em>nuclear strike</em> from North Korea?'
+p270
+V19-Sep-2017
+p271
+tp272
+a(Vhttps://www.vice.com/en_us/article/ev8nwe/nuclear-war-novel-the-2020-commission-report-jeffrey-lewis
+p273
+S"This Nuke Expert's Terrifying New Novel Is the Warning We Need ..."
+p274
+V16-Jul-2018
+p275
+tp276
+a(Vhttps://www.washingtonexaminer.com/what-exactly-is-an-illegal-nuclear-attack-order
+p277
+S'What exactly is an illegal <em>nuclear attack</em> order?'
+p278
+V20-Nov-2017
+p279
+tp280
+a(Vhttps://nationalinterest.org/feature/north-korea-america-could-stumble-nuclear-war-21942
+p281
+S'North Korea and America Could Stumble into a <em>Nuclear War</em>'
+p282
+V17-Aug-2017
+p283
+tp284
+a(Vhttps://www.popularmechanics.com/military/weapons/a15895621/what-do-to-nuclear-attack/
+p285
+S'What To Do in a <em>Nuclear Attack</em>'
+p286
+V07-Feb-2018
+p287
+tp288
+a(Vhttps://theintercept.com/2018/02/08/donald-trump-nuclear-war/
+p289
+S'Donald Trump Wants to Make It Easier to Start a <em>Nuclear War</em>. This ...'
+p290
+V08-Feb-2018
+p291
+tp292
+a(Vhttps://www.defenseone.com/ideas/2018/02/chance-accidental-nuclear-war-growing/145785/
+p293
+S'The Chance of Accidental <em>Nuclear War</em> Is Growing'
+p294
+V07-Feb-2018
+p295
+tp296
+a(Vhttps://www.cnn.com/2017/12/08/opinions/nuclear-weapons-helfand-opinion/index.html
+p297
+S'Nobel laureate: There is one way to prevent <em>nuclear war</em>'
+p298
+V08-Dec-2017
+p299
+tp300
+a(Vhttps://www.bbc.com/news/world-europe-42298453
+p301
+S"Nobel Peace Prize winner Ican warns <em>nuclear war</em> 'a tantrum away'"
+p302
+V10-Dec-2017
+p303
+tp304
+a(Vhttps://www.theguardian.com/technology/2018/jan/11/cyber-attack-risk-on-nuclear-weapons-systems-relatively-high-thinktank
+p305
+S"Cyber-<em>attack</em> risk on <em>nuclear</em> weapons systems 'relatively high ..."
+p306
+V10-Jan-2018
+p307
+tp308
+a(Vhttps://www.businessinsider.com/chatham-house-report-says-cyber-attacks-can-trigger-nuclear-war-2018-1
+p309
+S'A top think-tank has warned that cyber <em>attacks</em> on <em>nuclear</em> weapons ...'
+p310
+V11-Jan-2018
+p311
+tp312
+a(Vhttps://www.washingtonpost.com/news/posteverything/wp/2018/01/13/the-trump-administrations-new-nuclear-plan-makes-nuclear-war-likelier/
+p313
+S'A new Trump administration plan makes <em>nuclear war</em> likelier'
+p314
+V13-Jan-2018
+p315
+tp316
+a(Vhttps://www.nbcnews.com/news/world/cyberattack-could-lead-inadvertent-nuclear-strike-think-tank-warns-n836731
+p317
+S'Cyberattack could lead to inadvertent <em>nuclear strike</em>, think tank warns'
+p318
+V11-Jan-2018
+p319
+tp320
+a(Vhttps://www.politico.com/magazine/story/2018/01/12/north-korea-strike-nuclear-strategist-216306
+p321
+S"Want to <em>Strike</em> North Korea? It's Not Going to Go the Way You Think."
+p322
+V12-Jan-2018
+p323
+tp324
+a(Vhttps://foreignpolicy.com/2018/01/08/its-time-to-bomb-north-korea/
+p325
+S"It's Time to Bomb North Korea"
+p326
+V08-Jan-2018
+p327
+tp328
+a(Vhttps://www.bloomberg.com/news/articles/2017-10-17/north-korea-warns-that-nuclear-war-could-break-out-any-moment
+p329
+S"North Korea Warns That <em>Nuclear War</em> Could 'Break Out Any Moment'"
+p330
+V17-Oct-2017
+p331
+tp332
+a(Vhttps://www.express.co.uk/news/world/867334/World-War-3-North-Korea-USA-Kim-Jong-un-total-destruction-Donald-Trump-nuclear-disaster
+p333
+S"World <em>War</em> 3: North Korea threatens to 'TOTALLY DESTROY' the US in ..."
+p334
+V16-Oct-2017
+p335
+tp336
+a(Vhttps://www.popularmechanics.com/military/weapons/a19087437/what-putin-would-nuke/
+p337
+S'What Putin Would Nuke'
+p338
+V05-Mar-2018
+p339
+tp340
+a(Vhttp://nymag.com/intelligencer/2018/03/are-putins-new-nukes-a-real-threat.html
+p341
+S"Are Putin's New Nukes a Real Threat?"
+p342
+V04-Mar-2018
+p343
+tp344
+a(Vhttps://lareviewofbooks.org/article/the-terrifying-truth-in-jeffrey-lewiss-novel-on-nuclear-war/
+p345
+S"The Terrifying Truth in Jeffrey Lewis's Novel on <em>Nuclear War</em>"
+p346
+V23-Sep-2018
+p347
+tp348
+a(Vhttps://www.express.co.uk/news/world/898552/North-Korea-Kim-Jong-Un-war-news-latest-USA-world-war-3-nuclear
+p349
+S"USA 'closer to <em>nuclear war</em> than EVER BEFORE' North Korea will NOT ..."
+p350
+V31-Dec-2017
+p351
+tp352
+a(Vhttps://www.washingtonpost.com/world/north-korea-leader-says-he-hasnuclear-button-but-wont-use-unless-threatened/2017/12/31/af3dc188-ee96-11e7-90ed-77167c6861f2_story.html
+p353
+S"North Korean leader says he has '<em>nuclear</em> button' but won't use it ..."
+p354
+V31-Dec-2017
+p355
+tp356
+a(Vhttps://www.dw.com/en/kim-jong-un-north-korea-has-completed-nuclear-program-us-will-never-attack/a-41987633
+p357
+S'Kim Jong Un: North Korea has completed <em>nuclear</em> program, US will ...'
+p358
+V31-Dec-2017
+p359
+tp360
+a(Vhttps://www.washingtonpost.com/news/monkey-cage/wp/2017/10/16/if-trump-wants-to-prevent-nuclear-war-with-north-korea-a-no-first-use-pledge-might-work-better-than-threats/
+p361
+S"If Trump doesn't want a <em>nuclear war</em> with North Korea, a 'No First Use ..."
+p362
+V16-Oct-2017
+p363
+tp364
+a(Vhttps://www.express.co.uk/news/world/862873/world-war-3-latest-news-north-korea-seoul-tokyo-nuclear-strike
+p365
+S'World <em>War</em> 3: North Korea could kill more than 2 MILLION in a <em>nuclear</em> ...'
+p366
+V05-Oct-2017
+p367
+tp368
+a(Vhttps://nationalinterest.org/blog/buzz/100-nuclear-warheads-2020-north-korea-could-hold-world-hostage-41602
+p369
+S'With 100 <em>Nuclear</em> Warheads by 2020, North Korea Could Hold the ...'
+p370
+V15-Jan-2019
+p371
+tp372
+a(Vhttp://nymag.com/intelligencer/2017/03/an-atomic-weapons-expert-on-the-worst-case-nuclear-scenario.html
+p373
+S"An Atomic-Weapons Expert's Worst-Case Scenario for What Trump ..."
+p374
+V13-Mar-2017
+p375
+tp376
+a(Vhttps://qz.com/1080911/stanislav-petrov-who-saved-the-world-from-nuclear-war-is-dead-at-77/
+p377
+S'Stanislav Petrov, the man who saved the world from <em>nuclear war</em>, is ...'
+p378
+V19-Sep-2017
+p379
+tp380
+a(Vhttps://www.theregister.co.uk/2017/09/18/stanislav_petrov_obit/
+p381
+S'RIP Stanislav Petrov: Russian colonel who saved world from all-out ...'
+p382
+V18-Sep-2017
+p383
+tp384
+a(Vhttps://www.timesofisrael.com/the-man-who-saved-the-world-from-nuclear-war-dies-at-77/
+p385
+S"'The man who saved the world' from <em>nuclear war</em> dies at 77"
+p386
+V19-Sep-2017
+p387
+tp388
+a(Vhttps://www.bbc.com/news/world-us-canada-45931231
+p389
+S'Russia <em>nuclear</em> treaty: Gorbachev warns Trump plan will undermine ...'
+p390
+V21-Oct-2018
+p391
+tp392
+a(Vhttps://www.express.co.uk/news/world/1034540/world-war-3-donald-trump-nuclear-deal-russia-military
+p393
+S'World <em>War</em> 3: Trump pulls US out of Cold <em>War nuclear</em> pact - Russia ...'
+p394
+V21-Oct-2018
+p395
+tp396
+a(Vhttps://www.nytimes.com/2019/05/06/world/middleeast/us-iran-iraq-troops-.html
+p397
+S'New Tensions With Iran Threaten <em>Nuclear</em> Deal and, White House ...'
+p398
+V06-May-2019
+p399
+tp400
+a(Vhttps://www.dw.com/en/iran-nuclear-deal-crisis-is-war-with-the-us-ahead/a-48653741
+p401
+S'Iran <em>nuclear</em>-deal crisis: Is <em>war</em> with the US ahead?'
+p402
+V08-May-2019
+p403
+tp404
+a(Vhttps://www.vox.com/2019/5/7/18535497/usa-iran-war-trump-embassy-iraq-nuclear
+p405
+S'The growing, dangerous US-Iran standoff, explained'
+p406
+V07-May-2019
+p407
+tp408
+a(Vhttps://www.cnn.com/2018/04/13/asia/north-korea-syria-strike-intl/index.html
+p409
+S"Trump's <em>strike</em> on Syria is exactly why North Korea wants <em>nuclear</em> ..."
+p410
+V13-Apr-2018
+p411
+tp412
+a(Vhttps://qz.com/1558132/trumps-risky-nuclear-double-standard-on-north-korea-and-iran/
+p413
+S"Why does Trump ignore North Korea's non-<em>nuclear</em> troublemaking?"
+p414
+V24-Feb-2019
+p415
+tp416
+a(Vhttps://www.scmp.com/week-asia/opinion/article/2184742/cold-war-inf-nuclear-treaty-dead-killed-rise-china-and-trump
+p417
+S'The cold <em>war</em> INF <em>nuclear</em> treaty is dead, killed by rise of China and ...'
+p418
+V01-Feb-2019
+p419
+tp420
+a(Vhttps://www.politico.com/magazine/story/2019/02/01/russia-us-nuclear-weapons-inf-treaty-analysis-224538
+p421
+S'The US and Russia Are Sleepwalking Toward <em>Nuclear</em> Disaster'
+p422
+V01-Feb-2019
+p423
+tp424
+a(Vhttps://www.csoonline.com/article/3248986/pentagon-considers-nuclear-response-to-retaliate-for-large-cyber-attacks.html
+p425
+S'Pentagon considers <em>nuclear</em> response to retaliate for large cyber <em>attacks</em>'
+p426
+V17-Jan-2018
+p427
+tp428
+a(Vhttps://www.ft.com/content/d2241b68-fc31-11e7-9b32-d7d59aace167
+p429
+S'<em>Nuclear</em> weapons are a risky defence against cyber <em>attacks</em>'
+p430
+V18-Jan-2018
+p431
+tp432
+a(Vhttps://www.nytimes.com/2018/01/16/us/politics/pentagon-nuclear-review-cyberattack-trump.html
+p433
+S'Pentagon Suggests Countering Devastating Cyberattacks With ...'
+p434
+V16-Jan-2018
+p435
+tp436
+a(Vhttps://www.teenvogue.com/story/how-to-prepare-for-a-nuclear-attack
+p437
+S'How to Prepare for a <em>Nuclear Attack</em>'
+p438
+V26-Apr-2017
+p439
+tp440
+a(Vhttps://www.cnn.com/2017/09/23/opinions/north-korea-cyberattack-oneill-opinion/index.html
+p441
+S"<em>Nuclear war</em> isn't North Korea's only threat"
+p442
+V23-Sep-2017
+p443
+tp444
+a(Vhttps://www.vox.com/the-big-idea/2018/8/6/17655256/hiroshima-anniversary-73-nuclear-weapons-proliferation-arms-control
+p445
+S'The Hiroshima anniversary: 5 things you should know about <em>nuclear</em> ...'
+p446
+V06-Aug-2018
+p447
+tp448
+a(Vhttps://www.japantimes.co.jp/opinion/2018/08/05/commentary/japan-commentary/japans-nuclear-options/
+p449
+S"Japan's <em>nuclear</em> options"
+p450
+V05-Aug-2018
+p451
+tp452
+a(Vhttps://www.theatlantic.com/international/archive/2019/02/pakistan-india-nuclear-north-korea-trump/583723/
+p453
+S'The <em>Nuclear</em> Game Theory of the India-Pakistan Crisis'
+p454
+V27-Feb-2019
+p455
+tp456
+a(Vhttps://www.ccn.com/trump-nuclear-north-korea-india-pakistan
+p457
+S'Trump Fails to Rein in <em>Nuclear</em> Nations: North Korea Summit Breaks ...'
+p458
+V28-Feb-2019
+p459
+tp460
+a(Vhttps://metro.co.uk/2018/08/22/heres-how-the-next-nuclear-war-could-start-by-north-korea-expert-7871845/
+p461
+S"Here's how the next <em>nuclear war</em> could start, by North Korea expert"
+p462
+V22-Aug-2018
+p463
+tp464
+a(Vhttps://www.nytimes.com/2018/01/05/health/cdc-nuclear-attack.html
+p465
+S'The CDC Wants to Get People Prepared for <em>Nuclear War</em>'
+p466
+V05-Jan-2018
+p467
+tp468
+a(Vhttps://www.nytimes.com/2017/07/05/world/asia/north-korea-south-us-nuclear-war.html
+p469
+S"In North Korea, 'Surgical <em>Strike</em>' Could Spin Into 'Worst Kind of Fighting'"
+p470
+V06-Jul-2017
+p471
+tp472
+a(Vhttps://www.vox.com/world/2018/7/23/17602480/trump-tweet-iran-threat-war
+p473
+S"What Trump's threatened <em>war</em> with Iran would actually look like"
+p474
+V23-Jul-2018
+p475
+tp476
+a(Vhttps://cisac.fsi.stanford.edu/news/why-nuclear-deterrence-can-work-north-korea
+p477
+S'Why <em>nuclear</em> deterrence can work on North Korea'
+p478
+V14-Nov-2017
+p479
+tp480
+a(Vhttps://www.bbc.com/news/world-latin-america-47635706
+p481
+S'Brazil gunmen shoot at convoy carrying <em>nuclear</em> fuel in Angra dos Reis'
+p482
+V20-Mar-2019
+p483
+tp484
+a(Vhttps://nypost.com/2019/02/25/russian-state-tv-lists-american-targets-for-nuclear-strikes/
+p485
+S'Russian state TV lists American targets for <em>nuclear strikes</em>'
+p486
+V25-Feb-2019
+p487
+tp488
+a(Vhttps://www.militarytimes.com/news/your-military/2019/02/25/these-us-bases-are-at-the-top-of-a-russian-nuke-hit-list/
+p489
+S"This Russian nuke 'hit list' includes bases that have been closed for ..."
+p490
+V25-Feb-2019
+p491
+tp492
+a(Vhttps://www.wsj.com/articles/russia-names-u-s-targets-of-nuclear-retaliation-11551114598
+p493
+S'Russia Names US Targets of <em>Nuclear</em> Retaliation'
+p494
+V25-Feb-2019
+p495
+tp496
+a(Vhttps://www.nytimes.com/2017/07/06/technology/nuclear-plant-hack-report.html
+p497
+S'Hackers Are Targeting <em>Nuclear</em> Facilities, Homeland Security Dept ...'
+p498
+V06-Jul-2017
+p499
+tp500
+a(Vhttps://www.newsweek.com/putin-russia-nuclear-war-834553
+p501
+S'Putin: Russia Would Retaliate If Hit by a <em>Nuclear Attack</em>, Even If It Led ...'
+p502
+V07-Mar-2018
+p503
+tp504
+a(Vhttps://www.abc.net.au/news/2018-03-07/stan-grant-nuclear-threat-growing-news-cold-war-era-tensions/9522070
+p505
+S'Stan Grant: Threat of terrorism has been replaced by fear of <em>nuclear</em> ...'
+p506
+V06-Mar-2018
+p507
+tp508
+a(Vhttps://nationalpost.com/news/canada/how-prepared-is-canada-for-a-nuclear-attack-we-get-on-our-knees-and-pray
+p509
+S"How prepared is Canada for a <em>nuclear attack</em>? 'We get on our knees ..."
+p510
+V12-Oct-2017
+p511
+tp512
+a(Vhttps://www.foreignaffairs.com/articles/north-korea/2017-08-22/take-preventive-war-north-korea-table
+p513
+S'Take Preventive <em>War</em> With North Korea Off the Table'
+p514
+V21-Aug-2017
+p515
+tp516
+a(Vhttps://www.nytimes.com/2017/08/20/world/asia/north-korea-war-trump.html
+p517
+S"Talk of 'Preventive <em>War</em>' Rises in White House Over North Korea"
+p518
+V20-Aug-2017
+p519
+tp520
+a(Vhttps://warontherocks.com/2018/02/command-and-control-in-the-nuclear-posture-review-right-problem-wrong-solution/
+p521
+S'Command and Control in the <em>Nuclear</em> Posture Review: Right Problem ...'
+p522
+V05-Feb-2018
+p523
+tp524
+a(Vhttps://www.thedailybeast.com/how-a-north-korean-missile-could-accidentally-trigger-a-us-russia-nuclear-war
+p525
+S'How a North Korean Missile Could Accidentally Trigger a US-Russia ...'
+p526
+V10-Jul-2017
+p527
+tp528
+a(Vhttps://www.nytimes.com/2019/03/03/opinion/nuclear-weapons-congress.html
+p529
+S'The New Age of <em>Nuclear</em> Confrontation Will Not End Well'
+p530
+V03-Mar-2019
+p531
+tp532
+a(Vhttps://www.express.co.uk/news/world/1095596/nuclear-war-china-missiles-russia-vladimir-putin-US-donald-trump-INF-treaty-europe
+p533
+S"<em>Nuclear war</em> WARNING: China's missiles could THREATEN Russia ..."
+p534
+V04-Mar-2019
+p535
+tp536
+a(Vhttps://www.aljazeera.com/news/2019/05/iran-hits-trump-nuclear-weapons-comment-190527234526280.html
+p537
+S'Iran hits out at US after Trump <em>nuclear</em> weapons comment'
+p538
+V10 hours ago
+p539
+tp540
+a(Vhttps://www.business-standard.com/article/pti-stories/iran-slams-us-after-trump-nuclear-weapons-comment-119052800075_1.html
+p541
+S'Iran slams US after Trump <em>nuclear</em> weapons comment'
+p542
+V14 hours ago
+p543
+tp544
+a(Vhttps://www.japantimes.co.jp/news/2019/05/28/world/politics-diplomacy-world/iran-slams-u-s-causing-tensions-trump-nuclear-weapons-comment/
+p545
+S"Iran slams US for 'causing tensions' after Trump <em>nuclear</em> weapons ..."
+p546
+V14 hours ago
+p547
+tp548
+a(Vhttps://sports.yahoo.com/trump-says-iran-nuclear-deal-possible-sanctions-bite-094932624.html
+p549
+S'Trump says Iran <em>nuclear</em> deal achievable as sanctions sting'
+p550
+V15 hours ago
+p551
+tp552
+a(Vhttps://www.independent.co.uk/news/world/asia/north-korea-crisis-latest-today-us-aircraft-carriers-nuclear-war-threat-ja-song-nam-un-a8053881.html
+p553
+S'North Korea warns <em>nuclear war</em> threat heightened by US aircraft ...'
+p554
+V14-Nov-2017
+p555
+tp556
+a(Vhttps://nationalinterest.org/blog/the-buzz/america-preparing-nuclear-war-china-24753
+p557
+S'Is America Preparing for a <em>Nuclear War</em> with China?'
+p558
+V05-Mar-2018
+p559
+tp560
+a(Vhttps://www.newstatesman.com/2017/08/how-worried-should-we-be-about-nuclear-war-north-korea
+p561
+S'How worried should we be about a <em>nuclear war</em> with North Korea?'
+p562
+V09-Aug-2017
+p563
+tp564
+a(Vhttps://www.bbc.com/news/world-middle-east-43481803
+p565
+S'Israel admits striking suspected Syrian <em>nuclear</em> reactor in 2007'
+p566
+V20-Mar-2018
+p567
+tp568
+a(Vhttps://economictimes.indiatimes.com/news/international/world-news/it-pakistan-attacks-india-could-finish-us-with-20-nuclear-bombs-pervez-musharraf/articleshow/68149434.cms
+p569
+S'It Pakistan <em>attacks</em>, India could finish us with 20 <em>nuclear</em> bombs ...'
+p570
+V24-Feb-2019
+p571
+tp572
+a(Vhttps://www.news18.com/news/india/if-pakistan-attacks-with-one-nuclear-bomb-india-can-finish-us-with-20-pervez-musharraf-2047265.html
+p573
+S'If Pakistan <em>Attacks</em> With One <em>Nuclear</em> Bomb, India Can Finish Us With ...'
+p574
+V24-Feb-2019
+p575
+tp576
+a(Vhttps://timesofindia.indiatimes.com/india/no-nuclear-attack-from-pakistan-on-india-musharraf/articleshow/68138934.cms
+p577
+S'No <em>nuclear attack</em> from Pakistan on India: Musharraf'
+p578
+V24-Feb-2019
+p579
+tp580
+a(Vhttps://www.historyextra.com/period/20th-century/why-north-korea-went-nuclear/
+p581
+S'Why North Korea went <em>nuclear</em>'
+p582
+V11-Jun-2018
+p583
+tp584
+a(Vhttps://nationalinterest.org/blog/the-buzz/can-us-missile-defenses-asia-stop-north-korean-nuclear-21550
+p585
+S'Can US Missile Defenses in Asia Stop a North Korean <em>Nuclear Attack</em>?'
+p586
+V17-Jul-2017
+p587
+tp588
+a(Vhttps://www.washingtonpost.com/national/hawaii-tests-nuclear-alarms-as-north-korea-threat-escalates/2017/12/01/8853a876-d6a9-11e7-b62d-d9345ced896d_story.html
+p589
+S'Hawaii tests <em>nuclear</em> alarms as North Korea threat escalates'
+p590
+V02-Dec-2017
+p591
+tp592
+a(Vhttps://www.cnn.com/2017/11/02/politics/us-bombers-north-korea/index.html
+p593
+S"N. Korea accuses US of '<em>nuclear strike</em> drill' after bomber flights"
+p594
+V02-Nov-2017
+p595
+tp596
+a(Vhttps://globalnews.ca/news/4161040/nuclear-attack-warning-winnipeg-prank/
+p597
+S"<em>Nuclear attack</em> warning in Winnipeg was a prank: Here's how to spot ..."
+p598
+V23-Apr-2018
+p599
+tp600
+a(Vhttps://www.hindustantimes.com/india-news/india-could-strike-pakistan-with-nuclear-weapons-if-threatened-says-expert/story-P5N8QuKOldxAJ9UPjboijM.html
+p601
+S'India could <em>strike</em> Pakistan with <em>nuclear</em> weapons if threatened, says ...'
+p602
+V20-Mar-2017
+p603
+tp604
+a(Vhttps://www.nytimes.com/2017/04/13/world/asia/moab-mother-of-all-bombs-afghanistan.html
+p605
+S"US Drops 'Mother of All Bombs' on ISIS Caves in Afghanistan"
+p606
+V13-Apr-2017
+p607
+tp608
+a(Vhttps://www.npr.org/2019/03/01/698909173/opinion-trump-just-walked-away-from-the-best-north-korea-deal-hell-ever-get
+p609
+S'Opinion: Trump Just Walked Away From The Best North Korea Deal ...'
+p610
+V01-Mar-2019
+p611
+tp612
+a(Vhttps://www.businessinsider.com/russia-threatens-us-with-nuclear-doomsday-device-after-inf-failure-2019-2
+p613
+S'Russian media threatens US with 100-megaton <em>nuclear</em> doomsday ...'
+p614
+V05-Feb-2019
+p615
+tp616
+a(Vhttps://www.nytimes.com/2019/02/26/world/europe/russia-nuclear-cathedral-choir.html
+p617
+S"'Aim, I Say, at the City of Washington!' Russia Revives Cold <em>War</em> ..."
+p618
+V26-Feb-2019
+p619
+tp620
+a.

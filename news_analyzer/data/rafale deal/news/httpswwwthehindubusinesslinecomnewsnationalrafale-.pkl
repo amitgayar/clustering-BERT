@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+VOpposition Congress on Friday accused the BJP-led government of lying before the Supreme Court by citing a \u201cnon-existent\u201d CAG report on Rafale deal and demanded that Prime Minister Narendra Modi reply
+p4
+sS'datetime'
+p5
+V04-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.thehindubusinessline.com/news/national/rafale-deal-cong-accuses-govt-of-lying-ask-pm-to-respond-in-lok-sabha/article25909374.ece
+p8
+sS'title'
+p9
+VRafale deal: Congress accuses govt of lying, ask PM to respond in Lok Sabha
+p10
+s.

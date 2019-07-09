@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe Securities and Exchange Board of India (Sebi) has issued a directive to (MF) for allegedly violating the MF code of conduct by making a large investment in the initial public offering (IPO) of its group firm ICICI Securities. The investment allowed the IPO to meet a minimum subscription requirement, without which it would have failed.\u000a\u000aThe market regulator has directed the fund house to refund Rs 2.4 billion with an annual interest of 15 per cent to five schemes of the MF which invested in the IPO.\u000a\u000aFurther, the regulator also ordered compensating investors who have redeemed their units since the date of allotment of shares in the IPO. The fund house was asked to determine the schemes\u2019 loss because of the fall in share price after listing, said a person aware of the development.\u000a\u000aAccording to Sebi, the fund house has violated the (Mutual Funds) Regulations, 1996, which includes violation of the code of conduct.\u000a\u000a \u000a\u000a\u000a\u000aSebi\u2019s MF code of conduct includes requirements for integrity and avoiding conflict of interest. It notes that MFs must avoid conflict of interest in managing the affairs of the schemes and keep the interests of all unit holders paramount in all matters. It says that the AMC shall carry out the business and invest in accordance with the investment objectives stated in the offer documents.\u000a\u000aIt will also take investment decision solely in the interest of unit holders.\u000a\u000aICICI Prudential MF under five of its schemes - ICICI Prudential Balanced Advantage Fund, ICICI Prudential Balanced Fund, ICICI Prudential Banking and Financial Services Fund, ICICI Prudential Focused Bluechip Equity Fund, and ICICI Prudential Value Fund Series 19 - applied for and was allotted 12.3 million shares at a price of Rs 520 apiece, totalling Rs 6.40 billion in the qualified institutional buyer (QIB) category.\u000a\u000aThe regulator noted that the MF had applied for Rs 4 billion on the first day, and later made an additional last-day investment of Rs 2.4 billion.\u000a\u000a\u201cThe decision to revise bids and make additional bids on the last day is a clear indication of facilitating subscription in the QIB portion, so that the issue does not fail,\u201d said in a directive to ICICI Prudential Asset Management Company (AMC).\u000a\u000aAn email sent to ICICI Prudential AMC did not elicit any response. ICICI Securities had to reduce its IPO size to Rs 35.2 billion, following poor response from investors. It had initially planned to raise over Rs 40 billion. The IPO would have fallen short of the required 75 per cent QIB subscription if not for ICICI Prudential MF\u2019s investment on the last day. The subscription would have been 70.11 per cent, excluding this second investment by ICICI Prudential MF.\u000a\u000aThe ICICI Securities stock closed at Rs 440 on its listing day (April 4, 2018) before hitting a high of Rs 462.70 on the BSE. It has never scaled to the IPO price of Rs 520 and since then, has been declining gradually to close at Rs 326.10 on Monday, an over 37 per cent fall in less than three months.
+p2
+sS'meta_description'
+p3
+S'Read more about Sebi directs ICICI Prudential MF to refund Rs 2.4 billion to five schemes on Business Standard. Regulator finds fund house violated MF code of conduct'
+p4
+sS'datetime'
+p5
+V02-Jul-2018
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/markets/sebi-directs-icici-prudential-mf-to-refund-rs-2-4-billion-to-five-schemes-118070300069_1.html
+p8
+sS'title'
+p9
+VSebi directs ICICI Prudential MF to refund Rs 2.4 billion to five schemes
+p10
+s.

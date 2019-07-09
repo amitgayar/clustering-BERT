@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VDays after President Vladimir Putin said the Kremlin wouldn\u2019t back away from a second \u201cCuban Missile\u201d-style crisis, Russian state TV listed US facilities that Moscow would target in the event of a nuclear strike \u2014 including the Pentagon and the presidential retreat at Camp David.\u000a\u000aWith tensions mounting over Russian fears that the US might deploy intermediate-range nuclear missiles in Europe, Putin has said Russia would be forced to respond by placing hypersonic nuclear missiles on submarines near American waters.\u000a\u000aWashington says it has no immediate plans to deploy such missiles in Europe and has dismissed Putin\u2019s warnings as mere propaganda \u2014 but President Trump\u2019s decision to leave the 1987 Intermediate-range Nuclear Forces Treaty over an alleged Russian violation has freed it to start developing and deploying such missiles.\u000a\u000aThe Russian strongman has said Moscow does not want a new arms race, but has also ratcheted up his military rhetoric, which some analysts have viewed as a tactic to try to re-engage the US in talks about the strategic balance between the two powers.\u000a\u000aOn a Sunday evening broadcast, TV show \u201cVesti Nedeli\u201d presenter Dmitry Kiselyov showed a map of the US and identified several targets that he said Moscow would want to hit in the event of a nuclear war.\u000a\u000aThe targets, which Kiselyov described as US presidential or military command centers, also included Fort Ritchie, a military training center in Maryland closed in 1998; McClellan, a US Air Force base in California closed in 2001; and Jim Creek, a naval communications base in Washington state.\u000a\u000aKiselyov said the \u201cTsirkon\u201d hypersonic missile that Russia is developing could hit the targets in less than five minutes if launched from Russian subs.\u000a\u000aHypersonic flight is generally taken to mean traveling through the atmosphere at more than five times the speed of sound.\u000a\u000a\u201cFor now, we\u2019re not threatening anyone, but if such a deployment takes place, our response will be instant,\u201d he said.\u000a\u000aKiselyov once said Moscow could turn the US into radioactive ash.\u000a\u000aAsked to comment on Kiselyov\u2019s report, the Kremlin said Monday it did not interfere in the editorial policy of state TV.
+p2
+sS'meta_description'
+p3
+VDays after President Vladimir Putin said the Kremlin wouldn\u2019t back away from a second \u201cCuban Missile\u201d-style crisis, Russian state TV listed US facilities that Moscow would target in the event of a nuclear strike \u2013 including the Pentagon and the presidential retreat in Camp David.
+p4
+sS'datetime'
+p5
+V25-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://nypost.com/2019/02/25/russian-state-tv-lists-american-targets-for-nuclear-strikes/
+p8
+sS'title'
+p9
+VRussian state TV lists American targets for nuclear strikes
+p10
+s.

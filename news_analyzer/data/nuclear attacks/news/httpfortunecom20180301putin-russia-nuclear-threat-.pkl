@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VRussian president Vladimir Putin significantly escalated anti-American rhetoric Tuesday with a chilling video of a new \u201cinvincible\u201d nuclear weapon that was shown striking Florida in a CGI video.\u000a\u000aThe video, shown at Putin\u2019s annual address to the country\u2019s Federal Assembly, raised all sorts of questions, including why Putin decided to ramp up tensions and how the U.S. (and Donald Trump) might respond. But the one question many people were asking was pretty basic: Why Florida?\u000a\u000aThe state, after all, is the home of Walt Disney World and other tourist-friendly attractions, but is not generally thought to be a focal point for the country\u2019s nuclear arsenal.\u000a\u000aFlorida is the home to Mar-a-Lago, though, Trump\u2019s favorite retreat. He has spent at least 56 days there since entering the Oval Office. And Putin\u2019s comments follow months of Trump\u2019s call to strengthen the U.S. nuclear arsenal.\u000a\u000aMar-a-Lago, incidentally, reportedly has three bomb shelters on site.\u000a\u000aFlorida is also the home to MacDill Air Force Base, headquarters for United States Central Command (USCENTCOM), and United States Special Operations Command (USSOCOM)\u2014separate, but critical, commands that are run by a four-star general or admiral.\u000a\u000aJust last year, officials discussed the impact a nuclear weapon strike would have on MacDill and the surrounding area, noting that a strike was highly improbable (though the focus, at the time, was on North Korea).\u000a\u000aPutin says he has no plans to start a preemptive nuclear war, but was very clear that sanctions would not deter him\u2014and that the West should be very careful about how it proceeds in other parts of the world.\u000a\u000a\u201cI want to tell all those who have fueled the arms race over the last 15 years, sought to win unilateral advantages over Russia, introduced unlawful sanctions aimed to contain our country\u2019s development \u2026 you have failed to contain Russia,\u201d Putin said, later adding that \u201cany use of nuclear weapons against Russia or its allies \u2026 any kind of attack \u2026 will be regarded as a nuclear attack against Russia and in response we will take action instantaneously no matter what the consequences are. Nobody should have any doubt about that.\u201d
+p2
+sS'meta_description'
+p3
+S"Shocking video of 'invincible' nuclear weapon changes tone of U.S./Russian relationship."
+p4
+sS'datetime'
+p5
+V01-Mar-2018
+p6
+sS'link'
+p7
+Vhttp://fortune.com/2018/03/01/putin-russia-nuclear-threat-florida-mar-a-lago/
+p8
+sS'title'
+p9
+VWhy Russia Would Specifically Choose to Threaten Florida With a Nuclear Blast
+p10
+s.

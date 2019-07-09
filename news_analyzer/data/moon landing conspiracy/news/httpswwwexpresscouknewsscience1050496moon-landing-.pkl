@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VAlmost 50 years ago, the US achieved one of the greatest feats in human history when NASA sent humans to the moon in 1969. However, conspiracy theorists to this day claim that the Americans faked the entire moon landing to assert its dominance over the then USSR at the height of the Cold War. Russia is seemingly also not fully convinced by the United States\u2019 claims, and when it sends people and robots to the moon.\u000a\u000aThe country\u2019s space agency, Roscosmos, has previously stated it will start building a lunar base in 2025 with humans being stationed there from 2030 or 2031. While there, the head of Roscosmos, Dmitry Rogozin, said they will check America\u2019s claims. After being asked in NASA landed there, Mr Rogozin said: "We have set this objective to fly and verify whether they've been there or not.\u201d While Mr Rogozin\u2019s answer may have been tongue-in-cheek, this is not the first time Russia has had concerns over NASA\u2019s claims.\u000a\u000aIn a 2015 article published in the Russian newspaper Izvestia, a spokesperson for the Russian Investigative Committee, Vladimir Markin, called for an international probe over the disapearence of filmed footage of the moon landing. He said: "We are not contending that they did not fly to the Moon, and simply made a film about it. "But all of these scientific \u2013 or perhaps cultural \u2013 artefacts are part of the legacy of humanity, and their disappearance without a trace is our common loss.\u000a\u000aNASA however has recently announced it will be returning to the moon, and there will be no doubt about the authenticity then. The space agency made the spectacular announcement in a tantalising video and seems to be a solution to the Space Policy Directive-1, which Donald Trump signed last year with orders for NASA to increase its physical space exploration efforts. One of the main goals in the document is to return humans to the surface of the Moon, and another is to lead the charge to build a station on the Moon so humans can use it as a pit stop to Mars. The plan is also to send more robotic missions to the Moon study how humans can get to Mars and other worlds.
+p2
+sS'meta_description'
+p3
+VRUSSIA will \u201cverify\u201d whether the US truly did ever land on the moon when the eastern European giant heads to the lunar satellite.
+p4
+sS'datetime'
+p5
+V26-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/science/1050496/moon-landing-conspiracy-nasa-russia-us-roscosmos
+p8
+sS'title'
+p9
+VMoon landing SHOCK: Russia to \u2018VERIFY\u2019 whether NASA REALLY went to the moon
+p10
+s.

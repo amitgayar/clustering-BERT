@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'ICICI Bank-Videocon Group: The bank informed about this development relating to Chanda Kochhar, Deepak Kochhar, NuPower Renewables in a filing to the Bombay Stock Exchange on Friday.'
+p4
+sS'datetime'
+p5
+V25-May-2018
+p6
+sS'link'
+p7
+Vhttps://www.ndtv.com/business/videocon-case-sebi-issues-notice-to-icici-bank-managing-director-and-ceo-chanda-kochhar-1857622
+p8
+sS'title'
+p9
+VVideocon Case: Sebi Issues Notice To ICICI Bank MD Chanda Kochhar
+p10
+s.

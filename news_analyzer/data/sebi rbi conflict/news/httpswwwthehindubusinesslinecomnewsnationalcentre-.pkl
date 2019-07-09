@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'Mitra also said it was unfortunate that there are two camps within the CBI, which is the premier investigative agency in the country.'
+p4
+sS'datetime'
+p5
+V23-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://www.thehindubusinessline.com/news/national/centre-does-not-know-how-to-manage-institutions-like-rbi-cbi-wb-finance-minister/article25579263.ece
+p8
+sS'title'
+p9
+VCentre does not know how to manage institutions like RBI, CBI: WB Finance Minister
+p10
+s.

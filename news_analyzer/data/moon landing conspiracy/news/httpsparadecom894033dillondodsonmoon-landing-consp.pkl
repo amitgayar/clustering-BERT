@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VOn July 20, 1969, Neil Armstrong landed NASA\u2019s Apollo 11 on the moon. Though televised live for the world to see, some people (about 6 percent of Americans, according to a 1999 Gallup poll) believe that this feat never occurred. So what do these conspirators believe happened instead, and why? Here are a few hypotheses.\u000a\u000aRelated: It\u2019s the 50th Anniversary of the Apollo 11 Moon Landing! Celebrating Mankind\u2019s Giant Leap\u000a\u000aThe Cold War was a period of political and military tension that lasted many years and underwent many phases without any actual combat. The Space Race was an intellectual facet of this feud as both nations were competing for scientific advancement in sending the first human beings to the moon; the Soviet Union was slightly ahead of the United States for years as they completed many firsts in this quest, including the first spacecraft to reach the moon\u2019s surface, the Luna 2. Conspiracy theorists claim that the U.S. faked the Apollo 11 manned landing as they knew they couldn\u2019t actually beat the Soviets, so they must have cheated instead.\u000a\u000aOne of the most popular lunar conspiracy theories is that NASA used a secret Hollywood film studio to shoot a faked landing, using a painted backdrop to depict space and wire and harnesses to \u201cland\u201d the spacecraft and astronauts on the surface. Some of these conspiracy theorists speculate the scene was scripted by science fiction writer Arthur C. Clarke and directed by acclaimed filmmaker Stanley Kubrick as these two worked together on Kubrick\u2019s film (based on Clarke\u2019s book) 2001: A Space Odyssey, and that NASA used this film as inspiration for their plan. In Room 237, a movie about all the possible explanations of Kubrick\u2019s film The Shining, an Apollo 11 conspiracy theorist claims Kubrick made The Shining to admit to his involvement with the faked landing using subliminal and thematic imagery, especially in the scene where Danny, wearing an Apollo 11 sweater, meanders into the Overlook Hotel\u2019s Room 237 to greet the eerie woman in the tub.\u000a\u000aLooking at film and photographs from the Apollo 11 mission, the evidence conspiracists use to further their theories include a lack of stars in the perceived space, the nonsensical waving of the American flag on a windless Moon, and a visible \u201cC\u201d on a rock which theorists claim is a studio prop. Experts respond to this criticism saying light pollution from the Sun dilutes the appearance of stars, that the flag is still and only appears to be moving because it is wrinkled, and that the \u201cC\u201d is a distortion of the photograph itself, possibly a hair that obfuscated the print.\u000a\u000aTheorists also point to the natural characteristics of our atmosphere and the moon as reasons why the landing could not have happened. This includes radiation from the Van Allen Belts around Earth that would poison the astronauts and that footprints from a spacesuit shouldn\u2019t be seen on the moon because of the lack of moisture. Experts on the matter, as well as an episode of Mythbusters, rebuke these claims with science too.\u000a\u000aIn 2002, Bart Sibrel, a filmmaker and Apollo 11 conspiracy theorist, aggressively confronted Buzz Aldrin about his time on the moon. After repeatedly asking the astronaut to \u201cswear on the Bible that [Aldrin] walked on the Moon,\u201d then calling Aldrin \u201ca coward, and a liar, and a thief,\u201d Aldrin struck Sibrel in the face. No one was hurt, and claiming self-defense for himself and his stepdaughter, no charges were filed.\u000a\u000aRelated: Happy Birthday, Buzz Aldrin! 13 of His Most Iconic Apollo 11 Photos
+p2
+sS'meta_description'
+p3
+VOn July 20, 1969, Neil Armstrong landed NASA\u2019s Apollo 11 on the moon. Though televised live for the world to see, some people (about 6 percent of Americans, according to a 1999 Gallup poll) believe that this feat never occurred. So what do these conspirators believe happened instead, and why? Here are a few hypotheses.Related: It\u2019s [...]
+p4
+sS'datetime'
+p5
+V21-Jun-2019
+p6
+sS'link'
+p7
+Vhttps://parade.com/894033/dillondodson/moon-landing-conspiracy-theories/
+p8
+sS'title'
+p9
+V5 of the Craziest Moon Landing Conspiracy Theories & Why People Believed Them
+p10
+s.

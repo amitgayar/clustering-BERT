@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'To avoid the potential conflict of interest, markets regulator SEBI is considering to put a 10 per cent cross-shareholding cap in mutual funds, senior officials said.\nThe new measure may have an impac'
+p4
+sS'datetime'
+p5
+V27-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.thehindubusinessline.com/markets/sebi-may-put-10-crossshareholding-cap-in-mutual-funds/article10003518.ece
+p8
+sS'title'
+p9
+VSEBI may put 10% cross-shareholding cap in mutual funds
+p10
+s.

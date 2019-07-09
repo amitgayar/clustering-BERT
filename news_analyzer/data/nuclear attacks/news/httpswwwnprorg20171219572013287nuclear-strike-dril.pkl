@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'Nuclear civil defense fell out of favor in the latter years of the Cold War. But, as North Korea builds its nuclear arsenal, local officials are reluctant to bring it back.'
+p4
+sS'datetime'
+p5
+V19-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://www.npr.org/2017/12/19/572013287/nuclear-strike-drills-faded-away-in-the-1980s-it-may-be-time-to-dust-them-off
+p8
+sS'title'
+p9
+VNuclear Strike Drills Faded Away In The 1980s. It May Be Time To Dust Them Off
+p10
+s.

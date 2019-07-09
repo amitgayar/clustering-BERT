@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA Russian state television program laid out the precise U.S. military sites it would target in the event of a nuclear attack and bragged about the speed in which it could hit them.\u000a\u000aAnd that speed might have made a real difference 20 years ago when some of those bases were still open.\u000a\u000aThat information was released by Dmitry Kiselyov \u2014 the host of Russia\u2019s main nightly news show, \u201cVesti Nedeli\u201d \u2014 according to a Reuters report.\u000a\u000aKiselyov used a map of the United States to point out the targets Russia would go after if a nuclear war should break out. Some of them were obvious, like the Pentagon or the presidential retreat at Camp David, Maryland.\u000a\u000aHe also mentioned two defunct military facilities: Fort Ritchie, a Maryland training center that closed in 1998, and McClellan, a California Air Force base that hasn\u2019t been in use since 2001. Jim Creek, a Navy communications base in Washington state, was also listed as a potential target.\u000a\u000aIn addition to specifying which U.S. sites it would hit, Kiselyov also said that the \u201cTsirkon\u201d hypersonic missile that the Kremlin is currently making can reach these targets in under five minutes once launched from Russian submarines.\u000a\u000a\u201cFor now, we\u2019re not threatening anyone,\u201d he said. \u201cBut if such a deployment takes place, our response will be instant.\u201d\u000a\u000aKiselyov is known for having close ties to the Kremlin and for being one of the most prominent anti-American figures on Russian state television.\u000a\u000aThe Kremlin told Reuters that it did not have a comment on Kiselyov\u2019s report beyond saying that it does not get in the way of Russian state TV\u2019s editorial policies.\u000a\u000aThis report came less than a week after Russian President Vladimir Putin said that Russia is prepared for a \u201cCuban Missile\u201d-esque nuclear crisis if provoked and threatened to place submarines equipped with hypersonic missiles near U.S. waters.
+p2
+sS'meta_description'
+p3
+S'A Russian state TV personality used a map of the United States to point out the targets Russia would go after if a nuclear war should break out.'
+p4
+sS'datetime'
+p5
+V25-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.militarytimes.com/news/your-military/2019/02/25/these-us-bases-are-at-the-top-of-a-russian-nuke-hit-list/
+p8
+sS'title'
+p9
+VThis Russian nuke \u2018hit list\u2019 includes bases that have been closed for years
+p10
+s.

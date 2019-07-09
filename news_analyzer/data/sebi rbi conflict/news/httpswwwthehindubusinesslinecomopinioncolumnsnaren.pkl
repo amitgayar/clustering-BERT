@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+V
+p2
+sS'meta_description'
+p3
+S'Realising that DeMo pulverised MSMEs, an anxious Centre wants to hurriedly make amends. But loan disbursals may not help'
+p4
+sS'datetime'
+p5
+V20-Nov-2018
+p6
+sS'link'
+p7
+Vhttps://www.thehindubusinessline.com/opinion/columns/narendar-pani/at-the-wrong-end-of-the-economic-stick-again/article25550410.ece
+p8
+sS'title'
+p9
+VFactors underlying the Centre-RBI conflict
+p10
+s.

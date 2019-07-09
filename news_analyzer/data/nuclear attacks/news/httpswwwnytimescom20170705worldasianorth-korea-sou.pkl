@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSEOUL, South Korea \u2014 The standoff over North Korea\u2019s nuclear program has long been shaped by the view that the United States has no viable military option to destroy it. Any attempt to do so, many say, would provoke a brutal counterattack against South Korea too bloody and damaging to risk.\u000a\u000aThat remains a major constraint on the Trump administration\u2019s response even as North Korea\u2019s leader, Kim Jong-un, approaches his goal of a nuclear arsenal capable of striking the United States. On Tuesday, the North appeared to cross a new threshold, testing a weapon that it described as an intercontinental ballistic missile and that analysts said could potentially hit Alaska.\u000a\u000aOver the years, as it does for potential crises around the world, the Pentagon has drafted and refined multiple war plans, including an enormous retaliatory invasion and limited pre-emptive attacks, and it holds annual military exercises with South Korean forces based on them.\u000a\u000aOn Wednesday, the Trump administration made a point of threatening a military response. Gen. Vincent K. Brooks, commander of the American forces that conducted a missile exercise with South Korea, said the United States had chosen \u201cself-restraint\u201d with the North. Nikki R. Haley, the American ambassador to the United Nations, said her country\u2019s \u201cconsiderable military forces\u201d were an option. \u201cWe will use them if we must, but we prefer not to have to go in that direction,\u201d she told the Security Council.
+p2
+sS'meta_description'
+p3
+S'Even limited scenarios of an attack on North Korea point to staggering civilian casualties in the South and the prospect of nuclear warfare.'
+p4
+sS'datetime'
+p5
+V06-Jul-2017
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2017/07/05/world/asia/north-korea-south-us-nuclear-war.html
+p8
+sS'title'
+p9
+VIn North Korea, \u2018Surgical Strike\u2019 Could Spin Into \u2018Worst Kind of Fighting\u2019
+p10
+s.

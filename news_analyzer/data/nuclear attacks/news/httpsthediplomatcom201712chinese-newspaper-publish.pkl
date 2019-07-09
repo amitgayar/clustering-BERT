@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VOn December 6, Jilin Daily, the official state-run newspaper of China\u2019s Jilin province, near the border with North Korea, published a page of articles discussing how to protect against injury in the case of a nuclear attack.\u000a\u000aThe full-page nuclear attack survival guide \u2014 which included information on nuclear weapons, protective measures, and the difference between various disasters \u2014 was published one week after North Korea launched a new intercontinental ballistic missile on November 29. The article immediately alarmed the Chinese public as well as foreign media, as the public couldn\u2019t help worrying about the subtext behind the newspaper giving the advice at such a sensitive time.\u000a\u000aAs The Diplomat reported earlier, North Korea\u2019s nuclear test in September caused strong tremors \u2014 both physically and mentally \u2013 in China.The September explosion generated tremors equal to a 6.3 earthquake and was strongly felt in northern China, including Jilin province. Many local Chinese residents shared their experiences on Chinese social media and started to circulate guides on Weibo detailing how to protect oneself in case of a nuclear blast and nuclear radiation.\u000a\u000aLater, on December 6, Jilin Daily declared that its full page of information on the same subject was provided by the People\u2019s Air Defense Office of Jilin Province and the article was published in an attempt to \u201cstrengthen normal national defense education.\u201d The People\u2019s Air Defense Office of Jilin Province also explained that the content dealing with nuclear arms is only \u201ccommon sense,\u201d and \u201cshould not be over-interpreted.\u201d\u000a\u000aCompared to Japan and other developed countries, China\u2019s education on nuclear issues is \u201cfar from enough,\u201d the Office added.\u000a\u000aAt the regular press briefing on December 6, Chinese foreign ministry spokesperson Geng Shuang didn\u2019t directly answer a question about Jilin Daily\u2019s article but instead teased the journalist who asked: \u201cIt never occurred to me that you are a reader and follower of Jilin Daily! \u201d\u000a\u000aGeng then encouraged the journalist to follow other local media so as to \u201chelp flesh out your perception of China.\u201d\u000a\u000aNo matter what the Jilin Daily\u2019s intention really was, Chinese state media\u2019s recent remarks on North Korea have sent some new disturbing signals to the world.\u000a\u000aOn November 30, China Daily published an editorial titled \u201cGrave concerns that DPRK crisis is getting out of hand.\u201d The editorial threatened the world to be prepared for two choices: \u201clearning to live with the DPRK having nuclear weapons or triggering a tripwire to the worst-case scenario.\u201d\u000a\u000aOn December 6, Global Times, one of the most aggressive state-run newspapers in China, also published an editorial defending Jilin Daily. The editorial argued that the article \u201cdoesn\u2019t necessarily mean the province faces the risk of nuclear attack.\u201d Yet the editorial further claimed:\u000a\u000aEven if a war erupts on the peninsula, it is South Korea, Japan, and the U.S. bases in the Asia-Pacific that will likely be priority targets for North Korea. There is a slim chance that the U.S. or North Korea will intentionally launch military attacks at China as they have no grounds. Meanwhile, as a powerful nuclear state, China will resolutely return like for like. \u000a\u000a\u000a\u000aSuch rhetoric actually has deepened the Chinese public\u2019s anxiety over the North Korean crisis.
+p2
+sS'meta_description'
+p3
+S'The official paper of Jilin, near the North Korean border, publishes a full-page article about precautions to take.'
+p4
+sS'datetime'
+p5
+V07-Dec-2017
+p6
+sS'link'
+p7
+Vhttps://thediplomat.com/2017/12/chinese-newspaper-publishes-nuclear-attack-survival-guide/
+p8
+sS'title'
+p9
+VChinese Newspaper Publishes Nuclear Attack Survival Guide
+p10
+s.

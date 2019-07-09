@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VThe ICICI Bank\u2019s then board, which rushed to give a clean chit to its former Chief Executive Officer and Managing Director Chanda Kochhar in March 2018 without any investigation, is liable and can be prosecuted for violation of various sections of the RBI, Sebi Act, whistle-blower policy, and the bank\u2019s own code of conduct, according to corporate lawyers. \u201cOn what basis did the ICICI Bank directors, including independent directors, give a clean chit to Kochhar? This was a clear violation of RBI and Sebi norms.\u000a\u000aWith today\u2019s report, all the then-directors are ...
+p2
+sS'meta_description'
+p3
+S'Read more about ICICI Bank board under fire for giving clean chit to Chanda Kochhar on Business Standard. On March 28 last year, the board, led by M K Sharma, had said there was no favouritism or conflict of interest in granting loans to Videocon Industries or to any other company by the bank'
+p4
+sS'datetime'
+p5
+V30-Jan-2019
+p6
+sS'link'
+p7
+Vhttps://www.business-standard.com/article/economy-policy/icici-bank-board-under-fire-for-giving-clean-chit-to-chanda-kochhar-119013100034_1.html
+p8
+sS'title'
+p9
+VICICI Bank board under fire for giving clean chit to Chanda Kochhar
+p10
+s.

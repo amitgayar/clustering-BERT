@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA new twist in the Rafale fighter jet deal between the governments of India and France created a political storm in India on Friday. According to the 'offset clause' of the contract, Dassault Aviation, which manufactures the Rafale fighter jet, must select an Indian partner from which it must source 50 per cent of the value of the contract, in order to boost local manufacturing.\u000a\u000aAccording to Defence Ministry, the government has no role to play in the 'offset' contract, and the manufacturer - Dassault Aviation - can choose an Indian partner of its choice. However, an interview published by a French publication on Friday completely contradicts this.\u000a\u000aThe interview published in the French publication quoted former French President Francois Hollande as saying that the Indian government was the one which proposed Anil Ambani's Reliance Defence as Dassault Aviation's partner in multi-billion dollar Rafale jet deal, and that France did not have a choice. This has created a political storm, with the opposition Congress, led by Rahul Gandhi squarely putting the blame on Prime Minister Narendra Modi.\u000a\u000aTo clarify its stand, Dassault Aviation, the makers of the Rafale jet, put out a statement shortly after Francois Hollande's interview was published.\u000a\u000aAbout the Rafale contract for India\u000a\u000aDassault Aviation provides the following clarifications regarding the contract signed in 2016 for 36 Rafale aircraft to India...\u000a\u000a(Saint-Cloud, France September 21, 2018) - Dassault Aviation provides the following clarifications regarding the contract signed in 2016 for 36 Rafale aircraft to India:\u000a\u000a1. This contract is a government-to-government agreement. It provides for a separate contract in which Dassault Aviation commits to make compensation investments (offsets) in India worth 50% of the value of the purchase.\u000a\u000a2. This offsets contract is delivered in compliance with the Defence Procurement Procedure (DPP) 2016 regulations. In this framework, and in accordance with the policy of Make in India, Dassault Aviation has decided to make a partnership with India's Reliance Group. This is Dassault Aviation's choice, as CEO Eric Trappier had explained in an interview published in MINT newspaper on April 17, 2018. This partnership has led to the creation of the Dassault Reliance Aerospace Ltd (DRAL) joint-venture in February 2017. Dassault Aviation and Reliance have built a plant in Nagpur for manufacturing parts for Falcon and Rafale aircraft. The Nagpur site was chosen because of the availability of land with direct access to an airport runway, an essential condition of aeronautic activities.\u000a\u000a3. Other partnerships have been signed with other companies such as BTSL, DEFSYS, Kinetic, Mahindra, Maini, SAMTEL,... Other negotiations are ongoing with a hundred-odd other potential partners.\u000a\u000a4. Dassault Aviation is very proud that the Indian authorities have selected the Rafale fighter.
+p2
+sS'meta_description'
+p3
+S"An interview published by a French publication quoted former French President Francois Hollande as saying that the Indian government was the one which proposed Anil Ambani's Reliance Defence as Dassault Aviation's partner in multi-billion dollar Rafale jet deal, and that France did not have a choice. This contradicts what the government has been saying."
+p4
+sS'datetime'
+p5
+V21-Sep-2018
+p6
+sS'link'
+p7
+Vhttps://www.ndtv.com/india-news/rafale-deal-full-statement-by-dassault-aviation-after-francois-hollandes-stunner-1920377
+p8
+sS'title'
+p9
+VRafale Deal: Full Statement By Dassault Aviation After Hollande Stunner
+p10
+s.

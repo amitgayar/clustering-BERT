@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VIt is highly uncertain whether Mr. Trump, who has sought to disentangle the United States from Afghanistan and Syria, ultimately would send so many American forces back to the Middle East.\u000a\u000aIt is also unclear whether the president has been briefed on the number of troops or other details in the plans. On Monday, asked about if he was seeking regime change in Iran, Mr. Trump said: \u201cWe\u2019ll see what happens with Iran. If they do anything, it would be a very bad mistake.\u201d\u000a\u000aThere are sharp divisions in the administration over how to respond to Iran at a time when tensions are rising about Iran\u2019s nuclear policy and its intentions in the Middle East.\u000a\u000aSome senior American officials said the plans, even at a very preliminary stage, show how dangerous the threat from Iran has become. Others, who are urging a diplomatic resolution to the current tensions, said it amounts to a scare tactic to warn Iran against new aggressions.\u000a\u000aEuropean allies who met with Secretary of State Mike Pompeo on Monday said that they worry that tensions between Washington and Tehran could boil over, possibly inadvertently.
+p2
+sS'meta_description'
+p3
+S'The plans call for up to 120,000 American troops but not a land invasion of Iran. They were updated at the request of John R. Bolton, the national security adviser.'
+p4
+sS'datetime'
+p5
+V14-May-2019
+p6
+sS'link'
+p7
+Vhttps://www.nytimes.com/2019/05/13/world/middleeast/us-military-plans-iran.html
+p8
+sS'title'
+p9
+VWhite House Reviews Military Plans Against Iran, in Echoes of Iraq War
+p10
+s.

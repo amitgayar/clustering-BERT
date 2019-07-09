@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNASA, the United States space agency, loudly proclaimed their dominance in the space race after they landed on the moon on June 20, 1969. After landing on the lunar surface, astronaut Neil Armstrong expressed his excitement and said, "That is one small step for man, one giant leap for mankind." At a time when NASA is all set to celebrate the 50th anniversary of this historical feat, conspiracy theorists strongly argue that the moon landing was staged, and is shot from a Hollywood movie set.\u000a\u000aTo substantiate their theory, these conspiracy theorists showcase a photo taken by astronaut William Anders, who was with Armstrong at the time of landing. It should be noted that it was William Anders who initially snapped a photo of earth from the space. The photo, popularly known as 'Earthrise' shows the blue planet rising over the lunar horizon, in the backdrop of space. However, apart from the earth, there were no stars present in the sky, and it has compelled many people to believe that NASA is actually creating digitally created images to deceive the general public.\u000a\u000aEven though adamant conspiracy theorists continue making these claims, experts believe that there are no anomalies in these photos of the earth taken from the space. As per experts, the starry conundrum is pretty easy to explain, and they claim that due to high shutter speeds of the camera, it is quite impossible to capture the faint lights of the stars.\u000a\u000a"Have you ever taken a photo of the night sky with your phone or camera? You likely won't see any stars because chances are your camera's settings are set to short exposure time only lets it quickly take in the light off the bright objects closest to you. It's the same reason you generally don't see stars in spacewalk pictures from the International Space Station. There's no use for longer exposure times to get an image like this one of Bruce McCandless in 1984 as seen Space Shuttle Challenger," says NASA.\u000a\u000aThe United States space agency also added that astronauts did not spend their time to capture photographs of stars as they were busy exploring the moon.\u000a\u000a"The Hasselblad cameras that Apollo astronauts flew with were almost always set to short exposure times. And why didn't the astronauts photograph the stars? Well, they were busy exploring the Moon," added NASA.
+p2
+sS'meta_description'
+p3
+S'Conspiracy theorists strongly believe that NASA has staged the Apollo moon landings in Hollywood movie sets'
+p4
+sS'datetime'
+p5
+V07-Jun-2019
+p6
+sS'link'
+p7
+Vhttps://www.ibtimes.sg/moon-landing-hoax-why-stars-are-missing-nasa-photos-taken-lunar-surface-31180
+p8
+sS'title'
+p9
+VMoon landing hoax: Why stars are missing in NASA photos taken from the lunar surface?
+p10
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VPune: Former Sebi chairman M Damodaran blamed the telephone calls from Delhi to Mumbai for the myriad problems that public sector banks face now and warned against their privatisation to resolve the crisis."Telephone calls from Delhi to Bombay, over the years, have been at the root of the problem of the public sector banks. People in Bombay have been unquestionably responding to the direction from Delhi," Damodaran said told the students of the RBI-run National Institute of Bank Management here today on their convocation.Defending public sector banks, he said privatisation cannot be the solution for all the bad loans issues they face and blamed their peculiar governance and ownership issues for the problems they face."I am not arguing that we should privatise everything because we've very recent evidences that privatisation is not a synonym for honesty or efficiency or to avoid conflict of interest," he said.It can be noted that large private sector banks ICICI Bank and Axis Bank are steeped in controversies due to weak corporate governance practices.While ICICI Bank is embroiled in a controversy over the alleged conflict of interest involving its chief executive Chanda Kochhar and the business dealings of her husband Deepak Kochhar with the Videocon group, Axis Bank saw the tenure of its chief Shikha Sharma being cut to seven months from a three year-term after being nudged by the Reserve Bank in the wake of high bad loans which have grown more than fivefold during her tenure."The answer does not lie in privatisation. The answer lies in the fact that a country as heterogeneous as ours, needs a very strong public sector," Damodaran said.Blaming the ownership and management of state-run banks, he said "when you think ownership equals management, when you start looking over the shoulders of bank management to see the correctness of every transaction, when ownership translates to transactional supervision that you are not tasked with, then there is a problem of ownership."Stating that the country cannot live without public sector that is performing the former bureaucrat said, "don't think merit lies in privatisation. You need to fix the public sector by diagnosing the problems. There are excellent public sector units which are not sitting on problems."
+p2
+sS'meta_description'
+p3
+S'Damodaran also warned against privatisation saying recent controversies related to ICICI Bank and Axis Bank have cast a shadow on the way these banks conduct their business.'
+p4
+sS'datetime'
+p5
+V18-Apr-2018
+p6
+sS'link'
+p7
+Vhttps://economictimes.indiatimes.com/news/politics-and-nation/former-sebi-chief-m-damodaran-squarely-blames-delhi-politicians-for-psb-mess/articleshow/63817796.cms
+p8
+sS'title'
+p9
+VFormer Sebi chief M Damodaran squarely blames Delhi politicians for PSB mess
+p10
+s.

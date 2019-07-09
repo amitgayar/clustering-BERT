@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VSupreme Court has given a clean chit to the decision-making followed by the government for the Rafale jet deal between India and France
+p2
+sS'meta_description'
+p3
+S'Supreme Court has given a clean chit to the decision-making followed by the government for the Rafale jet deal between India and France'
+p4
+sS'datetime'
+p5
+V13-Dec-2018
+p6
+sS'link'
+p7
+Vhttps://www.livemint.com/Politics/cP74euOholpYUppFgmUmkI/Rafale-deal-Supreme-Court-says-no-need-for-courtmonitored.html
+p8
+sS'title'
+p9
+VCongress on back foot after SC clean chit on Rafale deal
+p10
+s.

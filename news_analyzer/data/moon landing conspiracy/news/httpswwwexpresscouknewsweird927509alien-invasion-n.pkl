@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VConspiracy theorists have claimed the authorities in the US are working in conjunction with space agency NASA and media organisations to create panic, before staging an alien invasion to get a tighter grip on the public.\u000a\u000aUFO hunters state that the theory began with a New York Times article last year which revealed the existence of a $22 million Pentagon program that investigates UFOs.\u000a\u000aAround the same time, scientists announced a cigar-shaped asteroid had entered our solar system \u2013 the first time an interstellar object had been detected in our galactic neighbourhood.\u000a\u000aRetired physician Steven Greer: \u201cStrictly speaking, the militarists and war-mongers, itching to \u2018kick some alien butt\u2019 as it was said in the movie Independence Day, may actually only want a pretext to justify their existence and get the world to eventually spend huge sums of money on a perceived if contrived threat from space.\u201d
+p2
+sS'meta_description'
+p3
+S'THE United States is planning on staging a fake alien invasion to increase its stronghold on the world, according to a new conspiracy theory.'
+p4
+sS'datetime'
+p5
+V05-Mar-2018
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/weird/927509/alien-invasion-nasa-ufo-911-cigar-shaped-asteroid-extraterrestrial
+p8
+sS'title'
+p9
+VSHOCK CLAIM: US to 'stage ALIEN INVASION to gain world power'
+p10
+s.

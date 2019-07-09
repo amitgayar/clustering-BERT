@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VA video uploaded to YouTube claims colour video footage of the astronauts, including Neil Armstrong, filmed inside the Apollo 11 spacecraft in July 1969 is proof that "trickery" was involved in the mission.\u000a\u000aClaims the lunar landings never happened, and all the video footage and images were staged, is one of the world's biggest ever conspiracy theories.\u000a\u000aIt is completely denied by NASA, which insists that they all happened and all footage is genuine.\u000a\u000aBut, the narrator of the film says the footage of the first ever moon landing mission shows that the astronauts were being told how to fake the footage by a mystery person heard speaking to them from mission control.\u000a\u000aThe film alleges that the crew never left low Earth orbit, but were able to fake images of a distant-looking globe by zooming in on a window of the spacecraft.\u000a\u000aThe film suggests that if they were still in low Earth orbit, you would not be able to see the whole of our world through the window.\u000a\u000aSo, it claims the crew darkened out the inside of the spacecraft and filmed the circular window through which part of the Earth would have been visible.\u000a\u000a\u000a\u000a
+p2
+sS'meta_description'
+p3
+S'NASA astronauts faked distant shots of the Earth from 130,000 miles away by filming a window of their spacecraft while in low orbit of our world, it has shockingly been claimed.'
+p4
+sS'datetime'
+p5
+V10-Apr-2017
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/weird/790227/NASA-Apollo-11-moon-landing-hoax-fake
+p8
+sS'title'
+p9
+V'MOON LANDING HOAX' Film claims to show how NASA 'faked Apollo 11 mission'
+p10
+s.

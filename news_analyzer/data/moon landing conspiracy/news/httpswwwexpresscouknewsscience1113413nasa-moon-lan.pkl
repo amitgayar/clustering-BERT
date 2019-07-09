@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VNASA\u2019s Apollo 11 was the first manned mission to land on the moon on July 20, 1969, with Neil Armstrong, Buzz Aldrin and Michael Collins all on board the module. There have been six more US moon landings since, between 1969 and 1972, but Apollo 17 was the last in the past 45 years. The space agency receives an annual budget of around £15billion, with a trip to the moon estimated to cost around £100billion, making it very hard to justify again.\u000a\u000aHowever, that has not stopped conspiracy theorists questioning the legitimacy of the original lunar missions. One of NASA\u2019s most iconic photos came from Apollo 11 when Buzz Aldrin stood next to the US flag. However, images from NASA\u2019s Lunar Reconnaissance Orbiter in 2012 revealed all six flags planted had not fared too well. The snaps showed at least five of them were still standing, but their colours had completely faded.\u000a\u000aNow, though, they have deteriorated even more thanks to the Moon\u2019s lack of atmosphere to absorb sunlight.  Paul Spudis, who sadly passed away in August 2018, enjoyed a lifetime of work at the space agency.  He said in 2011: \u201cOver the course of the Apollo programme, our astronauts deployed six American flags on the moon.  \u201cFor 40-odd years, the flags have been exposed to the full fury of the moon's environment - alternating 14 days of searing sunlight and 100C heat with 14 days of numbing-cold -150C complete darkness.  \u201cBut even more damaging is the intense ultraviolet (UV) radiation from the pure unfiltered sunlight on the cloth from which the Apollo flags were made.\u000a\u000a\u201cEven on Earth, the colours of a cloth flag flown in bright sunlight for many years will eventually fade and need to be replaced.  \u201cSo it is likely that these symbols of American achievement have been rendered blank, bleached white by the UV radiation of unfiltered sunlight on the lunar surface.  \u201cSome of them may even have begun to physically disintegrate under the intense flux.\u201d However, that could soon change, as NASA has expressed its desire to return to the moon as early as 2024.  The space agency plans to set up a permanent residency too.\u000a\u000aNASA administrator Jim Bridenstine said on April 9, 2019: \u201cWe\u2019ve been given an ambitious and exciting goal. \u201cHistory has proven when we\u2019re given a task by the President, along with the resources and the tools, we can deliver. \u201cWe are committed to making this happen. We have the people to achieve it. \u201cNow we just need bipartisan support and the resources to get this done.\u201d\u000a\u000aNASA\u2019s return to the moon hinges on the ambitious development of the Space Launch System (SLS). Once completed, the SLS will be the most powerful rocket in the world, capable of kickstarting manned exploration of the solar system. Mr Bridenstine added: \u201cFirst we are focused on speed to land the next man and first woman on the moon by 2024. \u201cSecond, we will establish sustainable missions by 2028.
+p2
+sS'meta_description'
+p3
+S'NASA admitted the US flags planted on the lunar surface during the moon landings have probably disintegrated now.'
+p4
+sS'datetime'
+p5
+V12-Apr-2019
+p6
+sS'link'
+p7
+Vhttps://www.express.co.uk/news/science/1113413/nasa-moon-landing-shock-apollo-11-flag-neil-armstrong-buzz-aldrin-spt
+p8
+sS'title'
+p9
+VNASA moon landing SHOCK: Why space agency admitted flags have \u2018probably disintegrated\u2019
+p10
+s.

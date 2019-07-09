@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VPYONGYANG -- North Korea says it is \u201con the brink of war\u201d with the U.S.\u000a\u000aIn an interview with CBS News\u2019 Ben Tracy, one of the nation\u2019s senior officials has accused the Trump administration of wanting to \u201cannihilate\u201d his country and blamed the escalating tension on the Korean Peninsula squarely on the U.S. and South Korea.\u000a\u000aA U.S. Navy strike group, with the USS Carl Vinson aircraft carrier in the middle, is heading toward the peninsula as the region braces for the isolated regime to conduct its expected sixth nuclear test.\u000a\u000aSatellite analysis suggests the regime of Kim Jong Un is \u201cprimed and ready\u201d to conduct such a test underground, and there is strong suspicion they\u2019ll do it this weekend to coincide with a major national holiday.\u000a\u000aWith that backdrop, North Korea\u2019s Vice Minister of Foreign Affairs, Han Song Ryol sat down with Tracy in Pyongyang for a 40 minute interview, and he didn\u2019t mince any words.\u000a\u000aHan said the situation between the U.S. and North Korea is the worst it has ever been, and if provoked, his country is ready and willing to fight a war. He said North Korea\u2019s nuclear program is non-negotiable.\u000a\u000a\u201cIn one word, Trump is openly pursuing a policy to annihilate North Korea by force of arms,\u201d alleged Han.\u000a\u000aHe said President Trump\u2019s decision to send the navy strike group to the region, as well as a large-scale, ongoing joint U.S.-South Korean military exercise in the area, were deliberate provocations.\u000a\u000a\u201cIf the U.S. comes up with a dangerous military option, then the first card is in our hands. We\u2019ll deal with it with our pre-emptive strike. This means war,\u201d Han said.\u000a\u000aTracy sought to clarify Han\u2019s remark; \u201cSo you are saying if you feel North Korea is going to be attacked, you will use nuclear weapons?\u201d\u000a\u000aSo far this year, North Korea has conducted four missile launches, including tests of more advanced technology and potentially longer-range capability.\u000a\u000aThe expected sixth nuclear test, which experts say could come at any time, is part of the Kim regime\u2019s quest to build a nuclear-tipped missile capable of reaching the U.S. mainland. Most analysts believe North Korea is still at least several years away from that capacity, but Pyongyang already has weapons that pose a serious threat to U.S. allies South Korea and Japan, and U.S. troops based in those countries.\u000a\u000aOn Thursday, CBS News was there as Kim cut the ribbon to open a large new residential neighborhood in Pyongyang -- a gesture clearly designed to show North Korea can survive further U.S. economic sanctions, and continue its nuclear program.\u000a\u000aHan told CBS News it was \u201cimpossible\u201d for anything to deter North Korea from conducting its sixth nuclear test.\u000a\u000a\u201cThe nuclear test will take place at a time, at a place that the supreme leadership deems necessary,\u201d he insisted.\u000a\u000aHan told Tracy that North Korea does not want a war, and insisted his government was only responding to U.S. threats.\u000a\u000aAsked whether he retains any hope that a peaceful solution can be reached in the escalating crisis, Han suddenly switched to English, and told Tracy, \u201cyou hope for the best and prepare for the worst.\u201d\u000a\u000aLater on Friday the government of China -- North Korea\u2019s most important trading partner and ally -- warned that, \u201conce a war really happens, the result will be nothing but multiple loss. No one can become a winner.\u201d\u000a\u000aForeign Minister Wang Yi told reporters in Beijing that China was calling on \u201call the parties, no matter verbally or in action, to stop provoking and threatening each other and not to allow the situation to become irretrievable and out of control.\u201d\u000a\u000aHe said China would continue to give its support to any political dialogue to resolve the North Korean standoff, be it \u201cofficial or unofficial... bilateral or multilateral.\u201d
+p2
+sS'meta_description'
+p3
+S'Senior official tells CBS News U.S. relations worse than ever, and if Pyongyang feels threatened, it will try to play &quot;first card&quot;'
+p4
+sS'datetime'
+p5
+V14-Apr-2017
+p6
+sS'link'
+p7
+Vhttps://www.cbsnews.com/news/north-korea-trumps-aggressive-tweets-making-trouble/
+p8
+sS'title'
+p9
+VNorth Korea threatens pre-emptive nuclear attack
+p10
+s.

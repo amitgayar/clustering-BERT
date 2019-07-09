@@ -1,0 +1,22 @@
+(dp0
+S'content'
+p1
+VMarkets regulator Sebi has granted relaxation to non-residents such as NRI, PIOs, and foreign nationals from furnishing a copy of PAN card and allowed them to transfer equity shares held by them to their immediate relatives. However, the relaxations are subject to certain conditions, Sebi said in a circular. Under Sebi's LODR (Listing Obligation and Disclosure Requirements) provisions, transferee as well as transferor is required to furnish a copy of their PAN (Permanent Account Number) card to the listed entity for registration of transfer of the securities.\u000a\u000aMany of the non-residents like Overseas Citizens of India (OCIs), Non Resident Indians (NRIs), Persons of Indian Origin (PIOs) and foreign nationals were facing difficulties in transferring the shares, as many of them do not possess the required PAN card. To address such difficulties, it has been decided to grant relaxation to the non-residents from furnishing PAN card details and allowing them to transfer equity shares held by them in the listed entities to their immediate relatives, Sebi said.\u000a\u000aHowever, the relaxation will only be available for transfers executed after January 1st, 2016 and, only for non-commercial transactions i.e transfer by way of gift among immediate relatives. Besides, the non-resident will be required to provide copy of an alternate valid document to ascertain identity as well as the non-resident status, the circular said. Immediate relative means a spouse of a person, and includes parent, brother, sister or child of such person.\u000a\u000aAlso read: Govt plans to sell 3% stake in Axis Bank to raise up to Rs 5,316 crore
+p2
+sS'meta_description'
+p3
+S'Sebi has also granted relaxation to non-residents from furnishing a copy of PAN card.'
+p4
+sS'datetime'
+p5
+V11-Feb-2019
+p6
+sS'link'
+p7
+Vhttps://www.businesstoday.in/current/policy/new-sebi-norms-now-nris-pios-foreign-nationals-can-transfer-equity-shares-to-immediate-relatives/story/318495.html
+p8
+sS'title'
+p9
+VNew Sebi norms: NRIs, PIOs, foreign nationals can now transfer equity shares to immediate relatives
+p10
+s.
